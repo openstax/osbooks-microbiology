@@ -1,0 +1,267 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Prokaryote Habitats, Relationships, and Microbiomes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58795</md:content-id>
+  <md:title>Prokaryote Habitats, Relationships, and Microbiomes</md:title>
+  <md:abstract/>
+  <md:uuid>685c0a52-0859-4c18-b4aa-fac9dfa7e61f</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1172098649910" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1172101009618">
+<item>Identify and describe unique examples of prokaryotes in various habitats on earth</item>
+<item>Identify and describe symbiotic relationships</item>
+<item>Compare normal/commensal/resident microbiota to transient microbiota</item>
+<item>Explain how prokaryotes are classified</item>
+</list>
+</section>
+<note id="fs-id1172098401810" class="microbiology clinical-focus">
+<title>Part 1</title>
+<para id="fs-id1172100916254">Marsha, a 20-year-old university student, recently returned to the United States from a trip to Nigeria, where she had interned as a medical assistant for an organization working to improve access to laboratory services for tuberculosis testing. When she returned, Marsha began to feel fatigue, which she initially attributed to jet lag. However, the fatigue persisted, and Marsha soon began to experience other bothersome symptoms, such as occasional coughing, night sweats, loss of appetite, and a low-grade fever of 37.4 °C (99.3 °F).</para>
+<para id="fs-id1172100645665">Marsha expected her symptoms would subside in a few days, but instead, they gradually became more severe. About two weeks after returning home, she coughed up some sputum and noticed that it contained blood and small whitish clumps resembling cottage cheese. Her fever spiked to 38.2 °C (100.8 °F), and she began feeling sharp pains in her chest when breathing deeply. Concerned that she seemed to be getting worse, Marsha scheduled an appointment with her physician.</para>
+<list id="fs-id1172098374229" list-type="bulleted" bullet-style="bullet">
+<item>Could Marsha’s symptoms be related to her overseas travel, even several weeks after returning home?</item>
+</list>
+<para id="fs-id1172098454842"><emphasis effect="italics">Jump to the <link document="m58796" target-id="fs-id1172100550618">next</link> Clinical Focus box.</emphasis></para>
+</note>
+<para id="fs-id1172100968658">All living organisms are classified into three domains of life: <term class="no-emphasis">Archaea</term>, <term class="no-emphasis">Bacteria</term>, and <term class="no-emphasis">Eukarya</term>. In this chapter, we will focus on the domains Archaea and Bacteria. Archaea and bacteria are unicellular prokaryotic organisms. Unlike eukaryotes, they have no nuclei or any other membrane-bound organelles.</para>
+<section id="fs-id1172100561931">
+<title>Prokaryote Habitats and Functions</title>
+<para id="fs-id1172098544167">Prokaryotes are ubiquitous. They can be found everywhere on our planet, even in hot springs, in the Antarctic ice shield, and under extreme pressure two miles under water. One bacterium, <emphasis effect="italics">Paracoccus denitrificans</emphasis>, has even been shown to survive when scientists removed it from its native environment (soil) and used a centrifuge to subject it to forces of gravity as strong as those found on the surface of Jupiter.</para>
+<para id="fs-id1172098456483">Prokaryotes also are abundant on and within the human body. According to a report by National Institutes of Health, <term class="no-emphasis">prokaryotes</term>, especially bacteria, outnumber human cells 10:1.<footnote id="fs-id1172100676338">Medical Press. “Mouth Bacteria Can Change Their Diet, Supercomputers Reveal.” August 12, 2014. http://medicalxpress.com/news/2014-08-mouth-bacteria-diet-supercomputers-reveal.html. Accessed February 24, 2015.</footnote> More recent studies suggest the ratio could be closer to 1:1, but even that ratio means that there are a great number of bacteria within the human body.<footnote id="fs-id1172100600037">A. Abbott. “Scientists Bust Myth That Our Bodies Have More Bacteria Than Human Cells: Decades-Old Assumption about Microbiota Revisited.” <emphasis effect="italics">Nature.</emphasis> http://www.nature.com/news/scientists-bust-myth-that-our-bodies-have-more-bacteria-than-human-cells-1.19136. Accessed June 3, 2016.</footnote> Bacteria thrive in the human mouth, nasal cavity, throat, ears, gastrointestinal tract, and vagina. Large colonies of bacteria can be found on healthy human skin, especially in moist areas (armpits, navel, and areas behind ears). However, even drier areas of the skin are not free from bacteria.</para>
+<para id="fs-id1172100564835">The existence of prokaryotes is very important for the stability and thriving of ecosystems. For example, they are a necessary part of soil formation and stabilization processes through the breakdown of organic matter and development of biofilms. One gram of soil contains up to 10 billion microorganisms (most of them prokaryotic) belonging to about 1,000 species. Many species of bacteria use substances released from plant roots, such as acids and carbohydrates, as nutrients. The bacteria metabolize these plant substances and release the products of bacterial metabolism back to the soil, forming humus and thus increasing the soil’s fertility. In salty lakes such as the Dead Sea (<link target-id="OSC_Microbio_04_01_DeadSea"/>), salt-loving halobacteria decompose dead brine shrimp and nourish young brine shrimp and flies with the products of bacterial metabolism.</para>
+<figure id="OSC_Microbio_04_01_DeadSea">
+<media id="fs-id1172100716023" alt="a) A photo of blue water and red sand. B) A micrograph of a cluster of rod shaped cells.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_01_DeadSea.jpg"/>
+</media>
+<caption>(a) Some prokaryotes, called halophiles, can thrive in extremely salty environments such as the Dead Sea, pictured here. (b) The archaeon <emphasis effect="italics">Halobacterium salinarum</emphasis>, shown here in an electron micrograph, is a halophile that lives in the Dead Sea. (credit a: modification of work by Jullen Menichini; credit b: modification of work by NASA)</caption>
+</figure>
+<para id="fs-id1172098564926">In addition to living in the ground and the water, prokaryotic microorganisms are abundant in the air, even high in the atmosphere. There may be up to 2,000 different kinds of bacteria in the air, similar to their diversity in the soil.</para>
+<para id="fs-id1172098376595">Prokaryotes can be found everywhere on earth because they are extremely resilient and adaptable. They are often metabolically flexible, which means that they might easily switch from one energy source to another, depending on the availability of the sources, or from one metabolic pathway to another. For example, certain prokaryotic cyanobacteria can switch from a conventional type of lipid metabolism, which includes production of fatty aldehydes, to a different type of lipid metabolism that generates biofuel, such as fatty acids and wax esters. Groundwater bacteria store complex high-energy carbohydrates when grown in pure groundwater, but they metabolize these molecules when the groundwater is enriched with phosphates. Some bacteria get their energy by reducing sulfates into sulfides, but can switch to a different metabolic pathway when necessary, producing acids and free hydrogen ions.</para>
+<para id="fs-id1172100526357">Prokaryotes perform functions vital to life on earth by capturing (or “fixing”) and recycling elements like carbon and nitrogen. Organisms such as animals require organic carbon to grow, but, unlike prokaryotes, they are unable to use inorganic carbon sources like carbon dioxide. Thus, animals rely on prokaryotes to convert carbon dioxide into organic carbon products that they can use. This process of converting carbon dioxide to organic carbon products is called <term class="no-emphasis">carbon fixation</term>.</para>
+<para id="fs-id1172100989404">Plants and animals also rely heavily on prokaryotes for <term class="no-emphasis">nitrogen fixation</term>, the conversion of atmospheric nitrogen into ammonia, a compound that some plants can use to form many different biomolecules necessary to their survival. Bacteria in the genus <term class="no-emphasis"><emphasis effect="italics">Rhizobium</emphasis></term>, for example, are nitrogen-fixing bacteria; they live in the roots of legume plants such as clover, alfalfa, and peas (<link target-id="OSC_Microbio_04_01_LegumeRoot"/>). Ammonia produced by <emphasis effect="italics">Rhizobium</emphasis> helps these plants to survive by enabling them to make building blocks of nucleic acids. In turn, these plants may be eaten by animals—sustaining their growth and survival—or they may die, in which case the products of nitrogen fixation will enrich the soil and be used by other plants.</para>
+<figure id="OSC_Microbio_04_01_LegumeRoot">
+<media id="fs-id1172100840224" alt="A) photo of roots with small nodules labeled root nodules. A micrograph of a root nodule. A thick cell wall is on the outside. Lines inside are labeled endoplasmic reticulum. Large ovals in clear structures are labeled bacteroids.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_01_LegumeRoot.jpg"/>
+</media>
+<caption>(a) Nitrogen-fixing bacteria such as <emphasis effect="italics">Rhizobium</emphasis> live in the root nodules of legumes such as clover. (b) This micrograph of the root nodule shows bacteroids (bacterium-like cells or modified bacterial cells) within the plant cells. The bacteroids are visible as darker ovals within the larger plant cell. (credit a: modification of work by USDA)</caption>
+</figure>
+<para id="fs-id1172100778297">Another positive function of prokaryotes is in cleaning up the environment. Recently, some researchers focused on the diversity and functions of prokaryotes in manmade environments. They found that some bacteria play a unique role in degrading toxic chemicals that pollute water and soil.<footnote id="fs-id1172098456702">A.M. Kravetz “Unique Bacteria Fights Man-Made Chemical Waste.” 2012. http://www.livescience.com/25181-bacteria-strain-cleans-up-toxins-nsf-bts.html. Accessed March 9, 2015.</footnote></para>
+<para id="fs-id1172101030373">Despite all of the positive and helpful roles prokaryotes play, some are human pathogens that may cause illness or infection when they enter the body. In addition, some bacteria can contaminate food, causing spoilage or foodborne illness, which makes them subjects of concern in food preparation and safety. Less than 1% of prokaryotes (all of them bacteria) are thought to be human pathogens, but collectively these species are responsible for a large number of the diseases that afflict humans.</para>
+<para id="fs-id1172100966027">Besides pathogens, which have a direct impact on human health, <term class="no-emphasis">prokaryotes</term> also affect humans in many indirect ways. For example, prokaryotes are now thought to be key players in the processes of <term class="no-emphasis">climate change</term>. In recent years, as temperatures in the earth’s polar regions have risen, soil that was formerly frozen year-round (permafrost) has begun to thaw. Carbon trapped in the permafrost is gradually released and metabolized by prokaryotes. This produces massive amounts of carbon dioxide and methane, greenhouse gases that escape into the atmosphere and contribute to the greenhouse effect.</para>
+<note id="fs-id1172098581162" class="microbiology check-your-understanding">
+<list id="fs-id1167661316641" list-type="bulleted" bullet-style="bullet">
+<item>In what types of environments can prokaryotes be found?</item>
+<item>Name some ways that plants and animals rely on prokaryotes.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172100770387">
+<title>Symbiotic Relationships</title>
+<para id="fs-id1172100901547">As we have learned, prokaryotic microorganisms can associate with plants and animals. Often, this association results in unique relationships between organisms. For example, bacteria living on the roots or leaves of a plant get nutrients from the plant and, in return, produce substances that protect the plant from pathogens. On the other hand, some bacteria are plant pathogens that use mechanisms of infection similar to bacterial pathogens of animals and humans.</para>
+<para id="fs-id1172100940695">Prokaryotes live in a <term>community</term>, or a group of interacting populations of organisms. A <term class="no-emphasis">population</term> is a group of individual organisms belonging to the same biological species and limited to a certain geographic area. Populations can have <term>cooperative interactions</term>, which benefit the populations, or <term>competitive interactions</term>, in which one population competes with another for resources. The study of these interactions between microbial populations and their environment is called <term>microbial ecology</term>.</para><para id="fs-id1172098381172">Any interaction between different species that are associated with each other within a community is called <term>symbiosis</term>. Such interactions fall along a continuum between opposition and cooperation. Interactions in a symbiotic relationship may be beneficial or harmful, or have no effect on one or both of the species involved. <link target-id="fs-id1172100976818"/> summarizes the main types of symbiotic interactions among prokaryotes.</para><table id="fs-id1172100976818" summary="Table titled: types of symbiotic relationships. Three columns: Type, population A and population B. In mutualism both population A and B benefit. In Amensalism population A is harmed and population B is unaffected. In Commensalism population A benefits and population B is unaffected. In neutralism both population A and B are unaffected. In parasitism, population A is benefitted and population B is harmed." class="span-all">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c3">Types of Symbiotic Relationships</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Type</entry>
+<entry valign="top" align="center">Population A</entry>
+<entry valign="top" align="center">Population B</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Mutualism</entry>
+<entry valign="top" align="left">Benefitted</entry>
+<entry valign="top" align="left">Benefitted</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Amensalism</entry>
+<entry valign="top" align="left">Harmed</entry>
+<entry valign="top" align="left">Unaffected</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Commensalism</entry>
+<entry valign="top" align="left">Benefitted</entry>
+<entry valign="top" align="left">Unaffected</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Neutralism</entry>
+<entry valign="top" align="left">Unaffected</entry>
+<entry valign="top" align="left">Unaffected</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Parasitism</entry>
+<entry valign="top" align="left">Benefitted</entry>
+<entry valign="top" align="left">Harmed</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1172100668970">When two species benefit from each other, the symbiosis is called <term>mutualism</term> (or syntropy, or crossfeeding). For example, humans have a mutualistic relationship with the bacterium <emphasis effect="italics">Bacteroides thetaiotaomicron</emphasis>, which lives in the intestinal tract. <emphasis effect="italics">Bacteroides thetaiotaomicron</emphasis> digests complex polysaccharide plant materials that human digestive enzymes cannot break down, converting them into monosaccharides that can be absorbed by human cells. Humans also have a mutualistic relationship with certain strains of <term class="no-emphasis"><emphasis effect="italics">Escherichia coli</emphasis></term>, another bacterium found in the gut. <emphasis effect="italics">E. coli</emphasis> relies on intestinal contents for nutrients, and humans derive certain vitamins from <emphasis effect="italics">E. coli,</emphasis> particularly vitamin K, which is required for the formation of blood clotting factors. (This is only true for some strains of <emphasis effect="italics">E. coli</emphasis>, however. Other strains are pathogenic and do not have a mutualistic relationship with humans.)</para><para id="fs-id1172100766470">A type of symbiosis in which one population harms another but remains unaffected itself is called <term>amensalism</term>. In the case of bacteria, some amensalist species produce bactericidal substances that kill other species of bacteria. The microbiota of the skin is composed of a variety of bacterial species, including <emphasis effect="italics">Staphylococcus epidermidis</emphasis> and <emphasis effect="italics">Propionibacterium acnes</emphasis>. Although both species have the potential to cause infectious diseases when protective barriers are breached, they both produce a variety of antibacterial bacteriocins and bacteriocin-like compounds. <emphasis effect="italics">S. epidermidis</emphasis> and <emphasis effect="italics">P. acnes</emphasis> are unaffected by the bacteriocins and bacteriocin-like compounds they produce, but these compounds can target and kill other potential pathogens.</para><para id="fs-id1172100908915">In another type of symbiosis, called <term>commensalism</term>, one organism benefits while the other is unaffected. This occurs when the bacterium <term class="no-emphasis"><emphasis effect="italics">Staphylococcus epidermidis</emphasis></term> uses the dead cells of the human skin as nutrients. Billions of these bacteria live on our skin, but in most cases (especially when our immune system is healthy), we do not react to them in any way. <emphasis effect="italics">S. epidermidis</emphasis> provides an excellent example of how the classifications of symbiotic relationships are not always distinct. One could also consider the symbiotic relationship of <emphasis effect="italics">S. epidermidis</emphasis> with humans as mutualism. Humans provide a food source of dead skin cells to the bacterium, and in turn the production of bacteriocin can provide an defense against potential pathogens.</para><para id="fs-id1172098318894">If neither of the symbiotic organisms is affected in any way, we call this type of symbiosis <term>neutralism</term>. An example of neutralism is the coexistence of metabolically active (vegetating) bacteria and <term class="no-emphasis">endospores</term> (dormant, metabolically passive bacteria). For example, the bacterium <term class="no-emphasis"><emphasis effect="italics">Bacillus anthracis</emphasis></term> typically forms endospores in soil when conditions are unfavorable. If the soil is warmed and enriched with nutrients, some <emphasis effect="italics">B. anthracis</emphasis> endospores germinate and remain in symbiosis with other species of endospores that have not germinated.</para><para id="fs-id1172100593169">A type of <term class="no-emphasis">symbiosis</term> in which one organism benefits while harming the other is called <term>parasitism</term>. The relationship between humans and many pathogenic prokaryotes can be characterized as parasitic because these organisms invade the body, producing toxic substances or infectious diseases that cause harm. Diseases such as tetanus, diphtheria, pertussis, tuberculosis, and leprosy all arise from interactions between bacteria and humans.</para>
+<para id="fs-id1172100496716">Scientists have coined the term <term>microbiome</term> to refer to all prokaryotic and eukaryotic microorganisms and their genetic material that are associated with a certain organism or environment. Within the <term class="no-emphasis">human microbiome</term>, there are <term>resident microbiota</term> and <term>transient microbiota</term>. The resident microbiota consists of microorganisms that constantly live in or on our bodies. The term transient microbiota refers to microorganisms that are only temporarily found in the human body, and these may include pathogenic microorganisms. Hygiene and diet can alter both the resident and transient microbiota.</para><para id="fs-id1172100517237">The resident microbiota is amazingly diverse, not only in terms of the variety of species but also in terms of the preference of different microorganisms for different areas of the human body. For example, in the human mouth, there are thousands of commensal or mutualistic species of bacteria. Some of these bacteria prefer to inhabit the surface of the tongue, whereas others prefer the internal surface of the cheeks, and yet others prefer the front or back teeth or gums. The inner surface of the cheek has the least diverse microbiota because of its exposure to oxygen. By contrast, the crypts of the tongue and the spaces between teeth are two sites with limited oxygen exposure, so these sites have more diverse microbiota, including bacteria living in the absence of oxygen (e.g., <term class="no-emphasis"><emphasis effect="italics">Bacteroides</emphasis></term>, <term class="no-emphasis"><emphasis effect="italics">Fusobacterium</emphasis></term>). Differences in the oral microbiota between randomly chosen human individuals are also significant. Studies have shown, for example, that the prevalence of such bacteria as <term class="no-emphasis"><emphasis effect="italics">Streptococcus</emphasis></term>, <term class="no-emphasis"><emphasis effect="italics">Haemophilus</emphasis></term>, <term class="no-emphasis"><emphasis effect="italics">Neisseria</emphasis></term>, and others was dramatically different when compared between individuals.<footnote id="fs-id1172098407142">E.M. Bik et al. “Bacterial Diversity in the Oral Cavity of 10 Healthy Individuals.” <emphasis effect="italics">The ISME Journal</emphasis> 4 no. 8 (2010):962–974.</footnote></para>
+<para id="fs-id1172101004662">There are also significant differences between the microbiota of different sites of the same human body. The inner surface of the cheek has a predominance of <emphasis effect="italics">Streptococcus</emphasis>, whereas in the throat, the palatine tonsil, and saliva, there are two to three times fewer <emphasis effect="italics">Streptococcus</emphasis>, and several times more <emphasis effect="italics">Fusobacterium</emphasis>. In the plaque removed from gums, the predominant bacteria belong to the genus <emphasis effect="italics">Fusobacterium.</emphasis> However, in the intestine, both <emphasis effect="italics">Streptococcus</emphasis> and <emphasis effect="italics">Fusobacterium</emphasis> disappear, and the genus <emphasis effect="italics">Bacteroides</emphasis> becomes predominant.</para>
+<para id="fs-id1172100660869">Not only can the microbiota vary from one body site to another, the microbiome can also change over time within the same individual. Humans acquire their first inoculations of normal flora during natural birth and shortly after birth. Before birth, there is a rapid increase in the population of <term class="no-emphasis"><emphasis effect="italics">Lactobacillus</emphasis></term> spp. in the vagina, and this population serves as the first colonization of microbiota during natural birth. After birth, additional microbes are acquired from health-care providers, parents, other relatives, and individuals who come in contact with the baby. This process establishes a microbiome that will continue to evolve over the course of the individual’s life as new microbes colonize and are eliminated from the body. For example, it is estimated that within a 9-hour period, the microbiota of the small intestine can change so that half of the microbial inhabitants will be different.<footnote id="fs-id1172098389660">C.C. Booijink et al. “High Temporal and Intra-Individual Variation Detected in the Human Ileal Microbiota.” <emphasis effect="italics">Environmental Microbiology</emphasis> 12 no. 12 (2010):3213–3227.</footnote> The importance of the initial <emphasis effect="italics">Lactobacillus</emphasis> colonization during vaginal child birth is highlighted by studies demonstrating a higher incidence of diseases in individuals born by <term class="no-emphasis">cesarean section</term>, compared to those born vaginally. Studies have shown that babies born vaginally are predominantly colonized by vaginal lactobacillus, whereas babies born by cesarean section are more frequently colonized by microbes of the normal skin microbiota, including common hospital-acquired pathogens.</para>
+<para id="fs-id1172100924030">Throughout the body, resident microbiotas are important for human health because they occupy niches that might be otherwise taken by pathogenic microorganisms. For instance, <emphasis effect="italics">Lactobacillus</emphasis> spp. are the dominant bacterial species of the normal vaginal microbiota for most women. lactobacillus produce lactic acid, contributing to the acidity of the vagina and inhibiting the growth of pathogenic yeasts. However, when the population of the resident microbiota is decreased for some reason (e.g., because of taking antibiotics), the pH of the vagina increases, making it a more favorable environment for the growth of yeasts such as <term class="no-emphasis"><emphasis effect="italics">Candida albicans</emphasis></term>. Antibiotic therapy can also disrupt the microbiota of the intestinal tract and respiratory tract, increasing the risk for secondary infections and/or promoting the long-term carriage and shedding of pathogens.</para>
+<note id="fs-id1172098441247" class="microbiology check-your-understanding">
+<list id="fs-id1167661395255" list-type="bulleted" bullet-style="bullet">
+<item>Explain the difference between cooperative and competitive interactions in microbial communities.</item>
+<item>List the types of symbiosis and explain how each population is affected.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172098265661">
+<title>Taxonomy and Systematics</title>
+<para id="fs-id1172100673869">Assigning prokaryotes to a certain species is challenging. They do not reproduce sexually, so it is not possible to classify them according to the presence or absence of interbreeding. Also, they do not have many morphological features. Traditionally, the classification of prokaryotes was based on their shape, staining patterns, and biochemical or physiological differences. More recently, as technology has improved, the nucleotide sequences in genes have become an important criterion of microbial classification.</para>
+<para id="fs-id1172100761182">In 1923, American microbiologist David Hendricks Bergey (1860–1937) published <emphasis effect="italics">A Manual in Determinative Bacteriology.</emphasis> With this manual, he attempted to summarize the information about the kinds of bacteria known at that time, using Latin binomial classification. Bergey also included the morphological, physiological, and biochemical properties of these organisms. His manual has been updated multiple times to include newer bacteria and their properties. It is a great aid in bacterial taxonomy and methods of characterization of bacteria. A more recent sister publication, the five-volume <term class="no-emphasis"><emphasis effect="italics">Bergey’s Manual</emphasis></term> <emphasis effect="italics">of Systematic Bacteriology</emphasis>, expands on Bergey’s original manual. It includes a large number of additional species, along with up-to-date descriptions of the taxonomy and biological properties of all named prokaryotic taxa. This publication incorporates the approved names of bacteria as determined by the List of Prokaryotic Names with Standing in Nomenclature (LPSN).</para>
+<note id="fs-id1172100527970" class="microbiology link-to-learning">
+
+<para id="fs-id1172098458544">The 7th edition (published in 1957) of <emphasis effect="italics">Bergey’s Manual of Determinative Bacteriology</emphasis> is now <link url="https://openstax.org/l/22mandeterbact">available</link>. More recent, updated editions are available in print. You can also access a searchable <link url="https://openstax.org/l/22databmicrefst">database</link> of microbial reference strains, published by the American Type Culture Collection (ATCC).</para>
+</note>
+<section id="fs-id1172100562786">
+<title>Classification by Staining Patterns</title>
+<para id="fs-id1172100979963">According to their <term class="no-emphasis">staining patterns</term>, which depend on the properties of their cell walls, bacteria have traditionally been classified into gram-positive, gram-negative, and “atypical,” meaning neither gram-positive nor gram-negative. As explained in <link document="m58788">Staining Microscopic Specimens</link>, <term class="no-emphasis">gram-positive bacteria</term> possess a thick peptidoglycan cell wall that retains the primary stain (crystal violet) during the decolorizing step; they remain purple after the gram-stain procedure because the crystal violet dominates the light red/pink color of the secondary counterstain, safranin. In contrast, <term class="no-emphasis">gram-negative bacteria</term> possess a thin peptidoglycan cell wall that does not prevent the crystal violet from washing away during the decolorizing step; therefore, they appear light red/pink after staining with the safranin. Bacteria that cannot be stained by the standard Gram stain procedure are called <term class="no-emphasis">atypical bacteria</term>. Included in the atypical category are species of <term class="no-emphasis"><emphasis effect="italics">Mycoplasma</emphasis></term> and <term class="no-emphasis"><emphasis effect="italics">Chlamydia</emphasis></term>. <term class="no-emphasis"><emphasis effect="italics">Rickettsia</emphasis></term> are also considered atypical because they are too small to be evaluated by the Gram stain.</para><para id="fs-id1172100560949">More recently, scientists have begun to further classify gram-negative and gram-positive bacteria. They have added a special group of <term class="no-emphasis">deeply branching bacteria</term> based on a combination of physiological, biochemical, and genetic features. They also now further classify gram-negative bacteria into <term class="no-emphasis">Proteobacteria</term>, <term class="no-emphasis"><emphasis effect="italics">Cytophaga-Flavobacterium-Bacteroides</emphasis> (CFB)</term>, and <term class="no-emphasis">spirochetes</term>.</para>
+<para id="fs-id1172101039629">The deeply branching bacteria are thought to be a very early evolutionary form of bacteria (see <link document="m58799">Deeply Branching Bacteria</link>). They live in hot, acidic, ultraviolet-light-exposed, and anaerobic (deprived of oxygen) conditions. Proteobacteria is a phylum of very diverse groups of gram-negative bacteria; it includes some important human pathogens (e.g., <emphasis effect="italics">E. coli</emphasis> and <term class="no-emphasis"><emphasis effect="italics">Bordetella pertussis</emphasis></term>). The <term class="no-emphasis">CFB group</term> of bacteria includes components of the normal human gut microbiota, like <term class="no-emphasis"><emphasis effect="italics">Bacteroides</emphasis></term>. The spirochetes are spiral-shaped bacteria and include the pathogen <term class="no-emphasis"><emphasis effect="italics">Treponema pallidum</emphasis></term>, which causes syphilis. We will characterize these groups of bacteria in more detail later in the chapter.</para>
+<para id="fs-id1172098527585">Based on their prevalence of guanine and cytosine nucleotides, gram-positive bacteria are also classified into low G+C and <term class="no-emphasis">high G+C gram-positive bacteria</term>. The <term class="no-emphasis">low G+C gram-positive bacteria</term> have less than 50% of guanine and cytosine nucleotides in their DNA. They include human pathogens, such as those that cause <term class="no-emphasis">anthrax</term> (<term class="no-emphasis"><emphasis effect="italics">Bacillus anthracis</emphasis></term>), <term class="no-emphasis">tetanus</term> (<term class="no-emphasis"><emphasis effect="italics">Clostridium tetani</emphasis></term>), and <term class="no-emphasis">listeriosis</term> (<term class="no-emphasis"><emphasis effect="italics">Listeria monocytogenes</emphasis></term>). High G+C gram-positive bacteria, which have more than 50% guanine and cytosine nucleotides in their DNA, include the bacteria that cause diphtheria (<term class="no-emphasis"><emphasis effect="italics">Corynebacterium diphtheriae</emphasis></term>), <term class="no-emphasis">tuberculosis</term> (<term class="no-emphasis"><emphasis effect="italics">Mycobacterium tuberculosis</emphasis></term>), and other diseases.</para>
+<para id="fs-id1172101007884">The classifications of prokaryotes are constantly changing as new species are being discovered. We will describe them in more detail, along with the diseases they cause, in later sections and chapters.</para>
+<note id="fs-id1172100673345" class="microbiology check-your-understanding">
+<list id="fs-id1167661409168" list-type="bulleted" bullet-style="bullet">
+<item>How do scientists classify prokaryotes?</item>
+</list>
+</note>
+<note id="fs-id1172100921608" class="microbiology micro-connection">
+<title>Human Microbiome Project</title>
+<para id="fs-id1172098405880">The <term class="no-emphasis">Human Microbiome Project</term> was launched by the National Institutes of Health (NIH) in 2008. One main goal of the project is to create a large repository of the gene sequences of important microbes found in humans, helping biologists and clinicians understand the dynamics of the human microbiome and the relationship between the human microbiota and diseases. A network of labs working together has been compiling the data from swabs of several areas of the skin, gut, and mouth from hundreds of individuals.</para>
+<para id="fs-id1172098435133">One of the challenges in understanding the human microbiome has been the difficulty of culturing many of the microbes that inhabit the human body. It has been estimated that we are only able to culture 1% of the bacteria in nature and that we are unable to grow the remaining 99%. To address this challenge, researchers have used <term class="no-emphasis">metagenomic analysis</term>, which studies genetic material harvested directly from microbial communities, as opposed to that of individual species grown in a culture. This allows researchers to study the genetic material of all microbes in the microbiome, rather than just those that can be cultured.<footnote id="fs-id1172100654198">National Institutes of Health. “Human Microbiome Project. Overview.” http://commonfund.nih.gov/hmp/overview. Accessed June 7, 2016.</footnote></para>
+<para id="fs-id1172100590537">One important achievement of the Human Microbiome Project is establishing the first reference database on microorganisms living in and on the human body. Many of the microbes in the microbiome are beneficial, but some are not. It was found, somewhat unexpectedly, that all of us have some serious microbial pathogens in our microbiota. For example, the conjunctiva of the human eye contains 24 genera of bacteria and numerous pathogenic species.<footnote id="fs-id1172098441232">Q. Dong et al. “Diversity of Bacteria at Healthy Human Conjunctiva.” <emphasis effect="italics">Investigative Ophthalmology &amp; Visual Science</emphasis> 52 no. 8 (2011):5408–5413.</footnote> A healthy human mouth contains a number of species of the genus <term class="no-emphasis"><emphasis effect="italics">Streptococcus</emphasis></term>, including pathogenic species <emphasis effect="italics">S. pyogenes</emphasis> and <emphasis effect="italics">S. pneumoniae</emphasis>.<footnote id="fs-id1172100496384">F.E. Dewhirst et al. “The Human Oral Microbiome.” <emphasis effect="italics">Journal of Bacteriology</emphasis> 192 no. 19 (2010):5002–5017.</footnote> This raises the question of why certain prokaryotic organisms exist commensally in certain individuals but act as deadly pathogens in others. Also unexpected was the number of organisms that had never been cultured. For example, in one metagenomic study of the human gut microbiota, 174 new species of bacteria were identified.<footnote id="fs-id1172098382094">J.C. Lagier et al. “Microbial Culturomics: Paradigm Shift in the Human Gut Microbiome Study.” <emphasis effect="italics">Clinical Microbiology and Infection</emphasis> 18 no. 12 (2012):1185–1193.</footnote></para>
+<para id="fs-id1172098313495">Another goal for the near future is to characterize the human microbiota in patients with different diseases and to find out whether there are any relationships between the contents of an individual’s microbiota and risk for or susceptibility to specific diseases. Analyzing the microbiome in a person with a specific disease may reveal new ways to fight diseases.</para>
+</note>
+</section>
+</section>
+<section id="fs-id1172100492377" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1172100526916" list-type="bulleted" bullet-style="bullet">
+<item>Prokaryotes are unicellular microorganisms whose cells have no nucleus.</item>
+<item>Prokaryotes can be found everywhere on our planet, even in the most extreme environments.</item>
+<item>Prokaryotes are very flexible metabolically, so they are able to adjust their feeding to the available natural resources.</item>
+<item>Prokaryotes live in <emphasis effect="bold">communities</emphasis> that interact among themselves and with large organisms that they use as hosts (including humans).</item>
+<item>The totality of forms of prokaryotes (particularly bacteria) living on the human body is called the human microbiome, which varies between regions of the body and individuals, and changes over time.</item>
+<item>The totality of forms of prokaryotes (particularly bacteria) living in a certain region of the human body (e.g., mouth, throat, gut, eye, vagina) is called the <emphasis effect="bold">microbiota</emphasis> of this region.</item>
+<item>Prokaryotes are classified into domains Archaea and Bacteria.</item>
+<item>In recent years, the traditional approaches to classification of prokaryotes have been supplemented by approaches based on molecular genetics.</item>
+</list>
+</section>
+<section id="fs-id1172100594212" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1172100562431">
+<problem id="fs-id1172100957508">
+<para id="fs-id1172100634185">The term prokaryotes refers to which of the following?</para>
+<list id="fs-id1172098475621" list-type="enumerated" number-style="upper-alpha">
+<item>very small organisms</item>
+<item>unicellular organisms that have no nucleus</item>
+<item>multicellular organisms</item>
+<item>cells that resemble animal cells more than plant cells</item>
+</list>
+</problem>
+<solution id="fs-id1172098454100">
+<para id="fs-id1172100960161">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100771337">
+<problem id="fs-id1172100914972">
+<para id="fs-id1172101006822">The term microbiota refers to which of the following?</para>
+<list id="fs-id1172100754534" list-type="enumerated" number-style="upper-alpha">
+<item>all microorganisms of the same species</item>
+<item>all of the microorganisms involved in a symbiotic relationship</item>
+<item>all microorganisms in a certain region of the human body</item>
+<item>all microorganisms in a certain geographic region</item>
+</list>
+</problem>
+<solution id="fs-id1172098432841">
+<para id="fs-id1172100972976">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098549514">
+<problem id="fs-id1172098309432">
+<para id="fs-id1172098262076">Which of the following refers to the type of interaction between two prokaryotic populations in which one population benefits and the other is not affected?</para>
+<list id="fs-id1172098501511" list-type="enumerated" number-style="upper-alpha">
+<item>mutualism</item>
+<item>commensalism</item>
+<item>parasitism</item>
+<item>neutralism</item>
+</list>
+</problem>
+<solution id="fs-id1172100558300">
+<para id="fs-id1172098380441">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172100986873" class="true-false">
+<title>True/False</title>
+<exercise id="fs-id1172098525234">
+<problem id="fs-id1172098459305">
+<para id="fs-id1172100589401">Among prokaryotes, there are some that can live in every environment on earth.</para>
+</problem>
+<solution id="fs-id1172100727315">
+<para id="fs-id1172100958025">True</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172100940861" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1172100651187">
+<problem id="fs-id1172098392435">
+<para id="fs-id1172098311838">When prokaryotes live as interacting communities in which one population benefits to the harm of the other, the type of symbiosis is called ________.</para>
+</problem>
+<solution id="fs-id1172101030039">
+<para id="fs-id1172100976727">parasitism</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098404683">
+<problem id="fs-id1172100991973">
+<para id="fs-id1172100974131">The domain ________ does not include prokaryotes.</para>
+</problem>
+<solution id="fs-id1172098642696">
+<para id="fs-id1172101008205">Eukarya</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100656455">
+<problem id="fs-id1172100660281">
+<para id="fs-id1172100502767">Pathogenic bacteria that are part of the transient microbiota can sometimes be eliminated by ________ therapy.</para>
+</problem>
+<solution id="fs-id1172098389903">
+<para id="fs-id1172100946078">antibiotic</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100578450">
+<problem id="fs-id1172100951443">
+<para id="fs-id1172101036277">Nitrogen-fixing bacteria provide other organisms with usable nitrogen in the form of ________.</para>
+</problem>
+<solution id="fs-id1172100546990">
+<para id="fs-id1172100996840">ammonia</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172100947255" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1172100610754">
+<problem id="fs-id1172098380673">
+<para id="fs-id1172100882306">Compare commensalism and amensalism.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172098401238">
+<problem id="fs-id1172100939578">
+<para id="fs-id1172100991562">Give an example of the changes of human microbiota that result from medical intervention.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

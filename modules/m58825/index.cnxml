@@ -1,0 +1,223 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Biogeochemical Cycles</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58825</md:content-id>
+  <md:title>Biogeochemical Cycles</md:title>
+  <md:abstract/>
+  <md:uuid>134f73ba-1c80-4a15-901b-470daa8b839b</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167662472323" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167662570135">
+<item>Define and describe the importance of microorganisms in the biogeochemical cycles of carbon, nitrogen, and sulfur</item>
+<item>Define and give an example of bioremediation</item>
+</list>
+</section>
+<para id="fs-id1167658064098">Energy flows directionally through ecosystems, entering as sunlight for <term class="no-emphasis">phototroph</term>s or as inorganic molecules for <term class="no-emphasis">chemoautotroph</term>s. The six most common elements associated with organic molecules—carbon, hydrogen, nitrogen, oxygen, phosphorus, and sulfur—take a variety of chemical forms and may exist for long periods in the atmosphere, on land, in water, or beneath earth’s surface. Geologic processes, such as erosion, water drainage, the movement of the continental plates, and weathering, all are involved in the cycling of elements on earth. Because geology and chemistry have major roles in the study of this process, the recycling of inorganic matter between living organisms and their nonliving environment is called a <term>biogeochemical cycle</term>. Here, we will focus on the function of microorganisms in these cycles, which play roles at each step, most frequently interconverting oxidized versions of molecules with reduced ones.</para>
+<section id="fs-id1167662482638">
+<title>Carbon Cycle</title>
+<para id="fs-id1167660190656">Carbon is one of the most important elements to living organisms, as shown by its abundance and presence in all organic molecules. The <term class="no-emphasis">carbon cycle</term> exemplifies the connection between organisms in various ecosystems. Carbon is exchanged between <term class="no-emphasis">heterotroph</term>s and <term class="no-emphasis">autotroph</term>s within and between ecosystems primarily by way of atmospheric CO<sub>2</sub>, a fully oxidized version of carbon that serves as the basic building block that autotrophs use to build multicarbon, high-energy organic molecules such as glucose. Photoautotrophs and chemoautotrophs harness energy from the sun and from inorganic chemical compounds, respectively, to covalently bond carbon atoms together into reduced organic compounds whose energy can be later accessed through the processes of <term class="no-emphasis">respiration</term> and <term class="no-emphasis">fermentation</term> (<link target-id="OSC_Microbio_08_07_CCycle"/>).</para>
+<para id="fs-id1167662727931">Overall, there is a constant exchange of CO<sub>2</sub> between the heterotrophs (which produce CO<sub>2</sub> as a result of respiration or fermentation) and the autotrophs (which use the CO<sub>2</sub> for fixation). Autotrophs also respire or ferment, consuming the organic molecules they form; they do not fix carbon for heterotrophs, but rather use it for their own metabolic needs.</para>
+<para id="fs-id1167662599388">Bacteria and archaea that use methane as their carbon source are called <term class="no-emphasis">methanotroph</term>s. Reduced one-carbon compounds like methane accumulate in certain anaerobic environments when CO<sub>2</sub> is used as a terminal electron acceptor in anaerobic respiration by archaea called <term class="no-emphasis">methanogen</term>s. Some methanogens also ferment acetate (two carbons) to produce methane and CO<sub>2</sub>. Methane accumulation due to <term class="no-emphasis">methanogenesis</term> occurs in both natural anaerobic soil and aquatic environments; methane accumulation also occurs as a result of animal husbandry because methanogens are members of the normal microbiota of ruminants. Environmental methane accumulation due to methanogenesis is of consequence because it is a strong greenhouse gas, and methanotrophs help to reduce atmospheric methane levels.</para>
+<figure id="OSC_Microbio_08_07_CCycle">
+<media id="fs-id1167660310516" alt="The carbon cycle. CO2 from the atmosphere moves into plants, soils, surface ocean, and rivers. From plants, the carbon moves back to the air. From the water, the carbon moves to marine biota, the deep ocean, and sediments. Carbon also moves back to the air from fossil fuel and cement production.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_07_CCycle.jpg"/>
+</media>
+<caption>This figure summarizes the carbon cycle. Eukaryotes participate in aerobic respiration, fermentation, and oxygenic photosynthesis. Prokaryotes participate in all the steps shown. (credit: modification of work by NOAA)</caption>
+</figure>
+<note id="fs-id1167662403398" class="microbiology check-your-understanding">
+<list id="fs-id1167661775973" list-type="bulleted" bullet-style="bullet">
+<item>Describe the interaction between heterotrophs and autotrophs in the carbon cycle.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167660147005">
+<title>Nitrogen Cycle</title>
+<para id="fs-id1167660339337">Many biological macromolecules, including proteins and nucleic acids, contain nitrogen; however, getting nitrogen into living organisms is difficult. Prokaryotes play essential roles in the <term class="no-emphasis">nitrogen cycle</term> (<link target-id="OSC_Microbio_08_07_NCycle"/>), transforming nitrogen between various forms for their own needs, benefiting other organisms indirectly. Plants and <term class="no-emphasis">phytoplankton</term> cannot incorporate nitrogen from the atmosphere (where it exists as tightly bonded, triple covalent N<sub>2</sub>), even though this molecule composes approximately 78% of the atmosphere. Nitrogen enters the living world through free-living and symbiotic bacteria, which incorporate nitrogen into their macromolecules through specialized biochemical pathways called <term>nitrogen fixation</term>. Cyanobacteria in aquatic ecosystems fix inorganic nitrogen (from nitrogen gas) into ammonia (NH<sub>3</sub>) that can be easily incorporated into biological macromolecules. <term class="no-emphasis"><emphasis effect="italics">Rhizobium</emphasis></term> bacteria (<link document="m58818" target-id="OSC_Microbio_08_00_Splash"/>) also fix nitrogen and live symbiotically in the root nodules of legumes (such as beans, peanuts, and peas), providing them with needed organic nitrogen while receiving fixed carbon as sugar in exchange. Free-living bacteria, such as members of the genus <term class="no-emphasis"><emphasis effect="italics">Azotobacter</emphasis></term>, are also able to fix nitrogen.</para>
+<para id="fs-id1167662506747">The nitrogen that enters living systems by nitrogen fixation is eventually converted from organic nitrogen back into nitrogen gas by microbes through three steps: ammonification, <term class="no-emphasis">nitrification</term>, and <term class="no-emphasis">denitrification</term>. In terrestrial systems, the first step is the <term class="no-emphasis">ammonification</term> process, in which certain bacteria and fungi convert nitrogenous waste from living animals or from the remains of dead organisms into ammonia (NH<sub>3</sub>). This ammonia is then oxidized to nitrite <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msubsup><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn><m:mo>−</m:mo></m:msubsup></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>,</m:mo></m:mrow></m:math> then to nitrate <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msubsup><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn><m:mo>−</m:mo></m:msubsup></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>,</m:mo></m:mrow></m:math> by nitrifying soil bacteria such as members of the genus <term class="no-emphasis"><emphasis effect="italics">Nitrosomonas</emphasis></term>, through the process of nitrification. Last, the process of denitrification occurs, whereby soil bacteria, such as members of the genera <term class="no-emphasis"><emphasis effect="italics">Pseudomonas</emphasis></term> and <term class="no-emphasis"><emphasis effect="italics">Clostridium</emphasis></term>, use nitrate as a terminal electron acceptor in <term class="no-emphasis">anaerobic respiration</term>, converting it into nitrogen gas that reenters the atmosphere. A similar process occurs in the marine nitrogen cycle, where these three processes are performed by marine bacteria and archaea.</para>
+<para id="fs-id1167662374743">Human activity releases nitrogen into the environment by the use of artificial fertilizers that contain nitrogen and phosphorus compounds, which are then washed into lakes, rivers, and streams by surface runoff. A major effect from fertilizer runoff is saltwater and freshwater <term class="no-emphasis">eutrophication</term>, in which nutrient runoff causes the overgrowth and subsequent death of aquatic algae, making water sources anaerobic and inhospitable for the survival of aquatic organisms.</para>
+<figure id="OSC_Microbio_08_07_NCycle"><media id="fs-id1167656802669" alt="The nitrogen cycle. Gaseous atmospheric nitrogen shore; this moves into organic matter (R-NH2) through bacterial and lightning fixation. Fertilizers and mineralization produce ammonium (NH4+). This can enter waterways via run off and leaching. Ammonium is converted to nitrates (NO2-) via nitrification. These are then converted to nitrates (NO3-) via nitrification. Both of these can end up in waterways causing eutrophication. Nitrates can be taken in by plants or converted to gaseous nitrate (N2) by denitrification.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_07_Ncycle.jpg"/>
+</media>
+
+<caption>This figure summarizes the nitrogen cycle. Note that specific groups of prokaryotes each participate in every step in the cycle. (credit: modification of work by NOAA)</caption></figure><note id="fs-id1167660292209" class="microbiology check-your-understanding">
+<list id="fs-id1167659405491" list-type="bulleted" bullet-style="bullet">
+<item>What are the four steps of the nitrogen cycle?</item>
+</list>
+</note>
+<note id="fs-id1167660253596" class="microbiology link-to-learning">
+
+<para id="fs-id1167662403010">To learn more about the nitrogen cycle, visit the <link url="https://openstax.org/l/22nitrogencycle">PBS</link> website.</para>
+</note>
+</section>
+<section id="fs-id1167660178403">
+<title>Sulfur Cycle</title>
+<para id="fs-id1167660256570">Sulfur is an essential element for the macromolecules of living organisms. As part of the amino acids cysteine and methionine, it is involved in the formation of proteins. It is also found in several vitamins necessary for the synthesis of important biological molecules like <term class="no-emphasis">coenzyme A</term>. Several groups of microbes are responsible for carrying out processes involved in the <term class="no-emphasis">sulfur cycle</term> (<link target-id="OSC_Microbio_08_07_SCycle"/>). Anoxygenic photosynthetic bacteria as well as chemoautotrophic archaea and bacteria use hydrogen sulfide as an <term class="no-emphasis">electron donor</term>, oxidizing it first to elemental sulfur (S<sup>0</sup>), then to sulfate <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mrow><m:msub><m:mtext>SO</m:mtext><m:mn>4</m:mn></m:msub></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>−</m:mo></m:mrow></m:msup></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math> This leads to stratification of hydrogen sulfide in soil, with levels increasing at deeper, more anaerobic depths.</para>
+<para id="fs-id1167660277936">Many bacteria and plants can use sulfate as a sulfur source. Decomposition dead organisms by fungi and bacteria remove sulfur groups from amino acids, producing hydrogen sulfide, returning inorganic sulfur to the environment.</para>
+<figure id="OSC_Microbio_08_07_SCycle">
+<media id="fs-id1167660178831" alt="Sulfur cycle. Atmospheric sulfur (SO2 gas) is taken in by plants. Plant residues and animal manures and biosolids produce organic sulfur. Mineralization produces sulfate (SO42-). Immobilization reverts sulfate back to organic sulfur. Sulfate is converted to H2S via anaerobic respiration. Decomposition also produces H2S. Sulfate can be absorbed or converted to mineral sulfur. Bacterial reduction converts sulfate to reduced sulfur (H2S, HS). Oxidation converts reduced sulfur and elemental sulfur (SO0) to sulfate.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_07_SCycle.jpg"/>
+</media>
+<caption>This figure summarizes the sulfur cycle. Note that specific groups of prokaryotes each may participate in every step in the cycle. (credit: modification of work by NOAA)</caption>
+</figure>
+<note id="fs-id1167662373615" class="microbiology check-your-understanding">
+<list id="fs-id1167661430262" list-type="bulleted" bullet-style="bullet">
+<item>Which groups of microbes carry out the sulfur cycle?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167660577182">
+<title>Other Biogeochemical Cycles</title>
+<para id="fs-id1167662445119">Beyond their involvement in the carbon, nitrogen, and sulfur cycles, prokaryotes are involved in other biogeochemical cycles as well. Like the carbon, nitrogen, and sulfur cycles, several of these additional biogeochemical cycles, such as the iron (Fe), manganese (Mn), and chromium (Cr) cycles, also involve redox chemistry, with prokaryotes playing roles in both oxidation and reduction. Several other elements undergo chemical cycles that do not involve redox chemistry. Examples of these are phosphorus (P), calcium (Ca), and silica (Si) cycles. The cycling of these elements is particularly important in oceans because large quantities of these elements are incorporated into the exoskeletons of marine organisms. These <term class="no-emphasis">biogeochemical cycle</term>s do not involve redox chemistry but instead involve fluctuations in the solubility of compounds containing calcium, phosphorous, and silica. The overgrowth of naturally occurring microbial communities is typically limited by the availability of nitrogen (as previously mentioned), phosphorus, and iron. Human activities introducing excessive amounts of iron, nitrogen, or phosphorus (typically from detergents) may lead to <term class="no-emphasis">eutrophication</term>.</para>
+</section>
+<section id="fs-id1167662706746">
+<title>Bioremediation</title>
+<para id="fs-id1167660463521">Microbial <term>bioremediation</term> leverages microbial metabolism to remove <term>xenobiotic</term><emphasis effect="bold">s</emphasis> or other pollutants. Xenobiotics are compounds synthesized by humans and introduced into the environment in much higher concentrations than would naturally occur. Such environmental contamination may involve adhesives, dyes, flame retardants, lubricants, oil and petroleum products, organic solvents, pesticides, and products of the combustion of gasoline and oil. Many xenobiotics resist breakdown, and some accumulate in the food chain after being consumed or absorbed by fish and wildlife, which, in turn, may be eaten by humans. Of particular concern are contaminants like <term class="no-emphasis">polycyclic aromatic hydrocarbon (PAH)</term>, a carcinogenic xenobiotic found in crude oil, and <term class="no-emphasis">trichloroethylene (TCE)</term>, a common groundwater contaminant.</para>
+<para id="fs-id1167662916110">Bioremediation processes can be categorized as in situ or ex situ. Bioremediation conducted at the site of contamination is called <term class="no-emphasis">in situ bioremediation</term> and does not involve movement of contaminated material. In contrast, <term class="no-emphasis">ex situ bioremediation</term> involves the removal of contaminated material from the original site so that it can be treated elsewhere, typically in a large, lined pit where conditions are optimized for degradation of the contaminant.</para>
+<para id="fs-id1167660268252">Some bioremediation processes rely on microorganisms that are indigenous to the contaminated site or material. Enhanced bioremediation techniques, which may be applied to either in situ or ex situ processing, involve the addition of nutrients and/or air to encourage the growth of pollution-degrading microbes; they may also involve the addition of non-native microbes known for their ability to degrade contaminants. For example, certain bacteria of the genera <term class="no-emphasis"><emphasis effect="italics">Rhodococcus</emphasis></term> and <term class="no-emphasis"><emphasis effect="italics">Pseudomonas</emphasis></term> are known for their ability to degrade many environmental contaminants, including aromatic compounds like those found in oil, down to CO<sub>2</sub>. The genes encoding their degradatory enzymes are commonly found on plasmids. Others, like <term class="no-emphasis"><emphasis effect="italics">Alcanivorax borkumensis</emphasis></term>, produce surfactants that are useful in the solubilization of the hydrophobic molecules found in oil, making them more accessible to other microbes for degradation.</para>
+<note id="fs-id1167660277642" class="microbiology check-your-understanding">
+<list id="fs-id1167661515498" list-type="bulleted" bullet-style="bullet">
+<item>Compare and contrast the benefits of in situ and ex situ bioremediation.</item>
+</list>
+</note>
+<note id="fs-id1167662419730" class="microbiology clinical-focus">
+<title>Resolution</title>
+<para id="fs-id1167662889414">Although there is a DNA test specific for <emphasis effect="italics">Neisseria meningitidis</emphasis>, it is not practical for use in some developing countries because it requires expensive equipment and a high level of expertise to perform. The hospital in Banjul was not equipped to perform DNA testing. Biochemical testing, however, is much less expensive and is still effective for microbial identification.</para>
+<para id="fs-id1167656818332">Fortunately for Hannah, her symptoms began to resolve with antibiotic therapy. Patients who survive <term class="no-emphasis">bacterial meningitis</term> often suffer from long-term complications such as brain damage, hearing loss, and seizures, but after several weeks of recovery, Hannah did not seem to be exhibiting any long-term effects and her behavior returned to normal. Because of her age, her parents were advised to monitor her closely for any signs of developmental issues and have her regularly evaluated by her pediatrician.</para>
+<para id="fs-id1167660286992"><emphasis effect="italics">N. meningitidis</emphasis> is found in the normal respiratory microbiota in 10%–20% of the human population.<footnote id="fs-id1167660400204">Centers for Disease Control and Prevention. “Meningococcal Disease: Causes and Transmission.” http://www.cdc.gov/meningococcal/about/causes-transmission.html. Accessed September 12, 2016.</footnote> In most cases, it does not cause disease, but for reasons not fully understood, the bacterium can sometimes invade the bloodstream and cause infections in other areas of the body, including the brain. The disease is more common in infants and children, like Hannah.</para>
+<para id="fs-id1167660507318">The prevalence of meningitis caused by <emphasis effect="italics">N. meningitidis</emphasis> is particularly high in the so-called <term class="no-emphasis">meningitis belt</term>, a region of sub-Saharan African that includes 26 countries stretching from Senegal to Ethiopia (<link target-id="OSC_Microbio_08_07_CF"/>). The reasons for this high prevalence are not clear, but several factors may contribute to higher rates of transmission, such as the dry, dusty climate; overcrowding and low standards of living; and the relatively low immunocompetence and nutritional status of the population.<footnote id="fs-id1167662685126">Centers for Disease Control and Prevention. “Meningococcal Disease in Other Countries.” http://www.cdc.gov/meningococcal/global.html. Accessed September 12, 2016.</footnote> A vaccine against four bacterial strains of <emphasis effect="italics">N. meningitidis</emphasis> is available. Vaccination is recommended for 11- and 12-year-old children, with a booster at age 16 years. Vaccination is also recommended for young people who live in close quarters with others (e.g., college dormitories, military barracks), where the disease is more easily transmitted. Travelers visiting the “meningitis belt” should also be vaccinated, especially during the dry season (December through June) when the prevalence is highest.<footnote id="fs-id1167662784981">Centers for Disease Control and Prevention. “Health Information for Travelers to the Gambia: Traveler View.” http://wwwnc.cdc.gov/travel/destinations/traveler/none/the-gambia. Accessed September 12, 2016. </footnote><footnote id="fs-id1167662513699">Centers for Disease Control and Prevention. “Meningococcal: Who Needs to Be Vaccinated?” http://www.cdc.gov/vaccines/vpd-vac/mening/who-vaccinate.htm. Accessed September 12, 2016.</footnote></para>
+<figure id="OSC_Microbio_08_07_CF">
+<media id="fs-id1167658168588" alt="a) Micrograph of small pink circles. B) Map of Africa showing the Meningitis Belt (areas of high epidemic risk) running from Senegal on the east to Ethiopia on the West and spanning 2 countries from north to south. There are 24 Countries with areas in the Meningitis belt.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_07_CF.jpg"/>
+</media>
+<caption>(a) <emphasis effect="italics">Neisseria meningitidis</emphasis> is a gram-negative diplococcus, as shown in this gram-stained sample. (b) The “meningitis belt” is the area of sub-Saharan Africa with high prevalence of meningitis caused by <emphasis effect="italics">N. meningitidis</emphasis>. (credit a, b: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1167662470268"><emphasis effect="italics">Go back to the <link document="m58823" target-id="fs-id1167662513703">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+<section id="fs-id1167662450397" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167660340508" list-type="bulleted" bullet-style="bullet">
+<item>The recycling of inorganic matter between living organisms and their nonliving environment is called a <emphasis effect="bold">biogeochemical cycle</emphasis>. Microbes play significant roles in these cycles.</item>
+<item>In the <emphasis effect="bold">carbon cycle</emphasis>, heterotrophs degrade reduced organic molecule to produce carbon dioxide, whereas autotrophs fix carbon dioxide to produce organics. <emphasis effect="bold">Methanogens</emphasis> typically form methane by using CO<sub>2</sub> as a final electron acceptor during anaerobic respiration; methanotrophs oxidize the methane, using it as their carbon source.</item>
+<item>In the <emphasis effect="bold">nitrogen cycle</emphasis>, nitrogen-fixing bacteria convert atmospheric nitrogen into ammonia (ammonification). The ammonia can then be oxidized to nitrite and nitrate (nitrification). Nitrates can then be assimilated by plants. Soil bacteria convert nitrate back to nitrogen gas (denitrification).</item>
+<item>In <emphasis effect="bold">sulfur cycling</emphasis>, many anoxygenic photosynthesizers and chemoautotrophs use hydrogen sulfide as an electron donor, producing elemental sulfur and then sulfate; sulfate-reducing bacteria and archaea then use sulfate as a final electron acceptor in anaerobic respiration, converting it back to hydrogen sulfide.</item>
+<item>Human activities that introduce excessive amounts of naturally limited nutrients (like iron, nitrogen, or phosphorus) to aquatic systems may lead to eutrophication.</item>
+<item>Microbial <emphasis effect="bold">bioremediation</emphasis> is the use of microbial metabolism to remove or degrade <emphasis effect="bold">xenobiotics</emphasis> and other environmental contaminants and pollutants. Enhanced bioremediation techniques may involve the introduction of non-native microbes specifically chosen or engineered for their ability to degrade contaminants.</item>
+</list>
+</section>
+<section id="fs-id1167658030473" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167662444785">
+<problem id="fs-id1167662491950">
+<para id="fs-id1167662874484">Which of the following is the group of archaea that can use CO<sub>2</sub> as their final electron acceptor during anaerobic respiration, producing CH<sub>4</sub>?</para>
+<list id="fs-id1167657982217" list-type="enumerated" number-style="upper-alpha">
+<item>methylotrophs</item>
+<item>methanotrophs</item>
+<item>methanogens</item>
+<item>anoxygenic photosynthesizers</item>
+</list>
+</problem>
+<solution id="fs-id1167660259707">
+<para id="fs-id1167657890249">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660573218">
+<problem id="fs-id1167660598317">
+<para id="fs-id1167662874505">Which of the following processes is not involved in the conversion of organic nitrogen to nitrogen gas?</para>
+<list id="fs-id1167657987002" list-type="enumerated" number-style="upper-alpha">
+<item>nitrogen fixation</item>
+<item>ammonification</item>
+<item>nitrification</item>
+<item>denitrification</item>
+</list>
+</problem>
+<solution id="fs-id1167660139602">
+<para id="fs-id1167660289689">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662519291">
+<problem id="fs-id1167660126592">
+<para id="fs-id1167656768021">Which of the following processes produces hydrogen sulfide?</para>
+<list id="fs-id1167660146950" list-type="enumerated" number-style="upper-alpha">
+<item>anoxygenic photosynthesis</item>
+<item>oxygenic photosynthesis</item>
+<item>anaerobic respiration</item>
+<item>chemoautrophy</item>
+</list>
+</problem>
+<solution id="fs-id1167662462075">
+<para id="fs-id1167660397730">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662914922">
+<problem id="fs-id1167656770604">
+<para id="fs-id1167662445856">The biogeochemical cycle of which of the following elements is based on changes in solubility rather than redox chemistry?</para>
+<list id="fs-id1167662488559" list-type="enumerated" number-style="upper-alpha">
+<item>carbon</item>
+<item>sulfur</item>
+<item>nitrogen</item>
+<item>phosphorus</item>
+</list>
+</problem>
+<solution id="fs-id1167660292988">
+<para id="fs-id1167660338540">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167662681419" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167662608251">
+<problem id="fs-id1167662883013">
+<para id="fs-id1167658382988">The molecule central to the carbon cycle that is exchanged within and between ecosystems, being produced by heterotrophs and used by autotrophs, is ________.</para>
+</problem>
+<solution id="fs-id1167662559407">
+<para id="fs-id1167660252126">carbon dioxide</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167657986778">
+<problem id="fs-id1167662559483">
+<para id="fs-id1167662419656">The use of microbes to remove pollutants from a contaminated system is called ________.</para>
+</problem>
+<solution id="fs-id1167662460535">
+<para id="fs-id1167660255583">bioremediation</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167660218830" class="true-false">
+<title>True/False</title>
+<exercise id="fs-id1167662519947">
+<problem id="fs-id1167662571590">
+<para id="fs-id1167662705720">There are many naturally occurring microbes that have the ability to degrade several of the compounds found in oil.</para>
+</problem>
+<solution id="fs-id1167660185764">
+<para id="fs-id1167662876486">True</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167662469291" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167658044762">
+<problem id="fs-id1167660267676">
+<para id="fs-id1167662426635">Why must autotrophic organisms also respire or ferment in addition to fixing CO<sub>2</sub>?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167662720542">
+<problem id="fs-id1167662748121">
+<para id="fs-id1167662450743">How can human activity lead to eutrophication?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167662519088" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167660670788">
+<problem id="fs-id1167662572729">
+<para id="fs-id1167662870490">In considering the symbiotic relationship between <emphasis effect="italics">Rhizobium</emphasis> species and their plant hosts, what metabolic activity does each organism perform that benefits the other member of the pair?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

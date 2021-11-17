@@ -1,0 +1,282 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>EIAs and ELISAs</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58903</md:content-id>
+  <md:title>EIAs and ELISAs</md:title>
+  <md:abstract/>
+  <md:uuid>49042e1e-bf02-45ef-94d8-8c370cd92b5d</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167660283601" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167662429357">
+<item>Explain the differences and similarities between EIA, FEIA, and ELISA</item>
+<item>Describe the difference and similarities between immunohistochemistry and immunocytochemistry</item>
+<item>Describe the different purposes of direct and indirect ELISA</item>
+</list>
+</section>
+<para id="fs-id1167662485335">Similar to the <term class="no-emphasis">western blot</term>, <term>enzyme immunoassays (EIAs)</term> use antibodies to detect the presence of antigens. However, EIAs differ from western blots in that the assays are conducted in microtiter plates or <emphasis effect="italics">in vivo</emphasis> rather than on an absorbent membrane. There are many different types of EIAs, but they all involve an antibody molecule whose <term class="no-emphasis">constant region</term> binds an enzyme, leaving the variable region free to bind its specific antigen. The addition of a substrate for the enzyme allows the antigen to be visualized or quantified (<link target-id="OSC_Microbio_20_04_EIA"/>).</para>
+<para id="fs-id1167662423143">In EIAs, the substrate for the enzyme is most often a chromogen, a colorless molecule that is converted into a colored end product. The most widely used enzymes are alkaline phosphatase and horseradish peroxidase for which appropriate substrates are readily available. In some EIAs, the substrate is a <term>fluorogen</term>, a nonfluorescent molecule that the enzyme converts into a fluorescent form. EIAs that utilize a fluorogen are called <term>fluorescent enzyme immunoassays (FEIAs)</term>. Fluorescence can be detected by either a <term class="no-emphasis">fluorescence microscope</term> or a <term class="no-emphasis">spectrophotometer</term>.</para>
+<figure id="OSC_Microbio_20_04_EIA">
+<media id="fs-id1167662601495" alt="Viral antigens (drawn as diamonds) are attached to a surface. Antibodies (drawn as Y’s) with an enzyme conjugate (purple circle) attached to them bind to the viral antigens. A substrate (drawn as a blue circle) interacts with the enzyme on the antibody and changes color for detection.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_20_04_EIA.jpg"/>
+</media>
+<caption>Enzyme immunoassays, such as the direct ELISA shown here, use an enzyme-antibody conjugate to deliver a detectable substrate to the site of an antigen. The substrate may be a colorless molecule that is converted into a colored end product or an inactive fluorescent molecule that fluoresces after enzyme activation. (credit: modification of work by “Cavitri”/Wikimedia Commons)</caption>
+</figure>
+<note id="fs-id1167660252672" class="microbiology micro-connection">
+<title>The MMR Titer</title>
+<para id="fs-id1167660207056">The MMR vaccine is a combination vaccine that provides protection against measles, mumps, and rubella (German measles). Most people receive the MMR vaccine as children and thus have antibodies against these diseases. However, for various reasons, even vaccinated individuals may become susceptible to these diseases again later in life. For example, some children may receive only one round of the MMR vaccine instead of the recommended two. In addition, the titer of protective antibodies in an individual’s body may begin to decline with age or as the result of some medical conditions.</para>
+<para id="fs-id1167662505193">To determine whether the titer of antibody in an individual’s bloodstream is sufficient to provide protection, an MMR titer test can be performed. The test is a simple immunoassay that can be done quickly with a blood sample. The results of the test will indicate whether the individual still has immunity or needs another dose of the MMR vaccine.</para>
+<para id="fs-id1167662467673">Submitting to an MMR titer is often a pre-employment requirement for healthcare workers, especially those who will frequently be in contact with young children or immunocompromised patients. Were a healthcare worker to become infected with measles, mumps, or rubella, the individual could easily pass these diseases on to susceptible patients, leading to an outbreak. Depending on the results of the MMR titer, healthcare workers might need to be revaccinated prior to beginning work.</para>
+</note>
+<section id="fs-id1167662775853">
+<title>Immunostaining</title>
+<para id="fs-id1167662791403">One powerful use of EIA is <term>immunostaining</term>, in which antibody-enzyme conjugates enhance microscopy. <term>Immunohistochemistry (IHC)</term> is used for examining whole tissues. As seen in <link target-id="OSC_Microbio_20_04_IHC"/>, a section of tissue can be stained to visualize the various cell types. In this example, a mAb against CD8 was used to stain <term class="no-emphasis">CD8</term> cells in a section of tonsil tissue. It is now possible to count the number of CD8 cells, determine their relative numbers versus the other cell types present, and determine the location of these cells within this tissue. Such data would be useful for studying diseases such as AIDS, in which the normal function of CD8 cells is crucial for slowing disease progression.</para>
+<para id="fs-id1167662674522"><term>Immunocytochemistry (ICC)</term> is another valuable form of immunostaining. While similar to IHC, in ICC, extracellular matrix material is stripped away, and the cell membrane is etched with alcohol to make it permeable to antibodies. This allows antibodies to pass through the cell membrane and bind to specific targets inside the cell. Organelles, cytoskeletal components, and other intracellular structures can be visualized in this way. While some ICC techniques use EIA, the enzyme can be replaced with a fluorescent molecule, making it a fluorescent immunoassay.</para>
+<figure id="OSC_Microbio_20_04_IHC">
+<media id="fs-id1167662507448" alt="A micrograph of brown circular cells labeled CD8 cells.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_20_04_IHC.jpg"/>
+</media>
+<caption>Enzyme-linked antibodies against CD8 were used to stain the CD8 cells in this preparation of bone marrow using a chromogen. (credit: modification of work by Yamashita M, Fujii Y, Ozaki K, Urano Y, Iwasa M, Nakamura S, Fujii S, Abe M, Sato Y, Yoshino T)</caption>
+</figure>
+<note id="fs-id1167662449054" class="microbiology check-your-understanding">
+<list id="fs-id1167660269071" list-type="bulleted" bullet-style="bullet">
+<item>What is the difference between immunohistochemistry and immunocytochemistry?</item>
+<item>What must be true of the product of the enzymatic reaction used in immunohistochemistry?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167662863056">
+<title>Enzyme-linked Immunosorbent Assays (ELISAs)</title>
+<para id="fs-id1167662778676">The <term>enzyme-linked immunosorbent assays (ELISAs)</term> are widely used EIAs. In the <term>direct ELISA</term>, antigens are immobilized in the well of a microtiter plate. An antibody that is specific for a particular antigen and is conjugated to an enzyme is added to each well. If the antigen is present, then the antibody will bind. After washing to remove any unbound antibodies, a colorless substrate (<term class="no-emphasis">chromogen</term>) is added. The presence of the enzyme converts the substrate into a colored end product (<link target-id="OSC_Microbio_20_04_EIA"/>). While this technique is faster because it only requires the use of one antibody, it has the disadvantage that the signal from a direct ELISA is lower (lower sensitivity).</para>
+<para id="fs-id1167660122973">In a <term>sandwich ELISA</term>, the goal is to use antibodies to precisely quantify specific antigen present in a solution, such as antigen from a pathogen, a serum protein, or a hormone from the blood or urine to list just a few examples. The first step of a sandwich ELISA is to add the <term>primary antibody</term> to all the wells of a microtiter plate (<link target-id="OSC_Microbio_20_04_ELISA"/>). The antibody sticks to the plastic by hydrophobic interactions. After an appropriate incubation time, any unbound antibody is washed away. Comparable washes are used between each of the subsequent steps to ensure that only specifically bound molecules remain attached to the plate. A blocking protein is then added (e.g., albumin or the milk protein casein) to bind the remaining nonspecific protein-binding sites in the well. Some of the wells will receive known amounts of antigen to allow the construction of a standard curve, and unknown antigen solutions are added to the other wells. The primary antibody captures the antigen and, following a wash, the <term>secondary antibody</term> is added, which is a <term class="no-emphasis">polyclonal antibody</term> that is conjugated to an enzyme. After a final wash, a colorless substrate (chromogen) is added, and the enzyme converts it into a colored end product. The color intensity of the sample caused by the end product is measured with a <term class="no-emphasis">spectrophotometer</term>. The amount of color produced (measured as absorbance) is directly proportional to the amount of enzyme, which in turn is directly proportional to the captured antigen. ELISAs are extremely sensitive, allowing antigen to be quantified in the nanogram (10<sup>–9</sup> g) per mL range.</para>
+<para id="fs-id1167660148935">In an <term>indirect ELISA</term>, we quantify antigen-specific antibody rather than antigen. We can use indirect ELISA to detect antibodies against many types of pathogens, including <term class="no-emphasis"><emphasis effect="italics">Borrelia burgdorferi</emphasis></term> (<term class="no-emphasis">Lyme disease</term>) and <term class="no-emphasis">HIV</term>. There are three important differences between indirect and direct ELISAs as shown in <link target-id="OSC_Microbio_20_04_Indirect"/>. Rather than using antibody to capture antigen, the indirect ELISA starts with attaching known antigen (e.g., peptides from HIV) to the bottom of the microtiter plate wells. After blocking the unbound sites on the plate, patient serum is added; if antibodies are present (<term class="no-emphasis">primary antibody</term>), they will bind the antigen. After washing away any unbound proteins, the secondary antibody with its conjugated enzyme is directed against the primary antibody (e.g., antihuman immunoglobulin). The <term class="no-emphasis">secondary antibody</term> allows us to quantify how much antigen-specific antibody is present in the patient’s serum by the intensity of the color produced from the conjugated enzyme-chromogen reaction.</para>
+<para id="fs-id1167662559130">As with several other tests for antibodies discussed in this chapter, there is always concern about <term class="no-emphasis">cross-reactivity</term> with antibodies directed against some other antigen, which can lead to false-positive results. Thus, we cannot definitively diagnose an HIV infection (or any other type of infection) based on a single indirect ELISA assay. We must confirm any suspected positive test, which is most often done using either an <term class="no-emphasis">immunoblot </term>that actually identifies the presence of specific peptides from the pathogen or a test to identify the nucleic acids associated with the pathogen, such as <term class="no-emphasis">reverse transcriptase PCR (RT-PCR)</term> or a nucleic acid antigen test.</para>
+<figure id="OSC_Microbio_20_04_ELISA">
+<media id="fs-id1167662517425" alt="a) Diagram of a sandwich ELISA showing what happens in both a positive and a negative sample. First, the primary antibody binds to the well. This is shown as Ys bound to a surface. Next, blocking agent is added. This is shown as a black covering on the surface between the antibodies. Next, the sample is added; if the correct antigen is present it binds to the antibody. In the positive well a circle binds to the antibodies; in the negative well nothing binds to the antibodies. Next, any unbound sample is washed away. Next, antibody-enzyme conjugate is added. This is shown in the positive well as another Y shape that binds to the circles. This new Y shape has a purple circle at the end. These antibodies are also in the negative sample but they are not attached to anything. Next, unbound antibody-enzyme conjugate is washed away; these remain in the positive sample (because they are attached to the antigen) but are washed away in the negative sample. Finally, a substrate is added to both the positive and negative samples. The enzyme in the positive sample turns this substrate blue. b) A plastic plate with many wells. Some are clear, some are blue.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_20_04_ELISA.jpg"/>
+</media>
+<caption>(a) In a sandwich ELISA, a primary antibody is used to first capture an antigen with the primary antibody. A secondary antibody conjugated to an enzyme that also recognizes epitopes on the antigen is added. After the addition of the chromogen, a spectrophotometer measures the absorbance of end product, which is directly proportional to the amount of captured antigen. (b) An ELISA plate shows dilutions of antibodies (left) and antigens (bottom). Higher concentrations result in a darker final color. (credit b: modification of work by U.S. Fish and Wildlife Service Pacific Region)</caption>
+</figure>
+<figure id="OSC_Microbio_20_04_Indirect">
+<media id="fs-id1167662515922" alt="Diagram of indirect ELISA showing what happens in both a positive and a negative sample. First the antigens are bound to the well. This is shown as diamonds on a surface of both the positive and negative wells. Next, blocking agent is added. This is shown as a black covering on the surface between the antigens. Next, the sample is added. If the correct antibody is present it binds to the antigen. This is shown as Ys in both the positive and negative wells. Otherwise, nothing binds to the antigen. Next, any unbound sample is washed away. In the positive well, there is an antibody bound to the antigen, in the negative well, there is nothing bound to the antigen. Next, anti-human enzyme-linked antibody is added. This is shown as a Ys with a purple circle in both wells. Next, unbound antigen in washed away. In the positive sample this Y remains bound to the old antibody. In the negative well it is no longer present. Finally, substrate is added to both wells. In the positive well, the enzyme changes the substrate to a blue color.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_20_04_Indirect.jpg"/>
+</media>
+<caption>The indirect ELISA is used to quantify antigen-specific antibodies in patient serum for disease diagnosis. Antigen from the suspected disease agent is attached to microtiter plates. The primary antibody comes from the patient’s serum, which is subsequently bound by the enzyme-conjugated secondary antibody. Measuring the production of end product allows us to detect or quantify the amount of antigen-specific antibody present in the patient’s serum.</caption>
+</figure>
+<note id="fs-id1167662480777" class="microbiology check-your-understanding">
+<list id="fs-id1167660273203" list-type="bulleted" bullet-style="bullet">
+<item>What is the purpose of the secondary antibody in a direct ELISA?</item>
+<item>What do the direct and indirect ELISAs quantify?</item>
+</list>
+</note>
+<note id="fs-id1167662465858" class="microbiology clinical-focus">
+<title>Part 2</title>
+<para id="fs-id1167662555064">Although contacting and testing the 1300 patients for HIV would be time consuming and expensive, administrators hoped to minimize the hospital’s liability by proactively seeking out and treating potential victims of the rogue employee’s crime. Early detection of HIV is important, and prompt treatment can slow the progression of the disease.</para>
+<para id="fs-id1167660177448">There are a variety of screening tests for HIV, but the most widely used is the indirect ELISA. As with other indirect ELISAs, the test works by attaching antigen (in this case, HIV peptides) to a well in a 96-well plate. If the patient is HIV positive, anti-HIV antibodies will bind to the antigen and be identified by the second antibody-enzyme conjugate.</para>
+<list id="fs-id1167662421136" list-type="bulleted" bullet-style="bullet">
+<item>How accurate is an indirect ELISA test for HIV, and what factors could impact the test’s accuracy?</item>
+<item>Should the hospital use any other tests to confirm the results of the indirect ELISA?</item>
+</list>
+<para id="fs-id1167662867254"><emphasis effect="italics">Jump to the <link document="m58900" target-id="fs-id1167662756934">previous</link> Clinical Focus box. Jump to the <link target-id="fs-id1167660291521">next</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+<section id="fs-id1167662401812">
+<title>Immunofiltration and Immunochromatographic Assays</title>
+<para id="fs-id1167662497538">For some situations, it may be necessary to detect or quantify antigens or antibodies that are present at very low concentration in solution. Immunofiltration techniques have been developed to make this possible. In <term>immunofiltration</term>, a large volume of fluid is passed through a porous membrane into an absorbent pad. An antigen attached to the porous membrane will capture antibody as it passes; alternatively, we can also attach an antibody to the membrane to capture antigen.</para>
+<para id="fs-id1167662489730">The method of immunofiltration has been adapted in the development of <term>immunochromatographic assays</term>, commonly known as <term>lateral flow tests</term> or strip tests. These tests are quick and easy to perform, making them popular for point-of-care use (i.e., in the doctor’s office) or in-home use. One example is the <term class="no-emphasis">TORCH test</term> that allows doctors to screen pregnant women or newborns for infection by an array of viruses and other pathogens (<emphasis effect="italics">Toxoplasma</emphasis>, other viruses, rubella, cytomegalovirus, herpes simplex). In-home <term class="no-emphasis">pregnancy tests</term> are another widely used example of a lateral flow test (<link target-id="OSC_Microbio_20_04_Torch"/>). Immunofiltration tests are also popular in developing countries, because they are inexpensive and do not require constant refrigeration of the dried reagents. However, the technology is also built into some sophisticated laboratory equipment.</para>
+<para id="fs-id1167662560026">In lateral flow tests (<link target-id="OSC_Microbio_20_04_Lateral"/>), fluids such as urine are applied to an absorbent pad on the test strip. The fluid flows by capillary action and moves through a stripe of beads with antibodies attached to their surfaces. The fluid in the sample actually hydrates the reagents, which are present in a dried state in the stripe. Antibody-coated beads made of latex or tiny gold particles will bind antigens in the test fluid. The antibody-antigen complexes then flow over a second stripe that has immobilized antibody against the antigen; this stripe will retain the beads that have bound antigen. A third control stripe binds any beads. A red color (from gold particles) or blue (from latex beads) developing at the test line indicates a positive test. If the color only develops at the control line, the test is negative.</para>
+<para id="fs-id1167662419550">Like ELISA techniques, lateral flow tests take advantage of antibody sandwiches, providing sensitivity and specificity. While not as quantitative as ELISA, these tests have the advantage of being fast, inexpensive, and not dependent on special equipment. Thus, they can be performed anywhere by anyone. There are some concerns about putting such powerful diagnostic tests into the hands of people who may not understand the tests’ limitations, such as the possibility of false-positive results. While home pregnancy tests have become widely accepted, at-home antibody-detection tests for diseases like HIV have raised some concerns in the medical community. Some have questioned whether self-administration of such tests should be allowed in the absence of medical personnel who can explain the test results and order appropriate confirmatory tests. However, with growing numbers of lateral flow tests becoming available, and the rapid development of lab-on-a-chip technology (<link target-id="OSC_Microbio_20_00_Chip" document="m58899"/>), home medical tests are likely to become even more commonplace in the future.</para>
+<figure id="OSC_Microbio_20_04_Torch">
+<media id="fs-id1167662515031" alt="A pregnancy test stick with 2 red lines; one is labeled test line and the other is labeled control line. A key on the stick states that 2 lines means pregnant and 1 line means not pregnant">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_20_04_Torch.jpg"/>
+</media>
+<caption>A lateral flow test detecting pregnancy-related hormones in urine. The control stripe verifies the validity of the test and the test line determines the presence of pregnancy-related hormones in the urine. (credit: modification of work by Klaus Hoffmeier)</caption>
+</figure>
+<figure id="OSC_Microbio_20_04_Lateral">
+<media id="fs-id1167662700858" alt="A diagram showing lateral flow test of a urine sample. The top panel shows a positive test and the bottom shows a negative test. In both a urine sample is added; in the positive sample there are antigens present. The label reads hCG urine sample is applied to absorbent sample pad. In both cases the urine sample flows across the test area. The first region is a mix area that contains hCG-second antibody-AuNPs (hCG-GC). These then flow across the hCG strip in both samples. Next, we reach the test line. Here there are antibodies that bind the antigens in the positive sample but bind nothing in the negative sample. In the positive sample the hCG-GC also bind to the antigen, forming an antibody sandwich around the antigen. The presence of the hCG-GC causes a color change here in the positive sample but not in the negative sample.  Finally, the control line contains antibodies that bind the hCG-GC directly; so these bind in both the positive and negative samples. The control line turns a color in both.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_20_04_Lateral.jpg"/>
+</media>
+<caption>Immunochromatographic assays, or lateral flow tests, allow the testing of antigen in a dilute solution. As the fluid flows through the test strip, it rehydrates the reagents. Antibodies conjugated to small particles bind the antigen in the first stripe and then flow onto the second stripe where they are bound by a second, fixed antibody. This produces a line of color, depending on the color of the beads. The third, control stripe binds beads as well to indicate that the test is working properly. (credit: modification of work by Yeh CH, Zhao ZQ, Shen PL, Lin YC)</caption>
+</figure>
+<note id="fs-id1167662552236" class="microbiology check-your-understanding">
+<list id="fs-id1167662423850" list-type="bulleted" bullet-style="bullet">
+<item>What physical process does the lateral flow method require to function?</item>
+<item>Explain the purpose of the third strip in a lateral flow assay.</item>
+</list>
+</note>
+<para id="fs-id1167662419701"><link target-id="fs-id1167662871299"/> compares some of the key mechanisms and examples of some of the EIAs discussed in this section as well as immunoblots, which were discussed in <link document="m58901">Detecting Antigen-Antibody Complexes</link>.</para>
+<table id="fs-id1167662871299" summary="Table titled: Immunoblots &amp; Enzyme Immunoassays. Columns: Type of Assay; Mechanism; Specific Procedures; Examples. Type of Assay: Immunoblots; Uses enzyme-antibody conjugates to identify specific proteins that have been transferred to an absorbent membrane; Western blot: Detects the presence of a particular protein; Detecting the presence of HIV peptides (or peptides from other infectious agents) in patient sera. Type of assay: Immunostaining; Uses enzyme-antibody conjugates to stain specific molecules on or in cells; Immunohistochemistry: Used to stain specific cells in a tissue Stain for presence of CD8 cells in host tissue; Enzyme-linked immunosorbent assay (ELISA); Uses enzyme-antibody conjugates to quantify target molecules. Type of Assay: Direct ELISA: Uses a single antibody to detect the presence of an antigen; Detection of HIV antigen p24 up to one month after being infected; Indirect ELISA: Measures the amount of antibody produced against an antigen Detection of HIV antibodies in serum. Type of Assay: Immunochromatographic (lateral flow) assays; Techniques use the capture of flowing, color-labeled antigen-antibody complexes by fixed antibody for disease diagnosis; Sandwich ELISA: Measures the amount of antigen bound by the antibody; Detection of antibodies for various pathogens in patient sera (e.g., rapid strep, malaria dipstick); Pregnancy test detecting human chorionic gonadotrophin in urine." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c4">Immunoblots &amp; Enzyme Immunoassays</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Type of Assay</entry>
+<entry valign="top" align="left">Mechanism</entry>
+<entry valign="top" align="left">Specific Procedures</entry>
+<entry valign="top" align="left">Examples</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Immunoblots</entry>
+<entry valign="top" align="left">Uses enzyme-antibody conjugates to identify specific proteins that have been transferred to an absorbent membrane</entry>
+<entry valign="top" align="left">Western blot: Detects the presence of a particular protein</entry>
+<entry valign="top" align="left">Detecting the presence of HIV peptides (or peptides from other infectious agents) in patient sera</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Immunostaining</entry>
+<entry valign="top" align="left">Uses enzyme-antibody conjugates to stain specific molecules on or in cells</entry>
+<entry valign="top" align="left">Immunohistochemistry: Used to stain specific cells in a tissue</entry>
+<entry valign="top" align="left">Stain for presence of CD8 cells in host tissue</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="1">Enzyme-linked immunosorbent assay (ELISA)</entry>
+<entry valign="top" align="left" morerows="1">Uses enzyme-antibody conjugates to quantify target molecules</entry>
+<entry valign="top" align="left">Direct ELISA: Uses a single antibody to detect the presence of an antigen</entry>
+<entry valign="top" align="left">Detection of HIV antigen p24 up to one month after being infected</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Indirect ELISA: Measures the amount of antibody produced against an antigen</entry>
+<entry valign="top" align="left">Detection of HIV antibodies in serum</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="1">Immunochromatographic (lateral flow) assays</entry>
+<entry valign="top" align="left" morerows="1">Techniques use the capture of flowing, color-labeled antigen-antibody complexes by fixed antibody for disease diagnosis</entry>
+<entry valign="top" align="left" morerows="1">Sandwich ELISA: Measures the amount of antigen bound by the antibody</entry>
+<entry valign="top" align="left">Detection of antibodies for various pathogens in patient sera (e.g., rapid strep, malaria dipstick)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Pregnancy test detecting human chorionic gonadotrophin in urine</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1167660291521" class="microbiology clinical-focus">
+<title>Part 3</title>
+<para id="fs-id1167660329278">Although the indirect ELISA for HIV is a sensitive assay, there are several complicating considerations. First, if an infected person is tested too soon after becoming infected, the test can yield false-negative results. The seroconversion window is generally about three weeks, but in some cases, it can be more than two months.</para>
+<para id="fs-id1167662571572">In addition to false negatives, false positives can also occur, usually due to previous infections with other viruses that induce cross-reacting antibodies. The false-positive rate depends on the particular brand of test used, but 0.5% is not unusual.<footnote id="fs-id1167660254486">Thomas, Justin G., Victor Jaffe, Judith Shaffer, and Jose Abreu, “HIV Testing: US Recommendations 2014,” <emphasis effect="italics">Osteopathic Family Physician</emphasis> 6, no. 6 (2014).</footnote> Because of the possibility of a false positive, all positive tests are followed up with a confirmatory test. This confirmatory test is often an immunoblot (western blot) in which HIV peptides from the patient’s blood are identified using an HIV-specific mAb-enzyme conjugate. A positive western blot would confirm an HIV infection and a negative blot would confirm the absence of HIV despite the positive ELISA.</para>
+<para id="fs-id1167660311888">Unfortunately, western blots for HIV antigens often yield indeterminant results, in which case, they neither confirm nor invalidate the results of the indirect ELISA. In fact, the rate of indeterminants can be 10–49% (which is why, combined with their cost, western blots are not used for screening). Similar to the indirect ELISA, an indeterminant western blot can occur because of cross-reactivity or previous viral infections, vaccinations, or autoimmune diseases.</para>
+<list id="fs-id1167662445311" list-type="bulleted" bullet-style="bullet">
+<item>Of the 1300 patients being tested, how many false-positive ELISA tests would be expected?</item>
+<item>Of the false positives, how many indeterminant western blots could be expected?</item>
+<item>How would the hospital address any cases in which a patient’s western blot was indeterminant?</item>
+</list>
+<para id="fs-id1167662593138"><emphasis effect="italics">Jump to the <link target-id="fs-id1167662465858">previous</link> Clinical Focus box. Jump to the <link document="m58904" target-id="fs-id1167662496088">next</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+<section id="fs-id1167662427167" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167660399408" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Enzyme immunoassays (EIA)</emphasis> are used to visualize and quantify antigens. They use an antibody conjugated to an enzyme to bind the antigen, and the enzyme converts a substrate into an observable end product. The substrate may be either a chromogen or a fluorogen.</item>
+<item><emphasis effect="bold">Immunostaining</emphasis> is an EIA technique for visualizing cells in a tissue (<emphasis effect="bold">immunohistochemistry</emphasis>) or examining intracellular structures (<emphasis effect="bold">immunocytochemistry</emphasis>).</item>
+<item><emphasis effect="bold">Direct ELISA</emphasis> is used to quantify an antigen in solution. The primary antibody captures the antigen, and the secondary antibody delivers an enzyme. Production of end product from the chromogenic substrate is directly proportional to the amount of captured antigen.</item>
+<item><emphasis effect="bold">Indirect ELISA</emphasis> is used to detect antibodies in patient serum by attaching antigen to the well of a microtiter plate, allowing the patient (primary) antibody to bind the antigen and an enzyme-conjugated secondary antibody to detect the primary antibody.</item>
+<item><emphasis effect="bold">Immunofiltration and immunochromatographic assays</emphasis> are used in <emphasis effect="bold">lateral flow tests</emphasis>, which can be used to diagnose pregnancy and various diseases by detecting color-labeled antigen-antibody complexes in urine or other fluid samples</item>
+</list>
+</section>
+<section id="fs-id1167662517912" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167662784600">
+<problem id="fs-id1167662599864">
+<para id="fs-id1167662420519">In an enzyme immunoassay, the enzyme</para>
+<list id="fs-id1167663651513" list-type="enumerated" number-style="lower-alpha">
+<item>is bound by the antibody’s antigen-binding site.</item>
+<item>is attached to the well of a microtiter plate.</item>
+<item>is conjugated to the suspect antigen.</item>
+<item>is bound to the constant region of the secondary antibody.</item>
+</list>
+</problem>
+<solution id="fs-id1167660276671">
+<para id="fs-id1167662895188">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662593756">
+<problem id="fs-id1167660217126">
+<para id="fs-id1167660260892">When using an EIA to study microtubules or other structures inside a cell, we first chemically fix the cell and then treat the cells with alcohol. What is the purpose of this alcohol treatment?</para>
+<list id="fs-id1167661268512" list-type="enumerated" number-style="lower-alpha">
+<item>It makes holes in the cell membrane large enough for antibodies to pass.</item>
+<item>It makes the membrane sticky so antibodies will bind and be taken up by receptor-mediated endocytosis.</item>
+<item>It removes negative charges from the membrane, which would otherwise repulse the antibodies.</item>
+<item>It prevents nonspecific binding of the antibodies to the cell membrane.</item>
+</list>
+</problem>
+<solution id="fs-id1167660284400">
+<para id="fs-id1167660284402">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662878234">
+<problem id="fs-id1167660136613">
+<para id="fs-id1167660136615">In a lateral-flow pregnancy test, you see a blue band form on the control line and no band form on the test line. This is probably a ________ test for pregnancy.</para>
+<list id="fs-id1167663727153" list-type="enumerated" number-style="lower-alpha">
+<item>positive</item>
+<item>false-positive</item>
+<item>false-negative</item>
+<item>negative</item>
+</list>
+</problem>
+<solution id="fs-id1167662406973">
+<para id="fs-id1167662406975">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660204573">
+<problem id="fs-id1167662517702">
+<para id="fs-id1167662517704">When performing an FEIA, the fluorogen replaces the ________ that is used in an EIA.</para>
+<list id="fs-id1167663621185" list-type="enumerated" number-style="lower-alpha">
+<item>antigen</item>
+<item>chromogenic substrate</item>
+<item>enzyme</item>
+<item>secondary antibody</item>
+</list>
+</problem>
+<solution id="fs-id1167660318687">
+<para id="fs-id1167662403243">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167660260782" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167660216823">
+<problem id="fs-id1167660171688">
+<para id="fs-id1167660171690">To detect antibodies against bacteria in the bloodstream using an EIA, we would run a(n) ________, which we would start by attaching antigen from the bacteria to the wells of a microtiter plate.</para>
+</problem>
+<solution id="fs-id1167660150262">
+<para id="fs-id1167660131982">indirect ELISA</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167662484613" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167662493027">
+<problem id="fs-id1167662496729">
+<para id="fs-id1167662496731">Why is it important in a sandwich ELISA that the antigen has multiple epitopes? And why might it be advantageous to use polyclonal antisera rather than mAb in this assay?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167662424408">
+<problem id="fs-id1167662424410">
+<para id="fs-id1167660272786">The pregnancy test strip detects the presence of human chorionic gonadotrophin in urine. This hormone is initially produced by the fetus and later by the placenta. Why is the test strip preferred for this test rather than using either a direct or indirect ELISA with their more quantifiable results?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167661439537" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167660169861">
+<problem id="fs-id1167660169863">
+<para id="fs-id1167662885637">Label the primary and secondary antibodies, and discuss why the production of end product will be proportional to the amount of antigen.</para>
+<media id="fs-id1167660157441" alt="Ys are attached to a surface. The space between the Ys is covered in a black layer. A circle is attached to each Y. Another Y with a large purple circle is attached to each of the smaller circles which are attached to the Ys attached to the surface.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_20_04_ArtConnect_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+ </content>
+
+</document>

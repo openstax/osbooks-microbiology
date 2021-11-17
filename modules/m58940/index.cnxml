@@ -1,0 +1,292 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Anatomy of the Nervous System</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58940</md:content-id>
+  <md:title>Anatomy of the Nervous System</md:title>
+  <md:abstract/>
+  <md:uuid>2b9420ba-0c5a-4601-bb6c-d13526fbeee3</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167658029780" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167662548718">
+<item>Describe the major anatomical features of the nervous system</item>
+<item>Explain why there is no normal microbiota of the nervous system</item>
+<item>Explain how microorganisms overcome defenses of the nervous system to cause infection</item>
+<item>Identify and describe general symptoms associated with various infections of the nervous system</item>
+</list>
+</section>
+<note id="fs-id1167662494327" class="microbiology clinical-focus">
+<title>Part 1</title>
+<para id="fs-id1167656777477">David is a 35-year-old carpenter from New Jersey. A year ago, he was diagnosed with Crohn’s disease, a chronic inflammatory bowel disease that has no known cause. He has been taking a prescription corticosteroid to manage the condition, and the drug has been highly effective in keeping his symptoms at bay. However, David recently fell ill and decided to visit his primary care physician. His symptoms included a fever, a persistent cough, and shortness of breath. His physician ordered a chest X-ray, which revealed consolidation of the right lung. The doctor prescribed a course of levofloxacin and told David to come back in a week if he did not feel better.</para>
+<list id="fs-id1167656781652" list-type="bulleted" bullet-style="bullet">
+<item>What type of drug is levofloxacin?</item>
+<item>What type of microbes would this drug be effective against?</item>
+<item>What type of infection is consistent with David’s symptoms?</item>
+</list>
+<para id="fs-id1167658048139"><emphasis effect="italics">Jump to the <link document="m58942" target-id="fs-id1167662549252">next</link> Clinical Focus box.</emphasis></para>
+</note>
+<para id="fs-id1167660227118">The human nervous system can be divided into two interacting subsystems: the <term>peripheral nervous system (PNS)</term> and the <term>central nervous system (CNS)</term>. The CNS consists of the brain and spinal cord. The peripheral nervous system is an extensive network of nerves connecting the CNS to the muscles and sensory structures. The relationship of these systems is illustrated in <link target-id="OSC_Microbio_26_01_NervSys"/>.</para>
+<section id="fs-id1167660394919">
+<title>The Central Nervous System</title>
+<para id="fs-id1167660287212">The <term class="no-emphasis">brain</term> is the most complex and sensitive organ in the body. It is responsible for all functions of the body, including serving as the coordinating center for all sensations, mobility, emotions, and intellect. Protection for the brain is provided by the bones of the skull, which in turn are covered by the scalp, as shown in <link target-id="OSC_Microbio_26_01_Meninges"/>. The scalp is composed of an outer layer of skin, which is loosely attached to the <term class="no-emphasis">aponeurosis</term>, a flat, broad tendon layer that anchors the superficial layers of the skin. The <term class="no-emphasis">periosteum</term>, below the aponeurosis, firmly encases the bones of the skull and provides protection, nutrition to the bone, and the capacity for bone repair. Below the boney layer of the skull are three layers of membranes called <term>meninges</term> that surround the brain. The relative positions of these meninges are shown in <link target-id="OSC_Microbio_26_01_Meninges"/>. The meningeal layer closest to the bones of the skull is called the <term>dura mater</term> (literally meaning <emphasis effect="italics">tough mother</emphasis>). Below the dura mater lies the <term>arachnoid mater</term> (literally <emphasis effect="italics">spider-like mother</emphasis>). The innermost meningeal layer is a delicate membrane called the <term>pia mater</term> (literally <emphasis effect="italics">tender mother</emphasis>). Unlike the other meningeal layers, the pia mater firmly adheres to the convoluted surface of the brain. Between the arachnoid mater and pia mater is the <term class="no-emphasis">subarachnoid space</term>. The subarachnoid space within this region is filled with <term>cerebrospinal fluid (CSF)</term>. This watery fluid is produced by cells of the choroid plexus—areas in each ventricle of the brain that consist of cuboidal epithelial cells surrounding dense capillary beds. The CSF serves to deliver nutrients and remove waste from neural tissues.</para>
+<figure id="OSC_Microbio_26_01_NervSys">
+<media id="fs-id1167660330434" alt="Diagram of the nervous system. The central nervous system is made of the brain and spinal cord. The peripheral nervous system is made of ganglions (near the spinal cord) and nerves that run throughout the body.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_26_01_NervSys.jpg"/>
+</media>
+<caption>The essential components of the human nervous system are shown in this illustration. The central nervous system (CNS) consists of the brain and spinal cord. It connects to the peripheral nervous system (PNS), a network of nerves that extends throughout the body.</caption>
+</figure>
+<figure id="OSC_Microbio_26_01_Meninges">
+<media id="fs-id1167660277164" alt="Diagram of layers around the brain. The pia mater is a thin covering that is on the surface of the brain. Around that is cerebrospinal fluid (CSF), a region that contains blood vessels. The arachnoid maintains this space. The dura mater is the next layer out and is thick. These three layers (dura mater, arachnoid, and pia mater) make up the meninges. The next layer out is bone. The next layer is a thn periosteum, then a thin aponeurosis, and finally skin.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_26_01_Meninges.jpg"/>
+</media>
+<caption>The layers of tissue surrounding the human brain include three meningeal membranes: the dura mater, arachnoid mater, and pia mater. (credit: modification of work by National Institutes of Health)</caption>
+</figure>
+<section id="fs-id1167660253609">
+<title>The Blood-Brain Barrier</title>
+<para id="fs-id1167660407447">The tissues of the CNS have extra protection in that they are not exposed to blood or the immune system in the same way as other tissues. The blood vessels that supply the brain with nutrients and other chemical substances lie on top of the pia mater. The capillaries associated with these blood vessels in the brain are less permeable than those in other locations in the body. The capillary endothelial cells form tight junctions that control the transfer of blood components to the brain. In addition, cranial capillaries have far fewer fenestra (pore-like structures that are sealed by a membrane) and pinocytotic vesicles than other capillaries. As a result, materials in the circulatory system have a very limited ability to interact with the CNS directly. This phenomenon is referred to as the <term class="no-emphasis">blood-brain barrier</term>.</para>
+<para id="fs-id1167660637558">The blood-brain barrier protects the cerebrospinal fluid from contamination, and can be quite effective at excluding potential microbial pathogens. As a consequence of these defenses, there is no normal <term class="no-emphasis">microbiota</term> in the cerebrospinal fluid. The blood-brain barrier also inhibits the movement of many drugs into the brain, particularly compounds that are not lipid soluble. This has profound ramifications for treatments involving infections of the CNS, because it is difficult for drugs to cross the blood-brain barrier to interact with pathogens that cause infections.</para>
+<para id="fs-id1167660276138">The <term class="no-emphasis">spinal cord</term> also has protective structures similar to those surrounding the brain. Within the bones of the vertebrae are meninges of dura mater (sometimes called the <term class="no-emphasis">dural sheath</term>), arachnoid mater, pia mater, and a <term class="no-emphasis">blood-spinal cord barrier</term> that controls the transfer of blood components from blood vessels associated with the spinal cord.</para>
+<para id="fs-id1167660151223">To cause an infection in the CNS, pathogens must successfully breach the blood-brain barrier or blood-spinal cord barrier. Various pathogens employ different <term class="no-emphasis">virulence factors</term> and mechanisms to achieve this, but they can generally be grouped into four categories: intercellular (also called paracellular), transcellular, leukocyte facilitated, and nonhematogenous. Intercellular entry involves the use of microbial virulence factors, toxins, or inflammation-mediated processes to pass between the cells of the blood-brain barrier. In transcellular entry, the pathogen passes through the cells of the blood-brain barrier using virulence factors that allow it to adhere to and trigger uptake by vacuole- or receptor-mediated mechanisms. Leukocyte-facilitated entry is a Trojan-horse mechanism that occurs when a pathogen infects peripheral blood leukocytes to directly enter the CNS. Nonhematogenous entry allows pathogens to enter the brain without encountering the blood-brain barrier; it occurs when pathogens travel along either the olfactory or trigeminal cranial nerves that lead directly into the CNS.</para>
+<note id="fs-id1167660150229" class="microbiology link-to-learning">
+
+<para id="fs-id1167660403546">View this <link url="https://www.openstax.org/l/22bldbrbarr">video</link> about the blood-brain barrier</para>
+</note>
+<note id="fs-id1167662501935" class="microbiology check-your-understanding">
+<list id="fs-id1167660313282" list-type="bulleted" bullet-style="bullet">
+<item>What is the primary function of the blood-brain barrier?</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1167660149958">
+<title>The Peripheral Nervous System</title>
+<para id="fs-id1167660338068">The PNS is formed of the nerves that connect organs, limbs, and other anatomic structures of the body to the brain and spinal cord. Unlike the brain and spinal cord, the PNS is not protected by bone, meninges, or a blood barrier, and, as a consequence, the nerves of the PNS are much more susceptible to injury and infection. Microbial damage to peripheral nerves can lead to tingling or numbness known as <term>neuropathy</term>. These symptoms can also be produced by trauma and noninfectious causes such as drugs or chronic diseases like diabetes.</para>
+</section>
+<section id="fs-id1167660396234">
+<title>The Cells of the Nervous System</title>
+<para id="fs-id1167656775430">Tissues of the PNS and CNS are formed of cells called <term>glial cells</term> (neuroglial cells) and <term>neurons</term> (nerve cells). Glial cells assist in the organization of neurons, provide a scaffold for some aspects of neuronal function, and aid in recovery from neural injury.</para>
+<para id="fs-id1167662492777">Neurons are specialized cells found throughout the nervous system that transmit signals through the nervous system using electrochemical processes. The basic structure of a neuron is shown in <link target-id="OSC_Microbio_26_01_Neruron"/>. The cell body (or <term>soma</term>) is the metabolic center of the neuron and contains the nucleus and most of the cell’s organelles. The many finely branched extensions from the soma are called <term>dendrites</term>. The soma also produces an elongated extension, called the <term>axon</term>, which is responsible for the transmission of electrochemical signals through elaborate ion transport processes. Axons of some types of neurons can extend up to one meter in length in the human body. To facilitate electrochemical signal transmission, some neurons have a <term>myelin sheath</term> surrounding the axon. Myelin, formed from the cell membranes of glial cells like the <term class="no-emphasis">Schwann cells</term> in the PNS and <term class="no-emphasis">oligodendrocytes</term> in the CNS, surrounds and insulates the axon, significantly increasing the speed of electrochemical signal transmission along the axon. The end of an axon forms numerous branches that end in bulbs called synaptic terminals. Neurons form junctions with other cells, such as another neuron, with which they exchange signals. The junctions, which are actually gaps between neurons, are referred to as <term>synapses</term>. At each synapse, there is a presynaptic neuron and a postsynaptic neuron (or other cell). The synaptic terminals of the axon of the presynaptic terminal form the synapse with the dendrites, soma, or sometimes the axon of the postsynaptic neuron, or a part of another type of cell such as a muscle cell. The synaptic terminals contain vesicles filled with chemicals called <term>neurotransmitters</term>. When the electrochemical signal moving down the axon reaches the synapse, the vesicles fuse with the membrane, and neurotransmitters are released, which diffuse across the synapse and bind to receptors on the membrane of the postsynaptic cell, potentially initiating a response in that cell. That response in the postsynaptic cell might include further propagation of an electrochemical signal to transmit information or contraction of a muscle fiber.</para>
+<figure id="OSC_Microbio_26_01_Neruron">
+<media id="fs-id1167662401753" alt="a) A drawing of a neuron. The cell body contains the nucleus and has short projections called dendrite. The cell also has a long projection called an axon wrapped in a layer called the myelin sheath. The myelin sheath layer covers most of the axon but also produces uncovered spaces at set intervals; each space is called a node of Ranvier. The myelin sheath is made from oligodendrocytes. At the end of the axon is a synapse. B) Diagram of a synapse. This is the region where two neurons come together (but they do not touch). The presynaptic neuron releases neurotransmitters into the synapse space. The post synaptic neuron has receptors on which the neurotransmitters attach.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_26_01_Neruron.jpg"/>
+</media>
+<caption>(a) A myelinated neuron is associated with oligodendrocytes. Oligodendrocytes are a type of glial cell that forms the myelin sheath in the CNS that insulates the axon so that electrochemical nerve impulses are transferred more efficiently. (b) A synapse consists of the axonal end of the presynaptic neuron (top) that releases neurotransmitters that cross the synaptic space (or cleft) and bind to receptors on dendrites of the postsynaptic neuron (bottom).</caption>
+</figure>
+<note id="fs-id1167660328493" class="microbiology check-your-understanding">
+<list id="fs-id1167660247945" list-type="bulleted" bullet-style="bullet">
+<item>What cells are associated with neurons, and what is their function?</item>
+<item>What is the structure and function of a synapse?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167660302098">
+<title>Meningitis and Encephalitis</title>
+<para id="fs-id1167662552604">Although the skull provides the brain with an excellent defense, it can also become problematic during infections. Any swelling of the brain or meninges that results from inflammation can cause intracranial pressure, leading to severe damage of the brain tissues, which have limited space to expand within the inflexible bones of the skull. The term <term>meningitis</term> is used to describe an inflammation of the meninges. Typical symptoms can include severe headache, fever, photophobia (increased sensitivity to light), stiff neck, convulsions, and confusion. An inflammation of brain tissue is called <term>encephalitis</term>, and patients exhibit signs and symptoms similar to those of meningitis in addition to lethargy, seizures, and personality changes. When inflammation affects both the meninges and the brain tissue, the condition is called <term>meningoencephalitis</term>. All three forms of inflammation are serious and can lead to blindness, deafness, coma, and death.</para>
+<para id="fs-id1167662471752">Meningitis and encephalitis can be caused by many different types of microbial pathogens. However, these conditions can also arise from noninfectious causes such as head trauma, some cancers, and certain drugs that trigger inflammation. To determine whether the inflammation is caused by a pathogen, a <term class="no-emphasis">lumbar puncture</term> is performed to obtain a sample of <term class="no-emphasis">CSF</term>. If the CSF contains increased levels of white blood cells and abnormal glucose and protein levels, this indicates that the inflammation is a response to an infectioninflinin.</para>
+<note id="fs-id1167662402712" class="microbiology check-your-understanding">
+<list id="fs-id1167660257627" list-type="bulleted" bullet-style="bullet">
+<item>What are the two types of inflammation that can impact the CNS?</item>
+<item>Why do both forms of inflammation have such serious consequences?</item>
+</list>
+</note>
+<note id="fs-id1167662794773" class="microbiology micro-connection">
+<title>Guillain-Barré Syndrome</title>
+<para id="fs-id1167658401613"><term class="no-emphasis">Guillain-Barré syndrome (GBS)</term> is a rare condition that can be preceded by a viral or bacterial infection that results in an autoimmune reaction against myelinated nerve cells. The destruction of the myelin sheath around these neurons results in a loss of sensation and function. The first symptoms of this condition are tingling and weakness in the affected tissues. The symptoms intensify over a period of several weeks and can culminate in complete paralysis. Severe cases can be life-threatening. Infections by several different microbial pathogens, including <term class="no-emphasis"><emphasis effect="italics">Campylobacter jejuni</emphasis></term> (the most common risk factor), cytomegalovirus, <term class="no-emphasis">Epstein-Barr virus</term>, varicella-zoster virus, <term class="no-emphasis"><emphasis effect="italics">Mycoplasma pneumoniae</emphasis></term>,<footnote id="fs-id1167660268405">Yuki, Nobuhiro and Hans-Peter Hartung, “Guillain–Barré Syndrome,” <emphasis effect="italics">New England Journal of Medicine</emphasis> 366, no. 24 (2012): 2294-304.</footnote> and <term class="no-emphasis">Zika virus</term><footnote id="fs-id1167660178831">Cao-Lormeau, Van-Mai, Alexandre Blake, Sandrine Mons, Stéphane Lastère, Claudine Roche, Jessica Vanhomwegen, Timothée Dub et al., “Guillain-Barré Syndrome Outbreak Associated with Zika Virus Infection in French Polynesia: A Case-Control Study,” <emphasis effect="italics">The Lancet</emphasis> 387, no. 10027 (2016): 1531-9.</footnote> have been identified as triggers for GBS. Anti-myelin antibodies from patients with GBS have been demonstrated to also recognize <emphasis effect="italics">C. jejuni</emphasis>. It is possible that cross-reactive antibodies, antibodies that react with similar antigenic sites on different proteins, might be formed during an infection and may lead to this autoimmune response.</para>
+<para id="fs-id1167660322858">GBS is solely identified by the appearance of clinical symptoms. There are no other diagnostic tests available. Fortunately, most cases spontaneously resolve within a few months with few permanent effects, as there is no available vaccine. GBS can be treated by plasmapheresis. In this procedure, the patient’s plasma is filtered from their blood, removing autoantibodies.</para>
+</note>
+</section>
+<section id="fs-id1167661494934" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167660621229" list-type="bulleted" bullet-style="bullet">
+<item>The nervous system consists of two subsystems: the <emphasis effect="bold">central nervous system</emphasis> and <emphasis effect="bold">peripheral nervous system</emphasis>.</item>
+<item>The skull and three <emphasis effect="bold">meninges</emphasis> (the <emphasis effect="bold">dura mater</emphasis>, <emphasis effect="bold">arachnoid mater</emphasis>, and <emphasis effect="bold">pia mater</emphasis>) protect the brain.</item>
+<item>Tissues of the PNS and CNS are formed of cells called <emphasis effect="bold">glial cells</emphasis> and <emphasis effect="bold">neurons</emphasis>.</item>
+<item>Since the <emphasis effect="bold">blood-brain barrier</emphasis> excludes most microbes, there is no normal microbiota in the CNS.</item>
+<item>Some pathogens have specific virulence factors that allow them to breach the blood-brain barrier. Inflammation of the brain or <emphasis effect="bold">meninges</emphasis> caused by infection is called <emphasis effect="bold">encephalitis</emphasis> or <emphasis effect="bold">meningitis</emphasis>, respectively. These conditions can lead to blindness, deafness, coma, and death.</item>
+</list>
+</section>
+<section id="fs-id1167660289689" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167662756084">
+<problem id="fs-id1167662428645">
+<para id="fs-id1167662482791">What is the outermost membrane surrounding the brain called?</para>
+<list id="fs-id1167660276747" list-type="enumerated" number-style="lower-alpha">
+<item>pia mater</item>
+<item>arachnoid mater</item>
+<item>dura mater</item>
+<item>alma mater</item>
+</list>
+</problem>
+<solution id="fs-id1167660389101">
+<para id="fs-id1167662471444">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662737288">
+<problem id="fs-id1167660179833">
+<para id="fs-id1167660310682">What term refers to an inflammation of brain tissues?</para>
+<list id="fs-id1167660205001" list-type="enumerated" number-style="lower-alpha">
+<item>encephalitis</item>
+<item>meningitis</item>
+<item>sinusitis</item>
+<item>meningoencephalitis</item>
+</list>
+</problem>
+<solution id="fs-id1167656766479">
+<para id="fs-id1167662747897">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660206738">
+<problem id="fs-id1167662800318">
+<para id="fs-id1167662570003">Nerve cells form long projections called ________.</para>
+<list id="fs-id1167662896579" list-type="enumerated" number-style="lower-alpha">
+<item>soma</item>
+<item>axons</item>
+<item>dendrites</item>
+<item>synapses</item>
+</list>
+</problem>
+<solution id="fs-id1167660321835">
+<para id="fs-id1167660276156">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167656878578">
+<problem id="fs-id1167662504483">
+<para id="fs-id1167656911715">Chemicals called ________ are stored in neurons and released when the cell is stimulated by a signal.</para>
+<list id="fs-id1167662550846" list-type="enumerated" number-style="lower-alpha">
+<item>toxins</item>
+<item>cytokines</item>
+<item>chemokines</item>
+<item>neurotransmitters</item>
+</list>
+</problem>
+<solution id="fs-id1167662888318">
+<para id="fs-id1167662513914">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660443112">
+<problem id="fs-id1167660305142">
+<para id="fs-id1167660152063">The central nervous system is made up of</para>
+<list id="fs-id1167660311798" list-type="enumerated" number-style="lower-alpha">
+<item>sensory organs and muscles.</item>
+<item>the brain and muscles.</item>
+<item>the sensory organs and spinal cord.</item>
+<item>the brain and spinal column.</item>
+</list>
+</problem>
+<solution id="fs-id1167660620086">
+<para id="fs-id1167660272630">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167658049359" class="matching">
+<title>Matching</title>
+<exercise id="fs-id1167657888221">
+<problem id="fs-id1167660186486">
+<para id="fs-id1167660287278">Match each strategy for microbial invasion of the CNS with its description.</para>
+<table id="fs-id1167658367007" summary="No Summary" class="unnumbered unstyled">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">___intercellular entry</entry>
+<entry valign="top" align="left">A. pathogen gains entry by infecting peripheral white blood cells</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___transcellular entry</entry>
+<entry valign="top" align="left">B. pathogen bypasses the blood-brain barrier by travel along the olfactory or trigeminal cranial nerves</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___leukocyte-facilitated entry</entry>
+<entry valign="top" align="left">C. pathogen passes through the cells of the blood-brain barrier</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___nonhematogenous entry</entry>
+<entry valign="top" align="left">D. pathogen passes between the cells of the blood-brain barrier</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+<solution id="fs-id1167660371761">
+<para id="fs-id1167662507753">D, C, A, B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167660268793" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167662516849">
+<problem id="fs-id1167660328011">
+<para id="fs-id1167662414299">The cell body of a neuron is called the ________.</para>
+</problem>
+<solution id="fs-id1167660256376">
+<para id="fs-id1167662650980">soma</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662776692">
+<problem id="fs-id1167658395911">
+<para id="fs-id1167662420194">A signal is transmitted down the ________ of a nerve cell.</para>
+</problem>
+<solution id="fs-id1167662728481">
+<para id="fs-id1167656802816">axon</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660171668">
+<problem id="fs-id1167662518798">
+<para id="fs-id1167658375750">The ________ is filled with cerebrospinal fluid.</para>
+</problem>
+<solution id="fs-id1167662519026">
+<para id="fs-id1167662895219">subarachnoid space</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662613852">
+<problem id="fs-id1167660272434">
+<para id="fs-id1167660491398">The ________ ________ prevents access of microbes in the blood from gaining access to the central nervous system.</para>
+</problem>
+<solution id="fs-id1167660663361">
+<para id="fs-id1167660186185">blood-brain barrier</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662784790">
+<problem id="fs-id1167662904596">
+<para id="fs-id1167662482649">The ________ are a set of membranes that cover and protect the brain.</para>
+</problem>
+<solution id="fs-id1167660178388">
+<para id="fs-id1167660358145">meninges</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167660322397" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167662681420">
+<problem id="fs-id1167662488814">
+<para id="fs-id1167660126992">Briefly describe the defenses of the brain against trauma and infection.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167662443183">
+<problem id="fs-id1167660149953">
+<para id="fs-id1167662870628">Describe how the blood-brain barrier is formed.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167662797635">
+<problem id="fs-id1167660175821">
+<para id="fs-id1167662502653">Identify the type of cell shown, as well as the following structures: axon, dendrite, myelin sheath, soma, and synapse.</para>
+<media id="fs-id1167660180457" alt="Drawing of a neuron. The large round regions with a darker purple circle is A. Short projections from A are G. A long projection from A is B. This is wrapped in structure E and has gaps labeled F. E is made from C. The end of the long projection is D.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_26_01_ArtConnect_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167660135267" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167660351319">
+<problem id="fs-id1167662889487">
+<para id="fs-id1167660269575">What important function does the blood-brain barrier serve? How might this barrier be problematic at times?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

@@ -1,0 +1,206 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>The Properties of Light</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58785</md:content-id>
+  <md:title>The Properties of Light</md:title>
+  <md:abstract/>
+  <md:uuid>a3102420-8dad-4811-a7a9-9c0c8421536c</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1171361466609" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1171361205297">
+<item>Identify and define the characteristics of electromagnetic radiation (EMR) used in microscopy</item>
+<item>Explain how lenses are used in microscopy to manipulate visible and ultraviolet (UV) light</item>
+</list>
+</section>
+<note id="fs-id1167793958994" class="microbiology clinical-focus">
+<title>Part 1</title>
+<para id="fs-id1167793933516">Cindy, a 17-year-old counselor at a summer sports camp, scraped her knee playing basketball 2 weeks ago. At the time, she thought it was only a minor abrasion that would heal, like many others before it. Instead, the wound began to look like an insect bite and has continued to become increasingly painful and swollen.</para>
+<para id="fs-id1167793639920">The camp nurse examines the lesion and observes a large amount of pus oozing from the surface. Concerned that Cindy may have developed a potentially aggressive infection, she swabs the wound to collect a sample from the infection site. Then she cleans out the pus and dresses the wound, instructing Cindy to keep the area clean and to come back the next day. When Cindy leaves, the nurse sends the sample to the closest medical lab to be analyzed under a microscope.</para>
+<list id="fs-id1167793275093" list-type="bulleted" bullet-style="bullet">
+<item>What are some things we can learn about these bacteria by looking at them under a microscope?</item>
+</list>
+<para id="fs-id1167793883590"><emphasis effect="italics">Jump to the <link target-id="fs-id1167794186932" document="m58787">next</link> Clinical Focus box.</emphasis></para>
+</note>
+<para id="fs-id1167794077172">Visible light consists of electromagnetic waves that behave like other waves. Hence, many of the <term class="no-emphasis">properties of light</term> that are relevant to microscopy can be understood in terms of light’s behavior as a wave. An important property of light waves is the <term>wavelength</term>, or the distance between one peak of a wave and the next peak. The height of each peak (or depth of each trough) is called the <term>amplitude</term>. In contrast, the <term>frequency</term> of the wave is the rate of vibration of the wave, or the number of wavelengths within a specified time period (<link target-id="OSC_Microbio_02_01_Freqwave"/>).</para>
+<figure id="OSC_Microbio_02_01_Freqwave">
+<media id="fs-id1167793631693" alt="Figure a shows a wavy line with evenly repeating waves upwards and downwards. A straight line through the center of the wavy line indicates the base of the waves. The distance from the peak of one wave to another is the wavelength. The distance from the baseline to the peak of a wave or the distance from the baseline to the trough of a wave is called the amplitude. Figure b shows three waves with unit time labeled across the bottom. The top line has waves that are widely spread apart. Waves with a wide wavelength have a low frequency. The bottom line has waves that are close together. Waves with a narrow wavelength have a high frequency. The middle line has a medium wavelength and therefore a medium frequency.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_02_01_Freqwave.jpg"/>
+</media>
+<caption>(a) The amplitude is the height of a wave, whereas the wavelength is the distance between one peak and the next. (b) These waves have different frequencies, or rates of vibration. The wave at the top has the lowest frequency, since it has the fewest peaks per unit time. The wave at the bottom has the highest frequency.</caption>
+</figure>
+<section id="fs-id1167793617663">
+<title>Interactions of Light</title>
+<para id="fs-id1167794226554">Light waves interact with materials by being reflected, absorbed, or transmitted. <term>Reflection</term> occurs when a wave bounces off of a material. For example, a red piece of cloth may reflect red light to our eyes while absorbing other colors of light. <term>Absorbance</term> occurs when a material captures the energy of a light wave. In the case of glow-in-the-dark plastics, the energy from light can be absorbed and then later re-emitted as another form of phosphorescence. Transmission occurs when a wave travels through a material, like light through glass (the process of transmission is called <term>transmittance</term>). When a material allows a large proportion of light to be transmitted, it may do so because it is thinner, or more transparent (having more <term>transparency</term> and less <term>opacity</term>). <link target-id="OSC_Microbio_02_01_Transparen"/> illustrates the difference between transparency and opacity.</para>
+<figure id="OSC_Microbio_02_01_Transparen">
+<media id="fs-id1167794171347" alt="Figure a shows the tips of a person’s gloved hands holding a clear plate with a lid. The plate contains a reddish material in the bottom of the plate. Figure b shows a piece of metal in a person’s hands. The material is dark with some shiny regions.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_02_01_Transparen.jpg"/>
+</media>
+<caption>(a) A Petri dish is made of transparent plastic or glass, which allows transmission of a high proportion of light. This transparency allows us to see through the sides of the dish to view the contents. (b) This slice of an iron meteorite is opaque (i.e., it has opacity). Light is not transmitted through the material, making it impossible to see the part of the hand covered by the object. (credit a: modification of work by Umberto Salvagnin; credit b: modification of work by “Waifer X”/Flickr)</caption>
+</figure>
+<para id="fs-id1167793584480">Light waves can also interact with each other by <term>interference</term>, creating complex patterns of motion. Dropping two pebbles into a puddle causes the waves on the puddle’s surface to interact, creating complex interference patterns. Light waves can interact in the same way.</para>
+<para id="fs-id1167793541955">In addition to interfering with each other, light waves can also interact with small objects or openings by bending or scattering. This is called <term>diffraction</term>. Diffraction is larger when the object is smaller relative to the wavelength of the light (the distance between two consecutive peaks of a light wave). Often, when waves diffract in different directions around an obstacle or opening, they will interfere with each other.</para>
+<note id="fs-id1167793417026" class="microbiology check-your-understanding">
+<list id="fs-id1167794327198">
+<item>If a light wave has a long wavelength, is it likely to have a low or high frequency?</item>
+<item>If an object is transparent, does it reflect, absorb, or transmit light?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167793939349">
+<title>Lenses and Refraction</title>
+<para id="fs-id1167793413992">In the context of microscopy, <term>refraction</term> is perhaps the most important behavior exhibited by light waves. Refraction occurs when light waves change direction as they enter a new medium (<link target-id="OSC_Microbio_02_01_Refraction"/>). Different transparent materials transmit light at different speeds; thus, light can change speed when passing from one material to another. This change in speed usually also causes a change in direction (refraction), with the degree of change dependent on the angle of the incoming light.</para>
+<figure id="OSC_Microbio_02_01_Refraction">
+<media id="fs-id1167794075610" alt="Picture a shows a light beam aimed at a piece of glass. When the light beam hits the transparent glass material it bends by approximately 45°. This bent light ray is the refracted ray. The opaque material which the glass is sitting upon does not have any light shining through it. Diagram b shows an arrow labeled incident ray pointing at a 45° angle down towards a shaded region. At the point where the incident ray reaches the shaded region, two other arrows begin. One of these arrows points at a 90° angle from the incident ray (and away from the shaded region) and is the reflected ray. The second arrow continues through the shaded region but at a slightly bent angle from the incident ray. This second arrow is the reflected ray.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_02_01_Refraction.jpg"/>
+</media>
+<caption>(a) Refraction occurs when light passes from one medium, such as air, to another, such as glass, changing the direction of the light rays. (b) As shown in this diagram, light rays passing from one medium to another may be either refracted or reflected.</caption>
+</figure>
+<para id="fs-id1167793880406">The extent to which a material slows transmission speed relative to empty space is called the <term>refractive index</term> of that material. Large differences between the refractive indices of two materials will result in a large amount of refraction when light passes from one material to the other. For example, light moves much more slowly through water than through air, so light entering water from air can change direction greatly. We say that the water has a higher refractive index than air (<link target-id="OSC_Microbio_02_01_Refractind"/>).</para>
+<figure id="OSC_Microbio_02_01_Refractind">
+<media id="fs-id1167794126232" alt="A photo shows a pole being placed in water. The pole looks like it bends where it hits the water.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_02_01_Refractind.jpg"/>
+</media>
+<caption>This straight pole appears to bend at an angle as it enters the water. This optical illusion is due to the large difference between the refractive indices of air and water.</caption>
+</figure>
+<para id="fs-id1167794101388">When light crosses a boundary into a material with a higher refractive index, its direction turns to be closer to perpendicular to the boundary (i.e., more toward a normal to that boundary; see <link target-id="OSC_Microbio_02_01_Refractind"/>). This is the principle behind <term class="no-emphasis">lenses</term>. We can think of a lens as an object with a curved boundary (or a collection of prisms) that collects all of the light that strikes it and refracts it so that it all meets at a single point called the <term>image point (focus)</term>. A <term class="no-emphasis">convex lens</term> can be used to magnify because it can focus at closer range than the human eye, producing a larger image. Concave lenses and mirrors can also be used in microscopes to redirect the light path. <link target-id="OSC_Microbio_02_01_Focal"/> shows the <term>focal point</term> (the image point when light entering the lens is parallel) and the <term>focal length</term> (the distance to the focal point) for convex and <term class="no-emphasis">concave lenses</term>.</para>
+<figure id="OSC_Microbio_02_01_Focal">
+<media id="fs-id1167793338736" alt="Diagram a (prism) shows a clear pyramid with light entering one surface. The light leaving the other surface is bent and is the refracted light. A dotted line indicates the path the original light beam would have taken had it not bent. The region above the dotted line is labeled high refractive index; the region below the line is labeled low refractive index. Diagram b (convex lens) shows a lens with a bulge in the center. Light enters one either side of the dome and is focused to a point past the lens and in line with the center of the dome. The point at which the light focuses is the focal point; the distance from the focal point to the center of the lens is the focal length. Diagram c (concave lens) shows a lens that curves inward on either side. Light entering this lens is bent outwards, away from the center of the lens’s curve. A dotted line shows the linear path backwards for each of the bent light beams. The point at which all the dotted lines meet (which is on the other side of the lens) is the focal point.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_02_01_Focal.jpg"/>
+</media>
+<caption>(a) A lens is like a collection of prisms, such as the one shown here. (b) When light passes through a convex lens, it is refracted toward a focal point on the other side of the lens. The focal length is the distance to the focal point. (c) Light passing through a concave lens is refracted away from a focal point in front of the lens.</caption>
+</figure>
+<para id="fs-id1167793907056">The human eye contains a lens that enables us to see images. This lens focuses the light reflecting off of objects in front of the eye onto the surface of the retina, which is like a screen in the back of the eye. Artificial lenses placed in front of the eye (contact lenses, glasses, or microscopic lenses) focus light before it is focused (again) by the lens of the eye, manipulating the image that ends up on the retina (e.g., by making it appear larger).</para>
+<para id="fs-id1167794186931">Images are commonly manipulated by controlling the distances between the object, the lens, and the screen, as well as the curvature of the lens. For example, for a given amount of curvature, when an object is closer to the lens, the focal points are farther from the lens. As a result, it is often necessary to manipulate these distances to create a focused image on a screen. Similarly, more curvature creates image points closer to the lens and a larger image when the image is in focus. This property is often described in terms of the focal distance, or distance to the focal point.</para>
+<note id="fs-id1167794292363" class="microbiology check-your-understanding">
+<list id="fs-id1167793880657">
+<item>Explain how a lens focuses light at the image point.</item>
+<item>Name some factors that affect the focal length of a lens.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167793880318">
+<title>Electromagnetic Spectrum and Color</title>
+<para id="fs-id1167793627481">Visible light is just one form of <term class="no-emphasis">electromagnetic radiation (EMR)</term>, a type of energy that is all around us. Other forms of EMR include microwaves, X-rays, and radio waves, among others. The different types of EMR fall on the electromagnetic spectrum, which is defined in terms of wavelength and frequency. The spectrum of <term class="no-emphasis">visible light</term> occupies a relatively small range of frequencies between infrared and ultraviolet light (<link target-id="OSC_Microbio_02_01_Emspectrum"/>).</para>
+<figure id="OSC_Microbio_02_01_Emspectrum">
+<media id="fs-id1167793366380" alt="A series of scales indicate that the image shows the lowest wavelength (10 superscript -18 m) on the left and the highest wavelength (10 superscript 6 m) on the right. The frequencies range from over 10 superscript 24 Hzon the left to 1 Hz on the right. The energies range from 10 superscript 12 ev on the left to 10 superscript -12 on the right. The types of radiation listed above these scales (from left to right) is: cosmic radiation, gamma rays, X-rays, ultra-violet, visible, infrared, Terahertz radiation, radar, television and radion broadcasting, and AC circuits. The visible light portion of the spectrum is pulled out and shows blue light at 400 nm, green light at 500 nm, yellow light at 600 nm, and red light at 700 nm.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_02_01_Emspectrum.jpg"/>
+</media>
+<caption>The electromagnetic spectrum ranges from high-frequency gamma rays to low-frequency radio waves. Visible light is the relatively small range of electromagnetic frequencies that can be sensed by the human eye. On the electromagnetic spectrum, visible light falls between ultraviolet and infrared light. (credit: modification of work by Johannes Ahlmann)</caption>
+</figure>
+<para id="fs-id1167793936356">Whereas wavelength represents the distance between adjacent peaks of a light wave, frequency, in a simplified definition, represents the rate of oscillation. Waves with higher frequencies have shorter wavelengths and, therefore, have more oscillations per unit time than lower-frequency waves. Higher-frequency waves also contain more energy than lower-frequency waves. This energy is delivered as elementary particles called photons. Higher-frequency waves deliver more energetic photons than lower-frequency waves.</para>
+<para id="fs-id1167793593508">Photons with different energies interact differently with the retina. In the spectrum of visible light, each <term class="no-emphasis">color</term> corresponds to a particular frequency and wavelength (<link target-id="OSC_Microbio_02_01_Emspectrum"/>).The lowest frequency of visible light appears as the color red, whereas the highest appears as the color violet. When the retina receives visible light of many different frequencies, we perceive this as white light. However, white light can be separated into its component colors using refraction. If we pass white light through a prism, different colors will be refracted in different directions, creating a rainbow-like spectrum on a screen behind the prism. This separation of colors is called <term>dispersion</term>, and it occurs because, for a given material, the refractive index is different for different frequencies of light.</para>
+<para id="fs-id1167794056678">Certain materials can refract nonvisible forms of EMR and, in effect, transform them into visible light. Certain <term>fluorescent</term> dyes, for instance, absorb ultraviolet or blue light and then use the energy to emit photons of a different color, giving off light rather than simply vibrating. This occurs because the energy absorption causes electrons to jump to higher energy states, after which they then almost immediately fall back down to their ground states, emitting specific amounts of energy as photons. Not all of the energy is emitted in a given photon, so the emitted photons will be of lower energy and, thus, of lower frequency than the absorbed ones. Thus, a dye such as Texas red may be excited by blue light, but emit red light; or a dye such as fluorescein isothiocyanate (FITC) may absorb (invisible) high-energy ultraviolet light and emit green light (<link target-id="OSC_Microbio_02_01_Fluorescen"/>). In some materials, the photons may be emitted following a delay after absorption; in this case, the process is called <term>phosphorescence</term>. Glow-in-the-dark plastic works by using phosphorescent material.</para>
+<figure id="OSC_Microbio_02_01_Fluorescen">
+<media id="fs-id1167793985684" alt="An image shows a large cell in the foreground and other cells further in the background. Each cell has an irregular shape with a large blue circle in the center. Green lines surround the blue circle and span out towards the edges of the cell. The rest of the cell is red with a bright red edge. The background of the image is black.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_02_01_Fluorescen.jpg"/>
+</media>
+<caption>The fluorescent dyes absorbed by these bovine pulmonary artery endothelial cells emit brilliant colors when excited by ultraviolet light under a fluorescence microscope. Various cell structures absorb different dyes. The nuclei are stained blue with 4’,6-diamidino-2-phenylindole (DAPI); microtubles are marked green by an antibody bound to FITC; and actin filaments are labeled red with phalloidin bound to tetramethylrhodamine (TRITC). (credit: National Institutes of Health)</caption>
+</figure>
+<note id="fs-id1167793548005" class="microbiology check-your-understanding">
+<list id="fs-id1167793392194">
+<item>Which has a higher frequency: red light or green light?</item>
+<item>Explain why dispersion occurs when white light passes through a prism.</item>
+<item>Why do fluorescent dyes emit a different color of light than they absorb?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167793640050">
+<title>Magnification, Resolution, and Contrast</title>
+<para id="fs-id1167794100419">Microscopes magnify images and use the properties of light to create useful images of small objects. <term>Magnification</term> is defined as the ability of a lens to enlarge the image of an object when compared to the real object. For example, a magnification of 10⨯ means that the image appears 10 times the size of the object as viewed with the naked eye.</para>
+<para id="fs-id1167793262742">Greater magnification typically improves our ability to see details of small objects, but magnification alone is not sufficient to make the most useful images. It is often useful to enhance the <term>resolution</term> of objects: the ability to tell that two separate points or objects are separate. A low-resolution image appears fuzzy, whereas a high-resolution image appears sharp. Two factors affect resolution. The first is wavelength. Shorter wavelengths are able to resolve smaller objects; thus, an electron microscope has a much higher resolution than a light microscope, since it uses an electron beam with a very short wavelength, as opposed to the long-wavelength visible light used by a light microscope. The second factor that affects resolution is <term>numerical aperture</term>, which is a measure of a lens’s ability to gather light. The higher the numerical aperture, the better the resolution.</para>
+<note id="fs-id1167794099049" class="microbiology link-to-learning">
+
+<para id="fs-id1167794227719">Read this <link url="https://www.openstax.org/l/22aperture">article</link> to learn more about factors that can increase or decrease the numerical aperture of a lens.</para>
+</note>
+<para id="fs-id1167793398723">Even when a microscope has high resolution, it can be difficult to distinguish small structures in many specimens because microorganisms are relatively transparent. It is often necessary to increase <term>contrast</term> to detect different structures in a specimen. Various types of microscopes use different features of light or electrons to increase contrast—visible differences between the parts of a specimen (see <link document="m58787">Instruments of Microscopy</link>). Additionally, dyes that bind to some structures but not others can be used to improve the contrast between images of relatively transparent objects (see <link document="m58788">Staining Microscopic Specimens</link>).</para>
+<note id="fs-id1167794042749" class="microbiology check-your-understanding">
+<list id="fs-id1167793931049">
+<item>Explain the difference between magnification and resolution.</item>
+<item>Explain the difference between resolution and contrast.</item>
+<item>Name two factors that affect resolution.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167794188340" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167793883703" list-type="bulleted" bullet-style="bullet">
+<item>Light waves interacting with materials may be <emphasis effect="bold">reflected</emphasis>, <emphasis effect="bold">absorbed</emphasis>, or <emphasis effect="bold">transmitted</emphasis>, depending on the properties of the material.</item>
+<item>Light waves can interact with each other (<emphasis effect="bold">interference</emphasis>) or be distorted by interactions with small objects or openings (<emphasis effect="bold">diffraction</emphasis>).</item>
+<item><emphasis effect="bold">Refraction</emphasis> occurs when light waves change speed and direction as they pass from one medium to another. Differences in the <emphasis effect="bold">refraction indices</emphasis> of two materials determine the magnitude of directional changes when light passes from one to the other.</item>
+<item>A <emphasis effect="bold">lens</emphasis> is a medium with a curved surface that refracts and focuses light to produce an image.</item>
+<item>Visible light is part of the <emphasis effect="bold">electromagnetic spectrum</emphasis>; light waves of different frequencies and wavelengths are distinguished as colors by the human eye.</item>
+<item>A prism can separate the colors of white light (<emphasis effect="bold">dispersion</emphasis>) because different frequencies of light have different refractive indices for a given material.</item>
+<item><emphasis effect="bold">Fluorescent dyes</emphasis> and <emphasis effect="bold">phosphorescent</emphasis> materials can effectively transform nonvisible electromagnetic radiation into visible light.</item>
+<item>The power of a microscope can be described in terms of its <emphasis effect="bold">magnification</emphasis> and <emphasis effect="bold">resolution</emphasis>.</item>
+<item>Resolution can be increased by shortening wavelength, increasing the <emphasis effect="bold">numerical aperture</emphasis> of the lens, or using stains that enhance contrast.</item>
+</list>
+</section>
+<section id="fs-id1167794212590" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167793420863">
+<problem id="fs-id1167794118733">
+<para id="fs-id1167793847672">Which of the following has the highest energy?</para>
+<list id="fs-id1167794039505" list-type="enumerated" number-style="upper-alpha">
+<item>light with a long wavelength</item>
+<item>light with an intermediate wavelength</item>
+<item>light with a short wavelength</item>
+<item>It is impossible to tell from the information given.</item>
+</list>
+</problem>
+<solution id="fs-id1167793276893">
+<para id="fs-id1167794200496">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167793775970">
+<problem id="fs-id1167793927719">
+<para id="fs-id1167794056038">You place a specimen under the microscope and notice that parts of the specimen begin to emit light immediately. These materials can be described as _____________.</para>
+<list id="fs-id1167794213072" list-type="enumerated" number-style="upper-alpha">
+<item>fluorescent</item>
+<item>phosphorescent</item>
+<item>transparent</item>
+<item>opaque</item>
+</list>
+</problem>
+<solution id="fs-id1172101621299">
+<para id="fs-id1172101668460">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167793928284" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167793857193">
+<problem id="fs-id1167794171377">
+<para id="fs-id1167793924710">When you see light bend as it moves from air into water, you are observing _________.</para>
+</problem>
+<solution id="fs-id1172101613640">
+<para id="fs-id1172101770594">refraction</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167793958171" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167793856869">
+<problem id="fs-id1167793417235">
+<para id="fs-id1167793882844">Explain how a prism separates white light into different colors.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1171361412731" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167793770967">
+<problem id="fs-id1167793956354">
+<para id="fs-id1167794072751">In <link target-id="OSC_Microbio_02_01_Emspectrum"/>, which of the following has the lowest energy?</para>
+<list id="fs-id1167793398777" list-type="enumerated" number-style="upper-alpha">
+<item>visible light</item>
+<item>X-rays</item>
+<item>ultraviolet rays</item>
+<item>infrared rays</item>
+</list>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

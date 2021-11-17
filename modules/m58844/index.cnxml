@@ -1,0 +1,426 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Mutations</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58844</md:content-id>
+  <md:title>Mutations</md:title>
+  <md:abstract/>
+  <md:uuid>84743121-12c7-4d3d-ad46-a4b11a6e1e2c</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167660292708" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167660181643">
+<item>Compare point mutations and frameshift mutations</item>
+<item>Describe the differences between missense, nonsense, and silent mutations</item>
+<item>Describe the differences between light and dark repair</item>
+<item>Explain how different mutagens act</item>
+<item>Explain why the Ames test can be used to detect carcinogens</item>
+<item>Analyze sequences of DNA and identify examples of types of mutations</item>
+</list>
+</section>
+<para id="fs-id1167662516007">A <term>mutation</term> is a heritable change in the DNA sequence of an organism. The resulting organism, called a <term>mutant</term>, may have a recognizable change in <term class="no-emphasis">phenotype</term> compared to the <term>wild type</term>, which is the phenotype most commonly observed in nature. A change in the DNA sequence is conferred to mRNA through transcription, and may lead to an altered amino acid sequence in a protein on translation. Because proteins carry out the vast majority of cellular functions, a change in amino acid sequence in a protein may lead to an altered phenotype for the cell and organism.</para>
+<section id="fs-id1167660287011">
+<title>Effects of Mutations on DNA Sequence</title>
+<para id="fs-id1167662484638">There are several types of mutations that are classified according to how the DNA molecule is altered. One type, called a <term>point mutation</term>, affects a single base and most commonly occurs when one base is substituted or replaced by another. Mutations also result from the addition of one or more bases, known as an <term>insertion</term>, or the removal of one or more bases, known as a <term>deletion</term>.</para>
+<note id="fs-id1167660136749" class="microbiology check-your-understanding">
+<list id="fs-id1167658365899" list-type="bulleted" bullet-style="bullet">
+<item>What type of a mutation occurs when a gene has two fewer nucleotides in its sequence?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167662507784">
+<title>Effects of Mutations on Protein Structure and Function</title>
+<para id="fs-id1167660347111">Point mutations may have a wide range of effects on protein function (<link target-id="OSC_Microbio_11_05_EffMut"/>). As a consequence of the <term class="no-emphasis">degeneracy</term> of the genetic code, a point mutation will commonly result in the same amino acid being incorporated into the resulting polypeptide despite the sequence change. This change would have no effect on the protein’s structure, and is thus called a <term>silent mutation</term>. A <term>missense mutation</term> results in a different amino acid being incorporated into the resulting polypeptide. The effect of a missense mutation depends on how chemically different the new amino acid is from the wild-type amino acid. The location of the changed amino acid within the protein also is important. For example, if the changed amino acid is part of the enzyme’s <term class="no-emphasis">active site</term>, then the effect of the missense mutation may be significant. Many missense mutations result in proteins that are still functional, at least to some degree. Sometimes the effects of missense mutations may be only apparent under certain environmental conditions; such missense mutations are called <term>conditional mutation</term>s. Rarely, a missense mutation may be beneficial. Under the right environmental conditions, this type of mutation may give the organism that harbors it a selective advantage. Yet another type of point mutation, called a <term>nonsense mutation</term>, converts a codon encoding an amino acid (a sense codon) into a stop codon (a nonsense codon). Nonsense mutations result in the synthesis of proteins that are shorter than the wild type and typically not functional.</para>
+<para id="fs-id1167660216590">Deletions and insertions also cause various effects. Because codons are triplets of nucleotides, insertions or deletions in groups of three nucleotides may lead to the insertion or deletion of one or more amino acids and may not cause significant effects on the resulting protein’s functionality. However, <term>frameshift mutation</term>s, caused by insertions or deletions of a number of nucleotides that are not a multiple of three are extremely problematic because a shift in the reading frame results (<link target-id="OSC_Microbio_11_05_EffMut"/>). Because ribosomes read the mRNA in triplet codons, frameshift mutations can change every amino acid after the point of the mutation. The new reading frame may also include a stop codon before the end of the coding sequence. Consequently, proteins made from genes containing frameshift mutations are nearly always nonfunctional.</para>
+<figure id="OSC_Microbio_11_05_EffMut">
+<media id="fs-id1167662497167" alt="Diagram of point mutations: substitution of a single base. A silent mutation has no effect on the protein sequence. The diagram shows a single letter change in the DNA which produces an RNA with a single letter that is different, however the protein is still the same. Missense results in an amino acid substitution. In this example the DNA has a single letter that has changed, which produces a single letter that is different on the mRNA, which produces a single amino acid that is different in the polypeptide chain. Nonsense mutations occur when a stop codon is substituted for an amino acid. The DNA has a single letter change, which changes one amino acid the mRNA, which produces a stop codon where there was an amino acid. Frameshift mutations are insertions or deletions of one or more bases which results in a reading frame shift. Two letters are deleted in the DNA strand which produces a shorter RNA strand which produces an entirely different protein.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_05_EffMut.jpg"/>
+</media>
+<caption>Mutations can lead to changes in the protein sequence encoded by the DNA.</caption>
+</figure>
+<note id="fs-id1167662400740" class="microbiology check-your-understanding">
+<list id="fs-id1167662479268" list-type="bulleted" bullet-style="bullet">
+<item>What are the reasons a nucleotide change in a gene for a protein might not have any effect on the phenotype of that gene?</item>
+<item>Is it possible for an insertion of three nucleotides together after the fifth nucleotide in a protein-coding gene to produce a protein that is shorter than normal? How or how not?</item>
+</list>
+</note>
+<note id="fs-id1167662759238" class="microbiology micro-connection">
+<title>A Beneficial Mutation</title>
+<para id="fs-id1167662777251">Since the first case of infection with human immunodeficiency virus (HIV) was reported in 1981, nearly 40 million people have died from HIV infection,<footnote id="fs-id1167660275153">World Health Organization. “ Global Health Observatory (GHO) Data, HIV/AIDS.” http://www.who.int/gho/hiv/en/. Accessed August 5, 2016.</footnote> the virus that causes acquired immune deficiency syndrome (AIDS). The virus targets helper T cells that play a key role in bridging the innate and adaptive immune response, infecting and killing cells normally involved in the body’s response to infection. There is no cure for HIV infection, but many drugs have been developed to slow or block the progression of the virus. Although individuals around the world may be infected, the highest prevalence among people 15–49 years old is in sub-Saharan Africa, where nearly one person in 20 is infected, accounting for greater than 70% of the infections worldwide<footnote id="fs-id1167662394308">World Health Organization. “ Global Health Observatory (GHO) Data, HIV/AIDS.” http://www.who.int/gho/hiv/en/. Accessed August 5, 2016.</footnote> (<link target-id="OSC_Microbio_11_05_HIVPrev"/>). Unfortunately, this is also a part of the world where prevention strategies and drugs to treat the infection are the most lacking.</para>
+<para id="fs-id1167660179091">In recent years, scientific interest has been piqued by the discovery of a few individuals from northern Europe who are resistant to HIV infection. In 1998, American geneticist Stephen J. O’Brien at the National Institutes of Health (NIH) and colleagues published the results of their genetic analysis of more than 4,000 individuals. These indicated that many individuals of Eurasian descent (up to 14% in some ethnic groups) have a deletion mutation, called CCR5-delta 32, in the gene encoding CCR5. CCR5 is a coreceptor found on the surface of T cells that is necessary for many strains of the virus to enter the host cell. The mutation leads to the production of a receptor to which HIV cannot effectively bind and thus blocks viral entry. People homozygous for this mutation have greatly reduced susceptibility to HIV infection, and those who are heterozygous have some protection from infection as well.</para>
+<para id="fs-id1167662600083">It is not clear why people of northern European descent, specifically, carry this mutation, but its prevalence seems to be highest in northern Europe and steadily decreases in populations as one moves south. Research indicates that the mutation has been present since before HIV appeared and may have been selected for in European populations as a result of exposure to the plague or smallpox. This mutation may protect individuals from plague (caused by the bacterium <emphasis effect="italics">Yersinia pestis</emphasis>) and smallpox (caused by the variola virus) because this receptor may also be involved in these diseases. The age of this mutation is a matter of debate, but estimates suggest it appeared between 1875 years to 225 years ago, and may have been spread from Northern Europe through Viking invasions.</para>
+<para id="fs-id1167662689476">This exciting finding has led to new avenues in HIV research, including looking for drugs to block CCR5 binding to HIV in individuals who lack the mutation. Although DNA testing to determine which individuals carry the CCR5-delta 32 mutation is possible, there are documented cases of individuals homozygous for the mutation contracting HIV. For this reason, DNA testing for the mutation is not widely recommended by public health officials so as not to encourage risky behavior in those who carry the mutation. Nevertheless, inhibiting the binding of HIV to CCR5 continues to be a valid strategy for the development of drug therapies for those infected with HIV.</para>
+<figure id="OSC_Microbio_11_05_HIVPrev">
+<media id="fs-id1167662690085" alt="Map of global prevalence of HIV in 2015. Global rate is 0.8%. Middle East and North Africa = 0.1%. Asia and the Pacific = 0.2%. Western and Central Europe and North America = 0.3%. Latin America and the Caribbean = 0.5%. Eastern Europe and Central Asia = 0.9%. West and Central Africa = 2.2%. East and Southern Africa = 7.1%">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_05_HIVPrev.jpg"/>
+</media>
+<caption>HIV is highly prevalent in sub-Saharan Africa, but its prevalence is quite low in some other parts of the world.</caption>
+</figure>
+</note>
+</section>
+<section id="fs-id1167662472923">
+<title>Causes of Mutations</title>
+<para id="fs-id1167662794437">Mistakes in the process of DNA replication can cause <term>spontaneous mutation</term><emphasis effect="bold">s</emphasis> to occur. The error rate of <term class="no-emphasis">DNA polymerase</term> is one incorrect base per billion base pairs replicated. Exposure to <term>mutagen</term><emphasis effect="bold">s</emphasis> can cause <term>induced mutation</term><emphasis effect="bold">s</emphasis>, which are various types of chemical agents or radiation (<link target-id="fs-id1167662401623"/>). Exposure to a mutagen can increase the rate of mutation more than 1000-fold. Mutagens are often also <term>carcinogen</term><emphasis effect="bold">s</emphasis>, agents that cause cancer. However, whereas nearly all carcinogens are mutagenic, not all mutagens are necessarily carcinogens.</para>
+<section id="fs-id1167662441399">
+<title>Chemical Mutagens</title>
+<para id="fs-id1167660131933">Various types of chemical mutagens interact directly with DNA either by acting as nucleoside analogs or by modifying nucleotide bases. Chemicals called <term>nucleoside analog</term><emphasis effect="bold">s</emphasis> are structurally similar to normal nucleotide bases and can be incorporated into DNA during replication (<link target-id="OSC_Microbio_11_05_NucAnMod"/>). These base analogs induce mutations because they often have different base-pairing rules than the bases they replace. Other chemical mutagens can modify normal DNA bases, resulting in different base-pairing rules. For example, nitrous acid deaminates cytosine, converting it to uracil. Uracil then pairs with adenine in a subsequent round of replication, resulting in the conversion of a GC base pair to an AT base pair. Nitrous acid also deaminates adenine to hypoxanthine, which base pairs with cytosine instead of thymine, resulting in the conversion of a TA base pair to a CG base pair.</para>
+<para id="fs-id1167662911256">Chemical mutagens known as <term>intercalating agent</term><emphasis effect="bold">s</emphasis> work differently. These molecules slide between the stacked nitrogenous bases of the DNA double helix, distorting the molecule and creating atypical spacing between nucleotide base pairs (<link target-id="OSC_Microbio_11_05_Intercal"/>). As a result, during DNA replication, DNA polymerase may either skip replicating several nucleotides (creating a <term class="no-emphasis">deletion</term>) or insert extra nucleotides (creating an <term class="no-emphasis">insertion</term>). Either outcome may lead to a <term class="no-emphasis">frameshift mutation</term>. Combustion products like polycyclic aromatic hydrocarbons are particularly dangerous intercalating agents that can lead to mutation-caused cancers. The intercalating agents <term class="no-emphasis">ethidium bromide</term> and <term class="no-emphasis">acridine orange</term> are commonly used in the laboratory to stain DNA for visualization and are potential mutagens.</para>
+<figure id="OSC_Microbio_11_05_NucAnMod">
+<media id="fs-id1167662520716" alt="Diagram showing analogs of normal nitrogenous bases. Adenine nucleoside has a double ring of carbon and nitrogen with an NH2 group attached at one of the carbons. The analog 2-aminopurine nucleoside has an H attached to this carbon. Thymine nucleoside has a single carbon nitrogen ring with a CH3 attached to the carbon at the bottom of the ring. The analog 5-bromouracil nucleoside has a Br attached to this carbon. Cytosine has a single carbon and nitrogen ring with an NH2 at one of the carbons. Nitrous acid (NHO2) replaces the NH2 with a double bonded O. This converts the cytosine to a uracil with now binds with adenine instead of guanine.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_05_NucAnMod.jpg"/>
+</media>
+<caption>(a) 2-aminopurine nucleoside (2AP) structurally is a nucleoside analog to adenine nucleoside, whereas 5-bromouracil (5BU) is a nucleoside analog to thymine nucleoside. 2AP base pairs with C, converting an AT base pair to a GC base pair after several rounds of replication. 5BU pairs with G, converting an AT base pair to a GC base pair after several rounds of replication. (b) Nitrous acid is a different type of chemical mutagen that modifies already existing nucleoside bases like C to produce U, which base pairs with A. This chemical modification, as shown here, results in converting a CG base pair to a TA base pair.</caption>
+</figure>
+<figure id="OSC_Microbio_11_05_Intercal">
+<media id="fs-id1167662490555" alt="Acridine (a molecule with 3 rings and a nitrogen group at either end binds between the two strands of a normal parent DNA. When this is replicated nucleotides can either be deleted or added to produce DNA that is either shorter or longer than the original parent molecule.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_05_Intercal.jpg"/>
+</media>
+<caption>Intercalating agents, such as acridine, introduce atypical spacing between base pairs, resulting in DNA polymerase introducing either a deletion or an insertion, leading to a potential frameshift mutation.</caption>
+</figure>
+</section>
+<section id="fs-id1167662496992">
+<title>Radiation</title>
+<para id="fs-id1167662492752">Exposure to either ionizing or nonionizing radiation can each induce mutations in DNA, although by different mechanisms. Strong <term>ionizing radiation</term> like <term class="no-emphasis">X-rays</term> and <term class="no-emphasis">gamma rays</term> can cause single- and double-stranded breaks in the DNA backbone through the formation of hydroxyl radicals on radiation exposure (<link target-id="OSC_Microbio_11_05_Rad"/>). Ionizing radiation can also modify bases; for example, the deamination of cytosine to uracil, analogous to the action of nitrous acid.<footnote id="fs-id1167660206942">K.R. Tindall et al. “Changes in DNA Base Sequence Induced by Gamma-Ray Mutagenesis of Lambda Phage and Prophage.” <emphasis effect="italics">Genetics</emphasis> 118 no. 4 (1988):551–560.</footnote> Ionizing radiation exposure is used to kill microbes to sterilize medical devices and foods, because of its dramatic nonspecific effect in damaging DNA, proteins, and other cellular components (see <link document="m58854">Using Physical Methods to Control Microorganisms</link>).</para>
+<para id="fs-id1167662683375">Nonionizing radiation, like ultraviolet light, is not energetic enough to initiate these types of chemical changes. However, <term>nonionizing radiation</term> can induce dimer formation between two adjacent pyrimidine bases, commonly two thymines, within a nucleotide strand. During <term>thymine dimer</term> formation, the two adjacent thymines become covalently linked and, if left unrepaired, both DNA replication and transcription are stalled at this point. DNA polymerase may proceed and replicate the dimer incorrectly, potentially leading to frameshift or point mutations.</para>
+<figure id="OSC_Microbio_11_05_Rad">
+<media id="fs-id1167662383166" alt="a) Ionizing radiation (such as X-rays or gamma-rays) create double stranded breaks in DNA (breaks in the backbone). B) Non-ionizing radiation (such as ultraviolet light) causes Ts on the same strand of DNA to bind to each other rather than to the As across from them. This causes a kink in the DNA strand.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_05_Rad.jpg"/>
+</media>
+<caption>(a) Ionizing radiation may lead to the formation of single-stranded and double-stranded breaks in the sugar-phosphate backbone of DNA, as well as to the modification of bases (not shown). (b) Nonionizing radiation like ultraviolet light can lead to the formation of thymine dimers, which can stall replication and transcription and introduce frameshift or point mutations.</caption>
+</figure>
+<table id="fs-id1167662401623" summary="Table titled: A Summary of Mutagenic Agents. Columns: Mutagenic Agents; Mode of Action; Effect on DNA; Resulting Type of Mutation. First grouping is Nucleoside analogs. Mutagenic Agent: 2-aminopurine; Is inserted in place of A but base pairs with C;l converts AT to GC base pair; Point. Mutagenic Agent: 5-bromouracil ; Is inserted in place of T but base pairs with G; Converts AT to GC base pair; Point. Next groupin is Nucleotide-modifying agent. Mutagenic Agent: Nitrous oxide; Deaminates C to U; Converts GC to AT base pair; Point. Next group is: Intercalating agents. Mutagenic Agent: Acridine; orange, ethidium bromide, polycyclic aromatic hydrocarbons; Distorts double helix, creates unusual spacing between nucleotides; Introduces small deletions and insertions; Frameshift. Next group is Ionizing radiation. Mutagenic Agent: X-rays, γ-rays; Forms hydroxyl radicals; Causes single- and double-strand DNA breaks; Repair mechanisms may introduce mutations. Mutagenic Agent: X-rays, γ-rays; Modifies bases (e.g., deaminating C to U); Converts GC to AT base pair; Point. Next group is: Nonionizing radiation. Mutagenic Agent: Ultraviolet; Forms pyrimidine (usually thymine) dimers; Causes DNA replication errors; Frameshift or point." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c4">A Summary of Mutagenic Agents</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mutagenic Agents</entry>
+<entry valign="top" align="left">Mode of Action</entry>
+<entry valign="top" align="left">Effect on DNA</entry>
+<entry valign="top" align="left">Resulting Type of Mutation</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Nucleoside analogs</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">2-aminopurine</entry>
+<entry valign="top" align="left">Is inserted in place of A but base pairs with C</entry>
+<entry valign="top" align="left">Converts AT to GC base pair</entry>
+<entry valign="top" align="left">Point</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">5-bromouracil</entry>
+<entry valign="top" align="left">Is inserted in place of T but base pairs with G</entry>
+<entry valign="top" align="left">Converts AT to GC base pair</entry>
+<entry valign="top" align="left">Point</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c4">Nucleotide-modifying agent</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Nitrous oxide</entry>
+<entry valign="top" align="left">Deaminates C to U</entry>
+<entry valign="top" align="left">Converts GC to AT base pair</entry>
+<entry valign="top" align="left">Point</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Intercalating agents</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Acridine orange, ethidium bromide, polycyclic aromatic hydrocarbons</entry>
+<entry valign="top" align="left">Distorts double helix, creates unusual spacing between nucleotides</entry>
+<entry valign="top" align="left">Introduces small deletions and insertions</entry>
+<entry valign="top" align="left">Frameshift</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c4">Ionizing radiation</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">X-rays, γ-rays</entry>
+<entry valign="top" align="left">Forms hydroxyl radicals</entry>
+<entry valign="top" align="left">Causes single- and double-strand DNA breaks</entry>
+<entry valign="top" align="left">Repair mechanisms may introduce mutations</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">X-rays, γ-rays</entry>
+<entry valign="top" align="left">Modifies bases (e.g., deaminating C to U)</entry>
+<entry valign="top" align="left">Converts GC to AT base pair</entry>
+<entry valign="top" align="left">Point</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Nonionizing radiation</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Ultraviolet</entry>
+<entry valign="top" align="left">Forms pyrimidine (usually thymine) dimers</entry>
+<entry valign="top" align="left">Causes DNA replication errors</entry>
+<entry valign="top" align="left">Frameshift or point</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1167662406213" class="microbiology check-your-understanding">
+<list id="fs-id1167660319062" list-type="bulleted" bullet-style="bullet">
+<item>How does a base analog introduce a mutation?</item>
+<item>How does an intercalating agent introduce a mutation?</item>
+<item>What type of mutagen causes thymine dimers?</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1167662703108">
+<title>DNA Repair</title>
+<para id="fs-id1167662428589">The process of <term class="no-emphasis">DNA replication</term> is highly accurate, but mistakes can occur spontaneously or be induced by mutagens. Uncorrected mistakes can lead to serious consequences for the phenotype. Cells have developed several repair mechanisms to minimize the number of mutations that persist.</para>
+<section id="fs-id1167660416934">
+<title>Proofreading</title>
+<para id="fs-id1167660291053">Most of the mistakes introduced during DNA replication are promptly corrected by most <term class="no-emphasis">DNA polymerase</term>s through a function called proofreading. In <term class="no-emphasis">proofreading</term>, the DNA polymerase reads the newly added base, ensuring that it is complementary to the corresponding base in the template strand before adding the next one. If an incorrect base has been added, the enzyme makes a cut to release the wrong nucleotide and a new base is added.</para>
+</section>
+<section id="fs-id1167660185544">
+<title>Mismatch Repair</title>
+<para id="fs-id1167662421193">Some errors introduced during replication are corrected shortly after the replication machinery has moved. This mechanism is called <term class="no-emphasis">mismatch repair</term>. The enzymes involved in this mechanism recognize the incorrectly added nucleotide, excise it, and replace it with the correct base. One example is the methyl-directed mismatch repair in <term class="no-emphasis"><emphasis effect="italics">E. coli</emphasis></term>. The DNA is hemimethylated. This means that the parental strand is methylated while the newly synthesized daughter strand is not. It takes several minutes before the new strand is methylated. Proteins MutS, MutL, and MutH bind to the hemimethylated site where the incorrect nucleotide is found. MutH cuts the nonmethylated strand (the new strand). An exonuclease removes a portion of the strand (including the incorrect nucleotide). The gap formed is then filled in by DNA pol III and ligase.</para>
+</section>
+<section id="fs-id1167660260660">
+<title>Repair of Thymine Dimers</title>
+<para id="fs-id1167662593498">Because the production of <term class="no-emphasis">thymine dimer</term>s is common (many organisms cannot avoid ultraviolet light), mechanisms have evolved to repair these lesions. In <term>nucleotide excision repair</term> (also called dark repair), enzymes remove the pyrimidine dimer and replace it with the correct nucleotides (<link target-id="OSC_Microbio_11_05_ThyDiRep"/>). In <emphasis effect="italics">E. coli</emphasis>, the DNA is scanned by an enzyme complex. If a distortion in the double helix is found that was introduced by the pyrimidine dimer, the enzyme complex cuts the sugar-phosphate backbone several bases upstream and downstream of the dimer, and the segment of DNA between these two cuts is then enzymatically removed. DNA pol I replaces the missing nucleotides with the correct ones and DNA ligase seals the gap in the sugar-phosphate backbone.</para>
+<para id="fs-id1167662777120">The <term>direct repair</term> (also called light repair) of thymine dimers occurs through the process of <term>photoreactivation</term> in the presence of visible light. An enzyme called <term class="no-emphasis">photolyase</term> recognizes the distortion in the DNA helix caused by the thymine dimer and binds to the dimer. Then, in the presence of visible light, the photolyase enzyme changes conformation and breaks apart the thymine dimer, allowing the thymines to again correctly base pair with the adenines on the complementary strand. Photoreactivation appears to be present in all organisms, with the exception of placental mammals, including humans. Photoreactivation is particularly important for organisms chronically exposed to <term class="no-emphasis">ultraviolet radiation</term>, like plants, photosynthetic bacteria, algae, and corals, to prevent the accumulation of mutations caused by thymine dimer formation.</para>
+<figure id="OSC_Microbio_11_05_ThyDiRep">
+<media id="fs-id1167662399107" alt="a) Diagram of nucleotide excision repair. A thymine dimer is when 2 Ts are bound to each other rather than to the As across from them. This damage is recognized and a large section of DNA on either side of the dimer is removed. Nuclease is used to cut the strands and helicase removes the damaged section. DNA pol I and DNA ligase make the repairs. B) in photoreactivation, an enzyme called photolyase sits binds to the thymine dimer and breaks the bonds between the Ts. The Ts can then bind to the As across from them.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_05_ThyDiRep.jpg"/>
+</media>
+<caption>Bacteria have two mechanisms for repairing thymine dimers. (a) In nucleotide excision repair, an enzyme complex recognizes the distortion in the DNA complex around the thymine dimer and cuts and removes the damaged DNA strand. The correct nucleotides are replaced by DNA pol I and the nucleotide strand is sealed by DNA ligase. (b) In photoreactivation, the enzyme photolyase binds to the thymine dimer and, in the presence of visible light, breaks apart the dimer, restoring the base pairing of the thymines with complementary adenines on the opposite DNA strand.</caption>
+</figure>
+<note id="fs-id1167662464758" class="microbiology check-your-understanding">
+<list id="fs-id1167656769790" list-type="bulleted" bullet-style="bullet">
+<item>During mismatch repair, how does the enzyme recognize which is the new and which is the old strand?</item>
+<item>What type of mutation does photolyase repair?</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1167662593582">
+<title>Identifying Bacterial Mutants</title>
+<para id="fs-id1167662740058">One common technique used to identify bacterial mutants is called <term>replica plating</term>. This technique is used to detect nutritional mutants, called <term>auxotroph</term>s, which have a mutation in a gene encoding an enzyme in the biosynthesis pathway of a specific nutrient, such as an amino acid. As a result, whereas wild-type cells retain the ability to grow normally on a medium lacking the specific nutrient, auxotrophs are unable to grow on such a medium. During replica plating (<link target-id="OSC_Microbio_11_05_PosNegSel"/>), a population of bacterial cells is mutagenized and then plated as individual cells on a complex nutritionally complete plate and allowed to grow into colonies. Cells from these colonies are removed from this master plate, often using sterile velvet. This velvet, containing cells, is then pressed in the same orientation onto plates of various media. At least one plate should also be nutritionally complete to ensure that cells are being properly transferred between the plates. The other plates lack specific nutrients, allowing the researcher to discover various auxotrophic mutants unable to produce specific nutrients. Cells from the corresponding colony on the nutritionally complete plate can be used to recover the mutant for further study.</para>
+<note id="fs-id1167660404740" class="microbiology check-your-understanding">
+<list id="fs-id1167660587186" list-type="bulleted" bullet-style="bullet">
+<item>Why are cells plated on a nutritionally complete plate in addition to nutrient-deficient plates when looking for a mutant?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167662736899">
+<title>The Ames Test</title>
+<para id="fs-id1167662551309">The <term>Ames test</term>, developed by Bruce <term class="no-emphasis">Ames</term> (1928–) in the 1970s, is a method that uses bacteria for rapid, inexpensive screening of the carcinogenic potential of new chemical compounds. The test measures the mutation rate associated with exposure to the compound, which, if elevated, may indicate that exposure to this compound is associated with greater cancer risk. The Ames test uses as the test organism a strain of <term class="no-emphasis"><emphasis effect="italics">Salmonella typhimurium</emphasis></term> that is a histidine auxotroph, unable to synthesize its own histidine because of a mutation in an essential gene required for its synthesis. After exposure to a potential mutagen, these bacteria are plated onto a medium lacking histidine, and the number of mutants regaining the ability to synthesize histidine is recorded and compared with the number of such mutants that arise in the absence of the potential mutagen (<link target-id="OSC_Microbio_11_05_Ames"/>). Chemicals that are more mutagenic will bring about more mutants with restored histidine synthesis in the Ames test. Because many chemicals are not directly mutagenic but are metabolized to mutagenic forms by liver enzymes, rat liver extract is commonly included at the start of this experiment to mimic liver metabolism. After the Ames test is conducted, compounds identified as mutagenic are further tested for their potential carcinogenic properties by using other models, including animal models like mice and rats.</para>
+<figure id="OSC_Microbio_11_05_PosNegSel">
+<media id="fs-id1167662759186" alt="Diagram of the process of identifying auxotrophic mutants. First a medium containing histidine grows colonies of bacteria. Then, a sterile velvet surface is pressed onto the plate to pick up cells from bacterial colonies. Next the cells on the velvet are transferred to new plates, one with histidine and one without. A mark on the plate ensures that the orientation of the colonies is the same for all plates. After the plates are incubated, compare the growth on the plates to identify auxotrophic mutants that grow on medium containing histidine but do not grow on medium lacking histidine. A colony that is missing on the medium lacking histamine but present on the medium with histamine is the auxotrophic mutant.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_05_PosNegSel.jpg"/>
+</media>
+<caption>Identification of auxotrophic mutants, like histidine auxotrophs, is done using replica plating. After mutagenesis, colonies that grow on nutritionally complete medium but not on medium lacking histidine are identified as histidine auxotrophs.</caption>
+</figure>
+<figure id="OSC_Microbio_11_05_Ames">
+<media id="fs-id1167662904865" alt="Diagram of the Ames test. 1 – Add rat liver extract and Salmonella to control tube. Add rat liver extract, possible mutagen, and Salmonella to experimental tube. The Salmonella strain in this test requires histidine. 2 – Plant and incubate both samples using medium lacking histidine. 3 – Compare growth on plates to identify revertants, which suggest mutagen causes mutations. In the image the plate without the possible mutagen has a few colonies (control with natural revertants). The plate from the sample with the possible mutagen has many colonies (high number of revertants his- to his+).">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_05_Ames.jpg"/>
+</media>
+<caption>The Ames test is used to identify mutagenic, potentially carcinogenic chemicals. A <emphasis effect="italics">Salmonella</emphasis> histidine auxotroph is used as the test strain, exposed to a potential mutagen/carcinogen. The number of reversion mutants capable of growing in the absence of supplied histidine is counted and compared with the number of natural reversion mutants that arise in the absence of the potential mutagen.</caption>
+</figure>
+<note id="fs-id1167662383436" class="microbiology check-your-understanding">
+<list id="fs-id1167662848580" list-type="bulleted" bullet-style="bullet">
+<item>What mutation is used as an indicator of mutation rate in the Ames test?</item>
+<item>Why can the Ames test work as a test for carcinogenicity?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167662376336" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167662872562" list-type="bulleted" bullet-style="bullet">
+<item>A <emphasis effect="bold">mutation</emphasis> is a heritable change in DNA. A mutation may lead to a change in the amino-acid sequence of a protein, possibly affecting its function.</item>
+<item>A <emphasis effect="bold">point mutation</emphasis> affects a single base pair. A point mutation may cause a <emphasis effect="bold">silent mutation</emphasis> if the mRNA codon codes for the same amino acid, a <emphasis effect="bold">missense mutation</emphasis> if the mRNA codon codes for a different amino acid, or a <emphasis effect="bold">nonsense mutation</emphasis> if the mRNA codon becomes a stop codon.</item>
+<item>Missense mutations may retain function, depending on the chemistry of the new amino acid and its location in the protein. Nonsense mutations produce truncated and frequently nonfunctional proteins.</item>
+<item>A <emphasis effect="bold">frameshift mutation</emphasis> results from an insertion or deletion of a number of nucleotides that is not a multiple of three. The change in reading frame alters every amino acid after the point of the mutation and results in a nonfunctional protein.</item>
+<item><emphasis effect="bold">Spontaneous mutations</emphasis> occur through DNA replication errors, whereas <emphasis effect="bold">induced mutations</emphasis> occur through exposure to a <emphasis effect="bold">mutagen</emphasis>.</item>
+<item>Mutagenic agents are frequently carcinogenic but not always. However, nearly all carcinogens are mutagenic.</item>
+<item>Chemical mutagens include base analogs and chemicals that modify existing bases. In both cases, mutations are introduced after several rounds of DNA replication.</item>
+<item><emphasis effect="bold">Ionizing radiation,</emphasis> such as X-rays and γ-rays, leads to breakage of the phosphodiester backbone of DNA and can also chemically modify bases to alter their base-pairing rules.</item>
+<item><emphasis effect="bold">Nonionizing radiation</emphasis> like ultraviolet light may introduce pyrimidine (thymine) dimers, which, during DNA replication and transcription, may introduce frameshift or point mutations.</item>
+<item>Cells have mechanisms to repair naturally occurring mutations. DNA polymerase has proofreading activity. Mismatch repair is a process to repair incorrectly incorporated bases after DNA replication has been completed.</item>
+<item>Pyrimidine dimers can also be repaired. In <emphasis effect="bold">nucleotide excision repair (dark repair)</emphasis>, enzymes recognize the distortion introduced by the pyrimidine dimer and replace the damaged strand with the correct bases, using the undamaged DNA strand as a template. Bacteria and other organisms may also use <emphasis effect="bold">direct repair</emphasis>, in which the photolyase enzyme, in the presence of visible light, breaks apart the pyrimidines.</item>
+<item>Through comparison of growth on the complete plate and lack of growth on media lacking specific nutrients, specific loss-of-function mutants called <emphasis effect="bold">auxotrophs</emphasis> can be identified.</item>
+<item>The <emphasis effect="bold">Ames test</emphasis> is an inexpensive method that uses auxotrophic bacteria to measure mutagenicity of a chemical compound. Mutagenicity is an indicator of carcinogenic potential.</item>
+</list>
+</section>
+<section id="fs-id1167660147674" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167662879138">
+<problem id="fs-id1167662879140">
+<para id="fs-id1167662703626">Which of the following is a change in the sequence that leads to formation of a stop codon?</para>
+<list id="fs-id1167662407459" list-type="enumerated" number-style="upper-alpha">
+<item>missense mutation</item>
+<item>nonsense mutation</item>
+<item>silent mutation</item>
+<item>deletion mutation</item>
+</list>
+</problem>
+<solution id="fs-id1167662480634">
+<para id="fs-id1167662480636">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660170738">
+<problem id="fs-id1167660170740">
+<para id="fs-id1167662450437">The formation of pyrimidine dimers results from which of the following?</para>
+<list id="fs-id1167662450440" list-type="enumerated" number-style="upper-alpha">
+<item>spontaneous errors by DNA polymerase</item>
+<item>exposure to gamma radiation</item>
+<item>exposure to ultraviolet radiation</item>
+<item>exposure to intercalating agents</item>
+</list>
+</problem>
+<solution id="fs-id1167662428301">
+<para id="fs-id1167662508999">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662885968">
+<problem id="fs-id1167662735695">
+<para id="fs-id1167662735697">Which of the following is an example of a frameshift mutation?</para>
+<list id="fs-id1167660218422" list-type="enumerated" number-style="upper-alpha">
+<item>a deletion of a codon</item>
+<item>missense mutation</item>
+<item>silent mutation</item>
+<item>deletion of one nucleotide</item>
+</list>
+</problem>
+<solution id="fs-id1167662370281">
+<para id="fs-id1167662370284">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662907611">
+<problem id="fs-id1167662907614">
+<para id="fs-id1167662489664">Which of the following is the type of DNA repair in which thymine dimers are directly broken down by the enzyme photolyase?</para>
+<list id="fs-id1167662520593" list-type="enumerated" number-style="upper-alpha">
+<item>direct repair</item>
+<item>nucleotide excision repair</item>
+<item>mismatch repair</item>
+<item>proofreading</item>
+</list>
+</problem>
+<solution id="fs-id1167662875425">
+<para id="fs-id1167662875427">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662483823">
+<problem id="fs-id1167662517956">
+<para id="fs-id1167662517959">Which of the following regarding the Ames test is true?</para>
+<list id="fs-id1167660312475" list-type="enumerated" number-style="upper-alpha">
+<item>It is used to identify newly formed auxotrophic mutants.</item>
+<item>It is used to identify mutants with restored biosynthetic activity.</item>
+<item>It is used to identify spontaneous mutants.</item>
+<item>It is used to identify mutants lacking photoreactivation activity.</item>
+</list>
+</problem>
+<solution id="fs-id1167662470507">
+<para id="fs-id1167662460965">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167662420664" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167662494472">
+<problem id="fs-id1167662494474">
+<para id="fs-id1167662552256">A chemical mutagen that is structurally similar to a nucleotide but has different base-pairing rules is called a ________.</para>
+</problem>
+<solution id="fs-id1167660150405">
+<para id="fs-id1167662696738">nucleoside analog</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662468429">
+<problem id="fs-id1167662468431">
+<para id="fs-id1167662446074">The enzyme used in light repair to split thymine dimers is called ________.</para>
+</problem>
+<solution id="fs-id1167660273558">
+<para id="fs-id1167660273560">photolyase</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660148731">
+<problem id="fs-id1167660148733">
+<para id="fs-id1167660226857">The phenotype of an organism that is most commonly observed in nature is called the ________.</para>
+</problem>
+<solution id="fs-id1167662757767">
+<para id="fs-id1167662757769">wild type</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167662405057" class="true-false">
+<title>True/False</title>
+<exercise id="fs-id1167660151160">
+<problem id="fs-id1167660151162">
+<para id="fs-id1167660255117">Carcinogens are typically mutagenic.</para>
+</problem>
+<solution id="fs-id1167660225541">
+<para id="fs-id1167660225543">True</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167662776936" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167660187280">
+<problem id="fs-id1167662784888">
+<para id="fs-id1167662784890">Why is it more likely that insertions or deletions will be more detrimental to a cell than point mutations?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167660227851" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167660177423">
+<problem id="fs-id1167660317930">
+<para id="fs-id1167660317932">Below are several DNA sequences that are mutated compared with the wild-type sequence: 3’-T A C T G A C T G A C G A T C-5’. Envision that each is a section of a DNA molecule that has separated in preparation for transcription, so you are only seeing the template strand. Construct the complementary DNA sequences (indicating 5’ and 3’ ends) for each mutated DNA sequence, then transcribe (indicating 5’ and 3’ ends) the template strands, and translate the mRNA molecules using the genetic code, recording the resulting amino acid sequence (indicating the N and C termini). What type of mutation is each?</para>
+<table id="fs-id1167662406924" summary="No Summary" class="unnumbered unstyled">
+<tgroup cols="1">
+<colspec colnum="1" colname="c1"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="bold">Mutated DNA Template Strand #1: 3’-T A C T G T C T G A C G A T C-5’</emphasis><newline/>
+Complementary DNA sequence:<newline/>
+mRNA sequence transcribed from template:<newline/>
+Amino acid sequence of peptide:<newline/>
+Type of mutation:</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="bold">Mutated DNA Template Strand #2: 3’-T A C G G A C T G A C G A T C-5’</emphasis><newline/>
+Complementary DNA sequence:<newline/>
+mRNA sequence transcribed from template:<newline/>
+Amino acid sequence of peptide:<newline/>
+Type of mutation:</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="bold">Mutated DNA Template Strand #3: 3’-T A C T G A C T G A C T A T C-5</emphasis>’<newline/>
+Complementary DNA sequence:<newline/>
+mRNA sequence transcribed from template:<newline/>
+Amino acid sequence of peptide:<newline/>
+Type of mutation:</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="bold">Mutated DNA Template Strand #4: 3’-T A C G A C T G A C T A T C-5’</emphasis><newline/>
+Complementary DNA sequence:<newline/>
+mRNA sequence transcribed from template:<newline/>
+Amino acid sequence of peptide:<newline/>
+Type of mutation:</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+</exercise>
+<exercise id="fs-id1167662394216">
+<problem id="fs-id1167662394218">
+<para id="fs-id1167662496746">Why do you think the Ames test is preferable to the use of animal models to screen chemical compounds for mutagenicity?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

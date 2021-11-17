@@ -1,0 +1,134 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Media Used for Bacterial Growth</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58833</md:content-id>
+  <md:title>Media Used for Bacterial Growth</md:title>
+  <md:abstract/>
+  <md:uuid>ad652a22-f0c2-4569-a6ee-9fe3fac98e90</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1172099878613" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1172099879960">
+<item>Identify and describe culture media for the growth of bacteria, including examples of all-purpose media, enriched, selective, differential, defined, and enrichment media</item>
+</list>
+</section>
+<para id="fs-id1172099571837">The study of microorganisms is greatly facilitated if we are able to culture them, that is, to keep reproducing populations alive under laboratory conditions. Culturing many microorganisms is challenging because of highly specific nutritional and environmental requirements and the diversity of these requirements among different species.</para>
+<section id="fs-id1172099547374">
+<title>Nutritional Requirements</title>
+<para id="fs-id1172101717132">The number of available media to grow bacteria is considerable. Some media are considered general all-purpose media and support growth of a large variety of organisms. A prime example of an all-purpose medium is <term class="no-emphasis">tryptic soy broth (TSB)</term>. Specialized media are used in the identification of bacteria and are supplemented with dyes, pH indicators, or antibiotics. One type, <term>enriched media</term>, contains growth factors, vitamins, and other essential nutrients to promote the growth of <term>fastidious organisms</term>, organisms that cannot make certain nutrients and require them to be added to the medium. When the complete chemical composition of a medium is known, it is called a <term>chemically defined medium</term>. For example, in <term class="no-emphasis">EZ medium</term>, all individual chemical components are identified and the exact amounts of each is known. In <term>complex media</term>, which contain extracts and digests of yeasts, meat, or plants, the precise chemical composition of the medium is not known. Amounts of individual components are undetermined and variable. Nutrient broth, tryptic soy broth, and <term class="no-emphasis">brain heart infusion</term>, are all examples of complex media.</para>
+<para id="fs-id1172099767850">Media that inhibit the growth of unwanted microorganisms and support the growth of the organism of interest by supplying nutrients and reducing competition are called <term>selective media</term>. An example of a selective medium is <term class="no-emphasis">MacConkey agar</term>. It contains bile salts and crystal violet, which interfere with the growth of many <term class="no-emphasis">gram-positive bacteria</term> and favor the growth of <term class="no-emphasis">gram-negative bacteria</term>, particularly the <term class="no-emphasis">Enterobacteriaceae</term>. These species are commonly named enterics, reside in the intestine, and are adapted to the presence of bile salts. The <term>enrichment culture</term>s foster the preferential growth of a desired microorganism that represents a fraction of the organisms present in an inoculum. For example, if we want to isolate bacteria that break down crude oil, <term class="no-emphasis">hydrocarbonoclastic bacteria</term>, sequential subculturing in a medium that supplies carbon only in the form of crude oil will enrich the cultures with oil-eating bacteria. The <term>differential media</term> make it easy to distinguish colonies of different bacteria by a change in the color of the colonies or the color of the medium. Color changes are the result of end products created by interaction of bacterial enzymes with differential substrates in the medium or, in the case of hemolytic reactions, the lysis of red blood cells in the medium. In <link target-id="OSC_Microbio_09_05_MacMsa"/>, the differential fermentation of lactose can be observed on MacConkey agar. The lactose fermenters produce acid, which turns the medium and the colonies of strong fermenters hot pink. The medium is supplemented with the pH indicator neutral red, which turns to hot pink at low pH. Selective and differential media can be combined and play an important role in the identification of bacteria by biochemical methods.</para>
+<figure id="OSC_Microbio_09_05_MacMsa">
+<media id="fs-id1172097228876" alt="A light brown agar plate. Two streaks on the plate are bright pink and two streaks are beige.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_05_MacMsa.jpg"/>
+</media>
+<caption>On this MacConkey agar plate, the lactose-fermenter <emphasis effect="italics">E. coli</emphasis> colonies are bright pink. <emphasis effect="italics">Serratia marcescens</emphasis>, which does not ferment lactose, forms a cream-colored streak on the tan medium. (credit: American Society for Microbiology)</caption>
+</figure>
+<note id="fs-id1172102081458" class="microbiology check-your-understanding">
+<list id="fs-id1167661345607" list-type="bulleted" bullet-style="bullet">
+<item>Distinguish complex and chemically defined media.</item>
+<item>Distinguish selective and enrichment media.</item>
+</list>
+</note>
+<note id="fs-id1172099588034" class="microbiology link-to-learning">
+
+<para id="fs-id1172099525433">Compare the compositions of <link url="https://openstax.org/l/22EZMedium">EZ medium</link> and <link url="https://openstax.org/l/22bloodagar">sheep blood</link> agar.</para>
+</note>
+<note id="fs-id1172102142489" class="microbiology case-in-point">
+<title>The End-of-Year Picnic</title>
+<para id="fs-id1172099546081">The microbiology department is celebrating the end of the school year in May by holding its traditional picnic on the green. The speeches drag on for a couple of hours, but finally all the faculty and students can dig into the food: chicken salad, tomatoes, onions, salad, and custard pie. By evening, the whole department, except for two vegetarian students who did not eat the chicken salad, is stricken with nausea, vomiting, retching, and abdominal cramping. Several individuals complain of diarrhea. One patient shows signs of shock (low blood pressure). Blood and stool samples are collected from patients, and an analysis of all foods served at the meal is conducted.</para>
+<para id="fs-id1172099675047">Bacteria can cause <term class="no-emphasis">gastroenteritis</term> (inflammation of the stomach and intestinal tract) either by colonizing and replicating in the host, which is considered an infection, or by secreting toxins, which is considered intoxication. Signs and symptoms of infections are typically delayed, whereas intoxication manifests within hours, as happened after the picnic.</para>
+<para id="fs-id1172101995583">Blood samples from the patients showed no signs of bacterial infection, which further suggests that this was a case of intoxication. Since intoxication is due to secreted toxins, bacteria are not usually detected in blood or stool samples. MacConkey agar and <term class="no-emphasis">sorbitol-MacConkey agar</term> plates and <term class="no-emphasis">xylose-lysine-deoxycholate</term> (XLD) plates were inoculated with stool samples and did not reveal any unusually colored colonies, and no black colonies or white colonies were observed on XLD. All lactose fermenters on MacConkey agar also ferment sorbitol. These results ruled out common agents of food-borne illnesses: <emphasis effect="italics">E. coli</emphasis>, <term class="no-emphasis"><emphasis effect="italics">Salmonella</emphasis></term> spp., and <term class="no-emphasis"><emphasis effect="italics">Shigella</emphasis></term> spp.</para>
+<para id="fs-id1172099376213">Analysis of the chicken salad revealed an abnormal number of gram-positive cocci arranged in clusters (<link target-id="OSC_Microbio_09_05_saureus"/>). A culture of the gram-positive cocci releases bubbles when mixed with hydrogen peroxide. The culture turned <term class="no-emphasis">mannitol salt agar</term> yellow after a 24-hour incubation.</para>
+<para id="fs-id1172099681932">All the tests point to <term class="no-emphasis"><emphasis effect="italics">Staphylococcus aureus</emphasis></term> as the organism that secreted the toxin. Samples from the salad showed the presence of gram-positive cocci bacteria in clusters. The colonies were positive for catalase. The bacteria grew on mannitol salt agar fermenting mannitol, as shown by the change to yellow of the medium. The pH indicator in mannitol salt agar is phenol red, which turns to yellow when the medium is acidified by the products of fermentation.</para>
+<para id="fs-id1172099538510">The toxin secreted by <emphasis effect="italics">S. aureus</emphasis> is known to cause severe gastroenteritis. The organism was probably introduced into the salad during preparation by the food handler and multiplied while the salad was kept in the warm ambient temperature during the speeches.</para>
+<list id="fs-id1172099894982" list-type="bulleted" bullet-style="bullet">
+<item>What are some other factors that might have contributed to rapid growth of <emphasis effect="italics">S. aureus</emphasis> in the chicken salad?</item>
+<item>Why would <emphasis effect="italics">S. aureus</emphasis> not be inhibited by the presence of salt in the chicken salad?</item>
+</list>
+<figure id="OSC_Microbio_09_05_saureus">
+<media id="fs-id1172101882357" alt="A micrograph of clusters of purple spheres.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_05_saureus.jpg"/>
+</media>
+<caption>Gram-positive cocci in clusters. (credit: Centers for Disease Control and Prevention)</caption>
+</figure>
+</note>
+</section>
+<section id="fs-id1172101792451" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1172102044752" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Chemically defined media</emphasis> contain only chemically known components.</item>
+<item><emphasis effect="bold">Selective media</emphasis> favor the growth of some microorganisms while inhibiting others.</item>
+<item><emphasis effect="bold">Enriched media</emphasis> contain added essential nutrients a specific organism needs to grow</item>
+<item><emphasis effect="bold">Differential media</emphasis> help distinguish bacteria by the color of the colonies or the change in the medium.</item>
+</list>
+</section>
+<section id="fs-id1172101899701" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1172099509038">
+<problem id="fs-id1172099613229">
+<para id="fs-id1172099599252">EMB agar is a medium used in the identification and isolation of pathogenic bacteria. It contains digested meat proteins as a source of organic nutrients. Two indicator dyes, eosin and methylene blue, inhibit the growth of gram-positive bacteria and distinguish between lactose fermenting and nonlactose fermenting organisms. Lactose fermenters form metallic green or deep purple colonies, whereas the nonlactose fermenters form completely colorless colonies. EMB agar is an example of which of the following?</para>
+<list id="fs-id1172099379118" list-type="enumerated" number-style="upper-alpha">
+<item>a selective medium only</item>
+<item>a differential medium only</item>
+<item>a selective medium and a chemically defined medium</item>
+<item>a selective medium, a differential medium, and a complex medium</item>
+</list>
+</problem>
+<solution id="fs-id1172102047695">
+<para id="fs-id1172099880241">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172101913252">
+<problem id="fs-id1172099512997">
+<para id="fs-id1172099643692"><emphasis effect="italics">Haemophilus influenzae</emphasis> must be grown on chocolate agar, which is blood agar treated with heat to release growth factors in the medium. <emphasis effect="italics">H. influenzae</emphasis> is described as ________.</para>
+<list id="fs-id1172099564287" list-type="enumerated" number-style="upper-alpha">
+<item>an acidophile</item>
+<item>a thermophile</item>
+<item>an obligate anaerobe</item>
+<item>fastidious</item>
+</list>
+</problem>
+<solution id="fs-id1172099756623">
+<para id="fs-id1172099897697">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172101803506" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1172102050321">
+<problem id="fs-id1172099622286">
+<para id="fs-id1172099924273">Blood agar contains many unspecified nutrients, supports the growth of a large number of bacteria, and allows differentiation of bacteria according to hemolysis (breakdown of blood). The medium is ________ and ________.</para>
+</problem>
+<solution id="fs-id1172099554782">
+<para id="fs-id1172102132806">complex, differential</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172101889254">
+<problem id="fs-id1172101790059">
+<para id="fs-id1172099414888">Rogosa agar contains yeast extract. The pH is adjusted to 5.2 and discourages the growth of many microorganisms; however, all the colonies look similar. The medium is ________ and ________.</para>
+</problem>
+<solution id="fs-id1172101707712">
+<para id="fs-id1172099383109">complex, selective</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172099897677" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1172097207889">
+<problem id="fs-id1172099765924">
+<para id="fs-id1172099901458">What is the major difference between an enrichment culture and a selective culture?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1172102063228" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1172101758038">
+<problem id="fs-id1172102118082">
+<para id="fs-id1172101965485"><emphasis effect="italics">Haemophilus, influenzae</emphasis> grows best at 35–37 °C with ~5% CO<sub>2</sub> (or in a candle-jar) and requires hemin (X factor) and nicotinamide-adenine-dinucleotide (NAD, also known as V factor) for growth. (Centers for Disease Control and Prevention, World Health Organization. “<emphasis effect="italics">CDC Laboratory Methods for the Diagnosis of Meningitis Caused by</emphasis> Neisseria meningitidis, Streptococcus pneumoniae, <emphasis effect="italics">and</emphasis> Haemophilus influenza. WHO Manual, 2nd edition.” 2011. http://www.cdc.gov/meningitis/lab-manual/full-manual.pdf) Using the vocabulary learned in this chapter, describe <emphasis effect="italics">H. influenzae</emphasis>.</para></problem>
+</exercise>
+</section>
+ </content>
+</document>

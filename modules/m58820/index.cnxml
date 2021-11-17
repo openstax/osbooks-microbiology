@@ -1,0 +1,202 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Catabolism of Carbohydrates</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58820</md:content-id>
+  <md:title>Catabolism of Carbohydrates</md:title>
+  <md:abstract/>
+  <md:uuid>7b38284e-f80a-4652-87b7-c8f7b52c004b</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167661464193" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167663872358">
+<item>Describe why glycolysis is not oxygen dependent</item>
+<item>Define and describe the net yield of three-carbon molecules, ATP, and NADH from glycolysis</item>
+<item>Explain how three-carbon pyruvate molecules are converted into two-carbon acetyl groups that can be funneled into the Krebs cycle.</item>
+<item>Define and describe the net yield of CO<sub>2</sub>, GTP/ATP, FADH<sub>2</sub>, and NADH from the Krebs cycle</item>
+<item>Explain how intermediate carbon molecules of the Krebs cycle can be used in a cell</item>
+</list>
+</section>
+<para id="fs-id1167663588731">Extensive enzyme pathways exist for breaking down <term class="no-emphasis">carbohydrate</term>s to capture energy in <term class="no-emphasis">ATP</term> bonds. In addition, many catabolic pathways produce intermediate molecules that are also used as building blocks for <term class="no-emphasis">anabolism</term>. Understanding these processes is important for several reasons. First, because the main metabolic processes involved are common to a wide range of chemoheterotrophic organisms, we can learn a great deal about human metabolism by studying metabolism in more easily manipulated bacteria like <emphasis effect="italics">E. coli</emphasis>. Second, because animal and human pathogens are also <term class="no-emphasis">chemoheterotroph</term>s, learning about the details of <term class="no-emphasis">metabolism</term> in these bacteria, including possible differences between bacterial and human pathways, is useful for the diagnosis of pathogens as well as for the discovery of antimicrobial therapies targeting specific pathogens. Last, learning specifically about the pathways involved in chemoheterotrophic metabolism also serves as a basis for comparing other more unusual metabolic strategies used by microbes. Although the chemical source of electrons initiating <term class="no-emphasis">electron transfer</term> is different between chemoheterorophs and <term class="no-emphasis">chemoautotroph</term>s, many similar processes are used in both types of organisms.</para>
+<para id="fs-id1167663640050">The typical example used to introduce concepts of metabolism to students is carbohydrate catabolism. For chemoheterotrophs, our examples of metabolism start with the catabolism of polysaccharides such as glycogen, starch, or cellulose. Enzymes such as amylase, which breaks down glycogen or starch, and cellulases, which break down cellulose, can cause the hydrolysis of glycosidic bonds between the glucose monomers in these polymers, releasing glucose for further catabolism.</para>
+<section id="fs-id1167663937751">
+<title>Glycolysis</title>
+<para id="fs-id1167663631407">For bacteria, eukaryotes, and most archaea, <term>glycolysis</term> is the most common pathway for the catabolism of glucose; it produces energy, reduced electron carriers, and precursor molecules for cellular metabolism. Every living organism carries out some form of glycolysis, suggesting this mechanism is an ancient universal metabolic process. The process itself does not use oxygen; however, glycolysis can be coupled with additional metabolic processes that are either aerobic or anaerobic. Glycolysis takes place in the cytoplasm of prokaryotic and eukaryotic cells. It begins with a single six-carbon glucose molecule and ends with two molecules of a three-carbon sugar called pyruvate. Pyruvate may be broken down further after glycolysis to harness more energy through aerobic or anaerobic respiration, but many organisms, including many microbes, may be unable to respire; for these organisms, glycolysis may be their only source of generating ATP.</para>
+<para id="fs-id1167663636244">The type of glycolysis found in animals and that is most common in microbes is the <term>Embden-Meyerhof-Parnas (EMP) pathway</term>, named after Gustav Embden (1874–1933), Otto Meyerhof (1884–1951), and Jakub Parnas (1884–1949). Glycolysis using the EMP pathway consists of two distinct phases (<link target-id="OSC_Microbio_08_02_Glycolysis"/>). The first part of the pathway, called the energy investment phase, uses energy from two ATP molecules to modify a glucose molecule so that the six-carbon sugar molecule can be split evenly into two phosphorylated three-carbon molecules called glyceraldehyde 3-phosphate (G3P). The second part of the pathway, called the energy payoff phase, extracts energy by oxidizing G3P to pyruvate, producing four ATP molecules and reducing two molecules of NAD<sup>+</sup> to two molecules of NADH, using electrons that originated from glucose. (A discussion and illustration of the full EMP pathway with chemical structures and enzyme names appear in <link document="m58948">Appendix C</link>.)</para>
+<para id="fs-id1167661742152">The ATP molecules produced during the energy payoff phase of glycolysis are formed by <term>substrate-level phosphorylation</term> (<link target-id="OSC_Microbio_08_02_SubPhos"/>), one of two mechanisms for producing ATP. In substrate-level phosphorylation, a phosphate group is removed from an organic molecule and is directly transferred to an available ADP molecule, producing ATP. During glycolysis, high-energy phosphate groups from the intermediate molecules are added to ADP to make ATP.</para>
+<para id="fs-id1167661550265">Overall, in this process of glycolysis, the net gain from the breakdown of a single glucose molecule is:</para>
+<list id="fs-id1167663959256" list-type="bulleted" bullet-style="bullet">
+<item>two ATP molecules</item>
+<item>two NADH molecule, and</item>
+<item>two pyruvate molecules.</item>
+</list>
+<figure id="OSC_Microbio_08_02_Glycolysis">
+<media id="fs-id1167663970931" alt="The energy investment phase in when glucose is converted into two molecules of glyceraldehyde 3-phosphate. Glucose is a 6 carbon ring. Glyceraldehyde 3-phosphate is a 3 carbon chain with a Pi attached to one end. This process uses 2 ATP and has fructose diphosphate (not drawn) as an intermediate. The energy payoff phase is when each glyceraldehyde 3-phosphate is converted into pyruvate. This builds 1 NADH and 2 ATP per glyceraldehyde 3-phosphate.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_02_Glycolysis.jpg"/>
+</media>
+<caption>The energy investment phase of the Embden-Meyerhof-Parnas glycolysis pathway uses two ATP molecules to phosphorylate glucose, forming two glyceraldehyde 3-phosphate (G3P) molecules. The energy payoff phase harnesses the energy in the G3P molecules, producing four ATP molecules, two NADH molecules, and two pyruvates.</caption>
+</figure>
+<figure id="OSC_Microbio_08_02_SubPhos">
+<media id="fs-id1167661440124" alt="An enzyme has 2 substrates bound: ATP and another substrate. One of the phosphates from ATP is transferred to the other substrate.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_02_SubPhos.jpg"/>
+</media>
+<caption>The ATP made during glycolysis is a result of substrate-level phosphorylation. One of the two enzymatic reactions in the energy payoff phase of Embden Meyerhof-Parnas glycolysis that produce ATP in this way is shown here.</caption>
+</figure>
+</section>
+<section id="fs-id1167663901255">
+<title>Other Glycolytic Pathways</title>
+<para id="fs-id1167661440696">When we refer to glycolysis, unless otherwise indicated, we are referring to the EMP pathway used by animals and many bacteria. However, some prokaryotes use alternative glycolytic pathways. One important alternative is the <term>Entner-Doudoroff (ED) pathway</term>, named after its discoverers Nathan Entner and Michael Doudoroff (1911–1975). Although some bacteria, including the opportunistic gram-negative pathogen <term class="no-emphasis"><emphasis effect="italics">Pseudomonas aeruginosa</emphasis></term>, contain only the ED pathway for glycolysis, other bacteria, like <emphasis effect="italics">E. coli</emphasis>, have the ability to use either the ED pathway or the EMP pathway.</para>
+<para id="fs-id1167661289141">A third type of glycolytic pathway that occurs in all cells, which is quite different from the previous two pathways, is the <term>pentose phosphate pathway</term> (<term class="no-emphasis">PPP</term>) also called the <term>phosphogluconate pathway</term> or the <term>hexose monophosphate shunt</term>. Evidence suggests that the PPP may be the most ancient universal glycolytic pathway. The intermediates from the PPP are used for the <term class="no-emphasis">biosynthesis</term> of nucleotides and amino acids. Therefore, this glycolytic pathway may be favored when the cell has need for nucleic acid and/or protein synthesis, respectively. A discussion and illustration of the complete ED pathway and PPP with chemical structures and enzyme names appear in <link document="m58948">Appendix C</link>.</para>
+<note id="fs-id1167659011297" class="microbiology check-your-understanding">
+<list id="fs-id1167659435030" list-type="bulleted" bullet-style="bullet">
+<item>When might an organism use the ED pathway or the PPP for glycolysis?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167663905746">
+<title>Transition Reaction, Coenzyme A, and the Krebs Cycle</title>
+<para id="fs-id1167663662732">Glycolysis produces pyruvate, which can be further oxidized to capture more energy. For pyruvate to enter the next oxidative pathway, it must first be decarboxylated by the enzyme complex pyruvate dehydrogenase to a two-carbon acetyl group in the <term>transition reaction</term>, also called the <term>bridge reaction</term> (see <link document="m58948">Appendix C</link> and <link target-id="OSC_Microbio_08_02_Transition"/>). In the transition reaction, electrons are also transferred to NAD<sup>+</sup> to form NADH. To proceed to the next phase of this metabolic process, the comparatively tiny two-carbon acetyl must be attached to a very large carrier compound called <term class="no-emphasis">coenzyme A (CoA)</term>. The transition reaction occurs in the mitochondrial matrix of eukaryotes; in prokaryotes, it occurs in the cytoplasm because prokaryotes lack membrane-enclosed organelles.</para>
+<figure id="OSC_Microbio_08_02_Transition">
+<media id="fs-id1167663530494" alt="Coenzyme A is made of a 5 carbon sugar in a ring. Attached to carbon 1 is adenine, attached to carbon 3 is a phosphate group. Attached to carbon 5 (which is out of the ring) are two phosphate groups and a carbon/nitrogen chain with a sulfur at the end. The acetyl group binds to this final sulfur.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_02_Transition.jpg"/>
+</media>
+<caption>(a) Coenzyme A is shown here without an attached acetyl group. (b) Coenzyme A is shown here with an attached acetyl group.</caption>
+</figure>
+<para id="fs-id1167661291996">The <term>Krebs cycle</term> transfers remaining electrons from the acetyl group produced during the transition reaction to electron carrier molecules, thus reducing them. The Krebs cycle also occurs in the cytoplasm of prokaryotes along with glycolysis and the transition reaction, but it takes place in the mitochondrial matrix of eukaryotic cells where the transition reaction also occurs. The Krebs cycle is named after its discoverer, British scientist Hans Adolf Krebs (1900–1981) and is also called the <term>citric acid cycle</term>, or the <term>tricarboxylic acid cycle (TCA)</term> because citric acid has three carboxyl groups in its structure. Unlike glycolysis, the Krebs cycle is a closed loop: The last part of the pathway regenerates the compound used in the first step (<link target-id="OSC_Microbio_08_02_Krebs"/>). The eight steps of the cycle are a series of chemical reactions that capture the two-carbon acetyl group (the CoA carrier does not enter the Krebs cycle) from the transition reaction, which is added to a four-carbon intermediate in the Krebs cycle, producing the six-carbon intermediate citric acid (giving the alternate name for this cycle). As one turn of the cycle returns to the starting point of the four-carbon intermediate, the cycle produces two CO<sub>2</sub> molecules, one ATP molecule (or an equivalent, such as guanosine triphosphate [GTP]) produced by substrate-level phosphorylation, and three molecules of NADH and one of FADH<sub>2</sub>. (A discussion and detailed illustration of the full Krebs cycle appear in <link document="m58948">Appendix C</link>.)</para>
+<para id="fs-id1167663963785">Although many organisms use the Krebs cycle as described as part of glucose metabolism, several of the intermediate compounds in the Krebs cycle can be used in synthesizing a wide variety of important cellular molecules, including amino acids, chlorophylls, fatty acids, and nucleotides; therefore, the cycle is both anabolic and catabolic (<link target-id="OSC_Microbio_08_02_KrebsUsage"/>).</para>
+<figure id="OSC_Microbio_08_02_Krebs">
+<media id="fs-id1167663881780" alt="The citric acid cycle is drawn as a circle with arrows around the outside showing what enters and exits the cycle. 3 NAD+ are converted to 3 NADH, 1 FAD is converted to 1 FADH2, 2 CO2 leave the cycle, ADP or GDP are converted to ATP or GTP. Acetyl-CoA enters and CoA leaves (leaving the 2 carbons as part of the cycle.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_02_Krebs.jpg"/>
+</media>
+<caption>The Krebs cycle, also known as the citric acid cycle, is summarized here. Note incoming two-carbon acetyl results in the main outputs per turn of two CO<sub>2</sub>, three NADH, one FADH<sub>2</sub>, and one ATP (or GTP) molecules made by substrate-level phosphorylation. Two turns of the Krebs cycle are required to process all of the carbon from one glucose molecule.</caption>
+</figure>
+<figure id="OSC_Microbio_08_02_KrebsUsage">
+<media id="fs-id1167663651234" alt="Details of the Kreb’s cycle. Acetyl-CoA (C2) enter at the top (along with water). SH-CoA leaves. The 2 carbons of Acetyl-CoA bind with the 4 carbons of oxaloacetate for form citrate (C6). An arrow shows that this can be used to build fatty acids and sterols. Citrate is converted to isocitrate (C6). Isocitrate is converted to alpha-ketoglutarate. This step builds 1 NADH/H+ from NADH and releases 1 CO2. Alpha-ketoglutarate can be used to build glutamate which can be used to build other amino acids and nucleotides. Alpha-ketoglutarate is converted to succinyl CoA (C4) by the addition of SH-CoA. This step builds one NADH/H+ from NAH+ and releases a CO2. Succinyl CoA can be used to build porphyrins, heme, and chlorophyll. Succinyl-CoA is converted to Succinate (C4). This step releases SH-CO and builds ATP or GTP from ADP or GDP and Pi. Succinate is converted to fumarate (C4). This step produces FADH2 from FAD. Fumarate is converted to malate (C4) with the addition of water. Malate is converted to oxaloacetate. This step produces NADH/H+ from NAD+. Oxoaloacetate can be used to build asparate which can be used to build nucleotides and other amino acids. Oxaloacetate can also continue in another cycle of the Kreb’s cycle">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_02_KrebsUsage.jpg"/>
+</media>
+<caption>Many organisms use intermediates from the Krebs cycle, such as amino acids, fatty acids, and nucleotides, as building blocks for biosynthesis.</caption>
+</figure>
+</section>
+<section id="fs-id1167663570738" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167661758659" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Glycolysis</emphasis> is the first step in the breakdown of glucose, resulting in the formation of ATP, which is produced by <emphasis effect="bold">substrate-level phosphorylation</emphasis>; NADH; and two pyruvate molecules. Glycolysis does not use oxygen and is not oxygen dependent.</item>
+<item>After glycolysis, a three-carbon pyruvate is decarboxylated to form a two-carbon acetyl group, coupled with the formation of NADH. The acetyl group is attached to a large carrier compound called coenzyme A.</item>
+<item>After the transition step, coenzyme A transports the two-carbon acetyl to the <emphasis effect="bold">Krebs cycle</emphasis>, where the two carbons enter the cycle. Per turn of the cycle, one acetyl group derived from glycolysis is further oxidized, producing three NADH molecules, one FADH<sub>2</sub>, and one ATP by <emphasis effect="bold">substrate-level phosphorylation</emphasis>, and releasing two CO<sub>2</sub> molecules.</item>
+<item>The Krebs cycle may be used for other purposes. Many of the intermediates are used to synthesize important cellular molecules, including amino acids, chlorophylls, fatty acids, and nucleotides.</item>
+</list>
+</section>
+<section id="fs-id1167663992802" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167661617141">
+<problem id="fs-id1167661292885">
+<para id="fs-id1167661568634">During which of the following is ATP not made by substrate-level phosphorylation?</para>
+<list id="fs-id1167661736934" list-type="enumerated" number-style="upper-alpha">
+<item>Embden-Meyerhof pathway</item>
+<item>Transition reaction</item>
+<item>Krebs cycle</item>
+<item>Entner-Doudoroff pathway</item>
+</list>
+</problem>
+<solution id="fs-id1167663865686">
+<para id="fs-id1167659289190">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167661729536">
+<problem id="fs-id1167661627484">
+<para id="fs-id1167663660104">Which of the following products is made during Embden-Meyerhof glycolysis?</para>
+<list id="fs-id1167661298260" list-type="enumerated" number-style="upper-alpha">
+<item>NAD+</item>
+<item>pyruvate</item>
+<item>CO<sub>2</sub></item>
+<item>two-carbon acetyl</item>
+</list>
+</problem>
+<solution id="fs-id1167663531412">
+<para id="fs-id1167661322723">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663697644">
+<problem id="fs-id1167661646513">
+<para id="fs-id1167661754707">During the catabolism of glucose, which of the following is produced only in the Krebs cycle?</para>
+<list id="fs-id1167663670135" list-type="enumerated" number-style="upper-alpha">
+<item>ATP</item>
+<item>NADH</item>
+<item>NADPH</item>
+<item>FADH<sub>2</sub></item>
+</list>
+</problem>
+<solution id="fs-id1167661322540">
+<para id="fs-id1167663610791">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663616674">
+<problem id="fs-id1167661268270">
+<para id="fs-id1167663988217">Which of the following is not a name for the cycle resulting in the conversion of a two-carbon acetyl to one ATP, two CO<sub>2</sub>, one FADH<sub>2</sub>, and three NADH molecules?</para>
+<list id="fs-id1167663980016" list-type="enumerated" number-style="upper-alpha">
+<item>Krebs cycle</item>
+<item>tricarboxylic acid cycle</item>
+<item>Calvin cycle</item>
+<item>citric acid cycle</item>
+</list>
+</problem>
+<solution id="fs-id1167663712665">
+<para id="fs-id1167663494543">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167663614320" class="true-false">
+<title>True/False</title>
+<exercise id="fs-id1167663604068">
+<problem id="fs-id1167661364252">
+<para id="fs-id1167663994381">Glycolysis requires oxygen or another inorganic final electron acceptor to proceed.</para>
+</problem>
+<solution id="fs-id1167661750106">
+<para id="fs-id1167661759067">False</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167663899625" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167663887498">
+<problem id="fs-id1167663983531">
+<para id="fs-id1167663507304">Per turn of the Krebs cycle, one acetyl is oxidized, forming ____ CO<sub>2</sub>, ____ ATP, ____ NADH, and ____ FADH<sub>2</sub> molecules.</para>
+</problem>
+<solution id="fs-id1167663547266">
+<para id="fs-id1167661333032">2; 1; 3; 1</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167661747994">
+<problem id="fs-id1167663653346">
+<para id="fs-id1167663628151">Most commonly, glycolysis occurs by the ________ pathway.</para>
+</problem>
+<solution id="fs-id1167663657342">
+<para id="fs-id1167661754437">Embden-Meyerhof</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167661437982" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167661368999">
+<problem id="fs-id1167663854369">
+<para id="fs-id1167661365184">What is substrate-level phosphorylation? When does it occur during the breakdown of glucose to CO<sub>2</sub>?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167661316935">
+<problem id="fs-id1167663931169">
+<para id="fs-id1167661323994">Why is the Krebs cycle important in both catabolism and anabolism?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167663664206" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167661423952">
+<problem id="fs-id1167661437401">
+<para id="fs-id1167663619100">What would be the consequences to a cell of having a mutation that knocks out coenzyme A synthesis?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

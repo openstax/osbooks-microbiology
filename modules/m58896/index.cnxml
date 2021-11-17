@@ -1,0 +1,117 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Cancer Immunobiology and Immunotherapy</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58896</md:content-id>
+  <md:title>Cancer Immunobiology and Immunotherapy</md:title>
+  <md:abstract/>
+  <md:uuid>8d78250f-01dc-443a-9fce-f461c4a28b45</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167660338247" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167660371776">
+<item>Explain how the adaptive specific immune response responds to tumors</item>
+<item>Discuss the risks and benefits of tumor vaccines</item>
+</list>
+</section>
+<para id="fs-id1167660204654">Cancer involves a loss of the ability of cells to control their <term class="no-emphasis">cell cycle</term>, the stages each eukaryotic cell goes through as it grows and then divides. When this control is lost, the affected cells rapidly divide and often lose the ability to differentiate into the cell type appropriate for their location in the body. In addition, they lose <term class="no-emphasis">contact inhibition</term> and can start to grow on top of each other. This can result in formation of a <term>tumor</term>. It is important to make a distinction here: The term “<term class="no-emphasis">cancer</term>” is used to describe the diseases resulting from loss of cell-cycle regulation and subsequent cell proliferation. But the term “tumor” is more general. A “tumor” is an abnormal mass of cells, and a tumor can be <term class="no-emphasis">benign</term> (not cancerous) or <term class="no-emphasis">malignant</term> (cancerous).</para>
+<para id="fs-id1167660151640">Traditional cancer treatment uses radiation and/or chemotherapy to destroy cancer cells; however, these treatments can have unwanted side effects because they harm normal cells as well as cancer cells. Newer, promising therapies attempt to enlist the patient’s immune system to target cancer cells specifically. It is known that the immune system can recognize and destroy cancerous cells, and some researchers and immunologists also believe, based on the results of their experiments, that many cancers are eliminated by the body’s own defenses before they can become a health problem. This idea is not universally accepted by researchers, however, and needs further investigation for verification.</para>
+<section id="fs-id1167660256580">
+<title>Cell-Mediated Response to Tumors</title>
+<para id="fs-id1167660274552">Cell-mediated immune responses can be directed against cancer cells, many of which do not have the normal complement of self-proteins, making them a target for elimination. Abnormal cancer cells may also present <term class="no-emphasis">tumor antigen</term>s. These tumor antigens are not a part of the screening process used to eliminate lymphocytes during development; thus, even though they are self-antigens, they can stimulate and drive adaptive immune responses against abnormal cells.</para>
+<para id="fs-id1167660249593">Presentation of tumor antigens can stimulate <term class="no-emphasis">naïve helper T cells</term> to become activated by cytokines such as <term class="no-emphasis">IL-12</term> and differentiate into T<sub>H</sub>1<term class="no-emphasis">cell</term>s. T<sub>H</sub>1 cells release cytokines that can activate natural killer (NK) cells and enhance the killing of activated <term class="no-emphasis">cytotoxic T cell</term>s. Both <term class="no-emphasis">NK cell</term>s and cytotoxic T cells can recognize and target cancer cells, and induce <term class="no-emphasis">apoptosis</term> through the action of <term class="no-emphasis">perforin</term>s and <term class="no-emphasis">granzyme</term>s. In addition, activated cytotoxic T cells can bind to cell-surface proteins on abnormal cells and induce apoptosis by a second killing mechanism called the <term class="no-emphasis">CD95 (Fas) cytotoxic pathway</term>.</para>
+<para id="fs-id1167660358596">Despite these mechanisms for removing cancerous cells from the body, cancer remains a common cause of death. Unfortunately, malignant tumors tend to actively suppress the immune response in various ways. In some cancers, the immune cells themselves are cancerous. In <term class="no-emphasis">leukemia</term>, lymphocytes that would normally facilitate the immune response become abnormal. In other cancers, the cancerous cells can become resistant to induction of <term class="no-emphasis">apoptosis</term>. This may occur through the expression of membrane proteins that shut off cytotoxic T cells or that induce regulatory T cells that can shut down immune responses.</para>
+<para id="fs-id1167662797216">The mechanisms by which cancer cells alter immune responses are still not yet fully understood, and this is a very active area of research. As scientists’ understanding of adaptive immunity improves, cancer therapies that harness the body’s immune defenses may someday be more successful in treating and eliminating cancer.</para>
+<note id="fs-id1167662480574" class="microbiology check-your-understanding">
+<list id="fs-id1167662703261" list-type="bulleted" bullet-style="bullet">
+<item>How do cancer cells suppress the immune system?</item>
+<item>Describe how the immune system recognizes and destroys cancer cells.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167660318666">
+<title>Cancer Vaccines</title>
+<para id="fs-id1167660210188">There are two types of <term class="no-emphasis">cancer vaccines</term>: preventive and therapeutic. Preventive vaccines are used to prevent cancer from occurring, whereas therapeutic vaccines are used to treat patients with cancer. Most preventive cancer vaccines target viral infections that are known to lead to cancer. These include vaccines against <term class="no-emphasis">human papillomavirus (HPV)</term> and <term class="no-emphasis">hepatitis B</term>, which help prevent cervical and liver cancer, respectively.</para>
+<para id="fs-id1167660327837">Most therapeutic cancer vaccines are in the experimental stage. They exploit <term class="no-emphasis">tumor-specific antigens</term> to stimulate the immune system to selectively attack cancer cells. Specifically, they aim to enhance T<sub>H</sub>1 function and interaction with cytotoxic T cells, which, in turn, results in more effective attack on abnormal tumor cells. In some cases, researchers have used genetic engineering to develop antitumor vaccines in an approach similar to that used for DNA vaccines (see <link target-id="fs-id1167662474418" document="m58888">Micro Connections: DNA vaccines</link>). The vaccine contains a recombinant plasmid with genes for tumor antigens; theoretically, the tumor gene would not induce new cancer because it is not functional, but it could trick the immune system into targeting the tumor gene product as a foreign invader.</para>
+<para id="fs-id1167658345039">The first FDA-approved therapeutic cancer vaccine was <term class="no-emphasis">sipuleucel-T (Provenge)</term>, approved in 2010 to treat certain cases of <term class="no-emphasis">prostate cancer</term>.<footnote id="fs-id1167660247718">National Institutes of Health, National Cancer Institute. "Cancer Vaccines." http://www.cancer.gov/about-cancer/causes-prevention/vaccines-fact-sheet#q8. Accessed on May 20, 2016.</footnote> This unconventional vaccine is custom designed using the patient’s own cells. APCs are removed from the patient and cultured with a tumor-specific molecule; the cells are then returned to the patient. This approach appears to enhance the patient’s immune response against the cancer cells. Another therapeutic cancer vaccine (talimogene laherparepvec, also called <term class="no-emphasis">T-VEC</term> or <term class="no-emphasis">Imlygic</term>) was approved by the FDA in 2015 for treatment of <term class="no-emphasis">melanoma</term>, a form of skin cancer. This vaccine contains a virus that is injected into tumors, where it infects and lyses the tumor cells. The virus also induces a response in lesions or tumors besides those into which the vaccine is injected, indicating that it is stimulating a more general (as opposed to local) antitumor immune response in the patient.</para>
+<note id="fs-id1167662700062" class="microbiology check-your-understanding">
+<list id="fs-id1167656782285" list-type="bulleted" bullet-style="bullet">
+<item>Explain the difference between preventative and therapeutic cancer vaccines.</item>
+<item>Describe at least two different approaches to developing therapeutic anti-cancer vaccines.</item>
+</list>
+</note>
+<note id="fs-id1167662492752" class="microbiology micro-connection">
+<title>Using Viruses to Cure Cancer</title>
+<para id="fs-id1167658350650">Viruses typically destroy the cells they infect—a fact responsible for any number of human diseases. But the cell-killing powers of viruses may yet prove to be the cure for some types of cancer, which is generally treated by attempting to rid the body of cancerous cells. Several clinical trials are studying the effects of viruses targeted at cancer cells. <term class="no-emphasis">Reolysin</term>, a drug currently in testing phases, uses <term class="no-emphasis">reoviruses</term> (respiratory enteric orphan viruses) that can infect and kill cells that have an activated Ras-signaling pathway, a common mutation in cancerous cells. Viruses such as <term class="no-emphasis">rubeola</term> (the measles virus) can also be genetically engineered to aggressively attack tumor cells. These modified viruses not only bind more specifically to receptors overexpressed on cancer cells, they also carry genes driven by promoters that are only turned on within cancer cells. <term class="no-emphasis">Herpesvirus</term> and others have also been modified in this way.</para>
+</note>
+</section>
+<section id="fs-id1167656839843" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167660395432" list-type="bulleted" bullet-style="bullet">
+<item>Cancer results from a loss of control of the cell cycle, resulting in uncontrolled cell proliferation and a loss of the ability to differentiate.</item>
+<item>Adaptive and innate immune responses are engaged by <emphasis effect="bold">tumor</emphasis> antigens, self-molecules only found on abnormal cells. These adaptive responses stimulate helper T cells to activate cytotoxic T cells and NK cells of innate immunity that will seek and destroy cancer cells.</item>
+<item>New anticancer therapies are in development that will exploit natural adaptive immunity anticancer responses. These include external stimulation of cytotoxic T cells and therapeutic vaccines that assist or enhance the immune response.</item>
+</list>
+</section>
+<section id="fs-id1167660322292" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167658344750">
+<problem id="fs-id1167662469671">
+<para id="fs-id1167662877980">Cancer results when a mutation leads to which of the following?</para>
+<list id="fs-id1167662555000" list-type="enumerated" number-style="upper-alpha">
+<item>cell death</item>
+<item>apoptosis</item>
+<item>loss of cell-cycle control</item>
+<item>shutdown of the cell cycle</item>
+</list>
+</problem>
+<solution id="fs-id1167656875245">
+<para id="fs-id1167660396669">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167658344129">
+<problem id="fs-id1167660253735">
+<para id="fs-id1167662444786">Tumor antigens are ________ that are inappropriately expressed and found on abnormal cells.</para>
+<list id="fs-id1167660151491" list-type="enumerated" number-style="upper-alpha">
+<item>self antigens</item>
+<item>foreign antigens</item>
+<item>antibodies</item>
+<item>T-cell receptors</item>
+</list>
+</problem>
+<solution id="fs-id1167662644746">
+<para id="fs-id1167662370548">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167662510608" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167662870894">
+<problem id="fs-id1167662484969">
+<para id="fs-id1167660620552">A ________ cancer vaccine is one that stops the disease from occurring in the first place.</para>
+</problem>
+<solution id="fs-id1167662874319">
+<para id="fs-id1167660206156">preventive</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167658338440">
+<problem id="fs-id1167656880582">
+<para id="fs-id1167658366794">A ________ cancer vaccine is one that will help to treat the disease after it has occurred.</para>
+</problem>
+<solution id="fs-id1167657966242">
+<para id="fs-id1167662423089">therapeutic</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167658168427" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167658065236">
+<problem id="fs-id1167660330501">
+<para id="fs-id1167662429852">How can tumor antigens be effectively targeted without inducing an autoimmune (anti-self) response?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

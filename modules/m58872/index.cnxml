@@ -1,0 +1,213 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Tracking Infectious Diseases</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58872</md:content-id>
+  <md:title>Tracking Infectious Diseases</md:title>
+  <md:abstract/>
+  <md:uuid>414fe55f-5eb6-476d-956d-00ff53acadae</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167657980139" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167662906744">
+<item>Explain the research approaches used by the pioneers of epidemiology</item>
+<item>Explain how descriptive, analytical, and experimental epidemiological studies go about determining the cause of morbidity and mortality</item>
+</list>
+</section>
+<para id="fs-id1167658364624">Epidemiology has its roots in the work of physicians who looked for patterns in disease occurrence as a way to understand how to prevent it. The idea that disease could be transmitted was an important precursor to making sense of some of the patterns. In 1546, Girolamo <term class="no-emphasis">Fracastoro</term> first proposed the <term class="no-emphasis">germ theory of disease</term> in his essay <emphasis effect="italics">De Contagione et Contagiosis Morbis</emphasis>, but this theory remained in competition with other theories, such as the <term class="no-emphasis">miasma hypothesis</term>, for many years (see <link document="m58781">What Our Ancestors Knew</link>). Uncertainty about the cause of disease was not an absolute barrier to obtaining useful knowledge from patterns of disease. Some important researchers, such as Florence <term class="no-emphasis">Nightingale</term>, subscribed to the miasma hypothesis. The transition to acceptance of the germ theory during the 19th century provided a solid mechanistic grounding to the study of disease patterns. The studies of 19th century physicians and researchers such as John Snow, Florence Nightingale, Ignaz Semmelweis, Joseph Lister, Robert Koch, Louis Pasteur, and others sowed the seeds of modern epidemiology.</para>
+<section id="fs-id1167662746794">
+<title>Pioneers of Epidemiology</title>
+<para id="fs-id1167662778431">John <term class="no-emphasis">Snow</term> (<link target-id="OSC_Microbio_16_02_Snow"/>) was a British physician known as the father of epidemiology for determining the source of the 1854 <term class="no-emphasis">Broad Street cholera epidemic</term> in London. Based on observations he had made during an earlier cholera outbreak (1848–1849), Snow proposed that cholera was spread through a fecal-oral route of transmission and that a microbe was the infectious agent. He investigated the 1854 cholera epidemic in two ways. First, suspecting that contaminated water was the source of the epidemic, Snow identified the source of water for those infected. He found a high frequency of cholera cases among individuals who obtained their water from the River Thames downstream from London. This water contained the refuse and sewage from London and settlements upstream. He also noted that brewery workers did not contract cholera and on investigation found the owners provided the workers with beer to drink and stated that they likely did not drink water.<footnote id="fs-id1167662603323">John Snow. <emphasis effect="italics">On the Mode of Communication of Cholera. Second edition, Much Enlarged</emphasis>. John Churchill, 1855.</footnote> Second, he also painstakingly mapped the incidence of cholera and found a high frequency among those individuals using a particular water pump located on Broad Street. In response to Snow’s advice, local officials removed the pump’s handle,<footnote id="fs-id1167662464640">John Snow. “The Cholera near Golden-Wquare, and at Deptford.” <emphasis effect="italics">Medical Times and Gazette</emphasis> 9 (1854): 321–322. http://www.ph.ucla.edu/epi/snow/choleragoldensquare.html.</footnote> resulting in the containment of the Broad Street cholera epidemic.</para>
+<para id="fs-id1167660576401">Snow’s work represents an early epidemiological study and it resulted in the first known public health response to an epidemic. Snow’s meticulous case-tracking methods are now common practice in studying disease outbreaks and in associating new diseases with their causes. His work further shed light on unsanitary sewage practices and the effects of waste dumping in the Thames. Additionally, his work supported the <term class="no-emphasis">germ theory of disease</term>, which argued disease could be transmitted through contaminated items, including water contaminated with fecal matter.</para>
+<para id="fs-id1167660323452">Snow’s work illustrated what is referred to today as a <term>common source spread</term> of infectious disease, in which there is a single source for all of the individuals infected. In this case, the single source was the contaminated well below the Broad Street pump. Types of common source spread include point source spread, continuous common source spread, and intermittent common source spread. In <term>point source spread</term> of infectious disease, the common source operates for a short time period—less than the incubation period of the pathogen. An example of point source spread is a single contaminated potato salad at a group picnic. In <term>continuous common source spread</term>, the infection occurs for an extended period of time, longer than the incubation period. An example of continuous common source spread would be the source of London water taken downstream of the city, which was continuously contaminated with sewage from upstream. Finally, with <term>intermittent common source spread</term>, infections occur for a period, stop, and then begin again. This might be seen in infections from a well that was contaminated only after large rainfalls and that cleared itself of contamination after a short period.</para>
+<para id="fs-id1167662488523">In contrast to common source spread, <term>propagated spread</term> occurs through direct or indirect person-to-person contact. With propagated spread, there is no single source for infection; each infected individual becomes a source for one or more subsequent infections. With propagated spread, unless the spread is stopped immediately, infections occur for longer than the incubation period. Although point sources often lead to large-scale but localized outbreaks of short duration, propagated spread typically results in longer duration outbreaks that can vary from small to large, depending on the population and the disease (<link target-id="OSC_Microbio_16_02_propComp"/>). In addition, because of person-to-person transmission, propagated spread cannot be easily stopped at a single source like point source spread.</para>
+<figure id="OSC_Microbio_16_02_Snow">
+<media id="fs-id1167660312826" alt="a) Photo of John Snow. B) Map showing dots for where the diseases occurred.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_16_02_Snow.jpg"/>
+</media>
+<caption>(a) John Snow (1813–1858), British physician and father of epidemiology. (b) Snow’s detailed mapping of cholera incidence led to the discovery of the contaminated water pump on Broad street (red square) responsible for the 1854 cholera epidemic. (credit a: modification of work by “Rsabbatini”/Wikimedia Commons)</caption>
+</figure>
+<figure id="OSC_Microbio_16_02_propComp">
+<media id="fs-id1167662681457" alt="a) Graph of Disease incidence with point source spread. X axis is months; Y axis is cases. There is a peak in October which reaches 10 but quickly drops back down to the baseline of 1-2.  B) Disease incidence with propagated spread. X axis is months and Y axis is cases. There are three peaks. In November it reaches 10, in early December 20; in late December 24. It slowly drops back down.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_16_02_PropComp.jpg"/>
+</media>
+<caption>(a) Outbreaks that can be attributed to point source spread often have a short duration. (b) Outbreaks attributed to propagated spread can have a more extended duration. (credit a, b: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1167658048139">Florence <term class="no-emphasis">Nightingale</term>’s work is another example of an early epidemiological study. In 1854, Nightingale was part of a contingent of nurses dispatched by the British military to care for wounded soldiers during the Crimean War. Nightingale kept meticulous records regarding the causes of illness and death during the war. Her recordkeeping was a fundamental task of what would later become the science of epidemiology. Her analysis of the data she collected was published in 1858. In this book, she presented monthly frequency data on causes of death in a wedge chart histogram (<link target-id="OSC_Microbio_16_02_Flor"/>). This graphical presentation of data, unusual at the time, powerfully illustrated that the vast majority of casualties during the war occurred not due to wounds sustained in action but to what Nightingale deemed preventable infectious diseases. Often these diseases occurred because of poor sanitation and lack of access to hospital facilities. Nightingale’s findings led to many reforms in the British military’s system of medical care.</para>
+<para id="fs-id1167662481730">Joseph <term class="no-emphasis">Lister</term> provided early epidemiological evidence leading to good public health practices in clinics and hospitals. These settings were notorious in the mid-1800s for fatal infections of surgical wounds at a time when the <term class="no-emphasis">germ theory of disease</term> was not yet widely accepted (see <link document="m58791">Foundations of Modern Cell Theory</link>). Most physicians did not wash their hands between patient visits or clean and sterilize their surgical tools. Lister, however, discovered the disinfecting properties of <term class="no-emphasis">carbolic acid</term>, also known as <term class="no-emphasis">phenol</term> (see <link document="m58855">Using Chemicals to Control Microorganisms</link>). He introduced several disinfection protocols that dramatically lowered post-surgical infection rates.<footnote id="fs-id1167660287348">O.M. Lidwell. “Joseph Lister and Infection from the Air.” <emphasis effect="italics">Epidemiology and Infection</emphasis> 99 (1987): 569–578. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2249236/pdf/epidinfect00006-0004.pdf.</footnote> He demanded that surgeons who worked for him use a 5% carbolic acid solution to clean their surgical tools between patients, and even went so far as to spray the solution onto bandages and over the surgical site during operations (<link target-id="OSC_Microbio_16_02_lister"/>). He also took precautions not to introduce sources of infection from his skin or clothing by removing his coat, rolling up his sleeves, and washing his hands in a dilute solution of carbolic acid before and during the surgery.</para>
+<figure id="OSC_Microbio_16_02_Flor">
+<media id="fs-id1167658063680" alt="a) Photo of Florence Nightingale. B) A diagram with a wedge for each moth three different colors show different causes of death.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_16_02_Flor.jpg"/>
+</media>
+<caption>(a) Florence Nightingale reported on the data she collected as a nurse in the Crimean War. (b) Nightingale’s diagram shows the number of fatalities in soldiers by month of the conflict from various causes. The total number dead in a particular month is equal to the area of the wedge for that month. The colored sections of the wedge represent different causes of death: wounds (pink), preventable infectious diseases (gray), and all other causes (brown).</caption>
+</figure>
+<figure id="OSC_Microbio_16_02_lister">
+<media id="fs-id1167662786554" alt="Drawing of three people standing over a patient.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_16_02_Lister.jpg"/>
+</media>
+<caption>Joseph Lister initiated the use of a carbolic acid (phenol) during surgeries. This illustration of a surgery shows a pressurized canister of carbolic acid being sprayed over the surgical site.</caption>
+</figure>
+<note id="fs-id1167660253216" class="microbiology link-to-learning">
+
+<para id="fs-id1167662740247">John Snow’s <link url="https://openstax.org/l/22JohnSnowacco">own account of his work</link> has additional links and information.</para>
+<para id="fs-id1167662444526">This <link url="https://openstax.org/l/22CDCpointsourc">CDC resource</link> further breaks down the pattern expected from a point-source outbreak.</para>
+<para id="fs-id1167660328342">Learn more about <link url="https://openstax.org/l/22nightwedgecha">Nightingale’s wedge chart</link> here.</para>
+</note>
+<note id="fs-id1167660442919" class="microbiology check-your-understanding">
+<list id="fs-id1167662872292" list-type="bulleted" bullet-style="bullet">
+<item>Explain the difference between common source spread and propagated spread of disease.</item>
+<item>Describe how the observations of John Snow, Florence Nightingale, and Joseph Lister led to improvements in public health.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167662514888">
+<title>Types of Epidemiological Studies</title>
+<para id="fs-id1167660304479">Today, epidemiologists make use of study designs, the manner in which data are gathered to test a hypothesis, similar to those of researchers studying other phenomena that occur in populations. These approaches can be divided into observational studies (in which subjects are not manipulated) and experimental studies (in which subjects are manipulated). Collectively, these studies give modern-day epidemiologists multiple tools for exploring the connections between infectious diseases and the populations of susceptible individuals they might infect.</para>
+<section id="fs-id1167662484018">
+<title>Observational Studies</title>
+<para id="fs-id1167660257199">In an <term>observational study</term>, data are gathered from study participants through measurements (such as physiological variables like white blood cell count), or answers to questions in interviews (such as recent travel or exercise frequency). The subjects in an observational study are typically chosen at random from a population of affected or unaffected individuals. However, the subjects in an observational study are in no way manipulated by the researcher. Observational studies are typically easier to carry out than experimental studies, and in certain situations they may be the only studies possible for ethical reasons.</para>
+<para id="fs-id1167662448942">Observational studies are only able to measure associations between disease occurrence and possible causative agents; they do not necessarily prove a causal relationship. For example, suppose a study finds an association between heavy coffee drinking and lower incidence of skin cancer. This might suggest that coffee prevents skin cancer, but there may be another unmeasured factor involved, such as the amount of sun exposure the participants receive. If it turns out that coffee drinkers work more in offices and spend less time outside in the sun than those who drink less coffee, then it may be possible that the lower rate of skin cancer is due to less sun exposure, not to coffee consumption. The observational study cannot distinguish between these two potential causes.</para>
+<para id="fs-id1167660620662">There are several useful approaches in observational studies. These include methods classified as descriptive epidemiology and analytical epidemiology. <term>Descriptive epidemiology</term> gathers information about a disease outbreak, the affected individuals, and how the disease has spread over time in an exploratory stage of study. This type of study will involve interviews with patients, their contacts, and their family members; examination of samples and medical records; and even histories of food and beverages consumed. Such a study might be conducted while the outbreak is still occurring. Descriptive studies might form the basis for developing a <term class="no-emphasis">hypothesis of causation</term> that could be tested by more rigorous observational and experimental studies.</para>
+<para id="fs-id1167660205001"><term>Analytical epidemiology</term> employs carefully selected groups of individuals in an attempt to more convincingly evaluate hypotheses about potential causes for a disease outbreak. The selection of cases is generally made at random, so the results are not biased because of some common characteristic of the <term class="no-emphasis">study participants</term>. Analytical studies may gather their data by going back in time (retrospective studies), or as events unfold forward in time (prospective studies).</para>
+<para id="fs-id1167662738250"><term>Retrospective studies</term> gather data from the past on present-day cases. Data can include things like the medical history, age, gender, or occupational history of the affected individuals. This type of study examines associations between factors chosen or available to the researcher and disease occurrence.</para>
+<para id="fs-id1167660270448"><term>Prospective studies</term> follow individuals and monitor their disease state during the course of the study. Data on the characteristics of the study subjects and their environments are gathered at the beginning and during the study so that subjects who become ill may be compared with those who do not. Again, the researchers can look for associations between the disease state and variables that were measured during the study to shed light on possible causes.</para>
+<para id="fs-id1167660400312">Analytical studies incorporate groups into their designs to assist in teasing out associations with disease. Approaches to group-based analytical studies include cohort studies, case-control studies, and cross-sectional studies. The <term>cohort method</term> examines groups of individuals (called cohorts) who share a particular characteristic. For example, a cohort might consist of individuals born in the same year and the same place; or it might consist of people who practice or avoid a particular behavior, e.g., smokers or nonsmokers. In a cohort study, cohorts can be followed prospectively or studied retrospectively. If only a single cohort is followed, then the affected individuals are compared with the unaffected individuals in the same group. Disease outcomes are recorded and analyzed to try to identify correlations between characteristics of individuals in the cohort and disease incidence. Cohort studies are a useful way to determine the causes of a condition without violating the ethical prohibition of exposing subjects to a risk factor. Cohorts are typically identified and defined based on suspected risk factors to which individuals have already been exposed through their own choices or circumstances.</para>
+<para id="fs-id1167662520085"><term>Case-control studies</term> are typically retrospective and compare a group of individuals with a disease to a similar group of individuals without the disease. Case-control studies are far more efficient than cohort studies because researchers can deliberately select subjects who are already affected with the disease as opposed to waiting to see which subjects from a random sample will develop a disease.</para>
+<para id="fs-id1167662486933">A <term>cross-sectional study</term> analyzes randomly selected individuals in a population and compares individuals affected by a disease or condition to those unaffected at a single point in time. Subjects are compared to look for associations between certain measurable variables and the disease or condition. Cross-sectional studies are also used to determine the prevalence of a condition.</para>
+</section>
+<section id="fs-id1167662732142">
+<title>Experimental Studies</title>
+<para id="fs-id1167662879140"><term>Experimental epidemiology</term> uses laboratory or clinical studies in which the investigator manipulates the study subjects to study the connections between diseases and potential causative agents or to assess treatments. Examples of treatments might be the administration of a drug, the inclusion or exclusion of different dietary items, physical exercise, or a particular surgical procedure. Animals or humans are used as test subjects. Because <term>experimental studies</term> involve manipulation of subjects, they are typically more difficult and sometimes impossible for ethical reasons.</para>
+<para id="fs-id1167662516985"><term class="no-emphasis">Koch’s postulates</term> require experimental interventions to determine the causative agent for a disease. Unlike observational studies, experimental studies can provide strong evidence supporting cause because other factors are typically held constant when the researcher manipulates the subject. The outcomes for one group receiving the treatment are compared to outcomes for a group that does not receive the treatment but is treated the same in every other way. For example, one group might receive a regimen of a drug administered as a pill, while the untreated group receives a <term class="no-emphasis">placebo</term> (a pill that looks the same but has no active ingredient). Both groups are treated as similarly as possible except for the administration of the drug. Because other variables are held constant in both the treated and the untreated groups, the researcher is more certain that any change in the treated group is a result of the specific manipulation.</para>
+<para id="fs-id1167660157529">Experimental studies provide the strongest evidence for the etiology of disease, but they must also be designed carefully to eliminate subtle effects of <term class="no-emphasis">bias</term>. Typically, experimental studies with humans are conducted as <term class="no-emphasis">double-blind studies</term>, meaning neither the subjects nor the researchers know who is a treatment case and who is not. This design removes a well-known cause of bias in research called the <term class="no-emphasis">placebo effect</term>, in which knowledge of the treatment by either the subject or the researcher can influence the outcomes.</para>
+<note id="fs-id1167662420366" class="microbiology check-your-understanding">
+<list id="fs-id1167662613833" list-type="bulleted" bullet-style="bullet">
+<item>Describe the advantages and disadvantages of observational studies and experimental studies.</item>
+<item>Explain the ways that groups of subjects can be selected for analytical studies.</item>
+</list>
+</note>
+<note id="fs-id1167660178029" class="microbiology clinical-focus">
+<title>Part 3</title>
+<para id="fs-id1167658391627">Since laboratory tests had confirmed <emphasis effect="italics">Salmonella</emphasis>, a common foodborne pathogen, as the etiologic agent, epidemiologists suspected that the outbreak was caused by contamination at a food processing facility serving the region. Interviews with patients focused on food consumption during and after the Thanksgiving holiday, corresponding with the timing of the outbreak. During the interviews, patients were asked to list items consumed at holiday gatherings and describe how widely each item was consumed among family members and relatives. They were also asked about the sources of food items (e.g., brand, location of purchase, date of purchase). By asking such questions, health officials hoped to identify patterns that would lead back to the source of the outbreak.</para>
+<para id="fs-id1167662906208">Analysis of the interview responses eventually linked almost all of the cases to consumption of a holiday dish known as the <term class="no-emphasis">turducken</term>—a chicken stuffed inside a duck stuffed inside a turkey. Turducken is a dish not generally consumed year-round, which would explain the spike in cases just after the Thanksgiving holiday. Additional analysis revealed that the turduckens consumed by the affected patients were purchased already stuffed and ready to be cooked. Moreover, the pre-stuffed turduckens were all sold at the same regional grocery chain under two different brand names. Upon further investigation, officials traced both brands to a single processing plant that supplied stores throughout the Florida panhandle.</para>
+<list id="fs-id1167662463477" list-type="bulleted" bullet-style="bullet">
+<item>Is this an example of common source spread or propagated spread?</item>
+<item>What next steps would the public health office likely take after identifying the source of the outbreak?</item>
+</list>
+<para id="fs-id1167660381714"><emphasis effect="italics">Jump to the <link target-id="fs-id1167663957394" document="m58873">next</link> Clinical Focus box. Go back to the <link target-id="fs-id1167656775125" document="m58871">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+</section>
+<section id="fs-id1167662683375" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167660253485" list-type="bulleted" bullet-style="bullet">
+<item>Early pioneers of epidemiology such as John Snow, Florence Nightingale, and Joseph Lister, studied disease at the population level and used data to disrupt disease transmission.</item>
+<item><emphasis effect="bold">Descriptive epidemiology</emphasis> studies rely on case analysis and patient histories to gain information about outbreaks, frequently while they are still occurring.</item>
+<item><emphasis effect="bold">Retrospective epidemiology</emphasis> studies use historical data to identify associations with the disease state of present cases. <emphasis effect="bold">Prospective epidemiology</emphasis> studies gather data and follow cases to find associations with future disease states.</item>
+<item><emphasis effect="bold">Analytical epidemiology</emphasis> studies are observational studies that are carefully designed to compare groups and uncover associations between environmental or genetic factors and disease.</item>
+<item><emphasis effect="bold">Experimental epidemiology</emphasis> studies generate strong evidence of causation in disease or treatment by manipulating subjects and comparing them with control subjects.</item>
+</list>
+</section>
+<section id="fs-id1167660126308" class="matching">
+<title>Matching</title>
+<exercise id="fs-id1167662480223">
+<problem id="fs-id1167662444785">
+<para id="fs-id1167662613445">Match each type of epidemiology study with its description.</para>
+<table id="fs-id1167660217128" summary="Options: experimental; analytical; prospective; descriptive; retrospective. A. examination of past case histories and medical test results conducted on patients in an outbreak. B. examination of current case histories, interviews with patients and their contacts, interpretation of medical test results; frequently conducted while outbreak is still in progress. C. use of a set of test subjects (human or animal) and control subjects that are treated the same as the test subjects except for the specific treatment being studied. D. observing groups of individuals to look for associations with disease. E. a comparison of a cohort of individuals through the course of the study." class="unnumbered unstyled">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">___experimental</entry>
+<entry valign="top" align="left">A. examination of past case histories and medical test results conducted on patients in an outbreak</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___analytical</entry>
+<entry valign="top" align="left">B. examination of current case histories, interviews with patients and their contacts, interpretation of medical test results; frequently conducted while outbreak is still in progress</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___prospective</entry>
+<entry valign="top" align="left">C. use of a set of test subjects (human or animal) and control subjects that are treated the same as the test subjects except for the specific treatment being studied</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___descriptive</entry>
+<entry valign="top" align="left">D. observing groups of individuals to look for associations with disease</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___retrospective</entry>
+<entry valign="top" align="left">E. a comparison of a cohort of individuals through the course of the study</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+<solution id="fs-id1167662450417">
+<para id="fs-id1167660257860">C, D, E, B, A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167658337316">
+<problem id="fs-id1167662425626">
+<para id="fs-id1167662753292">Match each pioneer of epidemiology with his or her contribution.</para>
+<table id="fs-id1167660215676" summary="Options: Florence Nightingale; Robert Koch ; Joseph Lister;  John Snow. A. determined the source of a cholera outbreak in London. B. showed that surgical wound infection rates could be dramatically reduced by using carbolic acid to disinfect surgical tools, bandages, and surgical sites. C. compiled data on causes of mortality in soldiers, leading to innovations in military medical care. D. developed a methodology for conclusively determining the etiology of disease" class="unnumbered unstyled">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">___Florence Nightingale</entry>
+<entry valign="top" align="left">A. determined the source of a cholera outbreak in London</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___Robert Koch</entry>
+<entry valign="top" align="left">B. showed that surgical wound infection rates could be dramatically reduced by using carbolic acid to disinfect surgical tools, bandages, and surgical sites</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___Joseph Lister</entry>
+<entry valign="top" align="left">C. compiled data on causes of mortality in soldiers, leading to innovations in military medical care</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___John Snow</entry>
+<entry valign="top" align="left">D. developed a methodology for conclusively determining the etiology of disease</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+<solution id="fs-id1167662744265">
+<para id="fs-id1167662494450">C, D, B, A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167662878083" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167660169320">
+<problem id="fs-id1167662489647">
+<para id="fs-id1167660328683">________occurs when an infected individual passes the infection on to other individuals, who pass it on to still others, increasing the penetration of the infection into the susceptible population.</para>
+</problem>
+<solution id="fs-id1167662915995">
+<para id="fs-id1167660321752">Propagated spread</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660396819">
+<problem id="fs-id1167662485943">
+<para id="fs-id1167662450554">A batch of food contaminated with botulism exotoxin, consumed at a family reunion by most of the members of a family, would be an example of a ________ outbreak.</para>
+</problem>
+<solution id="fs-id1167660204536">
+<para id="fs-id1167662394104">point source</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167662497404" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167662743953">
+<problem id="fs-id1167662797001">
+<para id="fs-id1167662506386">What activity did John Snow conduct, other than mapping, that contemporary epidemiologists also use when trying to understand how to control a disease?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+
+</document>

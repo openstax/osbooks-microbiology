@@ -1,0 +1,156 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Catabolism of Lipids and Proteins</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58823</md:content-id>
+  <md:title>Catabolism of Lipids and Proteins</md:title>
+  <md:abstract/>
+  <md:uuid>c0dc5d3f-f643-4754-8d92-e05b4706ac8d</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167660216949" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167662442703">
+<item>Describe how lipids are catabolized</item>
+<item>Describe how lipid catabolism can be used to identify microbes</item>
+<item>Describe how proteins are catabolized</item>
+<item>Describe how protein catabolism can be used to identify bacteria</item>
+</list>
+</section>
+<para id="fs-id1167662465252">Previous sections have discussed the catabolism of glucose, which provides energy to living cells, as well as how polysaccharides like glycogen, starch, and cellulose are degraded to glucose monomers. But microbes consume more than just carbohydrates for food. In fact, the microbial world is known for its ability to degrade a wide range of molecules, both naturally occurring and those made by human processes, for use as carbon sources. In this section, we will see that the pathways for both lipid and protein catabolism connect to those used for carbohydrate catabolism, eventually leading into glycolysis, the transition reaction, and the Krebs cycle pathways. Metabolic pathways should be considered to be porous—that is, substances enter from other pathways, and intermediates leave for other pathways. These pathways are not closed systems. Many of the substrates, intermediates, and products in a particular pathway are reactants in other pathways.</para>
+<section id="fs-id1167658040719">
+<title>Lipid Catabolism</title>
+<para id="fs-id1167662509804">Triglycerides are a form of long-term energy storage in animals. They are made of <term class="no-emphasis">glycerol</term> and three <term class="no-emphasis">fatty acids</term> (see <link document="m58815" target-id="OSC_Microbio_07_03_trygly"/>). Phospholipids compose the cell and organelle membranes of all organisms except the archaea. Phospholipid structure is similar to <term class="no-emphasis">triglycerides</term> except that one of the fatty acids is replaced by a phosphorylated head group (see <link document="m58815" target-id="OSC_Microbio_07_03_phospholip"/>). Triglycerides and <term class="no-emphasis">phospholipids</term> are broken down first by releasing fatty acid chains (and/or the phosphorylated head group, in the case of phospholipids) from the three-carbon glycerol backbone. The reactions breaking down triglycerides are catalyzed by <term>lipases</term> and those involving phospholipids are catalyzed by <term>phospholipases</term>. These enzymes contribute to the virulence of certain microbes, such as the bacterium <term class="no-emphasis"><emphasis effect="italics">Staphylococcus aureus</emphasis></term> and the fungus <term class="no-emphasis"><emphasis effect="italics">Cryptococcus neoformans</emphasis></term>. These microbes use phospholipases to destroy lipids and phospholipids in host cells and then use the catabolic products for energy (see <link document="m58868">Virulence Factors of Bacterial and Viral Pathogens</link>).</para>
+<para id="fs-id1167662400794">The resulting products of lipid catabolism, glycerol and fatty acids, can be further degraded. Glycerol can be phosphorylated to glycerol-3-phosphate and easily converted to glyceraldehyde 3-phosphate, which continues through glycolysis. The released fatty acids are catabolized in a process called <term>β-oxidation</term>, which sequentially removes two-carbon acetyl groups from the ends of fatty acid chains, reducing NAD<sup>+</sup> and FAD to produce NADH and FADH<sub>2</sub>, respectively, whose electrons can be used to make ATP by oxidative phosphorylation. The acetyl groups produced during β-oxidation are carried by coenzyme A to the Krebs cycle, and their movement through this cycle results in their degradation to CO<sub>2</sub>, producing ATP by substrate-level phosphorylation and additional NADH and FADH<sub>2</sub> molecules (see <link document="m58948">Appendix C</link> for a detailed illustration of β-oxidation).</para>
+<para id="fs-id1167662552495">Other types of lipids can also be degraded by certain microbes. For example, the ability of certain pathogens, like <term class="no-emphasis"><emphasis effect="italics">Mycobacterium tuberculosis</emphasis></term>, to degrade cholesterol contributes to their virulence. The side chains of cholesterol can be easily removed enzymatically, but degradation of the remaining fused rings is more problematic. The four fused rings are sequentially broken in a multistep process facilitated by specific enzymes, and the resulting products, including pyruvate, can be further catabolized in the Krebs cycle.</para>
+<note id="fs-id1167660320519" class="microbiology check-your-understanding">
+<list id="fs-id1167659067010" list-type="bulleted" bullet-style="bullet">
+<item>How can lipases and phospholipases contribute to virulence in microbes?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167660217569">
+<title>Protein Catabolism</title>
+<para id="fs-id1167660204483">Proteins are degraded through the concerted action of a variety of microbial <term>protease</term> enzymes. Extracellular proteases cut proteins internally at specific amino acid sequences, breaking them down into smaller peptides that can then be taken up by cells. Some clinically important pathogens can be identified by their ability to produce a specific type of extracellular protease. For example, the production of the extracellular protease <term class="no-emphasis">gelatinase</term> by members of the genera <term class="no-emphasis"><emphasis effect="italics">Proteus</emphasis></term> and <term class="no-emphasis"><emphasis effect="italics">Serratia</emphasis></term> can be used to distinguish them from other gram-negative enteric bacteria. Following inoculation and growth of microbes in gelatin broth, degradation of the gelatin protein due to gelatinase production prevents solidification of gelatin when refrigerated. Other pathogens can be distinguished by their ability to degrade casein, the main protein found in milk. When grown on skim milk agar, production of the extracellular protease <term class="no-emphasis">caseinase</term> causes degradation of casein, which appears as a zone of clearing around the microbial growth. Caseinase production by the opportunist pathogen <term class="no-emphasis"><emphasis effect="italics">Pseudomonas aeruginosa</emphasis></term> can be used to distinguish it from other related gram-negative bacteria.</para>
+<para id="fs-id1167662496748">After extracellular protease degradation and uptake of peptides in the cell, the peptides can then be broken down further into individual amino acids by additional intracellular proteases, and each amino acid can be enzymatically deaminated to remove the amino group. The remaining molecules can then enter the transition reaction or the Krebs cycle.</para>
+<note id="fs-id1167660313108" class="microbiology check-your-understanding">
+<list id="fs-id1167663640688" list-type="bulleted" bullet-style="bullet">
+<item>How can protein catabolism help identify microbes?</item>
+</list>
+</note>
+<note id="fs-id1167662513703" class="microbiology clinical-focus">
+<title>Part 3</title>
+<para id="fs-id1167660321759">Because bacterial meningitis progresses so rapidly, Hannah’s doctors had decided to treat her aggressively with antibiotics, based on empirical observation of her symptoms. However, laboratory testing to confirm the cause of Hannah’s meningitis was still important for several reasons. <emphasis effect="italics">N. meningitidis</emphasis> is an infectious pathogen that can be spread from person to person through close contact; therefore, if tests confirm <emphasis effect="italics">N. meningitidis</emphasis> as the cause of Hannah’s symptoms, Hannah’s parents and others who came into close contact with her might need to be vaccinated or receive prophylactic antibiotics to lower their risk of contracting the disease. On the other hand, if it turns out that <emphasis effect="italics">N. meningitidis</emphasis> is not the cause, Hannah’s doctors might need to change her treatment.</para>
+<para id="fs-id1167662503394">The clinical laboratory performed a Gram stain on Hannah’s blood and CSF samples. The Gram stain showed the presence of a bean-shaped gram-negative diplococcus. The technician in the hospital lab cultured Hannah’s blood sample on both blood agar and chocolate agar, and the bacterium that grew on both media formed gray, nonhemolytic colonies. Next, he performed an oxidase test on this bacterium and determined that it was oxidase positive. Last, he examined the repertoire of sugars that the bacterium could use as a carbon source and found that the bacterium was positive for glucose and maltose use but negative for lactose and sucrose use. All of these test results are consistent with characteristics of <emphasis effect="italics">N. meningitidis</emphasis>.</para>
+<list id="fs-id1167660310555" list-type="bulleted" bullet-style="bullet">
+<item>What do these test results tell us about the metabolic pathways of <emphasis effect="italics">N. meningitidis</emphasis>?</item>
+<item>Why do you think that the hospital used these biochemical tests for identification in lieu of molecular analysis by DNA testing?</item>
+</list>
+<para id="fs-id1167662578926"><emphasis effect="italics">Jump to the <link document="m58825" target-id="fs-id1167662419730">next</link> Clinical Focus box. Go back to the <link document="m58822" target-id="fs-id1167660330751">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+<section id="fs-id1167660253596" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167662553621" list-type="bulleted" bullet-style="bullet">
+<item>Collectively, microbes have the ability to degrade a wide variety of carbon sources besides carbohydrates, including lipids and proteins. The catabolic pathways for all of these molecules eventually connect into glycolysis and the Krebs cycle.</item>
+<item>Several types of lipids can be microbially degraded. Triglycerides are degraded by extracellular <emphasis effect="bold">lipases</emphasis>, releasing fatty acids from the glycerol backbone. Phospholipids are degraded by <emphasis effect="bold">phospholipases</emphasis>, releasing fatty acids and the phosphorylated head group from the glycerol backbone. Lipases and phospholipases act as virulence factors for certain pathogenic microbes.</item>
+<item>Fatty acids can be further degraded inside the cell through <emphasis effect="bold">β-oxidation</emphasis>, which sequentially removes two-carbon acetyl groups from the ends of fatty acid chains.</item>
+<item>Protein degradation involves extracellular <emphasis effect="bold">proteases</emphasis> that degrade large proteins into smaller peptides. Detection of the extracellular proteases gelatinase and caseinase can be used to differentiate clinically relevant bacteria.</item>
+</list>
+</section>
+<section id="fs-id1167662800300" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167662753292">
+<problem id="fs-id1167662727614">
+<para id="fs-id1167662490790">Which of the following molecules is not produced during the breakdown of phospholipids?</para>
+<list id="fs-id1167656910828" list-type="enumerated" number-style="upper-alpha">
+<item>glucose</item>
+<item>glycerol</item>
+<item>acetyl groups</item>
+<item>fatty acids</item>
+</list>
+</problem>
+<solution id="fs-id1167662476943">
+<para id="fs-id1167660277681">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662484738">
+<problem id="fs-id1167662778273">
+<para id="fs-id1167658169555">Caseinase is which type of enzyme?</para>
+<list id="fs-id1167660288626" list-type="enumerated" number-style="upper-alpha">
+<item>phospholipase</item>
+<item>lipase</item>
+<item>extracellular protease</item>
+<item>intracellular protease</item>
+</list>
+</problem>
+<solution id="fs-id1167660273196">
+<para id="fs-id1167660463522">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662504408">
+<problem id="fs-id1167662515813">
+<para id="fs-id1167662441607">Which of the following is the first step in triglyceride degradation?</para>
+<list id="fs-id1167662490922" list-type="enumerated" number-style="upper-alpha">
+<item>removal of fatty acids</item>
+<item>β-oxidation</item>
+<item>breakage of fused rings</item>
+<item>formation of smaller peptides</item>
+</list>
+</problem>
+<solution id="fs-id1167660329185">
+<para id="fs-id1167660403355">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167660383759" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167660437633">
+<problem id="fs-id1167662873171">
+<para id="fs-id1167660170357">The process by which two-carbon units are sequentially removed from fatty acids, producing acetyl-CoA, FADH<sub>2</sub>, and NADH is called ________.</para>
+</problem>
+<solution id="fs-id1167662759178">
+<para id="fs-id1167660270449">β-oxidation</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660252808">
+<problem id="fs-id1167662486276">
+<para id="fs-id1167660650037">The NADH and FADH<sub>2</sub> produced during β-oxidation are used to make ________.</para>
+</problem>
+<solution id="fs-id1167662739462">
+<para id="fs-id1167660340009">ATP by oxidative phosphorylation</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660619744">
+<problem id="fs-id1167662888620">
+<para id="fs-id1167662757282">________ is a type of medium used to detect the production of an extracellular protease called caseinase.</para>
+</problem>
+<solution id="fs-id1167660330355">
+<para id="fs-id1167662486014">Skim milk agar</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167657963130" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167662446639">
+<problem id="fs-id1167658391326">
+<para id="fs-id1167657888222">How are the products of lipid and protein degradation connected to glucose metabolism pathways?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167662758072">
+<problem id="fs-id1167660303866">
+<para id="fs-id1167662736706">What is the general strategy used by microbes for the degradation of macromolecules?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167660271518" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167660210401">
+<problem id="fs-id1167662492842">
+<para id="fs-id1167660186003">Do you think that β-oxidation can occur in an organism incapable of cellular respiration? Why or why not?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

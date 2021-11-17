@@ -1,0 +1,146 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>History of Chemotherapy and Antimicrobial Discovery</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58858</md:content-id>
+  <md:title>History of Chemotherapy and Antimicrobial Discovery</md:title>
+  <md:abstract/>
+  <md:uuid>073937dc-4dbe-4f2e-a499-85be4324bb9d</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167663990851" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167663991742">
+<item>Compare and contrast natural, semisynthetic, and synthetic antimicrobial drugs</item>
+<item>Describe the chemotherapeutic approaches of ancient societies</item>
+<item>Describe the historically important individuals and events that led to the development of antimicrobial drugs</item>
+</list>
+</section>
+<note id="fs-id1167661303645" class="microbiology clinical-focus">
+<title>Part 1</title>
+<para id="fs-id1167661323318">Marisa, a 52-year-old woman, was suffering from severe abdominal pain, swollen lymph nodes, fatigue, and a fever. She had just returned home from visiting extended family in her native country of Cambodia. While abroad, she received medical care in neighboring Vietnam for a compressed spinal cord. She still had discomfort when leaving Cambodia, but the pain increased as her trip home continued and her husband drove her straight from the airport to the emergency room.</para>
+<para id="fs-id1167663729644">Her doctor considers whether Marisa could be suffering from appendicitis, a urinary tract infection (UTI), or pelvic inflammatory disease (PID). However, each of those conditions is typically preceded or accompanied by additional symptoms. He considers the treatment she received in Vietnam for her compressed spinal cord, but abdominal pain is not usually associated with spinal cord compression. He examines her health history further.</para>
+<list id="fs-id1167663556745" list-type="bulleted" bullet-style="bullet">
+<item>What type of infection or other condition may be responsible?</item>
+<item>What type of lab tests might the doctor order?</item>
+</list>
+<para id="fs-id1167661322938"><emphasis effect="italics">Jump to the <link document="m58860" target-id="fs-id1167661499148">next</link> Clinical Focus box.</emphasis></para>
+</note>
+<para id="fs-id1167661325378">Most people associate the term <term class="no-emphasis">chemotherapy</term> with treatments for cancer. However, chemotherapy is actually a broader term that refers to any use of chemicals or drugs to treat disease. Chemotherapy may involve drugs that target cancerous cells or tissues, or it may involve <term>antimicrobial drugs</term> that target infectious microorganisms. Antimicrobial drugs typically work by destroying or interfering with microbial structures and enzymes, either killing microbial cells or inhibiting their growth. But before we examine how these drugs work, we will briefly explore the history of humans’ use of antimicrobials for the purpose of chemotherapy.</para>
+<section id="fs-id1167663592843">
+<title>Use of Antimicrobials in Ancient Societies</title>
+<para id="fs-id1167663963808">Although the discovery of antimicrobials and their subsequent widespread use is commonly associated with modern medicine, there is evidence that humans have been exposed to antimicrobial compounds for millennia. Chemical analyses of the skeletal remains of people from Nubia<footnote id="fs-id1167663965018">M.L. Nelson et al. “Brief Communication: Mass Spectroscopic Characterization of Tetracycline in the Skeletal Remains of an Ancient Population from Sudanese Nubia 350–550 CE.” <emphasis effect="italics">American Journal of Physical Anthropology</emphasis> 143 no. 1 (2010):151–154. </footnote> (now found in present-day Sudan) dating from between 350 and 550 AD have shown residue of the antimicrobial agent <term class="no-emphasis">tetracycline</term> in high enough quantities to suggest the purposeful fermentation of tetracycline-producing <emphasis effect="italics">Streptomyces</emphasis> during the beer-making process. The resulting <term class="no-emphasis">beer</term>, which was thick and gruel-like, was used to treat a variety of ailments in both adults and children, including gum disease and wounds. The antimicrobial properties of certain plants may also have been recognized by various cultures around the world, including Indian and Chinese <term class="no-emphasis">herbalists</term> (<link target-id="OSC_Microbio_14_01_Woodcut"/>) who have long used plants for a wide variety of medical purposes. Healers of many cultures understood the antimicrobial properties of fungi and their use of moldy bread or other mold-containing products to treat wounds has been well documented for centuries.<footnote id="fs-id1167661280613">M. Wainwright. “Moulds in Ancient and More Recent Medicine.” <emphasis effect="italics">Mycologist</emphasis> 3 no. 1 (1989):21–23.</footnote> Today, while about 80% of the world’s population still relies on plant-derived medicines,<footnote id="fs-id1167663991539">S. Verma, S.P. Singh. “Current and Future Status of Herbal Medicines.” <emphasis effect="italics">Veterinary World</emphasis> 1 no. 11 (2008):347–350.</footnote> scientists are now discovering the active compounds conferring the medicinal benefits contained in many of these traditionally used plants.</para>
+<figure id="OSC_Microbio_14_01_Woodcut">
+<media id="fs-id1167661256805" alt="Photo of a variety of plants being sold by a street vendor.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_14_01_Woodcut.jpg"/>
+</media>
+<caption>For millennia, Chinese herbalists have used many different species of plants for the treatment of a wide variety of human ailments.</caption>
+</figure>
+<note id="fs-id1167663537520" class="microbiology check-your-understanding">
+<list id="fs-id1167661759930" list-type="bulleted" bullet-style="bullet">
+<item>Give examples of how antimicrobials were used in ancient societies.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167663973280">
+<title>The First Antimicrobial Drugs</title>
+<para id="fs-id1167661326783">Societies relied on traditional medicine for thousands of years; however, the first half of the 20th century brought an era of strategic drug discovery. In the early 1900s, the German physician and scientist Paul <term class="no-emphasis">Ehrlich</term> (1854–1915) set out to discover or synthesize chemical compounds capable of killing infectious microbes without harming the patient. In 1909, after screening more than 600 arsenic-containing compounds, Ehrlich’s assistant Sahachiro <term class="no-emphasis">Hata</term> (1873–1938) found one such “magic bullet.” <term class="no-emphasis">Compound 606</term> targeted the bacterium <emphasis effect="italics">Treponema pallidum</emphasis>, the causative agent of syphilis. Compound 606 was found to successfully cure syphilis in rabbits and soon after was marketed under the name <term class="no-emphasis">Salvarsan</term> as a remedy for the disease in humans (<link target-id="OSC_Microbio_14_01_Ehrlich"/>). Ehrlich’s innovative approach of systematically screening a wide variety of compounds remains a common strategy for the discovery of new antimicrobial agents even today.</para>
+<figure id="OSC_Microbio_14_01_Ehrlich">
+<media id="fs-id1167659275763" alt="Drawing of Paul Ehrlich in the lab.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_14_01_Ehrlich.jpg"/>
+</media>
+<caption>Paul Ehrlich was influential in the discovery of Compound 606, an antimicrobial agent that proved to be an effective treatment for syphilis.</caption>
+</figure>
+<para id="fs-id1167663984604">A few decades later, German scientists Josef <term class="no-emphasis">Klarer</term>, Fritz <term class="no-emphasis">Mietzsch</term>, and Gerhard <term class="no-emphasis">Domagk</term> discovered the antibacterial activity of a synthetic dye, <term class="no-emphasis">prontosil</term>, that could treat streptococcal and staphylococcal infections in mice. Domagk’s own daughter was one of the first human recipients of the drug, which completely cured her of a severe streptococcal infection that had resulted from a poke with an embroidery needle. Gerhard <term class="no-emphasis">Domagk</term> (1895–1964) was awarded the Nobel Prize in Medicine in 1939 for his work with prontosil and <term class="no-emphasis">sulfanilamide</term>, the active breakdown product of prontosil in the body. Sulfanilamide, the first synthetic antimicrobial created, served as the foundation for the chemical development of a family of sulfa drugs. A <term>synthetic antimicrobial</term> is a drug that is developed from a chemical not found in nature. The success of the <term class="no-emphasis">sulfa drugs</term> led to the discovery and production of additional important classes of synthetic antimicrobials, including the <term class="no-emphasis">quinolines</term> and <term class="no-emphasis">oxazolidinones</term>.</para>
+<para id="fs-id1167661463241">A few years before the discovery of prontosil, scientist Alexander <term class="no-emphasis">Fleming</term> (1881–1955) made his own accidental discovery that turned out to be monumental. In 1928, Fleming returned from holiday and examined some old plates of staphylococci in his research laboratory at St. Mary’s Hospital in London. He observed that contaminating mold growth (subsequently identified as a strain of <emphasis effect="italics">Penicillium notatum</emphasis>) inhibited staphylococcal growth on one plate. Fleming, therefore, is credited with the discovery of <term>penicillin</term>, the first <term>natural antibiotic</term>, (<link target-id="OSC_Microbio_14_01_Oxford"/>). Further experimentation showed that penicillin from the mold was antibacterial against streptococci, meningococci, and <term class="no-emphasis"><emphasis effect="italics">Corynebacterium diphtheriae</emphasis></term>, the causative agent of diphtheria.</para>
+<para id="fs-id1167661292885">Fleming and his colleagues were credited with discovering and identifying penicillin, but its isolation and mass production were accomplished by a team of researchers at Oxford University under the direction of Howard <term class="no-emphasis">Florey</term> (1898–1968) and Ernst <term class="no-emphasis">Chain</term> (1906–1979) (<link target-id="OSC_Microbio_14_01_Oxford"/>). In 1940, the research team purified penicillin and reported its success as an antimicrobial agent against streptococcal infections in mice. Their subsequent work with human subjects also showed penicillin to be very effective. Because of their important work, Fleming, Florey, and Chain were awarded the Nobel Prize in Physiology and Medicine in 1945.</para>
+<para id="fs-id1167663877680">In the early 1940s, scientist Dorothy <term class="no-emphasis">Hodgkin</term> (1910–1994), who studied crystallography at Oxford University, used X-rays to analyze the structure of a variety of natural products. In 1946, she determined the structure of penicillin, for which she was awarded the Nobel Prize in Chemistry in 1964. Once the structure was understood, scientists could modify it to produce a variety of semisynthetic penicillins. A <term>semisynthetic antimicrobial</term> is a chemically modified derivative of a natural antibiotic. The chemical modifications are generally designed to increase the range of bacteria targeted, increase stability, decrease toxicity, or confer other properties beneficial for treating infections.</para>
+<para id="fs-id1167659190135">Penicillin is only one example of a natural antibiotic. Also in the 1940s, Selman <term class="no-emphasis">Waksman</term> (1888–1973) (<link target-id="OSC_Microbio_14_01_Waksman"/>), a prominent soil microbiologist at Rutgers University, led a research team that discovered several antimicrobials, including <term class="no-emphasis">actinomycin</term>, <term class="no-emphasis">streptomycin</term>, and <term class="no-emphasis">neomycin</term>. The discoveries of these antimicrobials stemmed from Waksman’s study of fungi and the <term class="no-emphasis">Actinobacteria</term>, including soil bacteria in the genus <emphasis effect="italics">Streptomyces</emphasis>, known for their natural production of a wide variety of antimicrobials. His work earned him the Nobel Prize in Physiology and Medicine in 1952. The <term class="no-emphasis">actinomycetes</term> are the source of more than half of all natural antibiotics<footnote id="fs-id1167663742772">J. Berdy. “Bioactive Microbial Metabolites.” <emphasis effect="italics">The Journal of Antibiotics</emphasis> 58 no. 1 (2005):1–26.</footnote> and continue to serve as an excellent reservoir for the discovery of novel antimicrobial agents. Some researchers argue that we have not yet come close to tapping the full antimicrobial potential of this group.<footnote id="fs-id1167663957255">M. Baltz. “Antimicrobials from Actinomycetes: Back to the Future.” <emphasis effect="italics">Microbe</emphasis> 2 no. 3 (2007):125–131.</footnote></para>
+<figure id="OSC_Microbio_14_01_Oxford">
+<media id="fs-id1167663604067" alt="a) Photo of Alexander Fleming. B) Photo of Howard Florey and Ernst Chain.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_14_01_Oxford.jpg"/>
+</media>
+<caption>(a) Alexander Fleming was the first to discover a naturally produced antimicrobial, penicillin, in 1928. (b) Howard Florey and Ernst Chain discovered how to scale up penicillin production. Then they figured out how to purify it and showed its efficacy as an antimicrobial in animal and human trials in the early 1940s.</caption>
+</figure>
+<figure id="OSC_Microbio_14_01_Waksman">
+<media id="fs-id1167661567440" alt="Photo of Selman Waksman in the lab.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_14_01_Waksman.jpg"/>
+</media>
+<caption>Selman Waksman was the first to show the vast antimicrobial production capabilities of a group of soil bacteria, the actinomycetes.</caption>
+</figure>
+<note id="fs-id1167661620536" class="microbiology check-your-understanding">
+<list id="fs-id1167663988218" list-type="bulleted" bullet-style="bullet">
+<item>Why is the soil a reservoir for antimicrobial resistance genes?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167663588725" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167663865686" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Antimicrobial drugs</emphasis> produced by purposeful fermentation and/or contained in plants have been used as traditional medicines in many cultures for millennia.</item>
+<item>The purposeful and systematic search for a chemical “magic bullet” that specifically target infectious microbes was initiated by Paul Ehrlich in the early 20th century.</item>
+<item>The discovery of the <emphasis effect="bold">natural antibiotic</emphasis>, penicillin, by Alexander Fleming in 1928 started the modern age of antimicrobial discovery and research.</item>
+<item>Sulfanilamide, the first <emphasis effect="bold">synthetic antimicrobial</emphasis>, was discovered by Gerhard Domagk and colleagues and is a breakdown product of the synthetic dye, prontosil.</item>
+</list>
+</section>
+<section id="fs-id1167661252036" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167663603833">
+<problem id="fs-id1167661762518">
+<para id="fs-id1167661397431">A scientist discovers that a soil bacterium he has been studying produces an antimicrobial that kills gram-negative bacteria. She isolates and purifies the antimicrobial compound, then chemically converts a chemical side chain to a hydroxyl group. When she tests the antimicrobial properties of this new version, she finds that this antimicrobial drug can now also kill gram-positive bacteria. The new antimicrobial drug with broad-spectrum activity is considered to be which of the following?</para>
+<list id="fs-id1167663658875" list-type="enumerated" number-style="upper-alpha">
+<item>resistant</item>
+<item>semisynthetic</item>
+<item>synthetic</item>
+<item>natural</item>
+</list>
+</problem>
+<solution id="fs-id1167663881839">
+<para id="fs-id1167661416737">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167659391042"><problem id="fs-id1167661539353">
+<para id="fs-id1167659083633">Which of the following antimicrobial drugs is synthetic?</para>
+<list id="fs-id1167661747121" list-type="enumerated" number-style="upper-alpha">
+<item>sulfanilamide</item>
+<item>penicillin</item>
+<item>actinomycin</item>
+<item>neomycin</item>
+</list>
+</problem>
+<solution id="eip-idm350320368"><para id="eip-idm330448064">A</para></solution></exercise></section>
+<section id="fs-id1167661754437" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167661370685">
+<problem id="fs-id1167661759055">
+<para id="fs-id1167661591391">The group of soil bacteria known for their ability to produce a wide variety of antimicrobials is called the ________.</para>
+</problem>
+<solution id="fs-id1167661500950">
+<para id="fs-id1167661759594">actinomycetes</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167661424023" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167663901378">
+<problem id="fs-id1167659409854">
+<para id="fs-id1167661495695">Where do antimicrobials come from naturally? Why?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167663929849">
+<problem id="fs-id1167659425266">
+<para id="fs-id1167659429917">Why was Salvarsan considered to be a “magic bullet” for the treatment of syphilis?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167663740561" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167661333767">
+<problem id="fs-id1167661565997">
+<para id="fs-id1167661617233">In nature, why do antimicrobial-producing microbes commonly also have antimicrobial resistance genes?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

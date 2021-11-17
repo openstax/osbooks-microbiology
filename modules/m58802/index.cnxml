@@ -1,0 +1,299 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Unicellular Eukaryotic Parasites</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58802</md:content-id>
+  <md:title>Unicellular Eukaryotic Parasites</md:title>
+  <md:abstract/>
+  <md:uuid>ceaa00a4-5a97-4043-b46c-5fbceb23f946</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1172102074474" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1172101784436">
+<item>Summarize the general characteristics of unicellular eukaryotic parasites</item>
+<item>Describe the general life cycles and modes of reproduction in unicellular eukaryotic parasites</item>
+<item>Identify challenges associated with classifying unicellular eukaryotes</item>
+<item>Explain the taxonomic scheme used for unicellular eukaryotes</item>
+<item>Give examples of infections caused by unicellular eukaryotes</item>
+</list>
+</section>
+<note id="fs-id1172101975536" class="microbiology clinical-focus">
+<title>Part 1</title>
+<para id="fs-id1172099515608">Upon arriving home from school, 7-year-old Sarah complains that a large spot on her arm will not stop itching. She keeps scratching at it, drawing the attention of her parents. Looking more closely, they see that it is a red circular spot with a raised red edge (<link target-id="OSC_Microbio_05_01_ringworm"/>). The next day, Sarah’s parents take her to their doctor, who examines the spot using a <term class="no-emphasis">Wood’s lamp</term>. A Wood’s lamp produces ultraviolet light that causes the spot on Sarah’s arm to fluoresce, which confirms what the doctor already suspected: Sarah has a case of <term class="no-emphasis">ringworm</term>.</para>
+<para id="fs-id1172099500770">Sarah’s mother is mortified to hear that her daughter has a “worm.” How could this happen?</para>
+<list id="fs-id1172102068275" list-type="bulleted" bullet-style="bullet">
+<item>What are some likely ways that Sarah might have contracted ringworm?</item>
+</list>
+<figure id="OSC_Microbio_05_01_ringworm">
+<media id="fs-id1172099478027" alt="Two photos of a rash on skin, the first of a large raised grayish ring, and the second of a raised red ring.">
+<image mime-type="image/png" src="../../media/OSC_Microbio_05_01_ringworm.png"/>
+</media>
+<caption>Ringworm presents as a raised ring, which is gray or brown on brown or black skin (a), and red on lighter skin (b). (Credit: Centers for Disease Control and Prevention) </caption>
+</figure>
+<para id="fs-id1172102053638"><emphasis effect="italics">Jump to the <link document="m58803" target-id="fs-id1172102074327">next</link> Clinical Focus box.</emphasis></para>
+</note>
+<para id="fs-id1172099877853">Eukaryotic microbes are an extraordinarily diverse group, including species with a wide range of life cycles, morphological specializations, and nutritional needs. Although more diseases are caused by viruses and bacteria than by microscopic eukaryotes, these eukaryotes are responsible for some diseases of great public health importance. For example, the protozoal disease malaria was responsible for 584,000 deaths worldwide (primarily children in Africa) in 2013, according to the World Health Organization (WHO). The protist parasite <emphasis effect="italics">Giardia</emphasis> causes a diarrheal illness (giardiasis) that is easily transmitted through contaminated water supplies. In the United States, <emphasis effect="italics">Giardia</emphasis> is the most common human intestinal parasite (<link target-id="OSC_Microbio_05_01_giardia"/>). Although it may seem surprising, parasitic worms are included within the study of microbiology because identification depends on observation of microscopic adult worms or eggs. Even in developed countries, these worms are important parasites of humans and of domestic animals. There are fewer fungal pathogens, but these are important causes of illness, as well. On the other hand, fungi have been important in producing antimicrobial substances such as penicillin. In this chapter, we will examine characteristics of protists, worms, and fungi while considering their roles in causing disease.</para>
+<figure id="OSC_Microbio_05_01_giardia">
+<media id="fs-id1172102112332" alt="a) A micrograph of kite-shaped cells. B) a single triangular cell with multiple flagella.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_01_giardia.jpg"/>
+</media>
+<caption>(a) A scanning electron micrograph shows many <emphasis effect="italics">Giardia</emphasis> parasites in the trophozoite, or feeding stage, in a gerbil intestine. (b) An individual trophozoite of <emphasis effect="italics">G. lamblia</emphasis>, visualized here in a scanning electron micrograph. This waterborne protist causes severe diarrhea when ingested. (credit a, b: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<section id="fs-id1172101803506">
+<title>Characteristics of Protists</title>
+<para id="fs-id1172102150516">The word <emphasis effect="italics">protist</emphasis> is a historical term that is now used informally to refer to a diverse group of microscopic eukaryotic organisms. It is not considered a formal taxonomic term because the organisms it describes do not have a shared evolutionary origin. Historically, the <term class="no-emphasis">protists</term> were informally grouped into the “animal-like” <term class="no-emphasis">protozoans</term>, the “plant-like” <term class="no-emphasis">algae</term>, and the “fungus-like” protists such as <term class="no-emphasis">water molds</term>. These three groups of protists differ greatly in terms of their basic characteristics. For example, algae are photosynthetic organisms that can be unicellular or multicellular. Protozoa, on the other hand, are nonphotosynthetic, motile organisms that are always unicellular. Other informal terms may also be used to describe various groups of protists. For example, microorganisms that drift or float in water, moved by currents, are referred to as <term>plankton</term>. Types of plankton include <term>zooplankton</term>, which are motile and nonphotosynthetic, and <term>phytoplankton</term>, which are photosynthetic.</para>
+<para id="fs-id1172099718040">Protozoans inhabit a wide variety of habitats, both aquatic and terrestrial. Many are free-living, while others are parasitic, carrying out a life cycle within a host or hosts and potentially causing illness. There are also beneficial symbionts that provide metabolic services to their hosts. During the feeding and growth part of their life cycle, they are called <term>trophozoite</term><emphasis effect="bold">s</emphasis>; these feed on small particulate food sources such as bacteria. While some types of protozoa exist exclusively in the trophozoite form, others can develop from trophozoite to an encapsulated cyst stage when environmental conditions are too harsh for the trophozoite. A <term>cyst</term> is a cell with a protective wall, and the process by which a trophozoite becomes a cyst is called <term>encystment</term>. When conditions become more favorable, these cysts are triggered by environmental cues to become active again through <term>excystment</term>.</para>
+<para id="fs-id1172101802095">One protozoan genus capable of encystment is <term class="no-emphasis"><emphasis effect="italics">Eimeria</emphasis></term>, which includes some human and animal pathogens. <link target-id="OSC_Microbio_05_01_Trophozoit"/> illustrates the life cycle of <emphasis effect="italics">Eimeria</emphasis>.</para>
+<figure id="OSC_Microbio_05_01_Trophozoit">
+<media id="fs-id1172099536063" alt="Eimera life cycle. Envronment sporogony is the process of sporulation occruing outside the host; this requires several days and oxygen. A non-infectous unsporulated oocyst becomes an infectious sporulated oocyst. These enter the gut when swallowed and begin the proess of asexual schizogony. Oocsts realease sporocyts which release sporozoites. Sporozoites invate gut cells and form trophozoites. Trophozoites undergo schizogony (asexual reproduction) to form schizont which releases merozoites. Merozoites can reinfect and become trphozoites again or continue with sezual gametogon where the maerozoites form male and female gamets. The gamees undergo syngamy (sexual reproduction) to form a developing oocyst which mautres into an unsporulated non-infectious oocyst. This brings us back to the beginning of the environment sporogony stage of the cycle.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_01_Trophozoit.jpg"/>
+</media>
+<caption>In the sexual/asexual life cycle of <emphasis effect="italics">Eimeria,</emphasis> oocysts (inset) are shed in feces and may cause disease when ingested by a new host. (credit “life cycle,” “micrograph”: modification of work by USDA)</caption>
+</figure>
+<para id="fs-id1172102002036">Protozoans have a variety of reproductive mechanisms. Some protozoans reproduce asexually and others reproduce sexually; still others are capable of both sexual and asexual reproduction. In protozoans, asexual reproduction occurs by binary fission, budding, or schizogony. In <term>schizogony</term>, the nucleus of a cell divides multiple times before the cell divides into many smaller cells. The products of schizogony are called merozoites and they are stored in structures known as schizonts. Protozoans may also reproduce sexually, which increases genetic diversity and can lead to complex life cycles. Protozoans can produce haploid gametes that fuse through <term>syngamy</term>. However, they can also exchange genetic material by joining to exchange DNA in a process called <term class="no-emphasis">conjugation</term>. This is a different process than the conjugation that occurs in bacteria. The term <term class="no-emphasis">protist conjugation</term> refers to a true form of eukaryotic sexual reproduction between two cells of different mating types. It is found in <term>ciliate</term><emphasis effect="bold">s</emphasis>, a group of protozoans, and is described later in this subsection.</para>
+<para id="fs-id1172101669261">All protozoans have a plasma membrane, or <term>plasmalemma</term>, and some have bands of protein just inside the membrane that add rigidity, forming a structure called the <term>pellicle</term>. Some protists, including protozoans, have distinct layers of cytoplasm under the membrane. In these protists, the outer gel layer (with microfilaments of actin) is called the <term>ectoplasm</term>. Inside this layer is a sol (fluid) region of cytoplasm called the <term>endoplasm</term>. These structures contribute to complex cell shapes in some protozoans, whereas others (such as amoebas) have more flexible shapes (<link target-id="OSC_Microbio_05_01_locom"/>).</para>
+<para id="fs-id1172101754933">Different groups of protozoans have specialized feeding structures. They may have a specialized structure for taking in food through phagocytosis, called a <term>cytostome</term>, and a specialized structure for the exocytosis of wastes called a <term>cytoproct</term>. Oral grooves leading to cytostomes are lined with hair-like cilia to sweep in food particles. Protozoans are heterotrophic. Protozoans that are <term>holozoic</term> ingest whole food particles through phagocytosis. Forms that are <term>saprozoic</term> ingest small, soluble food molecules.</para>
+<para id="fs-id1172099482905">Many protists have whip-like <term class="no-emphasis">flagella</term> or hair-like <term class="no-emphasis">cilia</term> made of <term class="no-emphasis">microtubules</term> that can be used for locomotion (<link target-id="OSC_Microbio_05_01_locom"/>). Other protists use cytoplasmic extensions known as <term class="no-emphasis">pseudopodia</term> (“false feet”) to attach the cell to a surface; they then allow cytoplasm to flow into the extension, thus moving themselves forward.</para>
+<para id="fs-id1172101797316">Protozoans have a variety of unique organelles and sometimes lack organelles found in other cells. Some have <term>contractile vacuole</term><emphasis effect="bold">s</emphasis>, organelles that can be used to move water out of the cell for osmotic regulation (salt and water balance) (<link target-id="OSC_Microbio_05_01_locom"/>). Mitochondria may be absent in parasites or altered to <term class="no-emphasis">kinetoplastids</term> (modified mitochondria) or <term class="no-emphasis">hydrogenosomes</term> (see <link document="m58793">Unique Characteristics of Prokaryotic Cells</link> for more discussion of these structures).</para>
+<figure id="OSC_Microbio_05_01_locom">
+<media id="fs-id1172101883383" alt="a) Paramecium cell with short strands on the outside labeled cilia. An indent in the outer layer is labeled cytostome. A sphere inside the cell at the base of the cytostome is labeled cytoproct. A star shaped structure inside the cell is labeled contractile vacuole. B) Amoeba cell with projections on the outside labeled pseudopods. The outer layer of the cell is labeled ectoplasm and the inner layer is labeled endoplasm. A sphere inside the cell is labeled contractile vacuole. C) Euglena with a single long flagellum on the outside. The outer layer of the cell is labeled etoplasm, the inner layer is labeled endoplasm. A star shaped structure is labeled contractile vacuole.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_01_locom.jpg"/>
+</media>
+<caption>(a) <emphasis effect="italics">Paramecium</emphasis> spp. have hair-like appendages called cilia for locomotion. (b) <emphasis effect="italics">Amoeba</emphasis> spp. use lobe-like pseudopodia to anchor the cell to a solid surface and pull forward. (c) <emphasis effect="italics">Euglena</emphasis> spp. use a whip-like structure called a flagellum to propel the cell.</caption>
+</figure>
+<note id="fs-id1172099724606" class="microbiology check-your-understanding">
+<list id="fs-id1167661291972" list-type="bulleted" bullet-style="bullet">
+<item>What is the sequence of events in reproduction by schizogony and what are the cells produced called?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172101911146">
+<title>Taxonomy of Protists</title>
+<para id="fs-id1172099883921">The protists are a <term>polyphyletic</term> group, meaning they lack a shared evolutionary origin. Since the current taxonomy is based on evolutionary history (as determined by biochemistry, morphology, and genetics), protists are scattered across many different taxonomic groups within the domain Eukarya. Eukarya is currently divided into six <term class="no-emphasis">supergroups</term> that are further divided into subgroups, as illustrated in (<link target-id="OSC_Microbio_05_01_taxon"/>). In this section, we will primarily be concerned with the supergroups <term class="no-emphasis">Amoebozoa</term>, <term class="no-emphasis">Excavata</term>, and <term class="no-emphasis">Chromalveolata</term>; these supergroups include many protozoans of clinical significance. The supergroups <term class="no-emphasis">Opisthokonta</term> and <term class="no-emphasis">Rhizaria</term> also include some protozoans, but few of clinical significance. In addition to protozoans, Opisthokonta also includes animals and fungi, some of which we will discuss in <link document="m58803">Parasitic Helminths</link> and <link document="m58804">Fungi</link>. Some examples of the Archaeplastida will be discussed in <link document="m58805">Algae</link>. <link target-id="OSC_Microbio_05_01_groups1"/> and <link target-id="OSC_Microbio_05_01_groups2"/> summarize the characteristics of each supergroup and subgroup and list representatives of each.</para>
+<figure id="OSC_Microbio_05_01_taxon">
+<media id="fs-id1172102062880" alt="A branching tree diagram with common eukaryotic ancestor at the base. This leads to 5 branches. The top branch branches are classified as Excavata which is divided into 3 groups: diplomonads, parabasalids, and euglenozoans. The next branch splits into 2 branches: alveolates, and stramenopiles. The alveolates are divided into dinoflagellates, apicomplexans and ciliates. The stramenopiles are divided into diatoms, golden algae, brown algae and oomyces. All the alveotate and stramenopile groups are labeled Chromalveolata. The next branch divides into cercozoans, forams and radiolarians. These are all labeled rhizaria. The next branch divides into the red algae, chlorophytes (green algae), charophytes (green algae) and land plant. Thesea re all labeldd archaeplastidia. The next branch splits into 2. The top branch divides into slime molds, gymnamoebas and entamoebas. These are all labeled amoebozoa. The bottom branch divides into nucleariids, fungi, choanoflagellates, and animals. These are all labeled  opisthokonta.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_01_taxon.jpg"/>
+</media>
+<caption>This tree shows a proposed classification of the domain Eukarya based on evolutionary relationships. Currently, the domain Eukarya is divided into six supergroups. Within each supergroup are multiple kingdoms. Dotted lines indicate suggested evolutionary relationships that remain under debate.</caption>
+</figure>
+<figure id="OSC_Microbio_05_01_groups1">
+<media id="fs-id1172101731446" alt="Table titled: the eukaryote supergroups and some example species. There are 5 columns in the table: supergroup, subgroup, distinguishing features, examples and clinical notes. Supergroup Exacavata is divided into 3 subgroups: fornicate, parabasalids, euglenozoans. Fornicata have the following distinguishing features: form cysts, pair of equal nuclei, no mitochondria, often parasitic, four free flagella. An example is giardia lamblia which causes giardiasis. Parabasalids have the following distinguishing features: no mitochondria, four free flagella, one attached flagellum, no cysts, parasitic or symbiotic, basal bodies, kinetoplastids. An example is Trichomonas which causes trichomoniasis. Euglenozoans have the following distinguishing features: photosynthetic or heterotrophic, flagella. Examples include: Euglena which does not cause disease, Trypanosoma which causes African sleeping sickness and Chagas disease, Leishmanial which causes leishmaniasis. The supergroup Chromalveolata is divided into 4 subgroups: dinoflagellates, apicomplexans, ciliates, and oomyctes/peronosporomycetes. Dinoflagellates have the following distinguishing features: cellulose theca and two dissimilar flagella. Examples include Gonyaulax which causes red tides, Alexandrium which causes paralytic shellfish poisoning, and Pfiesteria which causes harmful algal blooms. Apicomplexans have the following distinguishing features: intracellular parasite and apical organelles. Examples include Plasmodium which causes malaria, Cryptosporidium which causes cryptosporidiosis, Theileria (Babesia) which causes babeiosis, and Toxoplasma which causes Tosoplasmosis. Ciliates have the characteristic of cilia. Examples include Balantidium which causes Balantidiasis. Paramecium and Stentor which do not cause diseas. Oomycetes / peronosporomycetes have the following distinguishing features: water molds, generally diploid, cellulose cell wall. An example is Phytophthora which causes diseases in crops.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_01_groups1.jpg"/>
+</media>
+</figure>
+<figure id="OSC_Microbio_05_01_groups2">
+<media id="fs-id1172101853421" alt="Table titled: the eukaryote supergroups and some example species. There are 5 columns in the table: supergroup, subgroup, distinguishing features, examples and clinical notes. The supergroup Rhizaria is divided into 3 subroups: Foraminifera, Radiolaria, and Cerozoa. Foraminifer have the following distinguishing features: amoeboid, thereadlike pseudopodia, calclium carbonate shells. An example is Astrolonche which does not cause disease. Radiolaria have the following distinguishing features: amoeboid, threadlike pseudopodia, silica shells. An example is Actinomma which does not cause disease. Cerozoa have the following distinguishing features: amoeboid, threadlike pseudopodia, complex shells, parasitic forms. Examples include Spongospora subterranean which causes powdery scab (potato disease) and Plasmodiophora brassicae which causes cabbage clubroot. Supergroup Archaeplastida is divided into 2 groups: red algae and Chlorophytes. Red algae have the following distinguishing features: chlorophyll a, phycoerythrin, phycocyanin, flodean starch, agar in cell walls. Examples include Gelidium and Gracilaria which are sources of agar. Chlorophytes have the following distinguishing features: chlorphyll a, chlorophyll b, cellulose cell walls, starch storage. Examples include Acetabularia and Ulva which do not cause disease. Supergroup Amoebozoa is divided into 2 subgroups: slime molds and entamoebas. Slime molds have plasmodial and cellular forms. An example is Dictyostelium which does not cause disease. Entamoebas have the following distinguishing features: trophozoites and form cysts. Examples include Entamoeba which causes Amoebiasis, Naegleria which causes Primary amoebic meningoencephalitis, and Acanthamoeba which causes Keratitis, and granulomatous ameoebic encephalitis. Supergroup Opisthokonta is divided into subroups fungin and animals. Fungi have the following distinguishing features: chitin cell walls, unicellular or multicellular, often hyphae. Examples include Zygomyctes which cause zygomycosis, Asomycetes which cause Candidiasis, Basidiomycetes which cause Cryptococcosis, and Microsporidia which causes microsporidiosis. Animals have the following distinguishing features: multicellular heterotrophs with no cell walls. Examples include Nematoda which cause Trichonosis, hookworm and pinworm infections, Termatoda which causes Schistosomiais, and Cestoda which causes tapeworm infection.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_01_groups2.jpg"/>
+</media>
+</figure>
+<note id="fs-id1172101754429" class="microbiology check-your-understanding">
+<list id="fs-id1167661256856" list-type="bulleted" bullet-style="bullet">
+<item>Which supergroups contain the clinically significant protists?</item>
+</list>
+</note>
+<section id="fs-id1172101906894">
+<title>Amoebozoa</title>
+<para id="fs-id1172102082555">The supergroup <term class="no-emphasis">Amoebozoa</term> includes protozoans that use amoeboid movement. Actin microfilaments produce <term class="no-emphasis">pseudopodia</term>, into which the remainder of the protoplasm flows, thereby moving the organism. The genus <term class="no-emphasis"><emphasis effect="italics">Entamoeba</emphasis></term> includes commensal or parasitic species, including the medically important <emphasis effect="italics">E. histolytica</emphasis>, which is transmitted by cysts in feces and is the primary cause of <term class="no-emphasis">amoebic dysentery</term>. Another member of this group that is pathogenic to humans is <term class="no-emphasis"><emphasis effect="italics">Acanthamoeba</emphasis></term>, which can cause <term class="no-emphasis">keratitis</term> (corneal inflammation) and blindness. The notorious “brain eating amoeba,” <term class="no-emphasis"><emphasis effect="italics">Naegleria fowleri</emphasis></term>, is a considered a distant relative of the Amoebozoa and is classified in the phylum Percolozoa.</para>
+
+<para id="fs-id1172101803193">The <term class="no-emphasis">Eumycetozoa</term> are an unusual group of organisms called <term class="no-emphasis">slime molds</term>, which have previously been classified as animals, fungi, and plants (<link target-id="OSC_Microbio_05_01_slime"/>). Slime molds can be divided into two types: <term class="no-emphasis">cellular slime molds</term> and <term class="no-emphasis">plasmodial slime molds</term>. The cellular slime molds exist as individual amoeboid cells that periodically aggregate into a mobile slug. The aggregate then forms a fruiting body that produces haploid spores. Plasmodial slime molds exist as large, multinucleate amoeboid cells that form reproductive stalks to produce spores that divide into gametes. One cellular slime mold, <term class="no-emphasis"><emphasis effect="italics">Dictyostelium</emphasis> <emphasis effect="italics">discoideum</emphasis></term>, has been an important study organism for understanding cell differentiation, because it has both single-celled and multicelled life stages, with the cells showing some degree of differentiation in the multicelled form. <link target-id="OSC_Microbio_05_01_CellularLC"/> and <link target-id="OSC_Microbio_05_01_PlasmodiLC"/> illustrate the life cycles of cellular and plasmodial slime molds, respectively.</para>
+<figure id="OSC_Microbio_05_01_slime">
+<media id="fs-id1172099512959" alt="a) A micrograph wshwoing a circular dome with long branches emanating outward. B) A photograph showing a yellow structure that looks like foam on a branch. ">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_01_slime.jpg"/>
+</media>
+<caption>(a) The cellular slime mold <emphasis effect="italics">Dictyostelium discoideum</emphasis> can be grown on agar in a Petri dish. In this image, individual amoeboid cells (visible as small spheres) are streaming together to form an aggregation that is beginning to rise in the upper right corner of the image. The primitively multicellular aggregation consists of individual cells that each have their own nucleus. (b) <term class="no-emphasis"><emphasis effect="italics">Fuligo septica</emphasis></term> is a plasmodial slime mold. This brightly colored organism consists of a large cell with many nuclei.</caption>
+</figure>
+<figure id="OSC_Microbio_05_01_CellularLC">
+<media id="fs-id1172099470988" alt="A mature fruiting body produces a tall stalk with a sphere that generates spores via meiosis. The mature fruiting body releases spores. The haploid spores germinate and give rise to amoeba which divide to form more individual cells. Two amoeba fuse to form a zygote. The zygoe can grow and undergo meiosis and multiple rounds of mitosis. The new haploid amoeba are releases. Fertilization produces amoebas that aggregate into a structure called a slug. The slug migrates at a rate of 2 mm per hour. The migration stops the aggregate forms a fruiting body at the end of a stalk. This brings us back to the fruiting body in the life cycle.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_01_CellularLC.jpg"/>
+</media>
+<caption>The life cycle of the cellular slime mold <emphasis effect="italics">Dictyostelium discoideum</emphasis> primarily involves individual amoebas but includes the formation of a multinucleate plasmodium formed from a uninucleate zygote (the result of the fusion of two individual amoeboid cells). The plasmodium is able to move and forms a fruiting body that generates haploid spores. (credit “photo”: modification of work by “thatredhead4”/Flickr)</caption>
+</figure>
+<figure id="OSC_Microbio_05_01_PlasmodiLC">
+<media id="fs-id1172099408793" alt="A mature plasmodium (multinucleated free-flowing mass of protoplasm) can produce sclerotium (small cells) in a dry habitat. The mature plasmodium also produces diploid sporangia which produces haploid spores via meiosis. The mature sporangium releases mature spores which germinate. Germination gives rise to cells that can convert between ameboid and flagellated forms. Plasmogomy is the fusion of cytoplasm of two cells. Karyogamy is the fusion of nuclei and leads to the production of a diploid zygote. The zygote divides to form a multi-nucleated feeding plasmodium. This takes us back to the beginning of plasmodium stage of the life cycle.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_01_PlasmodiLC.jpg"/>
+</media>
+<caption>Plasmodial slime molds exist as large multinucleate amoeboid cells that form reproductive stalks to produce spores that divide into gametes.</caption>
+</figure>
+</section>
+<section id="fs-id1172101801712">
+<title>Chromalveolata</title>
+<para id="fs-id1172099902528">The supergroup <term class="no-emphasis">Chromalveolata</term> is united by similar origins of its members’ plastids and includes the apicomplexans, ciliates, <term class="no-emphasis">diatoms</term>, and <term class="no-emphasis">dinoflagellates</term>, among other groups (we will cover the diatoms and dinoflagellates in <link document="m58805">Algae</link>). The <term class="no-emphasis">apicomplexans</term> are intra- or extracellular parasites that have an <term class="no-emphasis">apical complex</term> at one end of the cell. The apical complex is a concentration of organelles, vacuoles, and microtubules that allows the parasite to enter host cells (<link target-id="OSC_Microbio_05_01_apical"/>). Apicomplexans have complex life cycles that include an infective sporozoite that undergoes <term class="no-emphasis">schizogony</term> to make many merozoites (see the example in <link target-id="OSC_Microbio_05_01_Trophozoit"/>). Many are capable of infecting a variety of animal cells, from insects to livestock to humans, and their life cycles often depend on transmission between multiple hosts. The genus <term class="no-emphasis"><emphasis effect="italics">Plasmodium</emphasis></term> is an example of this group.</para>
+<figure id="OSC_Microbio_05_01_apical">
+<media id="fs-id1172102149626" alt="a) A diagram of an apicomlexan protist. The cell is a long oval with an apical complex at the apical end. B) A micrograph of the protist showing a long oval.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_01_apical.jpg"/>
+</media>
+<caption>(a) Apicomplexans are parasitic protists. They have a characteristic apical complex that enables them to infect host cells. (b) A colorized electron microscope image of a <emphasis effect="italics">Plasmodium</emphasis> sporozoite. (credit b: modification of work by Ute Frevert)</caption>
+</figure>
+<para id="fs-id1172102110397">Other apicomplexans are also medically important. <term class="no-emphasis"><emphasis effect="italics">Cryptosporidium parvum</emphasis></term> causes intestinal symptoms and can cause epidemic diarrhea when the cysts contaminate drinking water. <term class="no-emphasis"><emphasis effect="italics">Theileria (Babesia) microti</emphasis></term>, transmitted by the tick <term class="no-emphasis"><emphasis effect="italics">Ixodes scapularis</emphasis></term>, causes recurring fever that can be fatal and is becoming a common transfusion-transmitted pathogen in the United States (<emphasis effect="italics">Theileria</emphasis> and <emphasis effect="italics">Babesia</emphasis> are closely related genera and there is some debate about the best classification). Finally, <term class="no-emphasis"><emphasis effect="italics">Toxoplasma gondii</emphasis></term> causes <term class="no-emphasis">toxoplasmosis</term> and can be transmitted from cat feces, unwashed fruit and vegetables, or from undercooked meat. Because toxoplasmosis can be associated with serious birth defects, pregnant women need to be aware of this risk and use caution if they are exposed to the feces of potentially infected cats. A national survey found the frequency of individuals with antibodies for toxoplasmosis (and thus who presumably have a current latent infection) in the United States to be 11%. Rates are much higher in other countries, including some developed countries.<footnote id="fs-id1172102126597">J. Flegr et al. “Toxoplasmosis—A Global Threat. Correlation of Latent Toxoplasmosis With Specific Disease Burden in a Set of 88 Countries.” <emphasis effect="italics">PloS ONE</emphasis> 9 no. 3 (2014):e90203.</footnote> There is also evidence and a good deal of theorizing that the parasite may be responsible for altering infected humans’ behavior and personality traits.<footnote id="fs-id1172097274435">J. Flegr. “Effects of Toxoplasma on Human Behavior.” <emphasis effect="italics">Schizophrenia Bull</emphasis> 33, no. 3 (2007):757–760.</footnote></para>
+<para id="fs-id1172099721213">The ciliates (Ciliaphora), also within the Chromalveolata, are a large, very diverse group characterized by the presence of <term class="no-emphasis">cilia</term> on their cell surface. Although the cilia may be used for locomotion, they are often used for feeding, as well, and some forms are nonmotile. <term class="no-emphasis"><emphasis effect="italics">Balantidium coli</emphasis></term> (<link target-id="OSC_Microbio_05_01_balan"/>) is the only parasitic ciliate that affects humans by causing intestinal illness, although it rarely causes serious medical issues except in the immunocompromised (those having a weakened immune system). Perhaps the most familiar ciliate is <term class="no-emphasis"><emphasis effect="italics">Paramecium</emphasis></term>, a motile organism with a clearly visible <term class="no-emphasis">cytostome</term> and <term class="no-emphasis">cytoproct</term> that is often studied in biology laboratories (<link target-id="OSC_Microbio_05_01_param"/>). Another ciliate, <term class="no-emphasis"><emphasis effect="italics">Stentor</emphasis></term>, is sessile and uses its cilia for feeding (<link target-id="OSC_Microbio_05_01_stentor"/>). Generally, these organisms have a <term>micronucleus</term> that is diploid, somatic, and used for sexual reproduction by conjugation. They also have a <term>macronucleus</term> that is derived from the micronucleus; the macronucleus becomes polyploid (multiple sets of duplicate chromosomes), and has a reduced set of metabolic genes.</para>
+<para id="fs-id1172101775199">Ciliates are able to reproduce through <term class="no-emphasis">conjugation</term>, in which two cells attach to each other. In each cell, the diploid micronuclei undergo meiosis, producing eight haploid nuclei each. Then, all but one of the haploid micronuclei and the macronucleus disintegrate; the remaining (haploid) micronucleus undergoes mitosis. The two cells then exchange one micronucleus each, which fuses with the remaining micronucleus present to form a new, genetically different, diploid micronucleus. The diploid micronucleus undergoes two mitotic divisions, so each cell has four micronuclei, and two of the four combine to form a new macronucleus. The chromosomes in the macronucleus then replicate repeatedly, the macronucleus reaches its polyploid state, and the two cells separate. The two cells are now genetically different from each other and from their previous versions.</para>
+<figure id="OSC_Microbio_05_01_balan">
+<media id="fs-id1172099756364" alt="A micrograph of an oval cell with many short projections.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_01_balan.jpg"/>
+</media>
+<caption>This specimen of the ciliate <emphasis effect="italics">Balantidium coli</emphasis> is a trophozoite form isolated from the gut of a primate. <emphasis effect="italics">B. coli</emphasis> is the only ciliate capable of parasitizing humans. (credit: modification of work by Kouassi RYW, McGraw SW, Yao PK, Abou-Bacar A, Brunet J, Pesson B, Bonfoh B, N’goran EK &amp; Candolfi E)</caption>
+</figure>
+<figure id="OSC_Microbio_05_01_param">
+<media id="fs-id1172099746472" alt="Paramecium cell with short strands on the outside labeled cilia. An indent in the outer layer is labeled cytostome. The outside edge of the cytostome is an indent in the cell labeled oral groove. A sphere inside the cell at the base of the cytostome is labeled food vacuole, another nearby sphere is labeled cytoproct. A smaller opening in the cell is labeled anal pore. A star shaped structure inside the cell is labeled contractile vacuole. A large oval is labeled macronucluus and a smaller oval is labeled micronucleus.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_01_param.jpg"/>
+</media>
+<caption><emphasis effect="italics">Paramecium</emphasis> has a primitive mouth (called an oral groove) to ingest food, and an anal pore to excrete it. Contractile vacuoles allow the organism to excrete excess water. Cilia enable the organism to move.</caption>
+</figure>
+<figure id="OSC_Microbio_05_01_stentor">
+<media id="fs-id1172099835732" alt="A micrograph of long trumpet shaped cells. The wide part of the cell has an oval structure labeled cytostome and small projections labeled cilia.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_01_stentor.jpg"/>
+</media>
+<caption>This differential interference contrast micrograph (magnification: ×65) of <emphasis effect="italics">Stentor roeselie</emphasis> shows cilia present on the margins of the structure surrounding the cytostome; the cilia move food particles. (credit: modification of work by “picturepest”/Flickr)</caption>
+</figure>
+<para id="fs-id1172099836701">Öomycetes have similarities to fungi and were once classified with them. They are also called <term class="no-emphasis">water molds</term>. However, they differ from fungi in several important ways. Öomycetes have cell walls of cellulose (unlike the chitinous cell walls of fungi) and they are generally diploid, whereas the dominant life forms of fungi are typically haploid. <term class="no-emphasis"><emphasis effect="italics">Phytophthora</emphasis></term>, the plant pathogen found in the soil that caused the <term class="no-emphasis">Irish potato famine</term>, is classified within this group (<link target-id="OSC_Microbio_05_01_watermold"/>).</para>
+<figure id="OSC_Microbio_05_01_watermold">
+<media id="fs-id1172101900747" alt="A photograph of an insect covered in white fuzz labeled water mold.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_01_watermold.jpg"/>
+</media>
+<caption>A saprobic oomycete, or water mold, engulfs a dead insect. (credit: modification of work by Thomas Bresson)</caption>
+</figure>
+<note id="fs-id1172099736477" class="microbiology link-to-learning">
+
+<para id="fs-id1172101946542">Explore the procedures for detecting the presence of an apicomplexan in a public water supply, at <link url="https://openstax.org/l/22detpreapicom">this</link> website.</para>
+<para id="fs-id1172099498601">This <link url="https://openstax.org/l/22feedstentor">video</link> shows the feeding of <emphasis effect="italics">Stentor</emphasis>.</para>
+</note>
+</section>
+<section id="fs-id1172099567448">
+<title>Excavata</title>
+<para id="fs-id1172101847862">The third and final supergroup to be considered in this section is the Excavata, which includes primitive eukaryotes and many parasites with limited metabolic abilities. These organisms have complex cell shapes and structures, often including a depression on the surface of the cell called an excavate. The group Excavata includes the subgroups <term class="no-emphasis">Fornicata</term>, <term class="no-emphasis">Parabasalia</term>, and <term class="no-emphasis">Euglenozoa</term>. The Fornicata lack mitochondria but have flagella. This group includes <term class="no-emphasis"><emphasis effect="italics">Giardia lamblia</emphasis></term> (also known as <emphasis effect="italics">G. intestinalis</emphasis> or <emphasis effect="italics">G. duodenalis)</emphasis>, a widespread pathogen that causes diarrheal illness and can be spread through cysts from feces that contaminate water supplies (<link target-id="OSC_Microbio_05_01_giardia"/>). Parabasalia are frequent animal endosymbionts; they live in the guts of animals like termites and cockroaches. They have basal bodies and modified mitochondria (kinetoplastids). They also have a large, complex cell structure with an undulating membrane and often have many flagella. The trichomonads (a subgroup of the Parabasalia) include pathogens such as <term class="no-emphasis"><emphasis effect="italics">Trichomonas vaginalis</emphasis></term>, which causes the human sexually transmitted disease <term class="no-emphasis">trichomoniasis</term>. Trichomoniasis often does not cause symptoms in men, but men are able to transmit the infection. In women, it causes vaginal discomfort and discharge and may cause complications in pregnancy if left untreated.</para>
+<para id="fs-id1172099922504">The Euglenozoa are common in the environment and include photosynthetic and nonphotosynthetic species. Members of the genus <term class="no-emphasis"><emphasis effect="italics">Euglena</emphasis></term> are typically not pathogenic. Their cells have two flagella, a <term class="no-emphasis">pellicle</term>, a <term>stigma</term> (eyespot) to sense light, and chloroplasts for photosynthesis (<link target-id="OSC_Microbio_05_01_Euglenozoa"/>). The pellicle of <emphasis effect="italics">Euglena</emphasis> is made of a series of protein bands surrounding the cell; it supports the cell membrane and gives the cell shape.</para>
+<para id="fs-id1172101791180">The Euglenozoa also include the trypanosomes, which are parasitic pathogens. The genus <term class="no-emphasis"><emphasis effect="italics">Trypanosoma</emphasis></term> includes <emphasis effect="italics">T. brucei</emphasis>, which causes <term class="no-emphasis">African trypanosomiasis</term> (<term class="no-emphasis">African sleeping sickness</term> and <emphasis effect="italics">T. cruzi</emphasis>, which causes American trypanosomiasis (<term class="no-emphasis">Chagas disease</term>). These tropical diseases are spread by insect bites. In African sleeping sickness, <emphasis effect="italics">T. brucei</emphasis> colonizes the blood and the brain after being transmitted via the bite of a tsetse fly (<emphasis effect="italics">Glossina</emphasis> spp.) (<link target-id="OSC_Microbio_05_01_tryplife"/>). The early symptoms include confusion, difficulty sleeping, and lack of coordination. Left untreated, it is fatal.</para>
+<figure id="OSC_Microbio_05_01_Euglenozoa">
+<media id="fs-id1172099455662" alt="An oval cell with a long flagellum at one end near the photoreceptor (paraflagellar body). A large oval inside the cell is labeled nucleus and contains a smaller oval labeled nucleolus. Green structures are labeled chloroplasts. A red circle is labeled stigma (eyespot).Another sphere is labeled contractile vacuole and a large sphere is labeled pellicle bands. Gray stuructures are labeled polysaccharides stored by photosynthesis.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_01_Euglenozoa.jpg"/>
+</media>
+<caption>(a) This illustration of a <emphasis effect="italics">Euglena</emphasis> shows the characteristic structures, such as the stigma and flagellum. (b) The pellicle, under the cell membrane, gives the cell its distinctive shape and is visible in this image as delicate parallel striations over the surface of the entire cell (especially visible over the grey contractile vacuole). (credit a: modification of work by Claudio Miklos; credit b: modification of work by David Shykind)</caption>
+</figure>
+<figure id="OSC_Microbio_05_01_tryplife">
+<media id="fs-id1172099611036" alt="The life cycle of Trypanosoma brucei takes place in both tsetse fly and humans. When the tsetse fly takes a blood meal it inject T. brucei into the bloodstream of a human. There the T. brucei multiplies by binary fission in blood, lymph, and spinal fluid. When another tsetse fly takes a blood meal it ingests T. brucei which multiplies by binary fission in the midgut of the fly. The T. brucei then transforms into an infectious stage which enters the salivary glands and multiplies. This can then be spread to another human.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_01_tryplife.jpg"/>
+</media>
+<caption><term class="no-emphasis"><emphasis effect="italics">Trypanosoma brucei</emphasis></term>, the causative agent of African trypanosomiasis, spends part of its life cycle in the tsetse fly and part in humans. (credit “illustration”: modification of work by Centers for Disease Control and Prevention; credit “photo”: DPDx/Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1172101999615">Chagas’ disease originated and is most common in Latin America. The disease is transmitted by <emphasis effect="italics">Triatoma</emphasis> spp., insects often called “kissing bugs,” and affects either the heart tissue or tissues of the digestive system. Untreated cases can eventually lead to heart failure or significant digestive or neurological disorders.</para>
+<para id="fs-id1172099488995">The genus <term class="no-emphasis"><emphasis effect="italics">Leishmania</emphasis></term> includes trypanosomes that cause disfiguring skin disease and sometimes systemic illness as well.</para>
+<note id="fs-id1172102121338" class="microbiology eye-on-ethics">
+<title>Neglected Parasites</title>
+<para id="fs-id1172097144570">The Centers for Disease Control and Prevention (CDC) is responsible for identifying public health priorities in the United States and developing strategies to address areas of concern. As part of this mandate, the CDC has officially identified five parasitic diseases it considers to have been neglected (i.e., not adequately studied). These <term class="no-emphasis">neglected parasitic infections (NPIs)</term> include <term class="no-emphasis">toxoplasmosis</term>, <term class="no-emphasis">Chagas disease</term>, <term class="no-emphasis">toxocariasis</term> (a nematode infection transmitted primarily by infected dogs), <term class="no-emphasis">cysticercosis</term> (a disease caused by a tissue infection of the tapeworm <term class="no-emphasis"><emphasis effect="italics">Taenia solium</emphasis></term>), and <term class="no-emphasis">trichomoniasis</term> (a sexually transmitted disease caused by the parabasalid <term class="no-emphasis"><emphasis effect="italics">Trichomonas vaginalis</emphasis></term>).</para>
+<para id="fs-id1172102135224">The decision to name these specific diseases as NPIs means that the CDC will devote resources toward improving awareness and developing better diagnostic testing and treatment through studies of available data. The CDC may also advise on treatment of these diseases and assist in the distribution of medications that might otherwise be difficult to obtain.<footnote id="fs-id1172101911905">Centers for Disease Control and Prevention. “Neglected Parasitic Infections (NPIs) in the United States.” http://www.cdc.gov/parasites/npi/. Last updated July 10, 2014.</footnote></para>
+<para id="fs-id1172102120468">Of course, the CDC does not have unlimited resources, so by prioritizing these five diseases, it is effectively deprioritizing others. Given that many Americans have never heard of many of these NPIs, it is fair to ask what criteria the CDC used in prioritizing diseases. According to the CDC, the factors considered were the number of people infected, the severity of the illness, and whether the illness can be treated or prevented. Although several of these NPIs may seem to be more common outside the United States, the CDC argues that many cases in the United States likely go undiagnosed and untreated because so little is known about these diseases.<footnote id="fs-id1172099384709">Centers for Disease Control and Prevention. “Fact Sheet: Neglected Parasitic Infections in the United States.” http://www.cdc.gov/parasites/resources/pdf/npi_factsheet.pdf</footnote></para>
+<para id="fs-id1172102070987">What criteria should be considered when prioritizing diseases for purposes of funding or research? Are those identified by the CDC reasonable? What other factors could be considered? Should government agencies like the CDC have the same criteria as private pharmaceutical research labs? What are the ethical implications of deprioritizing other potentially neglected parasitic diseases such as leishmaniasis?</para>
+</note>
+</section>
+</section>
+<section id="fs-id1172099456222" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1172099410086" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Protists</emphasis> are a diverse, <emphasis effect="bold">polyphyletic</emphasis> group of eukaryotic organisms.</item>
+<item>Protists may be unicellular or multicellular. They vary in how they get their nutrition, morphology, method of locomotion, and mode of reproduction.</item>
+<item>Important structures of protists include <emphasis effect="bold">contractile vacuoles</emphasis>, cilia, flagella, <emphasis effect="bold">pellicles</emphasis>, and pseudopodia; some lack organelles such as mitochondria.</item>
+<item>Taxonomy of protists is changing rapidly as relationships are reassessed using newer techniques.</item>
+<item>The protists include important pathogens and parasites.</item>
+</list>
+</section>
+<section id="fs-id1172099683808" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1172099484030">
+<problem id="fs-id1172101919377">
+<para id="fs-id1172101672071">Which genus includes the causative agent for malaria?</para>
+<list id="fs-id1172101763371" list-type="enumerated" number-style="upper-alpha">
+<item><emphasis effect="italics">Euglena</emphasis></item>
+<item><emphasis effect="italics">Paramecium</emphasis></item>
+<item><emphasis effect="italics">Plasmodium</emphasis></item>
+<item><emphasis effect="italics">Trypanosoma</emphasis></item>
+</list>
+</problem>
+<solution id="fs-id1172102145294">
+<para id="fs-id1172099723002">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172099454564">
+<problem id="fs-id1172099478221">
+<para id="fs-id1172099767258">Which protist is a concern because of its ability to contaminate water supplies and cause diarrheal illness?</para>
+<list id="fs-id1172099664424" list-type="enumerated" number-style="upper-alpha">
+<item><emphasis effect="italics">Plasmodium vivax</emphasis></item>
+<item><emphasis effect="italics">Toxoplasma gondii</emphasis></item>
+<item><emphasis effect="italics">Giardia lamblia</emphasis></item>
+<item><emphasis effect="italics">Trichomonas vaginalis</emphasis></item>
+</list>
+</problem>
+<solution id="fs-id1172102098155">
+<para id="fs-id1172099650385">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172097200304" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1172099619157">
+<problem id="fs-id1172099681195">
+<para id="fs-id1172101840097">The plasma membrane of a protist is called the __________.</para>
+</problem>
+<solution id="fs-id1172099667312">
+<para id="fs-id1172102021170">plasmalemma</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172097144486">
+<problem id="fs-id1172102137612">
+<para id="fs-id1172101895478">Animals belong to the same supergroup as the kingdom __________.</para>
+</problem>
+<solution id="fs-id1172099658204">
+<para id="fs-id1172099762752">Fungi</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172101731480" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1172099702501">
+<problem id="fs-id1172099399228">
+<para id="fs-id1172101758823">What are kinetoplastids?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172102142793">
+<problem id="fs-id1172099531649">
+<para id="fs-id1172099568099">Aside from a risk of birth defects, what other effect might a toxoplasmosis infection have?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172099715204">
+<problem id="fs-id1172099565872">
+<para id="fs-id1172101689357">What is the function of the ciliate macronucleus?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1172102063857" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1172099476885">
+<problem id="fs-id1172099413126">
+<para id="fs-id1172101775767">The protist shown has which of the following?</para>
+<list id="fs-id1172101761944" list-type="enumerated" number-style="upper-alpha">
+<item>pseudopodia</item>
+<item>flagella</item>
+<item>a shell</item>
+<item>cilia</item></list>
+<figure id="OSC_Microbio_05_01_artconn_img">
+<media id="fs-id1172101906034" alt="A micrograph of an oval cell with a large sphere in the center and many short hair-like projections on the outside.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_01_artconn_img.jpg"/>
+</media>
+<caption>(credit: modification of work by Richard Robinson)</caption>
+</figure>
+</problem>
+</exercise>
+<exercise id="fs-id1172097200892">
+<problem id="fs-id1172099611990">
+<para id="fs-id1172102085448">Protist taxonomy has changed greatly in recent years as relationships have been re-examined using newer approaches. How do newer approaches differ from older approaches?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172102104325">
+<problem id="fs-id1172101727018">
+<para id="fs-id1172102140288">What characteristics might make you think a protist could be pathogenic? Are certain nutritional characteristics, methods of locomotion, or morphological differences likely to be associated with the ability to cause disease?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

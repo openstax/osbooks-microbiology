@@ -1,0 +1,249 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Isolation, Culture, and Identification of Viruses</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58810</md:content-id>
+  <md:title>Isolation, Culture, and Identification of Viruses</md:title>
+  <md:abstract/>
+  <md:uuid>9add1c37-d5f5-4b65-9cc9-796706f678d8</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1168327959966" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1168325661339">
+<item>Discuss why viruses were originally described as filterable agents</item>
+<item>Describe the cultivation of viruses and specimen collection and handling</item>
+<item>Compare in vivo and in vitro techniques used to cultivate viruses</item>
+</list>
+</section>
+<para id="fs-id1168327949277">At the beginning of this chapter, we described how porcelain Chamberland filters with pores small enough to allow viruses to pass through were used to discover TMV. Today, porcelain filters have been replaced with membrane filters and other devices used to isolate and identify viruses.</para>
+<section id="fs-id1168328268876">
+<title>Isolation of Viruses</title>
+<para id="fs-id1168328321538">Unlike bacteria, many of which can be grown on an artificial nutrient medium, viruses require a living host cell for replication. Infected host cells (eukaryotic or prokaryotic) can be cultured and grown, and then the growth medium can be harvested as a source of virus. Virions in the liquid medium can be separated from the host cells by either centrifugation or filtration. Filters can physically remove anything present in the solution that is larger than the virions; the viruses can then be collected in the filtrate (see <link target-id="OSC_Microbio_06_03_filters"/>).</para>
+<figure id="OSC_Microbio_06_03_filters">
+<media id="fs-id1168328303797" alt="Figure a is an electron micrograph showing pores and bacteria that are larger than the pores. Figure b is a drawing showing three particles in a container above a flask. A filter pore size of 5 µm blocks the largest of the particles and lets the smaller two through. The filter pore size of 200 nm (0.2 µm) only allows only the smallest particles through.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_06_03_filters.jpg"/>
+</media>
+<caption>Membrane filters can be used to remove cells or viruses from a solution. (a) This scanning electron micrograph shows rod-shaped bacterial cells captured on the surface of a membrane filter. Note differences in the comparative size of the membrane pores and bacteria. Viruses will pass through this filter. (b) The size of the pores in the filter determines what is captured on the surface of the filter (animal [red] and bacteria [blue]) and removed from liquid passing through. Note the viruses (green) pass through the finer filter. (credit a: modification of work by U.S. Department of Energy)</caption>
+</figure>
+<note id="fs-id1168325631530" class="microbiology check-your-understanding">
+<list id="fs-id1168328195884">
+<item>What size filter pore is needed to collect a virus?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1168325725921">
+<title>Cultivation of Viruses</title>
+<para id="fs-id1168328196534">Viruses can be grown <term>in vivo</term> (within a whole living organism, plant, or animal) or <term>in vitro</term> (outside a living organism in cells in an artificial environment. Flat horizontal cell culture flasks (see <link target-id="OSC_Microbio_06_03_plaques"/><emphasis>(a)</emphasis>) are a common vessel used for in vitro work. <term class="no-emphasis">Bacteriophages</term> can be grown in the presence of a dense layer of bacteria (also called a <term>bacterial lawn</term>) grown in a 0.7 % soft agar in a Petri dish or flat (horizontal) flask (see <link target-id="OSC_Microbio_06_03_plaques"/><emphasis>(b)</emphasis>). As the phage kills the bacteria, many plaques are observed among the cloudy bacterial lawn.</para>
+<figure id="OSC_Microbio_06_03_plaques">
+<media id="fs-id1168328247110" alt="Figure a shows bottles laying on their side with red liquid; the bottles have screw-caps. Figure b shows 3 plates covered in bacterial growth (which is a smooth beige lawn). Each plate has small dots that are regions of no growth. Some plates have many of these plaques some have few.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_06_03_plaques.jpg"/>
+</media>
+<caption>(a) Flasks like this may be used to culture human or animal cells for viral culturing. (b) These plates contain bacteriophage T4 grown on an <emphasis effect="italics">Escherichia coli</emphasis> lawn. Clear plaques are visible where host bacterial cells have been lysed. Viral titers increase on the plates to the left. (credit a: modification of work by National Institutes of Health; credit b: modification of work by American Society for Microbiology)</caption>
+</figure>
+<para id="fs-id1168328312134">Animal viruses require cells within a host animal or tissue-culture cells derived from an animal. Animal virus cultivation is important for 1) identification and diagnosis of pathogenic viruses in clinical specimens, 2) production of vaccines, and 3) basic research studies. In vivo host sources can be a developing embryo in an <term class="no-emphasis">embryonated bird’s egg</term> (e.g., chicken, turkey) or a whole animal. For example, most of the <term class="no-emphasis">influenza vaccine</term> manufactured for annual flu vaccination programs is cultured in hens’ eggs.</para>
+<para id="fs-id1168328358898">The embryo or host animal serves as an incubator for viral replication (see <link target-id="OSC_Microbio_06_03_egg"/>). Location within the embryo or host animal is important. Many viruses have a tissue tropism, and must therefore be introduced into a specific site for growth. Within an embryo, target sites include the amniotic cavity, the chorioallantoic membrane, or the yolk sac. Viral infection may damage tissue membranes, producing lesions called pox; disrupt embryonic development; or cause the death of the embryo.</para>
+<figure id="OSC_Microbio_06_03_egg">
+<media id="fs-id1168328171051" alt="Figure a shows a technician injecting a tray of eggs with a syringe. Figure b shows an egg with syringes in various region such as an outer layer (the chorioallantoic membrane), an inner region called the amniotic cavity and another inner region called the yolk sac. The embryo is connected to the yolk sac and is within the amniotic cavity. Outside the chorioallantoic membrane is albumin and around that is the shell.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_06_03_egg.jpg"/>
+</media>
+<caption>(a) The cells within chicken eggs are used to culture different types of viruses. (b) Viruses can be replicated in various locations within the egg, including the chorioallantoic membrane, the amniotic cavity, and the yolk sac. (credit a: modification of work by “Chung Hoang”/YouTube)</caption>
+</figure>
+<para id="fs-id1168327958664">For in vitro studies, various types of cells can be used to support the growth of viruses. A <term class="no-emphasis">primary cell culture</term> is freshly prepared from animal organs or tissues. Cells are extracted from tissues by mechanical scraping or mincing to release cells or by an enzymatic method using trypsin or collagenase to break up tissue and release single cells into suspension. Because of anchorage-dependence requirements, primary cell cultures require a liquid culture medium in a Petri dish or tissue-culture flask so cells have a solid surface such as glass or plastic for attachment and growth. Primary cultures usually have a limited life span. When cells in a primary culture undergo mitosis and a sufficient density of cells is produced, cells come in contact with other cells. When this cell-to-cell-contact occurs, mitosis is triggered to stop. This is called <term class="no-emphasis">contact inhibition</term> and it prevents the density of the cells from becoming too high. To prevent contact inhibition, cells from the primary cell culture must be transferred to another vessel with fresh growth medium. This is called a secondary cell culture. Periodically, cell density must be reduced by pouring off some cells and adding fresh medium to provide space and nutrients to maintain cell growth. In contrast to primary cell cultures, <term class="no-emphasis">continuous cell line</term>s, usually derived from transformed cells or tumors, are often able to be subcultured many times or even grown indefinitely (in which case they are called immortal). Continuous cell lines may not exhibit <term class="no-emphasis">anchorage dependency</term> (they will grow in suspension) and may have lost their contact inhibition. As a result, continuous cell lines can grow in piles or lumps resembling small tumor growths (see <link target-id="OSC_Microbio_06_03_cult"/>).</para>
+<figure id="OSC_Microbio_06_03_cult">
+<media id="fs-id1168328070284" alt="Figure a begins with induvial cells isolated from lung tissue. These few cells are put on a plate and are the primary cell culture. These cells will grow to fill the plate and will stop when the plate is full; this is called contact inhibition. In order to grow more cells some of these cells are transferred to a new plate; this is now called a secondary cell culture. Figure b begins with transformed cells or individual cells isolated from a tumor that are put on a plate. These cells form a continuous culture because they continue to grow on top of each other even after the plate is full.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_06_03_cult.jpg"/>
+</media>
+<caption>Cells for culture are prepared by separating them from their tissue matrix. (a) Primary cell cultures grow attached to the surface of the culture container. Contact inhibition slows the growth of the cells once they become too dense and begin touching each other. At this point, growth can only be sustained by making a secondary culture. (b) Continuous cell cultures are not affected by contact inhibition. They continue to grow regardless of cell density. (credit “micrographs”: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1168328065842">An example of an immortal cell line is the <term class="no-emphasis">HeLa cell line</term>, which was originally cultivated from tumor cells obtained from Henrietta <term class="no-emphasis">Lacks</term>, a patient who died of cervical cancer in 1951. HeLa cells were the first continuous tissue-culture cell line and were used to establish tissue culture as an important technology for research in cell biology, virology, and medicine. Prior to the discovery of HeLa cells, scientists were not able to establish tissue cultures with any reliability or stability. More than six decades later, this cell line is still alive and being used for medical research. See <link target-id="fs-id1168328184191">Eye on Ethics: The Immortal Cell Line of Henrietta Lacks</link> to read more about this important cell line and the controversial means by which it was obtained.</para>
+<note id="fs-id1168328189796" class="microbiology check-your-understanding">
+<list id="fs-id1168328287819">
+<item>What property of cells makes periodic dilutions of primary cell cultures necessary?</item>
+</list>
+</note>
+<note id="fs-id1168328184191" class="microbiology eye-on-ethics">
+<title>The Immortal Cell Line of Henrietta Lacks</title>
+<para id="fs-id1168327873992">In January 1951, Henrietta <term class="no-emphasis">Lacks</term>, a 30-year-old African American woman from Baltimore, was diagnosed with cervical cancer at Johns Hopkins Hospital. We now know her cancer was caused by the human papillomavirus (HPV). Cytopathic effects of the virus altered the characteristics of her cells in a process called transformation, which gives the cells the ability to divide continuously. This ability, of course, resulted in a cancerous tumor that eventually killed Mrs. Lacks in October at age 31. Before her death, samples of her cancerous cells were taken without her knowledge or permission. The samples eventually ended up in the possession of Dr. George Gey, a biomedical researcher at Johns Hopkins University. Gey was able to grow some of the cells from Lacks’s sample, creating what is known today as the immortal <term class="no-emphasis">HeLa cell line</term>. These cells have the ability to live and grow indefinitely and, even today, are still widely used in many areas of research.</para>
+<para id="fs-id1168327884140">According to Lacks’s husband, neither Henrietta nor the family gave the hospital permission to collect her tissue specimen. Indeed, the family was not aware until 20 years after Lacks’s death that her cells were still alive and actively being used for commercial and research purposes. Yet HeLa cells have been pivotal in numerous research discoveries related to polio, cancer, and AIDS, among other diseases. The cells have also been commercialized, although they have never themselves been patented. Despite this, Henrietta Lacks’s estate has never benefited from the use of the cells, although, in 2013, the Lacks family was given control over the publication of the genetic sequence of her cells.</para>
+<para id="fs-id1168328304141">This case raises several bioethical issues surrounding patients’ informed consent and the right to know. At the time Lacks’s tissues were taken, there were no laws or guidelines about informed consent. Does that mean she was treated fairly at the time? Certainly by today’s standards, the answer would be no. Harvesting tissue or organs from a dying patient without consent is not only considered unethical but illegal, regardless of whether such an act could save other patients’ lives. Is it ethical, then, for scientists to continue to use Lacks’s tissues for research, even though they were obtained illegally by today’s standards?</para>
+<para id="fs-id1168328190055">Ethical or not, Lacks’s cells are widely used today for so many applications that it is impossible to list them all. Is this a case in which the ends justify the means? Would Lacks be pleased to know about her contribution to science and the millions of people who have benefited? Would she want her family to be compensated for the commercial products that have been developed using her cells? Or would she feel violated and exploited by the researchers who took part of her body without her consent? Because she was never asked, we will never know.</para>
+<figure id="OSC_Microbio_06_03_hela">
+<media id="fs-id1168327949701" alt="Each cell contains a large blue sphere with a cluster of orange ovals next to the sphere. A green web fills the rest of the cell.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_06_03_hela.jpg"/>
+</media>
+<caption>A multiphoton fluorescence image of HeLa cells in culture. Various fluorescent stains have been used to show the DNA (cyan), microtubules (green), and Golgi apparatus (orange). (credit: modification of work by National Institutes of Health)</caption>
+</figure>
+</note>
+</section>
+<section id="fs-id1168327862568">
+<title>Detection of a Virus</title>
+<para id="fs-id1168325688892">Regardless of the method of cultivation, once a virus has been introduced into a whole host organism, embryo, or tissue-culture cell, a sample can be prepared from the infected host, embryo, or cell line for further analysis under a brightfield, electron, or fluorescent microscope. <term>Cytopathic effects (CPEs)</term> are distinct observable cell abnormalities due to viral infection. CPEs can include loss of adherence to the surface of the container, changes in cell shape from flat to round, shrinkage of the nucleus, vacuoles in the cytoplasm, fusion of cytoplasmic membranes and the formation of multinucleated syncytia, inclusion bodies in the nucleus or cytoplasm, and complete cell lysis (see <link target-id="OSC_Microbio_06_03_CPETable"/>).</para>
+<para id="fs-id1168328323434">Further pathological changes include viral disruption of the host genome and altering normal cells into transformed cells, which are the types of cells associated with carcinomas and sarcomas. The type or severity of the CPE depends on the type of virus involved. <link target-id="OSC_Microbio_06_03_CPETable"/> lists CPEs for specific viruses.</para>
+<figure id="OSC_Microbio_06_03_CPETable">
+<media id="fs-id1168327990156" alt="This is a table of cytopathic effects of specific viruses. The first example is paramyxovirus which causes syncytium and faint basophilic cytoplasmic inclusion bodies. Small structures are seen within a cell. Next, Poxyvirus results in pink eosinophilic cytoplasmic inclusion bodies (seen as small structures) and cell swelling. Next, Herpesvirus causes cytoplasmic stranding (seen as an eleongation of the cytoplasm) and nuclear inclusion bodies (seen as structures within the nucleus). Finally, Adenovirus causes cell enlargement, rounding, and distinctive grape-like clusters.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_06_03_CPETable.jpg"/>
+</media>
+<caption>(credit “micrographs”: modification of work by American Society for Microbiology)</caption>
+</figure>
+<note id="fs-id1168328067511" class="microbiology link-to-learning">
+
+<para id="fs-id1168328214545">Watch this <link url="https://www.openstax.org/l/22virusesoncell">video</link> to learn about the effects of viruses on cells.</para>
+</note>
+<section id="fs-id1168327909149">
+<title>Hemagglutination Assay</title>
+<para id="fs-id1168327958832">A serological assay is used to detect the presence of certain types of viruses in patient serum. Serum is the straw-colored liquid fraction of blood plasma from which clotting factors have been removed. Serum can be used in a direct assay called a <term class="no-emphasis">hemagglutination assay</term> to detect specific types of viruses in the patient’s sample. Hemagglutination is the agglutination (clumping) together of erythrocytes (red blood cells). Many viruses produce surface proteins or spikes called hemagglutinins that can bind to receptors on the membranes of erythrocytes and cause the cells to agglutinate. Hemagglutination is observable without using the microscope, but this method does not always differentiate between infectious and noninfectious viral particles, since both can agglutinate erythrocytes.</para>
+<para id="fs-id1168328168830">To identify a specific pathogenic virus using hemagglutination, we must use an indirect approach. Proteins called antibodies, generated by the patient’s immune system to fight a specific virus, can be used to bind to components such as hemagglutinins that are uniquely associated with specific types of viruses. The binding of the antibodies with the hemagglutinins found on the virus subsequently prevent erythrocytes from directly interacting with the virus. So when erythrocytes are added to the antibody-coated viruses, there is no appearance of agglutination; agglutination has been inhibited. We call these types of indirect assays for virus-specific antibodies <term class="no-emphasis">hemagglutination inhibition (HAI) assays</term>. HAI can be used to detect the presence of antibodies specific to many types of viruses that may be causing or have caused an infection in a patient even months or years after infection (see <link target-id="OSC_Microbio_06_03_agglutin"/>). This assay is described in greater detail in <link document="m58902">Agglutination Assays</link>.</para>
+<figure id="OSC_Microbio_06_03_agglutin">
+<media id="fs-id1168328229470" alt="This chart has three columns labeled components, interactions and mictotiter results. In row A the components are the red blood cells which do not interact with anything and show no reaction in a microtiter result. The lack of reaction is seen as a small red dot in the center of the well. In row B the components are viruses and red blood cells. The viruses and red blood cells clump together and this is seen in a microtiter result as redness throughout the well. This is called hemagglutination. In row C, the components are viruses, red blood cells and antibodies. The viruses and antibodies clump together but the red blood cells do not clump with anything. This is again seen as no reaction; this is called hemagglutination inhibition.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_06_03_agglutin.jpg"/>
+</media>
+<caption>This chart shows the possible outcomes of a hemagglutination test. Row A: Erythrocytes do not bind together and will sink to the bottom of the well plate; this becomes visible as a red dot in the center of the well. Row B: Many viruses have hemagglutinins that causes agglutination of erythrocytes; the resulting hemagglutination forms a lattice structure that results in red color throughout the well. Row C: Virus-specific antibody, the viruses, and the erythrocytes are added to the well plate. The virus-specific antibodies inhibit agglutination, as can be seen as a red dot in the bottom of the well. (credit: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<note id="fs-id1168327965269" class="microbiology check-your-understanding">
+<list id="fs-id1168327878707">
+<item>What is the outcome of a positive HIA test?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1168327865083">
+<title>Nucleic Acid Amplification Test</title>
+<para id="fs-id1168327910997"><term class="no-emphasis">Nucleic acid amplification tests (NAAT)</term> are used in molecular biology to detect unique nucleic acid sequences of viruses in patient samples. <term class="no-emphasis">Polymerase chain reaction</term> (PCR) is an NAAT used to detect the presence of viral DNA in a patient’s tissue or body fluid sample. PCR is a technique that amplifies (i.e., synthesizes many copies) of a viral DNA segment of interest. Using PCR, short nucleotide sequences called primers bind to specific sequences of viral DNA, enabling identification of the virus.</para>
+<para id="fs-id1168327959082"><term class="no-emphasis">Reverse transcriptase-PCR (RT-PCR)</term> is an NAAT used to detect the presence of RNA viruses. RT-PCR differs from PCR in that the enzyme reverse transcriptase (RT) is used to make a cDNA from the small amount of viral RNA in the specimen. The cDNA can then be amplified by PCR. Both PCR and RT-PCR are used to detect and confirm the presence of the viral nucleic acid in patient specimens.</para>
+<note id="fs-id1168328214048" class="microbiology case-in-point">
+<title>HPV Scare</title>
+<para id="fs-id1168327920357">Michelle, a 21-year-old nursing student, came to the university clinic worried that she might have been exposed to a sexually transmitted disease (STD). Her sexual partner had recently developed several bumps on the base of his penis. He had put off going to the doctor, but Michelle suspects they are genital warts caused by HPV. She is especially concerned because she knows that HPV not only causes warts but is a prominent cause of cervical cancer. She and her partner always use condoms for contraception, but she is not confident that this precaution will protect her from HPV.</para>
+<para id="fs-id1168327986518">Michelle’s physician finds no physical signs of genital warts or any other STDs, but recommends that Michelle get a <term class="no-emphasis">Pap smear</term> along with an HPV test. The Pap smear will screen for abnormal cervical cells and the CPEs associated with HPV; the HPV test will test for the presence of the virus. If both tests are negative, Michelle can be more assured that she most likely has not become infected with HPV. However, her doctor suggests it might be wise for Michelle to get vaccinated against HPV to protect herself from possible future exposure.</para>
+<list id="fs-id1168328153778" list-type="bulleted" bullet-style="bullet">
+<item>Why does Michelle’s physician order two different tests instead of relying on one or the other?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1168328331049">
+<title>Enzyme Immunoassay</title>
+<para id="fs-id1168327962426"><term class="no-emphasis">Enzyme immunoassays (EIAs)</term> rely on the ability of antibodies to detect and attach to specific biomolecules called antigens. The detecting antibody attaches to the target antigen with a high degree of specificity in what might be a complex mixture of biomolecules. Also included in this type of assay is a colorless enzyme attached to the detecting antibody. The enzyme acts as a tag on the detecting antibody and can interact with a colorless substrate, leading to the production of a colored end product. EIAs often rely on layers of antibodies to capture and react with antigens, all of which are attached to a membrane filter (see <link target-id="OSC_Microbio_06_03_EIA"/>). EIAs for viral antigens are often used as preliminary screening tests. If the results are positive, further confirmation will require tests with even greater sensitivity, such as a <term class="no-emphasis">western blot</term> or an <term class="no-emphasis">NAAT</term>. EIAs are discussed in more detail in <link document="m58903">EIAs and ELISAs</link>.</para>
+<figure id="OSC_Microbio_06_03_EIA">
+<media id="fs-id1168327981126" alt="The explanation of EIA is separated to show what occurs in a positive sample and what occurs in a negative sample. First patient sample is applied to a membrane filter. If the sample contains viruses they are trapped by the filter. Next, antibody with enzyme conjugate is added. Antibody will attach to antigen if present. Next is a wash step. If the virus is present the enzyme binds to the virus, otherwise the enzyme washes away. Finally substrate is added. If the antibody is present (because it is bound to the virus) the attached enzyme causes a color change. If no enzyme linked antibody is present, no color change occurs.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_06_03_EIA.jpg"/>
+</media>
+<caption>Similar to rapid, over-the-counter pregnancy tests, EIAs for viral antigens require a few drops of diluted patient serum or plasma applied to a membrane filter. The membrane filter has been previously modified and embedded with antibody to viral antigen and internal controls. Antibody conjugate is added to the filter, with the targeted antibody attached to the antigen (in the case of a positive test). Excess conjugate is washed off the filter. Substrate is added to activate the enzyme-mediated reaction to reveal the color change of a positive test. (credit: modification of work by “Cavitri”/Wikimedia Commons)</caption>
+</figure>
+<note id="fs-id1168328175487" class="microbiology check-your-understanding">
+<list id="fs-id1168327959546">
+<item>What typically indicates a positive EIA test?</item>
+</list>
+</note>
+<note id="fs-id1168328293244" class="microbiology clinical-focus">
+<title>Part 3</title>
+<para id="fs-id1168328200474">Along with the RT/PCR analysis, David’s saliva was also collected for viral cultivation. In general, no single diagnostic test is sufficient for antemortem diagnosis, since the results will depend on the sensitivity of the assay, the quantity of virions present at the time of testing, and the timing of the assay, since release of virions in the saliva can vary. As it turns out, the result was negative for viral cultivation from the saliva. This is not surprising to David’s doctor, because one negative result is not an absolute indication of the absence of infection. It may be that the number of virions in the saliva is low at the time of sampling. It is not unusual to repeat the test at intervals to enhance the chance of detecting higher virus loads.</para>
+<list id="fs-id1168328213783" list-type="bulleted" bullet-style="bullet">
+<item>Should David’s doctor modify his course of treatment based on these test results?</item>
+</list>
+<para id="fs-id1168328214463"><emphasis effect="italics">Jump to the <link target-id="fs-id1168328231014" document="m58811">next</link> Clinical Focus box. Go back to the <link target-id="fs-id1168328286182" document="m58808">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+</section>
+<section id="fs-id1168328194349" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1168327919430" list-type="bulleted" bullet-style="bullet">
+<item>Viral cultivation requires the presence of some form of host cell (whole organism, embryo, or cell culture).</item>
+<item>Viruses can be isolated from samples by filtration.</item>
+<item>Viral filtrate is a rich source of released virions.</item>
+<item>Bacteriophages are detected by presence of clear <emphasis effect="bold">plaques</emphasis> on bacterial lawn.</item>
+<item>Animal and plant viruses are detected by <emphasis effect="bold">cytopathic effects</emphasis>, molecular techniques (PCR, RT-PCR), enzyme immunoassays, and serological assays (hemagglutination assay, hemagglutination inhibition assay).</item>
+</list>
+</section>
+<section id="fs-id1168328279479" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1168327925720">
+<problem id="fs-id1168328184087">
+<para id="fs-id1168328260355">Which of the followings cannot be used to culture viruses?</para>
+<list id="fs-id1168328185904" list-type="enumerated" number-style="upper-alpha">
+<item>tissue culture</item>
+<item>liquid medium only</item>
+<item>embryo</item>
+<item>animal host</item>
+</list>
+</problem>
+<solution id="fs-id1168328199691">
+<para id="fs-id1168328297019">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1168327875814">
+<problem id="fs-id1168328370846">
+<para id="fs-id1168328332075">Which of the following tests can be used to detect the presence of a specific virus?</para>
+<list id="fs-id1168327962035" list-type="enumerated" number-style="upper-alpha">
+<item>EIA</item>
+<item>RT-PCR</item>
+<item>PCR</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-id1172100636685">
+<para id="fs-id1172100560858">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1168328248091">
+<problem id="fs-id1168327876584">
+<para id="fs-id1168328144418">Which of the following is NOT a cytopathic effect?</para>
+<list id="fs-id1168328300295" list-type="enumerated" number-style="upper-alpha">
+<item>transformation</item>
+<item>cell fusion</item>
+<item>mononucleated cell</item>
+<item>inclusion bodies</item>
+</list>
+</problem>
+<solution id="fs-id1168328285347">
+<para id="fs-id1168328025031">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1168328324872" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1168328187129">
+<problem id="fs-id1168327917008">
+<para id="fs-id1168327923058">Viruses can be diagnosed and observed using a(n) _____________ microscope.</para>
+</problem>
+<solution id="fs-id1168328366916">
+<para id="fs-id1168328062302">Electron</para>
+</solution>
+</exercise>
+<exercise id="fs-id1168328295447">
+<problem id="fs-id1168328286125">
+<para id="fs-id1168327910277">Cell abnormalities resulting from a viral infection are called ____________ _____________.</para>
+</problem>
+<solution id="fs-id1172098386874">
+<para id="fs-id1172098314477">cytopathic effects</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1168328369797" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1168328063119">
+<problem id="fs-id1168327910745">
+<para id="fs-id1168328231014">Briefly explain the various methods of culturing viruses.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1168328280913" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1168327938027">
+<problem id="fs-id1168328364246">
+<para id="fs-id1168328240952">Label the components indicated by arrows.</para>
+<figure id="OSC_Microbio_06_03_lawn_img">
+<media id="fs-id1168328185114" alt="A plate with a smooth beige background labeled (A). There are holes in this background; these holes are labeled B.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_06_03_lawn_img.jpg"/>
+</media>
+<caption>(credit: modification of work by American Society for Microbiology)</caption>
+</figure>
+</problem>
+</exercise>
+<exercise id="fs-id1168328287012">
+<problem id="fs-id1168327991801">
+<para id="fs-id1168327869606">What are some characteristics of the viruses that are similar to a computer virus?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

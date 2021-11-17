@@ -1,0 +1,127 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Gene Therapy</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58851</md:content-id>
+  <md:title>Gene Therapy</md:title>
+  <md:abstract/>
+  <md:uuid>71e335f5-0d72-4a92-859b-6828a80e13ee</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167741478367" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167740162780">
+<item>Summarize the mechanisms, risks, and potential benefits of gene therapy</item>
+<item>Identify ethical issues involving gene therapy and the regulatory agencies that provide oversight for clinical trials</item>
+<item>Compare somatic-cell and germ-line gene therapy</item>
+</list>
+</section>
+<para id="fs-id1167740200603">Many types of genetic engineering have yielded clear benefits with few apparent risks. Few would question, for example, the value of our now abundant supply of human insulin produced by genetically engineered bacteria. However, many emerging applications of genetic engineering are much more controversial, often because their potential benefits are pitted against significant risks, real or perceived. This is certainly the case for <term>gene therapy</term>, a clinical application of genetic engineering that may one day provide a cure for many diseases but is still largely an experimental approach to treatment.</para>
+<section id="fs-id1167741676225">
+<title>Mechanisms and Risks of Gene Therapy</title>
+<para id="fs-id1167740252891">Human diseases that result from genetic mutations are often difficult to treat with drugs or other traditional forms of therapy because the signs and symptoms of disease result from abnormalities in a patient’s genome. For example, a patient may have a genetic mutation that prevents the expression of a specific protein required for the normal function of a particular cell type. This is the case in patients with Severe Combined Immunodeficiency (SCID), a genetic disease that impairs the function of certain white blood cells essential to the immune system.</para>
+<para id="fs-id1167741313436">Gene therapy attempts to correct genetic abnormalities by introducing a nonmutated, functional gene into the patient’s genome. The nonmutated gene encodes a functional protein that the patient would otherwise be unable to produce. Viral vectors such as adenovirus are sometimes used to introduce the functional gene; part of the viral genome is removed and replaced with the desired gene (<link target-id="OSC_Microbio_12_01_GeneTher"/>). More advanced forms of gene therapy attempt to correct the mutation at the original site in the genome, such as is the case with treatment of SCID.</para>
+<figure id="OSC_Microbio_12_01_GeneTher">
+<media id="fs-id1167740115807" alt="A diagram of gene therapy. A virus vector contains modified viral DNA that includes an inserted gene. First the vector binds to the cell membrane. The vector is then packaged in a vesicle. The vesicle then breaks down releasing the vector. The cell now makes protein using the new gene.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_12_01_GeneTher.jpg"/>
+</media>
+<caption>Gene therapy using an adenovirus vector can be used to treat or cure certain genetic diseases in which a patient has a defective gene. (credit: modification of work by National Institutes of Health)</caption>
+</figure>
+<para id="fs-id1167741463420">So far, gene therapies have proven relatively ineffective, with the possible exceptions of treatments for <term class="no-emphasis">cystic fibrosis</term> and <term class="no-emphasis">adenosine deaminase deficiency</term>, a type of SCID. Other trials have shown the clear hazards of attempting genetic manipulation in complex multicellular organisms like humans. In some patients, the use of an <term class="no-emphasis">adenovirus</term> vector can trigger an unanticipated inflammatory response from the immune system, which may lead to organ failure. Moreover, because viruses can often target multiple cell types, the virus vector may infect cells not targeted for the therapy, damaging these other cells and possibly leading to illnesses such as cancer. Another potential risk is that the modified virus could revert to being infectious and cause disease in the patient. Lastly, there is a risk that the inserted gene could unintentionally inactivate another important gene in the patient’s genome, disrupting normal cell cycling and possibly leading to tumor formation and cancer. Because gene therapy involves so many risks, candidates for gene therapy need to be fully informed of these <term class="no-emphasis">risks</term> before providing <term class="no-emphasis">informed consent</term> to undergo the therapy.</para>
+<note id="fs-id1167741756524" class="microbiology case-in-point">
+<title>Gene Therapy Gone Wrong</title>
+<para id="fs-id1167741276784">The risks of gene therapy were realized in the 1999 case of Jesse <term class="no-emphasis">Gelsinger</term>, an 18-year-old patient who received gene therapy as part of a clinical trial at the University of Pennsylvania. Jesse received gene therapy for a condition called <term class="no-emphasis">ornithine transcarbamylase (OTC) deficiency</term>, which leads to ammonia accumulation in the blood due to deficient ammonia processing. Four days after the treatment, Jesse died after a massive immune response to the adenovirus vector.<footnote id="fs-id1167740211264">Barbara Sibbald. “Death but One Unintended Consequence of Gene-Therapy Trial.” <emphasis effect="italics">Canadian Medical Association Journal 164</emphasis> no. 11 (2001): 1612–1612.</footnote></para>
+<para id="fs-id1167740170897">Until that point, researchers had not really considered an immune response to the vector to be a legitimate risk, but on investigation, it appears that the researchers had some evidence suggesting that this was a possible outcome. Prior to Jesse’s treatment, several other human patients had suffered side effects of the treatment, and three monkeys used in a trial had died as a result of inflammation and clotting disorders. Despite this information, it appears that neither Jesse nor his family were made aware of these outcomes when they consented to the therapy. Jesse’s death was the first patient death due to a gene therapy treatment and resulted in the immediate halting of the clinical trial in which he was involved, the subsequent halting of all other gene therapy trials at the University of Pennsylvania, and the investigation of all other gene therapy trials in the United States. As a result, the regulation and oversight of gene therapy overall was reexamined, resulting in new regulatory protocols that are still in place today.</para>
+</note>
+<note id="fs-id1167741248942" class="microbiology check-your-understanding">
+<list id="fs-id1167741674573" list-type="bulleted" bullet-style="bullet">
+<item>Explain how gene therapy works in theory.</item>
+<item>Identify some risks of gene therapy.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167740248040">
+<title>Oversight of Gene Therapy</title>
+<para id="fs-id1167741712208">Presently, there is significant oversight of gene therapy clinical trials. At the federal level, three agencies regulate gene therapy in parallel: the <term class="no-emphasis">Food and Drug Administration</term> (FDA), the <term class="no-emphasis">Office of Human Research Protection</term> (OHRP), and the <term class="no-emphasis">Recombinant DNA Advisory Committee</term> (RAC) at the <term class="no-emphasis">National Institutes of Health</term> (NIH). Along with several local agencies, these federal agencies interact with the institutional review board to ensure that protocols are in place to protect patient safety during clinical trials. Compliance with these protocols is enforced mostly on the local level in cooperation with the federal agencies. Gene therapies are currently under the most extensive federal and local review compared to other types of therapies, which are more typically only under the review of the FDA. Some researchers believe that these extensive regulations actually inhibit progress in gene therapy research. In 2013, the <term class="no-emphasis">Institute of Medicine</term> (now the <term class="no-emphasis">National Academy of Medicine</term>) called upon the NIH to relax its review of gene therapy trials in most cases.<footnote id="fs-id1167741561928">Kerry Grens. “Report: Ease Gene Therapy Reviews.” <emphasis effect="italics">The Scientist</emphasis>, December 9, 2013. http://www.the-scientist.com/?articles.view/articleNo/38577/title/Report--Ease-Gene-Therapy-Reviews/. Accessed May 27, 2016.</footnote> However, ensuring patient safety continues to be of utmost concern.</para>
+<section id="fs-id1167740416918">
+<title>Ethical Concerns</title>
+<para id="fs-id1167741271805">Beyond the health risks of gene therapy, the ability to genetically modify humans poses a number of ethical issues related to the limits of such “therapy.” While current research is focused on gene therapy for genetic diseases, scientists might one day apply these methods to manipulate other genetic traits not perceived as desirable. This raises questions such as:</para>
+<list id="fs-id1167741452992" list-type="bulleted" bullet-style="bullet">
+<item>Which genetic traits are worthy of being “corrected”?</item>
+<item>Should gene therapy be used for cosmetic reasons or to enhance human abilities?</item>
+<item>Should genetic manipulation be used to impart desirable traits to the unborn?</item>
+<item>Is everyone entitled to gene therapy, or could the cost of gene therapy create new forms of social inequality?</item>
+<item>Who should be responsible for regulating and policing inappropriate use of gene therapies?</item>
+</list>
+<para id="fs-id1167741589790">The ability to alter reproductive cells using gene therapy could also generate new ethical dilemmas. To date, the various types of gene therapies have been targeted to somatic cells, the non-reproductive cells within the body. Because somatic cell traits are not inherited, any genetic changes accomplished by <term class="no-emphasis">somatic-cell gene therapy</term> would not be passed on to offspring. However, should scientists successfully introduce new genes to germ cells (eggs or sperm), the resulting traits could be passed on to offspring. This approach, called <term class="no-emphasis">germ-line gene therapy</term>, could potentially be used to combat heritable diseases, but it could also lead to unintended consequences for future generations. Moreover, there is the question of informed consent, because those impacted by germ-line gene therapy are unborn and therefore unable to choose whether they receive the therapy. For these reasons, the U.S. government does not currently fund research projects investigating germ-line gene therapies in humans.</para>
+<note id="fs-id1167741563390" class="microbiology eye-on-ethics">
+<title>Risky Gene Therapies</title>
+<para id="fs-id1167741531702">While there are currently no gene therapies on the market in the United States, many are in the pipeline and it is likely that some will eventually be approved. With recent advances in gene therapies targeting p53, a gene whose somatic cell mutations have been implicated in over 50% of human cancers,<footnote id="fs-id1167741750201">Zhen Wang and Yi Sun. “Targeting p53 for Novel Anticancer Therapy.” <emphasis effect="italics">Translational Oncology 3</emphasis>, no. 1 (2010): 1–12.</footnote> cancer treatments through gene therapies could become much more widespread once they reach the commercial market.</para>
+<para id="fs-id1167741448174">Bringing any new therapy to market poses ethical questions that pit the expected benefits against the risks. How quickly should new therapies be brought to the market? How can we ensure that new therapies have been sufficiently tested for safety and effectiveness before they are marketed to the public? The process by which new therapies are developed and approved complicates such questions, as those involved in the approval process are often under significant pressure to get a new therapy approved even in the face of significant risks.</para>
+<para id="fs-id1167741478358">To receive FDA approval for a new therapy, researchers must collect significant laboratory data from animal trials and submit an <term class="no-emphasis">Investigational New Drug (IND) application</term> to the FDA’s <term class="no-emphasis">Center for Drug Evaluation and Research (CDER)</term>. Following a 30-day waiting period during which the FDA reviews the IND, clinical trials involving human subjects may begin. If the FDA perceives a problem prior to or during the clinical trial, the FDA can order a “clinical hold” until any problems are addressed. During clinical trials, researchers collect and analyze data on the therapy’s effectiveness and safety, including any side effects observed. Once the therapy meets FDA standards for effectiveness and safety, the developers can submit a <term class="no-emphasis">New Drug Application (NDA)</term> that details how the therapy will be manufactured, packaged, monitored, and administered.</para>
+<para id="fs-id1167584623745">Because new gene therapies are frequently the result of many years (even decades) of laboratory and clinical research, they require a significant financial investment. By the time a therapy has reached the clinical trials stage, the financial stakes are high for pharmaceutical companies and their shareholders. This creates potential conflicts of interest that can sometimes affect the objective judgment of researchers, their funders, and even trial participants. The Jesse <term class="no-emphasis">Gelsinger</term> case (see <link target-id="fs-id1167741756524">Case in Point: Gene Therapy Gone Wrong</link>) is a classic example. Faced with a life-threatening disease and no reasonable treatments available, it is easy to see why a patient might be eager to participate in a clinical trial no matter the risks. It is also easy to see how a researcher might view the short-term risks for a small group of study participants as a small price to pay for the potential benefits of a game-changing new treatment.</para>
+<para id="fs-id1167740194978">Gelsinger’s death led to increased scrutiny of gene therapy, and subsequent negative outcomes of gene therapy have resulted in the temporary halting of clinical trials pending further investigation. For example, when children in France treated with gene therapy for <term class="no-emphasis">SCID</term> began to develop leukemia several years after treatment, the FDA temporarily stopped clinical trials of similar types of gene therapy occurring in the United States.<footnote id="fs-id1167584683877">Erika Check. “Gene Therapy: A Tragic Setback.” <emphasis effect="italics">Nature 420</emphasis> no. 6912 (2002): 116–118.</footnote> Cases like these highlight the need for researchers and health professionals not only to value human well-being and patients’ rights over profitability, but also to maintain scientific objectivity when evaluating the risks and benefits of new therapies.</para>
+</note>
+<note id="fs-id1167741685273" class="microbiology check-your-understanding">
+<list id="fs-id1167741318132" list-type="bulleted" bullet-style="bullet">
+<item>Why is gene therapy research so tightly regulated?</item>
+<item>What is the main ethical concern associated with germ-line gene therapy?</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1167741259894" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167741564725" list-type="bulleted" bullet-style="bullet">
+<item>While gene therapy shows great promise for the treatment of genetic diseases, there are also significant risks involved.</item>
+<item>There is considerable federal and local regulation of the development of gene therapies by pharmaceutical companies for use in humans.</item>
+<item>Before gene therapy use can increase dramatically, there are many ethical issues that need to be addressed by the medical and research communities, politicians, and society at large.</item>
+</list>
+</section>
+<section id="fs-id1167741606761" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167740225217">
+<problem id="fs-id1167741532533">
+<para id="fs-id1167741440911">At what point can the FDA halt the development or use of gene therapy?</para>
+<list id="fs-id1167741435940" list-type="enumerated" number-style="lower-alpha">
+<item>on submission of an IND application</item>
+<item>during clinical trials</item>
+<item>after manufacturing and marketing of the approved therapy</item>
+<item>all of the answers are correct</item>
+</list>
+</problem>
+<solution id="fs-id1167741593975">
+<para id="fs-id1167740253221">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167741668667" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167741366432">
+<problem id="fs-id1167741318451">
+<para id="fs-id1167740239877">_____________ is a common viral vector used in gene therapy for introducing a new gene into a specifically targeted cell type.</para>
+</problem>
+<solution id="fs-id1167741250336">
+<para id="fs-id1167741270170">Adenovirus</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167741732414" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167741460473">
+<problem id="fs-id1167740220742">
+<para id="fs-id1167740130931">Briefly describe the risks associated with somatic cell gene therapy.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167741256291" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167741272348">
+<problem id="fs-id1167740274484">
+<para id="fs-id1167741468301">Compare the ethical issues involved in the use of somatic cell gene therapy and germ-line gene therapy.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

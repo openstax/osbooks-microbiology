@@ -1,0 +1,88 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Current Strategies for Antimicrobial Discovery</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63248</md:content-id>
+  <md:title>Current Strategies for Antimicrobial Discovery</md:title>
+  <md:abstract/>
+  <md:uuid>aebf004a-d638-4af5-bcb0-121ae13ea40c</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167661271495" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167663889905">
+<item>Describe the methods and strategies used for discovery of new antimicrobial agents.</item>
+</list>
+</section>
+<para id="fs-id1167661736252">With the continued evolution and spread of antimicrobial resistance, and now the identification of pan-resistant bacterial pathogens, the search for new antimicrobials is essential for preventing the postantibiotic era. Although development of more effective semisynthetic derivatives is one strategy, resistance to them develops rapidly because bacterial pathogens are already resistant to earlier-generation drugs in the family and can easily mutate and develop resistance to the new semisynthetic drugs. Today, scientists continue to hunt for new antimicrobial compounds and explore new avenues of antimicrobial discovery and synthesis. They check large numbers of soils and microbial products for antimicrobial activity by using <term class="no-emphasis">high-throughput screening methods</term>, which use automation to test large numbers of samples simultaneously. The recent development of the <term class="no-emphasis">iChip</term><footnote id="fs-id1167661535367">L. Losee et al. “A New Antibiotic Kills Pathogens Without Detectable Resistance.” <emphasis effect="italics">Nature</emphasis> 517 no. 7535 (2015):455–459.</footnote> allows researchers to investigate the antimicrobial-producing capabilities of soil microbes that are difficult to grow by standard cultivation techniques in the laboratory. Rather than grow the microbes in the laboratory, they are grown in situ—right in the soil. Use of the iChip has resulted in the discovery of <term class="no-emphasis">teixobactin</term>, a novel antimicrobial from Mount Ararat, Turkey. Teixobactin targets two distinct steps in gram-positive cell wall synthesis and for which antimicrobial resistance appears not yet to have evolved.</para>
+<para id="fs-id1167663637017">Although soils have been widely examined, other environmental niches have not been tested as fully. Since 70% of the earth is covered with water, marine environments could be mined more fully for the presence of antimicrobial-producing microbes. In addition, researchers are using combinatorial chemistry, a method for making a very large number of related compounds from simple precursors, and testing them for antimicrobial activity. An additional strategy that needs to be explored further is the development of compounds that inhibit resistance mechanisms and restore the activity of older drugs, such as the strategy described earlier for <term class="no-emphasis">β-lactamase inhibitors</term> like <term class="no-emphasis">clavulanic acid</term>. Finally, developing inhibitors of virulence factor production and function could be a very important avenue. Although this strategy would not be directly antibacterial, drugs that slow the progression of an infection could provide an advantage for the immune system and could be used successfully in combination with antimicrobial drugs.</para>
+<note id="fs-id1167661464353" class="microbiology check-your-understanding">
+<list id="fs-id1167663900541" list-type="bulleted" bullet-style="bullet">
+<item>What are new sources and strategies for developing drugs to fight infectious diseases?</item>
+</list>
+</note>
+<note id="fs-id1167661297106" class="microbiology eye-on-ethics">
+<title>The (Free?) Market for New Antimicrobials</title>
+<para id="fs-id1167663882771">There used to be plenty of antimicrobial drugs on the market to treat infectious diseases. However, the spread of antimicrobial resistance has created a need for new antibiotics to replace those that are no longer as effective as they once were. Unfortunately, pharmaceutical companies are not particularly motivated to fill this need. As of 2009, all but five pharmaceutical companies had moved away from antimicrobial drug development.<footnote id="fs-id1167661765601">H.W. Boucher et al. “Bad Bugs, No Drugs: No ESKAPE! An Update from the Infectious Diseases Society of America.” <emphasis effect="italics">Clinical Infectious Diseases</emphasis> 48 no. 1 (2009):1–12.</footnote> As a result, the number of FDA approvals of new antimicrobials has fallen drastically in recent decades (<link target-id="OSC_Microbio_14_01_FDAAntibio"/>).</para>
+<para id="fs-id1167659010866">Given that demand usually encourages supply, one might expect pharmaceutical companies to be rushing to get back in the business of developing new antibiotics. But developing new drugs is a lengthy process and requires large investments in research and development. Pharmaceutical companies can typically get a higher return on their investment by developing products for chronic, nonmicrobial diseases like diabetes; such drugs must be taken for life, and therefore generate more long-term revenue than an antibiotic that does its job in a week or two. But what will happen when drugs like vancomycin, a superantimicrobial reserved for use as a last resort, begin to lose their effectiveness against ever more drug-resistant superbugs? Will drug companies wait until all antibiotics have become useless before beginning to look for new ones?</para>
+<para id="fs-id1167663549627">Recently, it has been suggested that large pharmaceutical companies should be given financial incentives to pursue such research. In September 2014, the White House released an executive order entitled “Combating Antibiotic Resistant Bacteria,” calling upon various government agencies and the private sector to work together to “accelerate basic and applied research and development for new antimicrobials, other therapeutics, and vaccines.”<footnote id="fs-id1167661363850">The White House. <emphasis effect="italics">National Action Plan for Combating Antibiotic-Resistant Bacteria.</emphasis> Washington, DC: The White House, 2015. </footnote> As a result, as of March 2015, President Obama’s proposed fiscal year 2016 budget doubled the amount of federal funding to $1.2 billion for “combating and preventing antibiotic resistance,” which includes money for antimicrobial research and development.<footnote id="fs-id1167661608542">White House Office of the Press Secretary. “Fact Sheet: Obama Administration Releases National Action Plan to Combat Antibiotic-Resistant Bacteria.” March 27, 2015. https://www.whitehouse.gov/the-press-office/2015/03/27/fact-sheet-obama-administration-releases-national-action-plan-combat-ant</footnote> Similar suggestions have also been made on a global scale. In December 2014, a report chaired by former Goldman Sachs economist Jim O’Neill was published in <emphasis effect="italics">The Review on Antimicrobial Resistance</emphasis>.<footnote id="fs-id1167661271516">Review on Antimicrobial Resistance. http://amr-review.org. Accessed June 1, 2016.</footnote></para>
+<para id="fs-id1167659254031">These developments reflect the growing belief that for-profit pharmaceutical companies must be subsidized to encourage development of new antimicrobials. But some ask whether pharmaceutical development should be motivated by profit at all. Given that millions of lives may hang in the balance, some might argue that drug companies have an ethical obligation to devote their research and development efforts to high-utility drugs, as opposed to highly profitable ones. Yet this obligation conflicts with the fundamental goals of a for-profit company. Are government subsidies enough to ensure that drug companies make the public interest a priority, or should government agencies assume responsibility for developing critical drugs that may have little or no return on investment?</para>
+<figure id="OSC_Microbio_14_01_FDAAntibio">
+<media id="fs-id1167661344998" alt="A graph of new antimicrobials approved by FDA from 1983 – 2012. From 83-87 12 new antimicrobials were approved. From 88-92 there were 14. From 93-97 there were 10. From 98-2002 there were 7. From 03 – 07 there were 5. From 08-12 there were 2.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_14_01_FDAAntibio.jpg"/>
+</media>
+<caption>In recent decades, approvals of new antimicrobials by the FDA have steadily fallen. In the five-year period from 1983–1987, 16 new antimicrobial drugs were approved, compared to just two from 2008–2012.</caption>
+</figure>
+</note>
+<note id="fs-id1167661353610" class="microbiology link-to-learning">
+
+<para id="fs-id1167663963378">To further examine the scope of the problem, view <link url="https://openstax.org/l/22PBSDecAntimic">this</link> video.</para>
+<para id="fs-id1167661440368">To <link url="https://openstax.org/l/22MSUAntResLeaH">learn more</link> about the history of antimicrobial drug discovery, visit Michigan State University’s Antimicrobial Resistance Learning Site.</para>
+</note>
+<section id="fs-id1167661640814" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167663650079" list-type="bulleted" bullet-style="bullet">
+<item>Current research into the development of antimicrobial drugs involves the use of high-throughput screening and combinatorial chemistry technologies.</item>
+<item>New technologies are being developed to discover novel antibiotics from soil microorganisms that cannot be cultured by standard laboratory methods.</item>
+<item>Additional strategies include searching for antibiotics from sources other than soil, identifying new antibacterial targets, using combinatorial chemistry to develop novel drugs, developing drugs that inhibit resistance mechanisms, and developing drugs that target virulence factors and hold infections in check.</item>
+</list>
+</section>
+<section id="fs-id1167663621612" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167661463241">
+<problem id="fs-id1167661443822">
+<para id="fs-id1167663958942">Which of the following has yielded compounds with the most antimicrobial activity?</para>
+<list id="fs-id1167661645682" list-type="enumerated" number-style="upper-alpha">
+<item>water</item>
+<item>air</item>
+<item>volcanoes</item>
+<item>soil</item>
+</list>
+</problem>
+<solution id="fs-id1167663885046">
+<para id="fs-id1167661727994">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167661295541" class="true-false">
+<title>True/False</title>
+<exercise id="fs-id1167661401693">
+<problem id="fs-id1167661729537">
+<para id="fs-id1167663993798">The rate of discovery of antimicrobial drugs has decreased significantly in recent decades.</para>
+</problem>
+<solution id="fs-id1167661335642">
+<para id="fs-id1167663650317">true</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167661257105" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167661404505">
+<problem id="fs-id1167661343675">
+<para id="fs-id1167663588725">Who should be responsible for discovering and developing new antibiotics? Support your answer with reasoning.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

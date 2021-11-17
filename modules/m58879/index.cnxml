@@ -1,0 +1,351 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Cellular Defenses</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58879</md:content-id>
+  <md:title>Cellular Defenses</md:title>
+  <md:abstract/>
+  <md:uuid>3f483dfc-aa7f-413c-84fc-c307c7418393</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1172098456070" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1172098593372">
+<item>Identify and describe the components of blood</item>
+<item>Explain the process by which the formed elements of blood are formed (hematopoiesis)</item>
+<item>Describe the characteristics of formed elements found in peripheral blood, as well as their respective functions within the innate immune system</item>
+</list>
+</section>
+<para id="fs-id1172096227438">In the previous section, we discussed some of the chemical mediators found in plasma, the fluid portion of blood. The nonfluid portion of blood consists of various types of <term class="no-emphasis">formed elements</term>, so called because they are all formed from the same stem cells found in bone marrow. The three major categories of formed elements are: red blood cells (RBCs), also called <term>erythrocyte</term><emphasis effect="bold">s</emphasis>; <term>platelets</term>, also called <term>thrombocytes</term>; and white blood cells (WBCs), also called <term>leukocytes</term>.</para>
+<para id="fs-id1172100985194">Red blood cells are primarily responsible for carrying oxygen to tissues. Platelets are cellular fragments that participate in blood clot formation and tissue repair. Several different types of WBCs participate in various nonspecific mechanisms of innate and adaptive immunity. In this section, we will focus primarily on the innate mechanisms of various types of WBCs.</para>
+<section id="fs-id1172098550141">
+<title>Hematopoiesis</title>
+<para id="fs-id1172100952314">All of the formed elements of blood are derived from pluripotent <term class="no-emphasis">hematopoietic stem cells (HSCs)</term> in the bone marrow. As the HSCs make copies of themselves in the bone marrow, individual cells receive different cues from the body that control how they develop and mature. As a result, the HSCs differentiate into different types of blood cells that, once mature, circulate in peripheral blood. This process of differentiation, called <term>hematopoiesis</term>, is shown in more detail in <link target-id="OSC_Microbio_17_05_Hematopo"/>.</para>
+<para id="fs-id1172098626646">In terms of sheer numbers, the vast majority of HSCs become erythrocytes. Much smaller numbers become leukocytes and platelets. Leukocytes can be further subdivided into <term>granulocytes</term>, which are characterized by numerous granules visible in the cytoplasm, and <term class="no-emphasis">agranulocytes</term>, which lack granules. <link target-id="OSC_Microbio_17_05_FormElem"/> provides an overview of the various types of formed elements, including their relative numbers, primary function, and lifespans.</para>
+<figure id="OSC_Microbio_17_05_Hematopo">
+<media id="fs-id1172098550494" alt="A flowchart showing progression of development for formed elements of blood. At the top is a multipotent hematopoietic stem cell (hemocytoblast). This cell divides and after division some of the new cells remain stem cells. Others go down one of two paths depending on the chemical signals received. One path begins with lymphoid stem cells which can either become natural killer cells (large granular lymphocytes) or small lymphocytes. The natural killer cell is a medium-large purple cell. Small lymphocytes can either become T lymphocytes or B lymphoctyes. The T and B lymphocytes are medium size cells with a large nucleus. B lymphocytes become plasma cells which are medium size cells with a large nucleus. The other option for the stem cell is to become a myeloid stem cell. Myeloid stem cells follow one of four paths. One path leads to megakaryocyte which leads to platelets. Platelets are small flecks. The second path leads to erythrocyte. Erythrocytes are small donut shaped red cells. The third path leads to mast cells. The fourth path leads to basophil, neutrophil, eosinophil, or monocyte. Basophils are medium cells with many dark purple spots. Neutrophils are medium pink cells with a multi-lobbed nucleus. Eosinophils are medium size cells with many pink spots. Monocytes lead to macrophages or dendritic cells. Macrophages are large irregularly shaped cells. Dendritic cells have longer tendons branching off of them.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_17_05_Hematopo.jpg"/>
+</media>
+<caption>All the formed elements of the blood arise by differentiation of hematopoietic stem cells in the bone marrow.</caption>
+</figure>
+<figure id="OSC_Microbio_17_05_FormElem">
+<media id="fs-id1172098273141" alt="A table of the formed elements. Top row reads: formed element, major subtypes, numbers present per microliter and mean, appearance in standard blood smear, summary of functions, and comments. The first row is for erythrocytes (red blood cells). There are 5.2 million per microliter of blood (ranging from 4.4 – 6 million). These cells are flattened biconcave disks with no nucleus and a pale red color. Their function is to transport oxygen and some carbon dioxide between tissue and lungs. Their lifespan is approximately 120 days. The set of rows is classified under leukocytes (white blood cells). Leukocytes as a group number 7000 per microliter of blood (ranging from 5000-10,000). Leukocytes have an obvious dark-staining nucleus and function in body defenses. They exit capillaries and move into tissues. Their lifespan is usually a few hours or days. Leukocytes are divided into two groups. The first is granulocytes including neutrophils, eosinophils, and basophils. The second is agranulocytes including lymphocytes and monocytes. Granulocytes number 4300 per microliter of blood (range of 1800-9950). Granulocytes have abundant granules in the cytoplasm and the nucleus is normally lobed. Granulocytes function in nonspecific (innate) resistance to disease and are classified according to membrane-bound granules in the cytoplasm. Neutrophils make up 50-70% of the total leukocytes and number 4150 per microliter of blood (range 1800-7300). Neutrophils have a nucleus with lobes that increase with age and pale lilac granules. They are phagocytic and particularly effective against bacteria; they release toxic chemicals from granules. Neutrophils are the most common leukocyte with a lifespan of minutes to days. Eosinophils make up 1-3% of total leukocytes. They number 165 per microliter of blood (range of 0 – 700). Eosinophils have a nucleus that is generally two-lobed and bright red-orange granules. They are phagocytic cells and particularly effective with antigen-antibody complexes. Eosinophils release antihistamines and increase allergies, they also help fight parasitic infections. Eosinophils have a lifespan of minutes to days. Basophils make up less than 1% of total leukocytes. They number 44 per microliter of blood (range 0 – 150). Basophils have a nucleus that is generally two lobed but difficult to see due to the presence of heavy, dense, dark purple granules. Basophils promote inflammation and are the least common leukocyte. Their lifespan is unknown. Agranulocytes (including lymphocytes and monocytes) number 2640 per microliter of blood (range 1700 – 4900). Agranulocytes lack abundant granules in the cytoplasm and have a simple-shaped nucleus that may be indented. They function in body defenses and are grouped into two major cell types from different lineages. Lymphocytes make up 20-40% of total leukocytes and number 2185 per microliter of blood (range 1500-4000). Lymphocytes are spherical cells with a single, often large, nucleus occupying much of the cell’s volume. They stain purple and are seen in large (natural killer cells) and small (B and T cells) variants. Lymphocytes are primarily involved in specific (adaptive) immunity. T cells directly attack other cells (cellular immunity); natural killer cells are similar to T cells but nonspecific. Lymphocytes originate in bone marrow but secondary production occurs in lymphatic tissue. Several distinct subtypes. Memory cells form after exposure to a pathogen and rapidly increase responses to subsequent exposure. Lifespan of many years. Monocytes make up 1-6% of total leukocytes. They number 455 per microliter of blood (range 200-950). Monocytes are large leukocytes with an indented or horseshoe-shaped nucleus. They are very effective phagocytic cells engulfing pathogens or worn out cells and also serve as antigen presenting cells (APCs) or other components of the immune system. Monocytes are produced in red bone marrow and are referred to as macrophages and dendritic cells after leaving circulation. The last row of the table is for platelets. These number 350,000 per microliter of blood (range 150,000-500,000). Platelets are cellular fragments surrounded by a plasma membrane and containing granules. They stain purple. The function of platelets is hemostasis plus releasing growth factors for repair and healing of tissues. They are formed from megakaryocytes that remain in the red bone marrow and shed platelets into circulation.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_17_05_FormElem.jpg"/>
+</media>
+<caption>Formed elements of blood include erythrocytes (red blood cells), leukocytes (white blood cells), and platelets.</caption>
+</figure>
+</section>
+<section id="fs-id1172098276117">
+<title>Granulocytes</title>
+<para id="fs-id1172098456304">The various types of <term class="no-emphasis">granulocytes</term> can be distinguished from one another in a blood smear by the appearance of their nuclei and the contents of their granules, which confer different traits, functions, and staining properties. The <term>neutrophils</term>, also called <term>polymorphonuclear neutrophils (PMNs)</term>, have a nucleus with three to five lobes and small, numerous, lilac-colored granules. Each lobe of the nucleus is connected by a thin strand of material to the other lobes. The <term>eosinophils</term> have fewer lobes in the nucleus (typically 2–3) and larger granules that stain reddish-orange. The <term>basophils</term> have a two-lobed nucleus and large granules that stain dark blue or purple (<link target-id="OSC_Microbio_17_05_GranTypes"/>).</para>
+<figure id="OSC_Microbio_17_05_GranTypes">
+<media id="fs-id1172100730914" alt="Neutrophils have a multi-lobed nucleus. Eosinophils have a two-lobed nucleus and distinct pink spots when stained. Basophils have a two-lobed nucleus and distinct purple spots when stained. Each type of granulocyte is illustrated with a micrograph above it.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_17_05_GranTypes.jpg"/>
+</media>
+<caption>Granulocytes can be distinguished by the number of lobes in their nuclei and the staining properties of their granules. (credit “neutrophil” micrograph: modification of work by Ed Uthman)</caption>
+</figure>
+<section id="fs-id1172100981326">
+<title>Neutrophils (PMNs)</title>
+<para id="fs-id1172098405761">Neutrophils (PMNs) are frequently involved in the elimination and destruction of extracellular bacteria. They are capable of migrating through the walls of blood vessels to areas of bacterial infection and tissue damage, where they seek out and kill infectious bacteria. PMN granules contain a variety of <term class="no-emphasis">defensins</term> and hydrolytic enzymes that help them destroy bacteria through <term class="no-emphasis">phagocytosis</term> (described in more detail in <link document="m58880">Pathogen Recognition and Phagocytosis</link>) In addition, when many neutrophils are brought into an infected area, they can be stimulated to release toxic molecules into the surrounding tissue to better clear infectious agents. This is called <term class="no-emphasis">degranulation</term>.</para>
+<para id="fs-id1172100674539">Another mechanism used by neutrophils is <term class="no-emphasis">neutrophil extracellular traps (NETs)</term>, which are extruded meshes of chromatin that are closely associated with antimicrobial granule proteins and components. Chromatin is DNA with associated proteins (usually histone proteins, around which DNA wraps for organization and packing within a cell). By creating and releasing a mesh or lattice-like structure of chromatin that is coupled with antimicrobial proteins, the neutrophils can mount a highly concentrated and efficient attack against nearby pathogens. Proteins frequently associated with NETs include lactoferrin, gelatinase, cathepsin G, and myeloperoxidase. Each has a different means of promoting antimicrobial activity, helping neutrophils eliminate pathogens. The toxic proteins in NETs may kill some of the body’s own cells along with invading pathogens. However, this collateral damage can be repaired after the danger of the infection has been eliminated.</para>
+<para id="fs-id1172096078935">As <term class="no-emphasis">neutrophils</term> fight an infection, a visible accumulation of leukocytes, cellular debris, and bacteria at the site of infection can be observed. This buildup is what we call <term>pus</term> (also known as purulent or suppurative discharge or drainage). The presence of pus is a sign that the immune defenses have been activated against an infection; historically, some physicians believed that inducing pus formation could actually promote the healing of wounds. The practice of promoting “laudable pus” (by, for instance, wrapping a wound in greasy wool soaked in wine) dates back to the ancient physician Galen in the 2nd century AD, and was practiced in variant forms until the 17th century (though it was not universally accepted). Today, this method is no longer practiced because we now know that it is not effective. Although a small amount of pus formation can indicate a strong immune response, artificially inducing pus formation does not promote recovery.</para>
+</section>
+<section id="fs-id1172096232817">
+<title>Eosinophils</title>
+<para id="fs-id1172100901185">Eosinophils are granulocytes that protect against protozoa and helminths; they also play a role in allergic reactions. The granules of <term class="no-emphasis">eosinophils</term>, which readily absorb the acidic reddish dye eosin, contain histamine, degradative enzymes, and a compound known as <term class="no-emphasis">major basic protein (MBP)</term> (<link target-id="OSC_Microbio_17_05_GranTypes"/>). MBP binds to the surface carbohydrates of parasites, and this binding is associated with disruption of the cell membrane and membrane permeability.</para>
+</section>
+<section id="fs-id1172100915003">
+<title>Basophils</title>
+<para id="fs-id1172098591580">Basophils have cytoplasmic granules of varied size and are named for their granules’ ability to absorb the basic dye methylene blue (<link target-id="OSC_Microbio_17_05_GranTypes"/>). Their stimulation and degranulation can result from multiple triggering events. Activated complement fragments C3a and C5a, produced in the activation cascades of complement proteins, act as anaphylatoxins by inducing degranulation of <term class="no-emphasis">basophils</term> and inflammatory responses. This cell type is important in allergic reactions and other responses that involve inflammation. One of the most abundant components of basophil granules is <term class="no-emphasis">histamine</term>, which is released along with other chemical factors when the basophil is stimulated. These chemicals can be chemotactic and can help to open the gaps between cells in the blood vessels. Other mechanisms for basophil triggering require the assistance of antibodies, as discussed in <link document="m58887">B Lymphocytes and Humoral Immunity</link>.</para>
+</section>
+<section id="fs-id1172101006512">
+<title>Mast Cells</title>
+<para id="fs-id1172096159045">Hematopoiesis also gives rise to <term>mast cells</term>, which appear to be derived from the same common myeloid progenitor cell as neutrophils, eosinophils, and basophils. Functionally, mast cells are very similar to basophils, containing many of the same components in their granules (e.g., <term class="no-emphasis">histamine</term>) and playing a similar role in allergic responses and other inflammatory reactions. However, unlike basophils, mast cells leave the circulating blood and are most frequently found residing in tissues. They are often associated with blood vessels and nerves or found close to surfaces that interface with the external environment, such as the skin and mucous membranes in various regions of the body (<link target-id="OSC_Microbio_17_05_mastcells"/>).</para>
+<figure id="OSC_Microbio_17_05_mastcells">
+<media id="fs-id1172098516619" alt="a) Mast cells in blood. Mast cells are large purple cells, red blood cells are small pink cells with a clear center. b) mast cell outside of blood.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_17_05_mastcells.jpg"/>
+</media>
+<caption>Mast cells function similarly to basophils by inducing and promoting inflammatory responses. (a) This figure shows mast cells in blood. In a blood smear, they are difficult to differentiate from basophils (b). Unlike basophils, mast cells migrate from the blood into various tissues. (credit right: modification of work by Greenland JR, Xu X, Sayah DM, Liu FC, Jones KD, Looney MR, Caughey GH)</caption>
+</figure>
+<note id="fs-id1172098432015" class="microbiology check-your-understanding">
+<list id="fs-id1172096076040" list-type="bulleted" bullet-style="bullet">
+<item>Describe the granules and nuclei of neutrophils, eosinophils, basophils, and mast cells.</item>
+<item>Name three antimicrobial mechanisms of neutrophils</item>
+</list>
+</note>
+<note id="fs-id1172098310498" class="microbiology clinical-focus">
+<title>Part 3</title>
+<para id="fs-id1172098768631">Angela’s tests come back negative for all common allergens, and her sputum samples contain no abnormal presence of pathogenic microbes or elevated levels of members of the normal respiratory microbiota. She does, however, have elevated levels of inflammatory cytokines in her blood.</para>
+<para id="fs-id1172100957510">The swelling of her airway has still not responded to treatment with antihistamines or corticosteroids. Additional blood work shows that Angela has a mildly elevated white blood cell count but normal antibody levels. Also, she has a lower-than-normal level of the complement protein C4.</para>
+<list id="fs-id1172098354490" list-type="bulleted" bullet-style="bullet">
+<item>What does this new information reveal about the cause of Angela’s constricted airways?</item>
+<item>What are some possible conditions that could lead to low levels of complement proteins?</item>
+</list>
+<para id="fs-id1172098530637"><emphasis effect="italics">Jump to the <link target-id="fs-id1172100577807" document="m58881">next</link> Clinical Focus box. Go back to the <link target-id="fs-id1172099665672" document="m58878">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+</section>
+<section id="fs-id1172098390110">
+<title>Agranulocytes</title>
+<para id="fs-id1172098449575">As their name suggests, <term>agranulocytes</term> lack visible granules in the cytoplasm. Agranulocytes can be categorized as lymphocytes or monocytes (<link target-id="OSC_Microbio_17_05_FormElem"/>). Among the lymphocytes are natural killer cells, which play an important role in nonspecific innate immune defenses. Lymphocytes also include the B cells and T cells, which are discussed in the next chapter because they are central players in the specific adaptive immune defenses. The monocytes differentiate into <term class="no-emphasis">macrophages</term> and <term class="no-emphasis">dendritic cells</term>, which are collectively referred to as the mononuclear phagocyte system.</para>
+<section id="fs-id1172098673604">
+<title>Natural Killer Cells</title>
+<para id="fs-id1172096077951">Most lymphocytes are primarily involved in the specific adaptive immune response, and thus will be discussed in the following chapter. An exception is the <term>natural killer cells (NK cells)</term>; these mononuclear lymphocytes use nonspecific mechanisms to recognize and destroy cells that are abnormal in some way. Cancer cells and cells infected with viruses are two examples of cellular abnormalities that are targeted by NK cells. Recognition of such cells involves a complex process of identifying inhibitory and activating molecular markers on the surface of the target cell. Molecular markers that make up the <term class="no-emphasis">major histocompatibility complex (MHC)</term> are expressed by healthy cells as an indication of “self.” This will be covered in more detail in next chapter. NK cells are able to recognize normal MHC markers on the surface of healthy cells, and these MHC markers serve as an inhibitory signal preventing NK cell activation. However, cancer cells and virus-infected cells actively diminish or eliminate expression of MHC markers on their surface. When these MHC markers are diminished or absent, the NK cell interprets this as an abnormality and a cell in distress. This is one part of the NK cell activation process (<link target-id="OSC_Microbio_17_05_NaturalBor"/>). NK cells are also activated by binding to activating molecular molecules on the target cell. These activating molecular molecules include “altered self” or “nonself” molecules. When a NK cell recognizes a decrease in inhibitory normal MHC molecules and an increase in activating molecules on the surface of a cell, the NK cell will be activated to eliminate the cell in distress.</para>
+<figure id="OSC_Microbio_17_05_NaturalBor">
+<media id="fs-id1172100597241" alt="NK cells have both inhibitory and activating receptors. Normal cells have signals on their MHC molecules that bind to the inhibitory receptors; so the NK cell does not kill them. Cells that are infected with virus have ligands that bind to the activating receptor; this causes the NK cell to kill them.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_17_05_NaturalBor.jpg"/>
+</media>
+<caption>Natural killer (NK) cells are inhibited by the presence of the major histocompatibility cell (MHC) receptor on healthy cells. Cancer cells and virus-infected cells have reduced expression of MHC and increased expression of activating molecules. When a NK cell recognizes decreased MHC and increased activating molecules, it will kill the abnormal cell.</caption>
+</figure>
+<para id="fs-id1172100648330">Once a cell has been recognized as a target, the NK cell can use several different mechanisms to kill its target. For example, it may express cytotoxic membrane proteins and cytokines that stimulate the target cell to undergo <term class="no-emphasis">apoptosis</term>, or controlled cell suicide. NK cells may also use perforin-mediated <term class="no-emphasis">cytotoxicity</term> to induce apoptosis in target cells. This mechanism relies on two toxins released from granules in the cytoplasm of the NK cell: <term>perforin</term>, a protein that creates pores in the target cell, and <term>granzymes</term>, proteases that enter through the pores into the target cell’s cytoplasm, where they trigger a cascade of protein activation that leads to apoptosis. The NK cell binds to the abnormal target cell, releases its destructive payload, and detaches from the target cell. While the target cell undergoes apoptosis, the NK cell synthesizes more perforin and proteases to use on its next target.</para>
+<para id="fs-id1172098546175">NK cells contain these toxic compounds in granules in their cytoplasm. When stained, the granules are azurophilic and can be visualized under a light microscope (<link target-id="OSC_Microbio_17_05_Nkgranul"/>). Even though they have granules, NK cells are not considered granulocytes because their granules are far less numerous than those found in true granulocytes. Furthermore, NK cells have a different lineage than granulocytes, arising from lymphoid rather than myeloid stem cells (<link target-id="OSC_Microbio_17_05_Hematopo"/>).</para>
+<figure id="OSC_Microbio_17_05_Nkgranul">
+<media id="fs-id1172098460476" alt="Many red blood cells with a single larger cell. The larger cell is pink with a purple region that fills nearly the entire cell. The purple region is labeled perforin-containing granules.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_17_05_Nkgranul.jpg"/>
+</media>
+<caption>Natural killer cell with perforin-containing granules. (credit: modification of work by Rolstad B)</caption>
+</figure>
+</section>
+<section id="fs-id1172100594122">
+<title>Monocytes</title>
+<para id="fs-id1172098377276">The largest of the white blood cells, <term>monocytes</term> have a nucleus that lacks lobes, and they also lack granules in the cytoplasm (<link target-id="OSC_Microbio_17_05_monomacro"/>). Nevertheless, they are effective phagocytes, engulfing pathogens and apoptotic cells to help fight infection.</para>
+<para id="fs-id1172100993572">When monocytes leave the bloodstream and enter a specific body tissue, they differentiate into tissue-specific phagocytes called <term>macrophages</term> and <term>dendritic cells</term>. They are particularly important residents of lymphoid tissue, as well as nonlymphoid sites and organs. Macrophages and dendritic cells can reside in body tissues for significant lengths of time. Macrophages in specific body tissues develop characteristics suited to the particular tissue. Not only do they provide immune protection for the tissue in which they reside but they also support normal function of their neighboring tissue cells through the production of cytokines. Macrophages are given tissue-specific names, and a few examples of tissue-specific macrophages are listed in <link target-id="fs-id1172098498119"/>. Dendritic cells are important sentinels residing in the skin and mucous membranes, which are portals of entry for many pathogens. Monocytes, macrophages, and dendritic cells are all highly phagocytic and important promoters of the immune response through their production and release of cytokines. These cells provide an essential bridge between innate and adaptive immune responses, as discussed in the next section as well as the next chapter.</para>
+<figure id="OSC_Microbio_17_05_monomacro">
+<media id="fs-id1172098322701" alt="Monocytes are large cells with a large purple nucleus. There is a cluster of them in a field of smaller red blood cells. A PMN is also visible with a dark, multi-lobed nucleus. Macrophages are large cells with a defined nucleus.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_17_05_monomacro.jpg"/>
+</media>
+<caption>Monocytes are large, agranular white blood cells with a nucleus that lacks lobes. When monocytes leave the bloodstream, they differentiate and become macrophages with tissue-specific properties. (credit left: modification of work by Armed Forces Institute of Pathology; credit right: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<table id="fs-id1172098498119" class="span-all" summary="A table contains two columns and five rows. The first row is the header row and reads “macrophages found in various body tissues.” The first column contains subheader “Tissue” followed by “liver, lungs, peritoneal cavity, and brain and central nervous system.” The second column contains subheader “macrophage” followed by kupffer cells, alveolar macrophages (dust cells), peritoneal macrophages, and microglial cells.”">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c2">Macrophages Found in Various Body Tissues</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Tissue</entry>
+<entry valign="top" align="center">Macrophage</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Brain and central nervous system</entry>
+<entry valign="top" align="left">Microglial cells</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Liver</entry>
+<entry valign="top" align="left">Kupffer cells</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Lungs</entry>
+<entry valign="top" align="left">Alveolar macrophages (dust cells)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Peritoneal cavity</entry>
+<entry valign="top" align="left">Peritoneal macrophages</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1172101038862" class="microbiology check-your-understanding">
+<list id="fs-id1172098685569" list-type="bulleted" bullet-style="bullet">
+<item>Describe the signals that activate natural killer cells.</item>
+<item>What is the difference between monocytes and macrophages?</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1172098565585" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1172098692694" list-type="bulleted" bullet-style="bullet">
+<item>The <emphasis effect="bold">formed elements</emphasis> of the blood include red blood cells (<emphasis effect="bold">erythrocytes</emphasis>), white blood cells (<emphasis effect="bold">leukocytes</emphasis>), and <emphasis effect="bold">platelets (thrombocytes</emphasis>). Of these, leukocytes are primarily involved in the immune response.</item>
+<item>All formed elements originate in the bone marrow as stem cells (HSCs) that differentiate through <emphasis effect="bold">hematopoiesis</emphasis>.</item>
+<item><emphasis effect="bold">Granulocytes</emphasis> are leukocytes characterized by a lobed nucleus and granules in the cytoplasm. These include <emphasis effect="bold">neutrophils (PMNs)</emphasis>, <emphasis effect="bold">eosinophils</emphasis>, and <emphasis effect="bold">basophils</emphasis>.</item>
+<item>Neutrophils are the leukocytes found in the largest numbers in the bloodstream and they primarily fight bacterial infections.</item>
+<item>Eosinophils target parasitic infections. Eosinophils and basophils are involved in allergic reactions. Both release histamine and other proinflammatory compounds from their granules upon stimulation.</item>
+<item><emphasis effect="bold">Mast cells</emphasis> function similarly to basophils but can be found in tissues outside the bloodstream.</item>
+<item><emphasis effect="bold">Natural killer</emphasis> (<emphasis effect="bold">NK</emphasis>) cells are lymphocytes that recognize and kill abnormal or infected cells by releasing proteins that trigger apoptosis.</item>
+<item><emphasis effect="bold">Monocytes</emphasis> are large, mononuclear leukocytes that circulate in the bloodstream. They may leave the bloodstream and take up residence in body tissues, where they differentiate and become tissue-specific <emphasis effect="bold">macrophages</emphasis> and <emphasis effect="bold">dendritic cells</emphasis>.</item>
+</list>
+</section>
+<section id="fs-id1172098447110" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1172100621865">
+<problem id="fs-id1172098445534">
+<para id="fs-id1172100610302">White blood cells are also referred to as which of the following?</para>
+<list id="fs-id1172098573601" list-type="enumerated" number-style="upper-alpha">
+<item>platelets</item>
+<item>erythrocytes</item>
+<item>leukocytes</item>
+<item>megakaryocytes</item>
+</list>
+</problem>
+<solution id="fs-id1172101030857">
+<para id="fs-id1172100677208">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100735358">
+<problem id="fs-id1172100855157">
+<para id="fs-id1172100620280">Hematopoiesis occurs in which of the following?</para><list id="fs-id1172098407515" list-type="enumerated" number-style="upper-alpha">
+<item>liver</item>
+<item>bone marrow</item>
+<item>kidneys</item>
+<item>central nervous system</item>
+</list>
+</problem>
+<solution id="fs-id1172100664534">
+<para id="fs-id1172098611994">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098258754">
+<problem id="fs-id1172100536988">
+<para id="fs-id1172098390769">Granulocytes are which type of cell?</para>
+<list id="fs-id1172098749197" list-type="enumerated" number-style="upper-alpha">
+<item>lymphocyte</item>
+<item>erythrocyte</item>
+<item>megakaryocyte</item>
+<item>leukocyte</item>
+</list>
+</problem>
+<solution id="fs-id1172100560288">
+<para id="fs-id1172098544556">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172098564085" class="matching">
+<title>Matching</title>
+<exercise id="fs-id1172100622305">
+<problem id="fs-id1172098361795">
+<para id="fs-id1172100657701">Match each cell type with its description.</para>
+<table id="fs-id1172100557426" summary="No-Summary" class="unnumbered unstyled">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">___natural killer cell</entry>
+<entry valign="top" align="left">A. stains with basic dye methylene blue, has large amounts of histamine in granules, and facilitates allergic responses and inflammation</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___basophil</entry>
+<entry valign="top" align="left">B. stains with acidic dye eosin, has histamine and major basic protein in granules, and facilitates responses to protozoa and helminths</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___macrophage</entry>
+<entry valign="top" align="left">C. recognizes abnormal cells, binds to them, and releases perforin and granzyme molecules, which induce apoptosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___eosinophil</entry>
+<entry valign="top" align="left">D. large agranular phagocyte that resides in tissues such as the brain and lungs</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+<solution id="fs-id1172100650383">
+<para id="fs-id1172100994853">C, A, D, B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098402388">
+<problem id="fs-id1172098373694">
+<para id="fs-id1172098445991">Match each cellular defense with the infection it would most likely target.</para>
+<table id="fs-id1172100551894" summary="No-Summary" class="unnumbered unstyled">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">___natural killer cell</entry>
+<entry valign="top" align="left">A. virus-infected cell</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___neutrophil</entry>
+<entry valign="top" align="left">B. tapeworm in the intestines</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___eosinophil</entry>
+<entry valign="top" align="left">C. bacteria in a skin lesion</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+<solution id="fs-id1172100621580">
+<para id="fs-id1172098595308">A, C, B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172098566166" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1172100500421">
+<problem id="fs-id1172096157446">
+<para id="fs-id1172101035356">Platelets are also called ________.</para>
+</problem>
+<solution id="fs-id1172096251900">
+<para id="fs-id1172098545586">thrombocytes</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100747502">
+<problem id="fs-id1172100674977">
+<para id="fs-id1172096053283">The cell in the bone marrow that gives rise to all other blood cell types is the ________.</para>
+</problem>
+<solution id="fs-id1172100753188">
+<para id="fs-id1172098560870">pluripotent hematopoietic stem cell (HSC)</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098418780">
+<problem id="fs-id1172096228908">
+<para id="fs-id1172100799860">PMNs are another name for ________.</para>
+</problem>
+<solution id="fs-id1172096069555">
+<para id="fs-id1172100676555">neutrophils</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098456207">
+<problem id="fs-id1172100762057">
+<para id="fs-id1172100978815">Kupffer cells residing in the liver are a type of ________.</para>
+</problem>
+<solution id="fs-id1172098406207">
+<para id="fs-id1172098376902">macrophage</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100670645">
+<problem id="fs-id1172098363445">
+<para id="fs-id1172098673734">_____________ are similar to basophils, but reside in tissues rather than circulating in the blood.</para>
+</problem>
+<solution id="fs-id1172100750173">
+<para id="fs-id1172100924615">mast cells</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172098420635" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1172100719799">
+<problem id="fs-id1172098707390">
+<para id="fs-id1172100770057">Explain the difference between plasma and the formed elements of the blood.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172100981472">
+<problem id="fs-id1172096196380">
+<para id="fs-id1172100656784">List three ways that a neutrophil can destroy an infectious bacterium.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1172101003885" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1172098778460">
+<problem id="fs-id1172100946043">
+<para id="fs-id1172098644998">Neutrophils can sometimes kill human cells along with pathogens when they release the toxic contents of their granules into the surrounding tissue. Likewise, natural killer cells target human cells for destruction. Explain why it is advantageous for the immune system to have cells that can kill human cells as well as pathogens.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172098775433">
+<problem id="fs-id1172098464630">
+<para id="fs-id1172096076854">Refer to <link target-id="OSC_Microbio_17_05_FormElem"/>. In a blood smear taken from a healthy patient, which type of leukocyte would you expect to observe in the highest numbers?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

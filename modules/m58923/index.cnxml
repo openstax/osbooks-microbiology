@@ -1,0 +1,22 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58923</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>b7dbbcfe-094e-4485-9718-a41da1678056</md:uuid>
+</metadata>
+
+<content>
+<figure id="OSC_Microbio_24_00_Ecoli" class="splash">
+<media id="fs-id1167663737297" alt="Micrograph of oval cells with and without projections.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_24_00_Ecoli.jpg"/>
+</media>
+<caption><emphasis effect="italics">E. coli</emphasis> O157:H7 causes serious foodborne illness. Curli fibers (adhesive surface fibers that are part of the extracellular matrix) help these bacteria adhere to surfaces and form biofilms. Pictured are two groups of cells, curli non-producing cells (left) and curli producing cells (right). (credit left, right: modification of work by USDA)</caption>
+</figure>
+<para id="fs-id1167663571930">Gastrointestinal (GI) diseases are so common that, unfortunately, most people have had first-hand experience with the unpleasant symptoms, such as diarrhea, vomiting, and abdominal discomfort. The causes of gastrointestinal illness can vary widely, but such diseases can be grouped into two categories: those caused by <term class="no-emphasis">infection</term> (the growth of a pathogen in the GI tract) or <term class="no-emphasis">intoxication</term> (the presence of a microbial toxin in the GI tract).</para>
+<para id="fs-id1167663608254">Foodborne pathogens like <term class="no-emphasis"><emphasis effect="italics">Escherichia coli</emphasis></term> <term class="no-emphasis">O157:H7</term> are among the most common sources of gastrointestinal disease. Contaminated food and water have always posed a health risk for humans, but in today’s global economy, outbreaks can occur on a much larger scale. <emphasis effect="italics">E. coli</emphasis> O157:H7 is a potentially deadly strain of <emphasis effect="italics">E. coli</emphasis> with a history of contaminating meat and produce that are not properly processed. The source of an <emphasis effect="italics">E. coli</emphasis> O157:H7 outbreak can be difficult to trace, especially if the contaminated food is processed in a foreign country. Once the source is identified, authorities may issue recalls of the contaminated food products, but by then there are typically numerous cases of food poisoning, some of them fatal.</para>
+ </content>
+
+</document>

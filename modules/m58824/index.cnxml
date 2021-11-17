@@ -1,0 +1,214 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Photosynthesis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58824</md:content-id>
+  <md:title>Photosynthesis</md:title>
+  <md:abstract/>
+  <md:uuid>13934625-354d-4afe-8291-2f8aa5daaa57</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167663865732" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167661295540">
+<item>Describe the function and locations of photosynthetic pigments in eukaryotes and prokaryotes</item>
+<item>Describe the major products of the light-dependent and light-independent reactions</item>
+<item>Describe the reactions that produce glucose in a photosynthetic cell</item>
+<item>Compare and contrast cyclic and noncyclic photophosphorylation</item>
+</list>
+</section>
+<para id="fs-id1167663742771">Heterotrophic organisms ranging from <emphasis effect="italics">E. coli</emphasis> to humans rely on the chemical energy found mainly in carbohydrate molecules. Many of these carbohydrates are produced by <term>photosynthesis</term>, the biochemical process by which phototrophic organisms convert solar energy (sunlight) into chemical energy. Although photosynthesis is most commonly associated with plants, microbial photosynthesis is also a significant supplier of chemical energy, fueling many diverse ecosystems. In this section, we will focus on microbial photosynthesis.</para>
+<para id="fs-id1167663900049">Photosynthesis takes place in two sequential stages: the light-dependent reactions and the light-independent reactions (<link target-id="OSC_Microbio_08_06_LightDepIn"/>). In the <term>light-dependent reaction</term><emphasis effect="bold">s</emphasis>, energy from sunlight is absorbed by pigment molecules in photosynthetic membranes and converted into stored chemical energy. In the <term>light-independent reaction</term><emphasis effect="bold">s</emphasis>, the chemical energy produced by the light-dependent reactions is used to drive the assembly of sugar molecules using CO<sub>2</sub>; however, these reactions are still light dependent because the products of the light-dependent reactions necessary for driving them are short-lived. The light-dependent reactions produce ATP and either NADPH or NADH to temporarily store energy. These energy carriers are used in the light-independent reactions to drive the energetically unfavorable process of “fixing” inorganic CO<sub>2</sub> in an organic form, sugar.</para>
+<figure id="OSC_Microbio_08_06_LightDepIn">
+<media id="fs-id1167663895791" alt="Diagram of photosynthesis showing a chloroplast divided into the light-dependent reactions and CO2 fixation. There is an outer membrane, an inner membrane and a stack of membranes labeled granum (these are photosynthetic membranes). Light strikes the granum and H2A is converted to ½ A. This process produces ATP + NADPH/NADH that is used in the CO2 fixation cycle. This cycle uses CO2 to produce organics. The CO2 cycle also produces ADP + Pi and NADP+ / NAD+ which are then used in the light-dependent reaction.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_06_LightDepIn.jpg"/>
+</media>
+<caption>The light-dependent reactions of photosynthesis (left) convert light energy into chemical energy, forming ATP and NADPH. These products are used by the light-independent reactions to fix CO<sub>2</sub>, producing organic carbon molecules.</caption>
+</figure>
+<section id="fs-id1167659289189">
+<title>Photosynthetic Structures in Eukaryotes and Prokaryotes</title>
+<para id="fs-id1167661292885">In all <term class="no-emphasis">phototrophic eukaryotes</term>, photosynthesis takes place inside a <term>chloroplast</term>, an organelle that arose in eukaryotes by endosymbiosis of a photosynthetic bacterium (see <link document="m58793">Unique Characteristics of Eukaryotic Cells</link>). These chloroplasts are enclosed by a double membrane with inner and outer layers. Within the chloroplast is a third membrane that forms stacked, disc-shaped photosynthetic structures called <term class="no-emphasis">thylakoid</term>s (<link target-id="OSC_Microbio_08_06_PhotoMemb"/>). A stack of thylakoids is called a <term class="no-emphasis">granum</term>, and the space surrounding the granum within the chloroplast is called <term class="no-emphasis">stroma</term>.</para>
+<para id="fs-id1167661428556">Photosynthetic membranes in prokaryotes, by contrast, are not organized into distinct membrane-enclosed organelles; rather, they are infolded regions of the plasma membrane. In cyanobacteria, for example, these infolded regions are also referred to as thylakoids. In either case, embedded within the thylakoid membranes or other photosynthetic bacterial membranes are <term>photosynthetic pigment</term> molecules organized into one or more photosystems, where light energy is actually converted into chemical energy.</para>
+<para id="fs-id1167661325742">Photosynthetic pigments within the photosynthetic membranes are organized into <term>photosystem</term><emphasis effect="bold">s</emphasis>, each of which is composed of a light-harvesting (antennae) complex and a reaction center. The <term>light-harvesting complex</term> consists of multiple proteins and associated pigments that each may absorb light energy and, thus, become excited. This energy is transferred from one pigment molecule to another until eventually (after about a millionth of a second) it is delivered to the reaction center. Up to this point, only energy—not electrons—has been transferred between molecules. The <term>reaction center</term> contains a pigment molecule that can undergo oxidation upon excitation, actually giving up an electron. It is at this step in <term class="no-emphasis">photosynthesis</term> that light energy is converted into an excited electron.</para>
+<para id="fs-id1167661618085">Different kinds of light-harvesting pigments absorb unique patterns of wavelengths (colors) of visible light. Pigments reflect or transmit the wavelengths they cannot absorb, making them appear the corresponding color. Examples of photosynthetic pigments (molecules used to absorb solar energy) are <term class="no-emphasis">bacteriochlorophyll</term>s (green, purple, or red), <term class="no-emphasis">carotenoid</term>s (orange, red, or yellow), <term class="no-emphasis">chlorophyll</term>s (green), <term class="no-emphasis">phycocyanins</term> (blue), and <term class="no-emphasis">phycoerythrins</term> (red). By having mixtures of pigments, an organism can absorb energy from more wavelengths. Because photosynthetic bacteria commonly grow in competition for sunlight, each type of photosynthetic bacteria is optimized for harvesting the wavelengths of light to which it is commonly exposed, leading to stratification of microbial communities in aquatic and soil ecosystems by light quality and penetration.</para>
+<para id="fs-id1167661736290">Once the light harvesting complex transfers the energy to the reaction center, the reaction center delivers its high-energy electrons, one by one, to an electron carrier in an <term class="no-emphasis">electron transport system</term>, and electron transfer through the <term class="no-emphasis">ETS</term> is initiated. The ETS is similar to that used in <term class="no-emphasis">cellular respiration</term> and is embedded within the photosynthetic membrane. Ultimately, the electron is used to produce <term class="no-emphasis">NADH</term> or <term class="no-emphasis">NADPH</term>. The <term class="no-emphasis">electrochemical gradient</term> that forms across the photosynthetic membrane is used to generate <term class="no-emphasis">ATP</term> by chemiosmosis through the process of <term class="no-emphasis">photophosphorylation</term>, another example of <term class="no-emphasis">oxidative phosphorylation</term> (<link target-id="OSC_Microbio_08_06_GenPhoto"/>).</para>
+<figure id="OSC_Microbio_08_06_PhotoMemb">
+<media id="fs-id1167661581351" alt="a) Drawing of a chloroplast, which is a bean shaped structure with an outer membrane and an inner membrane. Between these is the intermembrane space. Inside the inner membrane is an aqueous fluid called stroma and membranes (thylakoids) that form stacks called (grana). The thylakoids form disks with an inner thylakoid lumen. B) Micrograph and drawing of thyladoids which look like folded material. One of the thylakoid membranes is cleaved.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_06_PhotoMemb.jpg"/>
+</media>
+<caption>(a) Photosynthesis in eukaryotes takes place in chloroplasts, which contain thylakoids stacked into grana. (b) A photosynthetic prokaryote has infolded regions of the plasma membrane that function like thylakoids. (credit: scale bar data from Matt Russell.)</caption>
+</figure>
+<figure id="OSC_Microbio_08_06_GenPhoto">
+<media id="fs-id1167663736443" alt="Light energy strikes LH (light-harvesting complex) in a photosystem. This energy is transferred to other LH &amp; to RC (reaction center). This energy excites an electron in the RC, this electron then passes through an ETS (electron transport system) and the PMF (proton motive force) is used to MAKE ATP. The ETC aslo produces NADP which is converted to NADPH. The electron in the RC is replaced from H2A which is then converted to A.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_06_GenPhoto.jpg"/>
+</media>
+<caption>This figure summarizes how a photosystem works. Light harvesting (LH) pigments absorb light energy, converting it to chemical energy. The energy is passed from one LH pigment to another until it reaches a reaction center (RC) pigment, exciting an electron. This high-energy electron is lost from the RC pigment and passed through an electron transport system (ETS), ultimately producing NADH or NADPH and ATP. A reduced molecule (H<sub>2</sub>A) donates an electron, replacing electrons to the electron-deficient RC pigment.</caption>
+</figure>
+<note id="fs-id1167663736479" class="microbiology check-your-understanding">
+<list id="fs-id1167660674313" list-type="bulleted" bullet-style="bullet">
+<item>In a phototrophic eukaryote, where does photosynthesis take place?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167661441279">
+<title>Oxygenic and Anoxygenic Photosynthesis</title>
+<para id="fs-id1167663989274">For photosynthesis to continue, the electron lost from the reaction center pigment must be replaced. The source of this electron (H<sub>2</sub>A) differentiates the <term>oxygenic photosynthesis</term> of plants and cyanobacteria from <term>anoxygenic photosynthesis</term> carried out by other types of bacterial phototrophs (<link target-id="OSC_Microbio_08_06_PhotoEquat"/>). In oxygenic photosynthesis, H<sub>2</sub>O is split and supplies the electron to the reaction center. Because oxygen is generated as a byproduct and is released, this type of photosynthesis is referred to as oxygenic photosynthesis. However, when other reduced compounds serve as the electron donor, oxygen is not generated; these types of photosynthesis are called anoxygenic photosynthesis. Hydrogen sulfide (H<sub>2</sub>S) or thiosulfate <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mtext>S</m:mtext><m:mn>2</m:mn></m:msub><m:msubsup><m:mtext>O</m:mtext><m:mn>3</m:mn><m:mrow><m:mtext>2−</m:mtext></m:mrow></m:msubsup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> can serve as the electron donor, generating elemental sulfur and sulfate <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msubsup><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mn>4</m:mn><m:mrow><m:mtext>2−</m:mtext></m:mrow></m:msubsup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> ions, respectively, as a result.</para>
+<para id="fs-id1167661567803">Photosystems have been classified into two types: <term class="no-emphasis">photosystem I (PSI)</term> and <term class="no-emphasis">photosystem II (PSII)</term> (<link target-id="OSC_Microbio_08_06_PSI_PSII"/>). Cyanobacteria and plant chloroplasts have both photosystems, whereas anoxygenic photosynthetic bacteria use only one of the photosystems. Both photosystems are excited by light energy simultaneously. If the cell requires both ATP and NADPH for biosynthesis, then it will carry out <term>noncyclic photophosphorylation</term>. Upon passing of the PSII reaction center electron to the ETS that connects PSII and PSI, the lost electron from the PSII reaction center is replaced by the splitting of water. The excited PSI reaction center electron is used to reduce NADP<sup>+</sup> to NADPH and is replaced by the electron exiting the ETS. The flow of electrons in this way is called the <term>Z-scheme</term>.</para>
+<para id="fs-id1167661440208">If a cell’s need for ATP is significantly greater than its need for NADPH, it may bypass the production of reducing power through <term>cyclic photophosphorylation</term>. Only PSI is used during cyclic photophosphorylation; the high-energy electron of the PSI reaction center is passed to an ETS carrier and then ultimately returns to the oxidized PSI reaction center pigment, thereby reducing it.</para>
+<figure id="OSC_Microbio_08_06_PhotoEquat">
+<media id="fs-id1167663809920" alt="In oxygenic photosynthesis 6 carbon dioxide 12 water and light energy is converted to glucose, 6 oxygen, and 6 water. In anoxygenic photosynthesis carbon dioxide, 2H2A and light energy is converted to a carbohydrate and water. H2A = water, H2S, H2, or other electron donor.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_06_PhotoEquat.jpg"/>
+</media>
+<caption>Eukaryotes and cyanobacteria carry out oxygenic photosynthesis, producing oxygen, whereas other bacteria carry out anoxygenic photosynthesis, which does not produce oxygen.</caption>
+</figure>
+<figure id="OSC_Microbio_08_06_PSI_PSII">
+<media id="fs-id1167663970157" alt="a) Drawing of a thylakoid membrane with proteins. Light strikes PS II which breaks water into ½ O2, 2 H+ and an electron. The electron moves to PO, PQH2, cytochrome, PO, and then to PSI. This is an electron transport chain and as the electron moves, H+ is pumped from the stroma to the thylakoid space. Light Strikes PSI and the electron is excited again; it is then moved to FD and then NADP+ reductase. This produces NADPH from NADP+ and H+. Protons from the inner thylakoid space move out to the stroma through ATP synthase which produces ATP. B) the same diagram but in a graphical format with amount of energy on the Y axis. PSII has an antenna pigment and P680 which absorbs light at 680 nm. This excites the electron (moves it up in the graph). The electron then decreases in energy as it moves from PO to OQHS, to cytochrome, to PO and then to PS I. Light at 700 nm strikes P700 and the electron is excited again. The electron then decreases in energy as it moves from FD to NADP+ reductase to NADPH. Moving from PSII to NADPH is non-cyclic photosynthesis. Cyclic photosynthesis is when the electron moves from PSI back to PS II.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_06_PSI_PSII.jpg"/>
+</media>
+<caption>(a) PSI and PSII are found on the thylakoid membrane. The high-energy electron from PSII is passed to an ETS, which generates a proton motive force for ATP synthesis by chemiosmosis, and ultimately replaces the electron lost by the PSI reaction center. The PSI reaction center electron is used to make NADPH. (b) When both ATP and NADPH are required, noncyclic photophosphorylation (in cyanobacteria and plants) provides both. The electron flow described here is referred to as the Z-scheme (shown in yellow in [a]). When the cell’s ATP needs outweigh those for NADPH, cyanobacteria and plants will use only PSI, and its reaction center electron is passed to the ETS to generate a proton motive force used for ATP synthesis.</caption>
+</figure>
+<note id="fs-id1167663592819" class="microbiology check-your-understanding">
+<list id="fs-id1167660585564" list-type="bulleted" bullet-style="bullet">
+<item>Why would a photosynthetic bacterium have different pigments?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167663697793">
+<title>Light-Independent Reactions</title>
+<para id="fs-id1167661733597">After the energy from the sun is converted into chemical energy and temporarily stored in ATP and NADPH molecules (having lifespans of millionths of a second), photoautotrophs have the fuel needed to build multicarbon carbohydrate molecules, which can survive for hundreds of millions of years, for long-term energy storage. The carbon comes from CO<sub>2</sub>, the gas that is a waste product of cellular respiration.</para>
+<para id="fs-id1167663619249">The <term>Calvin-Benson cycle</term> (named for Melvin Calvin [1911–1997] and Andrew Benson [1917–2015]), the biochemical pathway used for fixation of CO<sub>2</sub>, is located within the cytoplasm of photosynthetic bacteria and in the stroma of eukaryotic chloroplasts. The <term class="no-emphasis">light-independent reaction</term>s of the Calvin cycle can be organized into three basic stages: fixation, reduction, and regeneration (see <link document="m58948">Appendix C</link> for a detailed illustration of the Calvin cycle).</para>
+<list id="fs-id1167661251148" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Fixation</emphasis>: The enzyme <term>ribulose bisphosphate carboxylase (RuBisCO)</term> catalyzes the addition of a CO<sub>2</sub> to <term class="no-emphasis">ribulose bisphosphate (RuBP)</term>. This results in the production of <term class="no-emphasis">3-phosphoglycerate</term> (<term class="no-emphasis">3-PGA</term>).</item>
+<item><emphasis effect="bold">Reduction</emphasis>: Six molecules of both ATP and NADPH (from the light-dependent reactions) are used to convert 3-PGA into glyceraldehyde 3-phosphate (G3P). Some G3P is then used to build glucose.</item>
+<item><emphasis effect="bold">Regeneration</emphasis>: The remaining G3P not used to synthesize glucose is used to regenerate RuBP, enabling the system to continue CO<sub>2</sub> fixation. Three more molecules of ATP are used in these regeneration reactions.</item>
+</list>
+<para id="fs-id1167661742068">The Calvin cycle is used extensively by plants and photoautotrophic bacteria, and the enzyme RuBisCO is said to be the most plentiful enzyme on earth, composing 30%–50% of the total soluble protein in plant chloroplasts.<footnote id="fs-id1167663547265">A. Dhingra et al. “Enhanced Translation of a Chloroplast-Expressed <emphasis effect="italics">Rbc</emphasis>S Gene Restores Small Subunit Levels and Photosynthesis in Nuclear <emphasis effect="italics">Rbc</emphasis>S Antisense Plants.” <emphasis effect="italics">Proceedings of the National Academy of Sciences of the United States of America</emphasis> 101 no. 16 (2004):6315–6320.</footnote> However, besides its prevalent use in photoautotrophs, the Calvin cycle is also used by many nonphotosynthetic chemoautotrophs to fix CO<sub>2</sub>. Additionally, other bacteria and archaea use alternative systems for CO<sub>2</sub> fixation. Although most bacteria using Calvin cycle alternatives are chemoautotrophic, certain green sulfur photoautotrophic bacteria have been also shown to use an alternative CO<sub>2</sub> fixation pathway.</para>
+<note id="fs-id1167661298929" class="microbiology check-your-understanding">
+<list id="fs-id1167660340237" list-type="bulleted" bullet-style="bullet">
+<item>Describe the three stages of the Calvin cycle.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167659242840" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167661751168" list-type="bulleted" bullet-style="bullet">
+<item>Heterotrophs depend on the carbohydrates produced by autotrophs, many of which are photosynthetic, converting solar energy into chemical energy.</item>
+<item>Different photosynthetic organisms use different mixtures of <emphasis effect="bold">photosynthetic pigments</emphasis>, which increase the range of the wavelengths of light an organism can absorb.</item>
+<item><emphasis effect="bold">Photosystems</emphasis> (PSI and PSII) each contain a <emphasis effect="bold">light-harvesting complex</emphasis>, composed of multiple proteins and associated pigments that absorb light energy. The <emphasis effect="bold">light-dependent reactions</emphasis> of photosynthesis convert solar energy into chemical energy, producing ATP and NADPH or NADH to temporarily store this energy.</item>
+<item>In <emphasis effect="bold">oxygenic photosynthesis</emphasis>, H<sub>2</sub>O serves as the electron donor to replace the reaction center electron, and oxygen is formed as a byproduct. In <emphasis effect="bold">anoxygenic photosynthesis</emphasis>, other reduced molecules like H<sub>2</sub>S or thiosulfate may be used as the electron donor; as such, oxygen is not formed as a byproduct.</item>
+<item><emphasis effect="bold">Noncyclic photophosphorylation</emphasis> is used in oxygenic photosynthesis when there is a need for both ATP and NADPH production. If a cell’s needs for ATP outweigh its needs for NADPH, then it may carry out <emphasis effect="bold">cyclic photophosphorylation</emphasis> instead, producing only ATP.</item>
+<item>The <emphasis effect="bold">light-independent reactions</emphasis> of photosynthesis use the ATP and NADPH from the light-dependent reactions to fix CO<sub>2</sub> into organic sugar molecules.</item>
+</list>
+</section>
+<section id="fs-id1167659068607" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167659071010">
+<problem id="fs-id1167661462310">
+<para id="fs-id1167663622763">During the light-dependent reactions, which molecule loses an electron?</para>
+<list id="fs-id1167661295175" list-type="enumerated" number-style="upper-alpha">
+<item>a light-harvesting pigment molecule</item>
+<item>a reaction center pigment molecule</item>
+<item>NADPH</item>
+<item>3-phosphoglycerate</item>
+</list>
+</problem>
+<solution id="fs-id1167659065268">
+<para id="fs-id1167661729693">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663620588">
+<problem id="fs-id1167663968157">
+<para id="fs-id1167663490847">In prokaryotes, in which direction are hydrogen ions pumped by the electron transport system of photosynthetic membranes?</para>
+<list id="fs-id1167663881291" list-type="enumerated" number-style="upper-alpha">
+<item>to the outside of the plasma membrane</item>
+<item>to the inside (cytoplasm) of the cell</item>
+<item>to the stroma</item>
+<item>to the intermembrane space of the chloroplast</item>
+</list>
+</problem>
+<solution id="fs-id1167661609157">
+<para id="fs-id1167663963728">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663968436">
+<problem id="fs-id1167663623043">
+<para id="fs-id1167661267806">Which of the following does not occur during cyclic photophosphorylation in cyanobacteria?</para>
+<list id="fs-id1167663714522" list-type="enumerated" number-style="upper-alpha">
+<item>electron transport through an ETS</item>
+<item>photosystem I use</item>
+<item>ATP synthesis</item>
+<item>NADPH formation</item>
+</list>
+</problem>
+<solution id="fs-id1167661411832">
+<para id="fs-id1167661640204">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167661765640">
+<problem id="fs-id1167661322990">
+<para id="fs-id1167661609200">Which of the following are two products of the light-dependent reactions?</para><list id="fs-id1167663985612" list-type="enumerated" number-style="upper-alpha">
+<item>glucose and NADPH</item>
+<item>NADPH and ATP</item>
+<item>glyceraldehyde 3-phosphate and CO<sub>2</sub></item>
+<item>glucose and oxygen</item>
+</list>
+</problem>
+<solution id="fs-id1167663591300">
+<para id="fs-id1167661438975">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167663735033" class="true-false">
+<title>True/False</title>
+<exercise id="fs-id1167661251755">
+<problem id="fs-id1167661506459">
+<para id="fs-id1167661736578">Photosynthesis always results in the formation of oxygen.</para>
+</problem>
+<solution id="fs-id1167663729970">
+<para id="fs-id1167661566616">False</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167663740741" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167661345853">
+<problem id="fs-id1167661472537">
+<para id="fs-id1167661364880">The enzyme responsible for CO<sub>2</sub> fixation during the Calvin cycle is called ________.</para>
+</problem>
+<solution id="fs-id1167663588633">
+<para id="fs-id1167663591201">ribulose bisphosphate carboxylase (RuBisCO)</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663732731">
+<problem id="fs-id1167663994369">
+<para id="fs-id1167663854409">The types of pigment molecules found in plants, algae, and cyanobacteria are ________ and ________.</para>
+</problem>
+<solution id="fs-id1167661369968">
+<para id="fs-id1167663986014">chlorophylls and carotenoids</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167661750686" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167661442116">
+<problem id="fs-id1167663592369">
+<para id="fs-id1167661761149">Why would an organism perform cyclic phosphorylation instead of noncyclic phosphorylation?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167663963423">
+<problem id="fs-id1167663990325">
+<para id="fs-id1167661390927">What is the function of photosynthetic pigments in the light-harvesting complex?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167663991343" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167661745926">
+<problem id="fs-id1167661439587">
+<para id="fs-id1167663994134">Is life dependent on the carbon fixation that occurs during the light-independent reactions of photosynthesis? Explain.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

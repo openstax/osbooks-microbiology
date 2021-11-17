@@ -1,0 +1,179 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Inflammation and Fever</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58881</md:content-id>
+  <md:title>Inflammation and Fever</md:title>
+  <md:abstract/>
+  <md:uuid>04fa6d4f-3a23-491b-8ea5-3e3203a3f4fa</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1172098522481" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1172098617045">
+<item>Identify the signs of inflammation and fever and explain why they occur</item>
+<item>Explain the advantages and risks posed by inflammatory responses</item>
+</list>
+</section>
+<para id="fs-id1172096248134">The inflammatory response, or <term>inflammation</term>, is triggered by a cascade of chemical mediators and cellular responses that may occur when cells are damaged and stressed or when pathogens successfully breach the physical barriers of the innate immune system. Although inflammation is typically associated with negative consequences of injury or disease, it is a necessary process insofar as it allows for recruitment of the cellular defenses needed to eliminate pathogens, remove damaged and dead cells, and initiate repair mechanisms. Excessive inflammation, however, can result in local tissue damage and, in severe cases, may even become deadly.</para>
+<section id="fs-id1172098560809">
+<title>Acute Inflammation</title>
+<para id="fs-id1172098320962">An early, if not immediate, response to tissue injury is <term class="no-emphasis">acute inflammation</term>. Immediately following an injury, vasoconstriction of blood vessels will occur to minimize blood loss. The amount of <term class="no-emphasis">vasoconstriction</term> is related to the amount of vascular injury, but it is usually brief. Vasoconstriction is followed by <term class="no-emphasis">vasodilation</term> and increased vascular permeability, as a direct result of the release of histamine from resident mast cells. Increased blood flow and vascular permeability can dilute toxins and bacterial products at the site of injury or infection. They also contribute to the five observable signs associated with the inflammatory response: <term>erythema</term> (redness), <term>edema</term> (swelling), heat, pain, and altered function. Vasodilation and increased vascular permeability are also associated with an influx of phagocytes at the site of injury and/or infection. This can enhance the inflammatory response because phagocytes may release proinflammatory chemicals when they are activated by cellular distress signals released from damaged cells, by <term class="no-emphasis">PAMPs</term>, or by <term class="no-emphasis">opsonins</term> on the surface of pathogens. Activation of the complement system can further enhance the inflammatory response through the production of the anaphylatoxin C5a. <link target-id="OSC_Microbio_17_06_Erythema"/> illustrates a typical case of acute inflammation at the site of a skin wound.</para>
+<figure id="OSC_Microbio_17_06_Erythema">
+<media id="fs-id1172098643706" alt="a) a diagram of a wound in the skin that has let pathogens enter. Mast cells release histamines which signal to cells in the blood stream. B) The cells have left the blood stream; these phagocytes are engulfing the pathogens.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_17_06_Erythema.jpg"/>
+</media>
+<caption>(a) Mast cells detect injury to nearby cells and release histamine, initiating an inflammatory response. (b) Histamine increases blood flow to the wound site, and increased vascular permeability allows fluid, proteins, phagocytes, and other immune cells to enter infected tissue. These events result in the swelling and reddening of the injured site, and the increased blood flow to the injured site causes it to feel warm. Inflammation is also associated with pain due to these events stimulating nerve pain receptors in the tissue. The interaction of phagocyte PRRs with cellular distress signals and PAMPs and opsonins on the surface of pathogens leads to the release of more proinflammatory chemicals, enhancing the inflammatory response.</caption>
+</figure>
+<para id="fs-id1172096158917">During the period of inflammation, the release of <term class="no-emphasis">bradykinin</term> causes capillaries to remain dilated, flooding tissues with fluids and leading to edema. Increasing numbers of neutrophils are recruited to the area to fight pathogens. As the fight rages on, <term class="no-emphasis">pus</term> forms from the accumulation of neutrophils, dead cells, tissue fluids, and lymph. Typically, after a few days, macrophages will help to clear out this pus. Eventually, tissue repair can begin in the wounded area.</para>
+</section>
+<section id="fs-id1172096170123">
+<title>Chronic Inflammation</title>
+<para id="fs-id1172100743755">When acute inflammation is unable to clear an infectious pathogen, <term class="no-emphasis">chronic inflammation</term> may occur. This often results in an ongoing (and sometimes futile) lower-level battle between the host organism and the pathogen. The wounded area may heal at a superficial level, but pathogens may still be present in deeper tissues, stimulating ongoing inflammation. Additionally, chronic inflammation may be involved in the progression of degenerative neurological diseases such as Alzheimer’s and Parkinson’s, heart disease, and metastatic cancer.</para>
+<para id="fs-id1172101036716">Chronic inflammation may lead to the formation of <term>granuloma</term><emphasis effect="bold">s</emphasis>, pockets of infected tissue walled off and surrounded by WBCs. Macrophages and other phagocytes wage an unsuccessful battle to eliminate the pathogens and dead cellular materials within a granuloma. One example of a disease that produces chronic inflammation is <term class="no-emphasis">tuberculosis</term>, which results in the formation of granulomas in lung tissues. A tubercular granuloma is called a tubercle (<link target-id="OSC_Microbio_17_06_Granuloma"/>). Tuberculosis will be covered in more detail in <link document="m58913">Bacterial Infections of the Respiratory Tract</link>.</para>
+<para id="fs-id1172100985194">Chronic inflammation is not just associated with bacterial infections. Chronic inflammation can be an important cause of tissue damage from viral infections. The extensive scarring observed with hepatitis C infections and liver cirrhosis is the result of chronic inflammation.</para>
+<figure id="OSC_Microbio_17_06_Granuloma">
+<media id="fs-id1172098775811" alt="A micrograph of a tubercle which consists of many darkly staining cells that form a circular structure.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_17_06_Granuloma.jpg"/>
+</media>
+<caption>A <term class="no-emphasis">tubercle</term> is a granuloma in the lung tissue of a patient with tuberculosis. In this micrograph, white blood cells (stained purple) have walled off a pocket of tissue infected with <emphasis effect="italics">Mycobacterium tuberculosis.</emphasis> Granulomas also occur in many other forms of disease. (credit: modification of work by Piotrowski WJ, Górski P, Duda-Szymańska J, Kwiatkowska S)</caption>
+</figure>
+<note id="fs-id1172098462251" class="microbiology check-your-understanding">
+<list id="fs-id1172098407772" list-type="bulleted" bullet-style="bullet">
+<item>Name the five signs of inflammation.</item>
+<item>Is a granuloma an acute or chronic form of inflammation? Explain.</item>
+</list>
+</note>
+<note id="fs-id1172100655374" class="microbiology micro-connection">
+<title>Chronic Edema</title>
+<para id="fs-id1172096078935">In addition to granulomas, chronic inflammation can also result in long-term edema. A condition known as <term class="no-emphasis">lymphatic filariasis</term> (also known as <term class="no-emphasis">elephantiasis</term>) provides an extreme example. Lymphatic filariasis is caused by microscopic nematodes (parasitic worms) whose larvae are transmitted between human hosts by mosquitoes. Adult worms live in the lymphatic vessels, where their presence stimulates infiltration by lymphocytes, plasma cells, eosinophils, and thrombocytes (a condition known as lymphangitis). Because of the chronic nature of the illness, granulomas, fibrosis, and blocking of the lymphatic system may eventually occur. Over time, these blockages may worsen with repeated infections over decades, leading to skin thickened with edema and fibrosis. Lymph (extracellular tissue fluid) may spill out of the lymphatic areas and back into tissues, causing extreme swelling (<link target-id="OSC_Microbio_17_06_Elephant"/>). Secondary bacterial infections commonly follow. Because it is a disease caused by a parasite, eosinophilia (a dramatic rise in the number of eosinophils in the blood) is characteristic of acute infection. However, this increase in antiparasite granulocytes is not sufficient to clear the infection in many cases.</para>
+<para id="fs-id1172098694059">Lymphatic filariasis affects an estimated 120 million people worldwide, mostly concentrated in Africa and Asia.<footnote id="fs-id1172098453851">Centers for Disease Control and Prevention. “Parasites–Lymphatic Filiariasis.” 2016. http://www.cdc.gov/parasites/lymphaticfilariasis/gen_info/faqs.html.</footnote> Improved sanitation and mosquito control can reduce transmission rates.</para>
+<figure id="OSC_Microbio_17_06_Elephant">
+<media id="fs-id1172098456846" alt="A photo of a person with extremely swollen lower legs.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_17_06_Elephant.jpg"/>
+</media>
+<caption>Elephantiasis (chronic edema) of the legs due to filariasis. (credit: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+</note>
+</section>
+<section id="fs-id1172100964946">
+<title>Fever</title>
+<para id="fs-id1172098612176">A <term>fever</term> is an inflammatory response that extends beyond the site of infection and affects the entire body, resulting in an overall increase in body temperature. Body temperature is normally regulated and maintained by the hypothalamus, an anatomical section of the brain that functions to maintain homeostasis in the body. However, certain bacterial or viral infections can result in the production of <term>pyrogens</term>, chemicals that effectively alter the “thermostat setting” of the <term class="no-emphasis">hypothalamus</term> to elevate body temperature and cause fever. Pyrogens may be exogenous or endogenous. For example, the endotoxin <term class="no-emphasis">lipopolysaccharide (LPS)</term>, produced by gram-negative bacteria, is an exogenous pyrogen that may induce the leukocytes to release endogenous pyrogens such as interleukin-1 (IL-1), IL-6, interferon-γ (IFN-γ), and tumor necrosis factor (TNF). In a cascading effect, these molecules can then lead to the release of prostaglandin E2 (PGE<sub>2</sub>) from other cells, resetting the hypothalamus to initiate fever (<link target-id="OSC_Microbio_17_06_Hypothal"/>).</para>
+<figure id="OSC_Microbio_17_06_Hypothal">
+<media id="fs-id1172100550584" alt="A diagram with exogenous pyrogen at the top. These activate leukocytes which in turn release IL-6. The leukocytes also produce pyrogenic cytokines (IL-1, TNF-α, IFN-γ) which lead to the production of IL-6. IL-6 signals the circumventricular organs of the brain to produce PGE2 which results in fever. The temperature dependent feedback on cytokine expression decreases the production of IL-6 in a negative feedback loop.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_17_06_Hypothal.jpg"/>
+</media>
+<caption>The role of the hypothalamus in the inflammatory response. Macrophages recognize pathogens in an area and release cytokines that trigger inflammation. The cytokines also send a signal up the vagus nerve to the hypothalamus.</caption>
+</figure>
+<para id="fs-id1172100584884">Like other forms of inflammation, a fever enhances the innate immune defenses by stimulating leukocytes to kill pathogens. The rise in body temperature also may inhibit the growth of many pathogens since human pathogens are mesophiles with optimum growth occurring around 35 °C (95 °F). In addition, some studies suggest that fever may also stimulate release of iron-sequestering compounds from the liver, thereby starving out microbes that rely on iron for growth.<footnote id="fs-id1172098445062">N. Parrow et al. “Sequestration and Scavenging of Iron in Infection.” <emphasis effect="italics">Infection and Immunity</emphasis> 81 no. 10 (2013):3503–3514</footnote></para>
+<para id="fs-id1172098319240">During <term class="no-emphasis">fever</term>, the skin may appear pale due to <term class="no-emphasis">vasoconstriction</term> of the blood vessels in the skin, which is mediated by the hypothalamus to divert blood flow away from extremities, minimizing the loss of heat and raising the core temperature. The hypothalamus will also stimulate shivering of muscles, another effective mechanism of generating heat and raising the core temperature.</para>
+<para id="fs-id1172096393696">The <term>crisis phase</term> occurs when the fever breaks. The hypothalamus stimulates <term class="no-emphasis">vasodilation</term>, resulting in a return of blood flow to the skin and a subsequent release of heat from the body. The hypothalamus also stimulates sweating, which cools the skin as the sweat evaporates.</para>
+<para id="fs-id1172098808413">Although a low-level fever may help an individual overcome an illness, in some instances, this immune response can be too strong, causing tissue and organ damage and, in severe cases, even death. The inflammatory response to bacterial <term class="no-emphasis">superantigens</term> is one scenario in which a life-threatening fever may develop. Superantigens are bacterial or viral proteins that can cause an excessive activation of T cells from the specific adaptive immune defense, as well as an excessive release of cytokines that overstimulates the inflammatory response. For example, <emphasis effect="italics">Staphylococcus aureus</emphasis> and <emphasis effect="italics">Streptococcus pyogenes</emphasis> are capable of producing superantigens that cause <term class="no-emphasis">toxic shock syndrome</term> and <term class="no-emphasis">scarlet fever</term>, respectively. Both of these conditions can be associated with very high, life-threatening fevers in excess of 42 °C (108 °F).</para>
+<note id="fs-id1172100921121" class="microbiology check-your-understanding">
+<list id="fs-id1172100950798" list-type="bulleted" bullet-style="bullet">
+<item>Explain the difference between exogenous and endogenous pyrogens.</item>
+<item>How does a fever inhibit pathogens?</item>
+</list>
+</note>
+<note id="fs-id1172100577807" class="microbiology clinical-focus">
+<title>Resolution</title>
+<para id="fs-id1172098589652">Given her father’s premature death, Angela’s doctor suspects that she has <term class="no-emphasis">hereditary angioedema</term>, a genetic disorder that compromises the function of C1 inhibitor protein. Patients with this genetic abnormality may have occasional episodes of swelling in various parts of the body. In Angela’s case, the swelling has occurred in the respiratory tract, leading to difficulty breathing. Swelling may also occur in the gastrointestinal tract, causing abdominal cramping, diarrhea, and vomiting, or in the muscles of the face or limbs. This swelling may be nonresponsive to steroid treatment and is often misdiagnosed as an allergy.</para>
+<para id="fs-id1172098408815">Because there are three types of hereditary angioedema, the doctor orders a more specific blood test to look for levels of C1-INH, as well as a functional assay of Angela’s C1 inhibitors. The results suggest that Angela has type I hereditary angioedema, which accounts for 80%–85% of all cases. This form of the disorder is caused by a deficiency in C1 esterase inhibitors, the proteins that normally help suppress activation of the complement system. When these proteins are deficient or nonfunctional, overstimulation of the system can lead to production of inflammatory anaphylatoxins, which results in swelling and fluid buildup in tissues.</para>
+<para id="fs-id1172098691275">There is no cure for hereditary angioedema, but timely treatment with purified and concentrated C1-INH from blood donors can be effective, preventing tragic outcomes like the one suffered by Angela’s father. A number of therapeutic drugs, either currently approved or in late-stage human trials, may also be considered as options for treatment in the near future. These drugs work by inhibiting inflammatory molecules or the receptors for inflammatory molecules.</para>
+<para id="fs-id1172100598816">Thankfully, Angela’s condition was quickly diagnosed and treated. Although she may experience additional episodes in the future, her prognosis is good and she can expect to live a relatively normal life provided she seeks treatment at the onset of symptoms.</para>
+<para id="fs-id1172100986292"><emphasis effect="italics">Go back to the <link target-id="fs-id1172098310498" document="m58879">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+<section id="fs-id1172098358002" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1172100627990" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Inflammation</emphasis> results from the collective response of chemical mediators and cellular defenses to an injury or infection.</item>
+<item><emphasis effect="bold">Acute inflammation</emphasis> is short lived and localized to the site of injury or infection. <emphasis effect="bold">Chronic inflammation</emphasis> occurs when the inflammatory response is unsuccessful, and may result in the formation of <emphasis effect="bold">granulomas</emphasis> (e.g., with tuberculosis) and scarring (e.g., with hepatitis C viral infections and liver cirrhosis).</item>
+<item>The five cardinal signs of inflammation are <emphasis effect="bold">erythema</emphasis>, <emphasis effect="bold">edema</emphasis>, heat, pain, and altered function. These largely result from innate responses that draw increased blood flow to the injured or infected tissue.</item>
+<item><emphasis effect="bold">Fever</emphasis> is a system-wide sign of inflammation that raises the body temperature and stimulates the immune response.</item>
+<item>Both inflammation and fever can be harmful if the inflammatory response is too severe.</item>
+</list>
+</section>
+<section id="fs-id1172100677257" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1172098647252">
+<problem id="fs-id1172098560791">
+<para id="fs-id1172098522325">Which refers to swelling as a result of inflammation?</para>
+<list id="fs-id1172100943574" list-type="enumerated" number-style="upper-alpha">
+<item>erythema</item>
+<item>edema</item>
+<item>granuloma</item>
+<item>vasodilation</item>
+</list>
+</problem>
+<solution id="fs-id1172096214416">
+<para id="fs-id1172098276094">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172101039318">
+<problem id="fs-id1172098749197">
+<para id="fs-id1172101037501">Which type of inflammation occurs at the site of an injury or infection?</para>
+<list id="fs-id1172100905919" list-type="enumerated" number-style="upper-alpha">
+<item>acute</item>
+<item>chronic</item>
+<item>endogenous</item>
+<item>exogenous</item>
+</list>
+</problem>
+<solution id="fs-id1172100719737">
+<para id="fs-id1172100626195">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172098704099" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1172100629775">
+<problem id="fs-id1172100557792">
+<para id="fs-id1172101002764">A(n) ________ is a walled-off area of infected tissue that exhibits chronic inflammation.</para>
+</problem>
+<solution id="fs-id1172100911755">
+<para id="fs-id1172098423649">granuloma</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098430082">
+<problem id="fs-id1172098255821">
+<para id="fs-id1172098314289">The ________ is the part of the body responsible for regulating body temperature.</para>
+</problem>
+<solution id="fs-id1172100932322">
+<para id="fs-id1172100968508">hypothalamus</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098704523">
+<problem id="fs-id1172098273075">
+<para id="fs-id1172100510867">Heat and redness, or ________, occur when the small blood vessels in an inflamed area dilate (open up), bringing more blood much closer to the surface of the skin.</para>
+</problem>
+<solution id="fs-id1172098775423">
+<para id="fs-id1172098454264">erythema</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172100560317" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1172100674760">
+<problem id="fs-id1172100586518">
+<para id="fs-id1172098407688">Differentiate exogenous and endogenous pyrogens, and provide an example of each.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1172101038862" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1172098644130">
+<problem id="fs-id1172100610302">
+<para id="fs-id1172098305336">If a gram-negative bacterial infection reaches the bloodstream, large quantities of LPS can be released into the blood, resulting in a syndrome called septic shock. Death due to septic shock is a real danger. The overwhelming immune and inflammatory responses that occur with septic shock can cause a perilous drop in blood pressure; intravascular blood clotting; development of thrombi and emboli that block blood vessels, leading to tissue death; failure of multiple organs; and death of the patient. Identify and characterize two to three therapies that might be useful in stopping the dangerous events and outcomes of septic shock once it has begun, given what you have learned about inflammation and innate immunity in this chapter.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172098644780">
+<problem id="fs-id1172100760283">
+<para id="fs-id1172098409853">In Lubeck, Germany, in 1930, a group of 251 infants was accidentally administered a tainted vaccine for tuberculosis that contained live <emphasis effect="italics">Mycobacterium tuberculosis</emphasis>. This vaccine was administered orally, directly exposing the infants to the deadly bacterium. Many of these infants contracted tuberculosis, and some died. However, 44 of the infants never contracted tuberculosis. Based on your knowledge of the innate immune system, what innate defenses might have inhibited <emphasis effect="italics">M. tuberculosis</emphasis> enough to prevent these infants from contracting the disease?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+
+</document>

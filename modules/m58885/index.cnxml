@@ -1,0 +1,181 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Major Histocompatibility Complexes and Antigen-Presenting Cells</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58885</md:content-id>
+  <md:title>Major Histocompatibility Complexes and Antigen-Presenting Cells</md:title>
+  <md:abstract/>
+  <md:uuid>42620e72-748b-4ca9-a447-36482febc16d</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167660170673" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167662615625">
+<item>Identify cells that express MHC I and/or MHC II molecules and describe the structures and cellular location of MHC I and MHC II molecules</item>
+<item>Identify the cells that are antigen-presenting cells</item>
+<item>Describe the process of antigen processing and presentation with MHC I and MHC II</item>
+</list>
+</section>
+<para id="fs-id1167660339414">As discussed in <link document="m58879">Cellular Defenses</link>, <term class="no-emphasis">major histocompatibility complex (MHC)</term> molecules are expressed on the surface of healthy cells, identifying them as normal and “self” to <term class="no-emphasis">natural killer (NK) cells</term>. MHC molecules also play an important role in the presentation of foreign antigens, which is a critical step in the activation of T cells and thus an important mechanism of the adaptive immune system.</para>
+<section id="fs-id1167660178884">
+<title>Major Histocompatibility Complex Molecules</title>
+<para id="fs-id1167662744860">The <term>major histocompatibility complex</term> (<term>MHC</term>) is a collection of genes coding for MHC molecules found on the surface of all nucleated cells of the body. In humans, the MHC genes are also referred to as <term class="no-emphasis">human leukocyte antigen (HLA) genes</term>. Mature <term class="no-emphasis">red blood cells</term>, which lack a nucleus, are the only cells that do not express MHC molecules on their surface.</para>
+<para id="fs-id1167660275280">There are two classes of MHC molecules involved in adaptive immunity, MHC I and MHC II (<link target-id="OSC_Microbio_18_02_MHCbind"/>). <term>MHC I</term> molecules are found on all nucleated cells; they present normal <term class="no-emphasis">self-antigens</term> as well as abnormal or nonself pathogens to the effector T cells involved in cellular immunity. In contrast, <term>MHC II</term> molecules are only found on <term class="no-emphasis">macrophages</term>, <term class="no-emphasis">dendritic cells</term>, and <term class="no-emphasis">B cells</term>; they present abnormal or nonself pathogen antigens for the initial activation of T cells.</para>
+<para id="fs-id1167662507282">Both types of MHC molecules are transmembrane glycoproteins that assemble as dimers in the cytoplasmic membrane of cells, but their structures are quite different. MHC I molecules are composed of a longer α protein chain coupled with a smaller <term class="no-emphasis">β<sub>2</sub> microglobulin</term> protein, and only the α chain spans the cytoplasmic membrane. The α chain of the MHC I molecule folds into three separate domains: α<sub>1</sub>, α<sub>2</sub> and α<sub>3</sub>. MHC II molecules are composed of two protein chains (an α and a β chain) that are approximately similar in length. Both chains of the MHC II molecule possess portions that span the plasma membrane, and each chain folds into two separate domains: α<sub>1</sub> and α<sub>2</sub>, and β<sub>1</sub>, and β<sub>2</sub>. In order to present abnormal or non-self-antigens to T cells, MHC molecules have a cleft that serves as the antigen-binding site near the “top” (or outermost) portion of the MHC-I or MHC-II dimer. For MHC I, the antigen-binding cleft is formed by the α<sub>1</sub> and α<sub>2</sub> domains, whereas for MHC II, the cleft is formed by the α<sub>1</sub> and β<sub>1</sub> domains (<link target-id="OSC_Microbio_18_02_MHCbind"/>).</para>
+<figure id="OSC_Microbio_18_02_MHCbind">
+<media id="fs-id1167660290603" alt="Drawing of a phospholipid bilayer (plasma membrane). An MHC Class I protein molecule is found in all nucleated body cells. It has a linear portion in the membrane and four portions on the outer side of the cell. One of these portions connects to the membrane spanning portion; two form the antigen binding site; and the fourth is labeled the Beta-2 microglobulin. MHC Class II protein molecules are found in lymphocytes and macrophages. This has two membrane spanning portions (each attached to a portion on the outside of the cell). The two portions attached to these form the antigen binding site.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_18_02_MHCbind.jpg"/>
+</media>
+<caption>MHC I are found on all nucleated body cells, and MHC II are found on macrophages, dendritic cells, and B cells (along with MHC I). The antigen-binding cleft of MHC I is formed by domains α<sub>1</sub> and α<sub>2</sub>. The antigen-binding cleft of MHC II is formed by domains α<sub>1</sub> and β<sub>1</sub>.</caption>
+</figure>
+<note id="fs-id1167662498290" class="microbiology check-your-understanding">
+<list id="fs-id1167662710989" list-type="bulleted" bullet-style="bullet">
+<item>Compare the structures of the MHC I and MHC II molecules.</item>
+</list>
+</note>
+</section>
+
+<section id="fs-id1167662559144">
+<title>Antigen-Presenting Cells (APCs)</title>
+<para id="fs-id1167662369270">All nucleated cells in the body have mechanisms for processing and presenting antigens in association with MHC molecules. This signals the immune system, indicating whether the cell is normal and healthy or infected with an intracellular pathogen. However, only macrophages, dendritic cells, and B cells have the ability to present antigens specifically for the purpose of activating T cells; for this reason, these types of cells are sometimes referred to as <term>antigen-presenting cells (APCs)</term>.</para>
+<para id="fs-id1167662746343">While all APCs play a similar role in adaptive immunity, there are some important differences to consider. Macrophages and dendritic cells are <term class="no-emphasis">phagocytes</term> that ingest and kill pathogens that penetrate the first-line barriers (i.e., skin and mucous membranes). B cells, on the other hand, do not function as phagocytes but play a primary role in the production and secretion of antibodies. In addition, whereas macrophages and dendritic cells recognize pathogens through nonspecific receptor interactions (e.g., <term class="no-emphasis">PAMPs</term>, <term class="no-emphasis">toll-like receptors</term>, and receptors for opsonizing <term class="no-emphasis">complement</term> or antibody), B cells interact with foreign pathogens or their free antigens using antigen-specific immunoglobulin as receptors (monomeric <term class="no-emphasis">IgD</term> and <term class="no-emphasis">IgM</term>). When the immunoglobulin receptors bind to an antigen, the B cell internalizes the antigen by endocytosis before processing and presentting the antigen to T cells.</para>
+<section id="fs-id1167662514895">
+<title>Antigen Presentation with MHC II Molecules</title>
+<para id="fs-id1167662682552">MHC II molecules are only found on the surface of APCs. Macrophages and dendritic cells use similar mechanisms for processing and presentation of antigens and their epitopes in association with MHC II; B cells use somewhat different mechanisms that will be described further in <link document="m58887">B Lymphocytes and Humoral Immunity</link>. For now, we will focus on the steps of the process as they pertain to dendritic cells.</para>
+<para id="fs-id1167658391320">After a dendritic cell recognizes and attaches to a pathogen cell, the pathogen is internalized by phagocytosis and is initially contained within a <term class="no-emphasis">phagosome</term>. Lysosomes containing antimicrobial enzymes and chemicals fuse with the phagosome to create a phagolysosome, where degradation of the pathogen for antigen processing begins. Proteases (protein-degrading) are especially important in antigen processing because only protein antigen epitopes are presented to T cells by MHC II (<link target-id="OSC_Microbio_18_02_APC"/>).</para>
+<para id="fs-id1167660146826">APCs do not present all possible epitopes to T cells; only a selection of the most antigenic or <term class="no-emphasis">immunodominant</term> epitopes are presented. The mechanism by which epitopes are selected for processing and presentation by an APC is complicated and not well understood; however, once the most antigenic, immunodominant epitopes have been processed, they associate within the antigen-binding cleft of MHC II molecules and are translocated to the cell surface of the dendritic cell for presentation to T cells.</para>
+<figure id="OSC_Microbio_18_02_APC">
+<media id="fs-id1167660270828" alt="The process of phagocytosis. 1: A bacterium is engulfed by phagocytosis into a dendritic cell and is encased in a phagosome. 2: Lysosomes fuse with the phagosome and digest the bacterium. 3: Immunodominant epitopes are associated with MHC II and presented on the cell surface.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_18_02_APC.jpg"/>
+</media>
+<caption>A dendritic cell phagocytoses a bacterial cell and brings it into a phagosome. Lysosomes fuse with the phagosome to create a phagolysosome, where antimicrobial chemicals and enzymes degrade the bacterial cell. Proteases process bacterial antigens, and the most antigenic epitopes are selected and presented on the cell’s surface in conjunction with MHC II molecules. T cells recognize the presented antigens and are thus activated.</caption>
+</figure>
+<note id="fs-id1167662737930" class="microbiology check-your-understanding">
+<list id="fs-id1167660178938" list-type="bulleted" bullet-style="bullet">
+<item>What are the three kinds of APCs?</item>
+<item>What role to MHC II molecules play in antigen presentation?</item>
+<item>What is the role of antigen presentation in adaptive immunity?</item>
+</list>
+</note>
+</section>
+
+<section id="fs-id1167662551928">
+<title>Antigen Presentation with MHC I Molecules</title>
+<para id="fs-id1167662645252">MHC I molecules, found on all normal, healthy, <term class="no-emphasis">nucleated cells</term>, signal to the immune system that the cell is a normal “self” cell. In a healthy cell, proteins normally found in the cytoplasm are degraded by <term class="no-emphasis">proteasomes </term>(enzyme complexes responsible for degradation and processing of proteins) and processed into <term class="no-emphasis">self-antigen epitopes</term>; these self-antigen epitopes bind within the MHC I antigen-binding cleft and are then presented on the cell surface. Immune cells, such as NK cells, recognize these self-antigens and do not target the cell for destruction. However, if a cell becomes infected with an intracellular pathogen (e.g., a virus), protein antigens specific to the pathogen are processed in the proteasomes and bind with <term class="no-emphasis">MHC I</term> molecules for presentation on the cell surface. This presentation of pathogen-specific antigens with MHC I signals that the infected cell must be targeted for destruction along with the pathogen.</para>
+<para id="fs-id1167662888219">Before elimination of infected cells can begin, APCs must first activate the T cells involved in cellular immunity. If an intracellular pathogen directly infects the cytoplasm of an APC, then the processing and presentation of antigens can occur as described (in proteasomes and on the cell surface with MHC I). However, if the intracellular pathogen does not directly infect APCs, an alternative strategy called <term>cross-presentation</term> is utilized. In cross-presentation, antigens are brought into the APC by mechanisms normally leading to presentation with MHC II (i.e., through phagocytosis), but the antigen is presented on an MHC I molecule for CD8 T cells. The exact mechanisms by which cross-presentation occur are not yet well understood, but it appears that cross-presentation is primarily a function of <term class="no-emphasis">dendritic cells</term> and not macrophages or B cells.</para>
+<note id="fs-id1167660151491" class="microbiology check-your-understanding">
+<list id="fs-id1167662427154" list-type="bulleted" bullet-style="bullet">
+<item>Compare and contrast antigen processing and presentation associated with MHC I and MHC II molecules.</item>
+<item>What is cross-presentation, and when is it likely to occur?</item>
+</list>
+</note>
+</section>
+</section>
+
+<section id="fs-id1167662419442" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167658169942" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Major histocompatibility complex (MHC)</emphasis> is a collection of genes coding for glycoprotein molecules expressed on the surface of all nucleated cells.</item>
+<item><emphasis effect="bold">MHC I</emphasis> molecules are expressed on all nucleated cells and are essential for presentation of normal “self” antigens. Cells that become infected by intracellular pathogens can present foreign antigens on MHC I as well, marking the infected cell for destruction.</item>
+<item><emphasis effect="bold">MHC II</emphasis> molecules are expressed only on the surface of <emphasis effect="bold">antigen-presenting cells</emphasis> (macrophages, dendritic cells, and B cells). Antigen presentation with MHC II is essential for the activation of T cells.</item>
+<item><emphasis effect="bold">Antigen-presenting cells (APCs)</emphasis> primarily ingest pathogens by phagocytosis, destroy them in the phagolysosomes, process the protein antigens, and select the most antigenic/immunodominant epitopes with MHC II for presentation to T cells.</item>
+<item><emphasis effect="bold">Cross-presentation</emphasis> is a mechanism of antigen presentation and T-cell activation used by dendritic cells not directly infected by the pathogen; it involves phagocytosis of the pathogen but presentation on MHC I rather than MHC II.</item>
+</list>
+</section>
+<section id="fs-id1167662632275" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167662450417">
+<problem id="fs-id1167660180484">
+<para id="fs-id1167662486276">MHC I molecules present</para>
+<list id="fs-id1167662800300" list-type="enumerated" number-style="lower-alpha">
+<item>processed foreign antigens from proteasomes.</item>
+<item>processed self-antigens from phagolysosome.</item>
+<item>antibodies.</item>
+<item>T cell antigens.</item>
+</list>
+</problem>
+<solution id="fs-id1167662496517">
+<para id="fs-id1167662471604">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660364789">
+<problem id="fs-id1167662408365">
+<para id="fs-id1167662501969">MHC II molecules present</para>
+<list id="fs-id1167662614283" list-type="enumerated" number-style="lower-alpha">
+<item>processed self-antigens from proteasomes.</item>
+<item>processed foreign antigens from phagolysosomes.</item>
+<item>antibodies.</item>
+<item>T cell receptors.</item>
+</list>
+</problem>
+<solution id="fs-id1167657982217">
+<para id="fs-id1167662896072">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660619092">
+<problem id="fs-id1167662753149">
+<para id="fs-id1167660260239">Which type of antigen-presenting molecule is found on all nucleated cells?</para>
+<list id="fs-id1167662467391" list-type="enumerated" number-style="lower-alpha">
+<item>MHC II</item>
+<item>MHC I</item>
+<item>antibodies</item>
+<item>B-cell receptors</item>
+</list>
+</problem>
+<solution id="fs-id1167662484739">
+<para id="fs-id1167662429926">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662747086">
+<problem id="fs-id1167662703678">
+<para id="fs-id1167662508734">Which type of antigen-presenting molecule is found only on macrophages, dendritic cells, and B cells?</para>
+<list id="fs-id1167660438360" list-type="enumerated" number-style="lower-alpha">
+<item>MHC I</item>
+<item>MHC II</item>
+<item>T-cell receptors</item>
+<item>B-cell receptors</item>
+</list>
+</problem>
+<solution id="fs-id1167662465134">
+<para id="fs-id1167662753292">B</para>
+</solution>
+</exercise>
+</section>
+
+<section id="fs-id1167662425626" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167660667582">
+<problem id="fs-id1167662728375">
+<para id="fs-id1167658052530">MHC molecules are used for antigen ________ to T cells.</para>
+</problem>
+<solution id="fs-id1167662570044">
+<para id="fs-id1167660185735">presentation</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662393493">
+<problem id="fs-id1167660126308">
+<para id="fs-id1167662684283">MHC II molecules are made up of two subunits (α and β) of approximately equal size, whereas MHC I molecules consist of a larger α subunit and a smaller subunit called ________.</para>
+</problem>
+<solution id="fs-id1167662451007">
+<para id="fs-id1167662428304">β<sub>2</sub> microglobulin</para>
+</solution>
+</exercise>
+</section>
+
+<section id="fs-id1167662876364" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167658330709">
+<problem id="fs-id1167660455136">
+<para id="fs-id1167662515004">Which mechanism of antigen presentation would be used to present antigens from a cell infected with a virus?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167662683951">
+<problem id="fs-id1167662792434">
+<para id="fs-id1167662578468">Which pathway of antigen presentation would be used to present antigens from an extracellular bacterial infection?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+
+</document>

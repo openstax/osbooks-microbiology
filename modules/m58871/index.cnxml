@@ -1,0 +1,246 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Language of Epidemiologists</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58871</md:content-id>
+  <md:title>The Language of Epidemiologists</md:title>
+  <md:abstract/>
+  <md:uuid>67e3eb28-29f1-40e7-b078-447162dfab47</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167662369036" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167662408285">
+<item>Explain the difference between prevalence and incidence of disease</item>
+<item>Distinguish the characteristics of sporadic, endemic, epidemic, and pandemic diseases</item>
+<item>Explain the use of Koch’s postulates and their modifications to determine the etiology of disease</item>
+<item>Explain the relationship between epidemiology and public health</item>
+</list>
+</section>
+<note id="fs-id1167662895170" class="microbiology clinical-focus">
+<title>Part 1</title>
+<para id="fs-id1167662736290">In late November and early December, a hospital in western Florida started to see a spike in the number of cases of acute <term class="no-emphasis">gastroenteritis</term>-like symptoms. Patients began arriving at the emergency department complaining of excessive bouts of emesis (vomiting) and diarrhea (with no blood in the stool). They also complained of abdominal pain and cramping, and most were severely dehydrated. Alarmed by the number of cases, hospital staff made some calls and learned that other regional hospitals were also seeing 10 to 20 similar cases per day.</para>
+<list id="fs-id1167662505152" list-type="bulleted" bullet-style="bullet">
+<item>What are some possible causes of this outbreak?</item>
+<item>In what ways could these cases be linked, and how could any suspected links be confirmed?</item>
+</list>
+<para id="fs-id1167660304535"><emphasis effect="italics">Jump to the <link target-id="fs-id1167656775125">next</link> Clinical Focus box.</emphasis></para>
+</note>
+<para id="fs-id1167662681938">The field of <term>epidemiology</term> concerns the geographical distribution and timing of infectious disease occurrences and how they are transmitted and maintained in nature, with the goal of recognizing and controlling outbreaks. The science of epidemiology includes <term>etiology</term> (the study of the causes of disease) and investigation of disease transmission (mechanisms by which a disease is spread).</para>
+<section id="fs-id1167660142295">
+<title>Analyzing Disease in a Population</title>
+<para id="fs-id1167662465731">Epidemiological analyses are always carried out with reference to a population, which is the group of individuals that are at risk for the disease or condition. The population can be defined geographically, but if only a portion of the individuals in that area are susceptible, additional criteria may be required. Susceptible individuals may be defined by particular behaviors, such as intravenous drug use, owning particular pets, or membership in an institution, such as a college. Being able to define the population is important because most measures of interest in epidemiology are made with reference to the size of the population.</para>
+<para id="fs-id1167658175735">The state of being diseased is called <term>morbidity</term>. Morbidity in a population can be expressed in a few different ways. Morbidity or total morbidity is expressed in numbers of individuals without reference to the size of the population. The <term>morbidity rate</term> can be expressed as the number of diseased individuals out of a standard number of individuals in the population, such as 100,000, or as a percent of the population.</para>
+<para id="fs-id1167662498196">There are two aspects of morbidity that are relevant to an epidemiologist: a disease’s <term>prevalence</term> and its <term>incidence</term>. Prevalence is the number, or proportion, of individuals with a particular illness in a given population at a point in time. For example, the <term class="no-emphasis">Centers for Disease Control and Prevention</term> (CDC) estimated that in 2012, there were about 1.2 million people 13 years and older with an active human immunodeficiency virus (<term class="no-emphasis">HIV</term>) infection. Expressed as a proportion, or rate, this is a prevalence of 467 infected persons per 100,000 in the population.<footnote id="fs-id1167660257928">H. Irene Hall, Qian An, Tian Tang, Ruiguang Song, Mi Chen, Timothy Green, and Jian Kang. “Prevalence of Diagnosed and Undiagnosed HIV Infection—United States, 2008–2012.” <emphasis effect="italics">Morbidity and Mortality Weekly Report</emphasis> 64, no. 24 (2015): 657–662.</footnote> On the other hand, incidence is the number or proportion of <emphasis effect="italics">new</emphasis> cases in a period of time. For the same year and population, the CDC estimates that there were 43,165 newly diagnosed cases of HIV infection, which is an incidence of 13.7 new cases per 100,000 in the population.<footnote id="fs-id1167660436569">Centers for Disease Control and Prevention. “Diagnoses of HIV Infection in the United States and Dependent Areas, 2014.” <emphasis effect="italics">HIV Surveillance Report</emphasis> 26 (2015).</footnote> The relationship between incidence and prevalence can be seen in <link target-id="OSC_Microbio_16_01_incprev"/>. For a chronic disease like HIV infection, prevalence will generally be higher than incidence because it represents the cumulative number of new cases over many years minus the number of cases that are no longer active (e.g., because the patient died or was cured).</para>
+<para id="fs-id1167660253214">In addition to morbidity rates, the incidence and prevalence of <term>mortality</term> (death) may also be reported. A <term class="no-emphasis">mortality rate</term> can be expressed as the percentage of the population that has died from a disease or as the number of deaths per 100,000 persons (or other suitable standard number).</para>
+<figure id="OSC_Microbio_16_01_incprev">
+<media id="fs-id1167662405648" alt="Graph of HIV prevalence and incidence in the US 1980-2010. The number o people living with HIV/AIDS was near 0 in 1980 and has increased steadily to over 1 million. There as a short plateau from 1990 to 1995. The number of new infections increased to nearly 200,000 in 1985 and dropped until 1990. It remains steady at somewhere near 50,000.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_16_01_IncPrev.jpg"/>
+</media>
+<caption>This graph compares the incidence of HIV (the number of new cases reported each year) with the prevalence (the total number of cases each year). Prevalence and incidence can also be expressed as a rate or proportion for a given population.</caption>
+</figure>
+<note id="fs-id1167662428286" class="microbiology check-your-understanding">
+<list id="fs-id1167662690109" list-type="bulleted" bullet-style="bullet">
+<item>Explain the difference between incidence and prevalence.</item>
+<item>Describe how morbidity and mortality rates are expressed.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167660340074">
+<title>Patterns of Incidence</title>
+<para id="fs-id1167662445914">Diseases that are seen only occasionally, and usually without geographic concentration, are called <term>sporadic disease</term><emphasis effect="bold">s</emphasis>. Examples of sporadic diseases include <term class="no-emphasis">tetanus</term>, <term class="no-emphasis">rabies</term>, and <term class="no-emphasis">plague</term>. In the United States, <term class="no-emphasis"><emphasis effect="italics">Clostridium tetani</emphasis></term>, the bacterium that causes tetanus, is ubiquitous in the soil environment, but incidences of infection occur only rarely and in scattered locations because most individuals are vaccinated, clean wounds appropriately, or are only rarely in a situation that would cause infection.<footnote id="fs-id1167660329829">Centers for Disease Control and Prevention. “Tetanus Surveillance—United States, 2001–2008.” <emphasis effect="italics">Morbidity and Mortality Weekly Report</emphasis> 60, no. 12 (2011): 365.</footnote> Likewise in the United States there are a few scattered cases of plague each year, usually contracted from rodents in rural areas in the western states.<footnote id="fs-id1167660351394">Centers for Disease Control and Prevention. “Plague in the United States.” 2015. http://www.cdc.gov/plague/maps. Accessed June 1, 2016.</footnote></para>
+<para id="fs-id1167662450335">Diseases that are constantly present (often at a low level) in a population within a particular geographic region are called <term>endemic disease</term><emphasis effect="bold">s</emphasis>. For example, <term class="no-emphasis">malaria</term> is endemic to some regions of Brazil, but is not endemic to the United States.</para>
+<para id="fs-id1167660204444">Diseases for which a larger than expected number of cases occurs in a short time within a geographic region are called <term>epidemic disease</term><emphasis effect="bold">s</emphasis>. Influenza is a good example of a commonly epidemic disease. Incidence patterns of influenza tend to rise each winter in the northern hemisphere. These seasonal increases are expected, so it would not be accurate to say that influenza is epidemic every winter; however, some winters have an usually large number of seasonal influenza cases in particular regions, and such situations would qualify as epidemics (<link target-id="OSC_Microbio_16_01_flu"/> and <link target-id="OSC_Microbio_16_01_flu2"/>).</para>
+<para id="fs-id1167660304479">An epidemic disease signals the breakdown of an equilibrium in disease frequency, often resulting from some change in environmental conditions or in the population. In the case of influenza, the disruption can be due to antigenic shift or drift (see <link document="m58868">Virulence Factors of Bacterial and Viral Pathogens</link>), which allows influenza virus strains to circumvent the acquired immunity of their human hosts.</para>
+<para id="fs-id1167662497005">An epidemic that occurs on a worldwide scale is called a <term>pandemic disease</term>. For example, <term class="no-emphasis">HIV/AIDS</term> is a pandemic disease and novel influenza virus strains often become pandemic.</para>
+<figure id="OSC_Microbio_16_01_flu">
+<media id="fs-id1167662447077" alt="A graph of the percentage of emergency department visits for influenza-like illness. The X axis is times of the year and the Y axis is percent. The national baseline is near 2.5%. All yeas have a small peak in January and a larger peak February to April. 2007-2008 had the largest peak in February to April. 2008 – 2009 had an additional peak from May to September.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_16_01_Flu.jpg"/>
+</media>
+<caption>The 2007–2008 influenza season in the United States saw much higher than normal numbers of visits to emergency departments for influenza-like symptoms as compared to the previous and the following years. (credit: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<figure id="OSC_Microbio_16_01_flu2">
+<media id="fs-id1167660259725" alt="A graph of the percentage of all deaths due to influenza an pneumonia. The X axis is years and the Y axis is percent. The seasonal baseline fluctuates to a high in winter. The epidemic threshold is just a half percent higher than the baseline. The actual mortality fluctuates above and below both of these lines.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_16_01_Flu2.jpg"/>
+</media>
+<caption>The seasonal epidemic threshold (blue curve) is set by the CDC-based data from the previous five years. When actual mortality rates exceed this threshold, a disease is considered to be epidemic. As this graph shows, pneumonia- and influenza-related mortality saw pronounced epidemics during the winters of 2003–2004, 2005, and 2008. (credit: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<note id="fs-id1167660287066" class="microbiology check-your-understanding">
+<list id="fs-id1167660348844" list-type="bulleted" bullet-style="bullet">
+<item>Explain the difference between sporadic and endemic disease.</item>
+<item>Explain the difference between endemic and epidemic disease.</item>
+</list>
+</note>
+<note id="fs-id1167656775125" class="microbiology clinical-focus">
+<title>Part 2</title>
+<para id="fs-id1167662615917">Hospital physicians suspected that some type of food poisoning was to blame for the sudden post-Thanksgiving outbreak of gastroenteritis in western Florida. Over a two-week period, 254 cases were observed, but by the end of the first week of December, the epidemic ceased just as quickly as it had started. Suspecting a link between the cases based on the localized nature of the outbreak, hospitals handed over their medical records to the regional public health office for study.</para>
+<para id="fs-id1167662446626">Laboratory testing of stool samples had indicated that the infections were caused by <term class="no-emphasis"><emphasis effect="italics">Salmonella</emphasis></term> bacteria. Patients ranged from children as young as three to seniors in their late eighties. Cases were nearly evenly split between males and females. Across the region, there had been three confirmed deaths in the outbreak, all due to severe dehydration. In each of the fatal cases, the patients had not sought medical care until their symptoms were severe; also, all of the deceased had preexisting medical conditions such as congestive heart failure, diabetes, or high blood pressure.</para>
+<para id="fs-id1167662445640">After reviewing the medical records, epidemiologists with the public health office decided to conduct interviews with a randomly selected sample of patients.</para>
+<list id="fs-id1167660291508" list-type="bulleted" bullet-style="bullet">
+<item>What conclusions, if any, can be drawn from the medical records?</item>
+<item>What would epidemiologists hope to learn by interviewing patients? What kinds of questions might they ask?</item>
+</list>
+<para id="fs-id1167660270448"><emphasis effect="italics">Jump to the <link target-id="fs-id1167660178029" document="m58872">next</link> Clinical Focus box. Go back to the <link target-id="fs-id1167662895170">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+<section id="fs-id1167660378783">
+<title>Etiology</title>
+<para id="fs-id1167662393950">When studying an epidemic, an epidemiologist’s first task is to determinate the cause of the disease, called the <term>etiologic agent</term> or <term>causative agent</term>. Connecting a disease to a specific pathogen can be challenging because of the extra effort typically required to demonstrate direct causation as opposed to a simple association. It is not enough to observe an association between a disease and a suspected pathogen; controlled experiments are needed to eliminate other possible causes. In addition, pathogens are typically difficult to detect when there is no immediate clue as to what is causing the outbreak. Signs and symptoms of disease are also commonly nonspecific, meaning that many different agents can give rise to the same set of signs and symptoms. This complicates diagnosis even when a causative agent is familiar to scientists.</para>
+<para id="fs-id1167660671030">Robert <term class="no-emphasis">Koch</term> was the first scientist to specifically demonstrate the causative agent of a disease (anthrax) in the late 1800s. Koch developed four criteria, now known as <term class="no-emphasis">Koch’s postulates</term>, which had to be met in order to positively link a disease with a pathogenic microbe. Without Koch’s postulates, the <term class="no-emphasis">Golden Age of Microbiology</term> would not have occurred. Between 1876 and 1905, many common diseases were linked with their etiologic agents, including cholera, diphtheria, gonorrhea, meningitis, plague, syphilis, tetanus, and tuberculosis. Today, we use the <term class="no-emphasis">molecular Koch’s postulates</term>, a variation of Koch’s original postulates that can be used to establish a link between the disease state and virulence traits unique to a pathogenic strain of a microbe. Koch’s original postulates and molecular Koch’s postulates were described in more detail in <link document="m58867">How Pathogens Cause Disease</link>.</para>
+<note id="fs-id1167662461975" class="microbiology check-your-understanding">
+<list id="fs-id1167662571593" list-type="bulleted" bullet-style="bullet">
+<item>List some challenges to determining the causative agent of a disease outbreak.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167660571779">
+<title>The Role of Public Health Organizations</title>
+<para id="fs-id1167662735733">The main national public health agency in the United States is the <term>Centers for Disease Control and Prevention (CDC)</term>, an agency of the Department of Health and Human Services. The CDC is charged with protecting the public from disease and injury. One way that the CDC carries out this mission is by overseeing the <term class="no-emphasis">National Notifiable Disease Surveillance System</term> (NNDSS) in cooperation with regional, state, and territorial public health departments. The NNDSS monitors diseases considered to be of public health importance on a national scale. Such diseases are called <term>notifiable disease</term><emphasis effect="bold">s</emphasis> or <term>reportable disease</term><emphasis effect="bold">s</emphasis> because all cases must be reported to the CDC. A physician treating a patient with a notifiable disease is legally required to submit a report on the case. Notifiable diseases include <term class="no-emphasis">HIV</term> infection, <term class="no-emphasis">measles</term>, <term class="no-emphasis">West Nile virus</term> infections, and many others. Some states have their own lists of notifiable diseases that include diseases beyond those on the CDC’s list.</para>
+<para id="fs-id1167660171198">Notifiable diseases are tracked by epidemiological studies and the data is used to inform health-care providers and the public about possible risks. The CDC publishes the <term><emphasis effect="italics">Morbidity and Mortality Weekly Report</emphasis> (<emphasis effect="italics">MMWR</emphasis>)</term>, which provides physicians and health-care workers with updates on public health issues and the latest data pertaining to notifiable diseases. <link target-id="fs-id1167660338485"/> is an example of the kind of data contained in the <emphasis effect="italics">MMWR</emphasis>.</para>
+<table id="fs-id1167660338485" summary="Table titled: Incidence of Four Notifiable Diseases in the United States, Week Ending January 2, 2016. Columns: Disease; Current Week (Jan 2, 2016); Median of Previous 52 weeks; Maximum of previous 52 weeks; Cumulative Cases 2015. Campylobacteriosis: 406; 869; 1,385; 46,618. Chlamydia trachomatis infection: 11,024; l28,562; 31,089; 1,425,303. Giardiasis: 115; 230; 335; 11,870. Gonorrhea: 3,207; 7,155; 8,283; 369,926." class="span-all">
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c5">Incidence of Four Notifiable Diseases in the United States, Week Ending January 2, 2016</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Disease</entry>
+<entry valign="top" align="center">Current Week (Jan 2, 2016)</entry>
+<entry valign="top" align="center">Median of Previous 52 Weeks</entry>
+<entry valign="top" align="center">Maximum of Previous 52 Weeks</entry>
+<entry valign="top" align="center">Cumulative Cases 2015</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Campylobacteriosis</entry>
+<entry valign="top" align="left">406</entry>
+<entry valign="top" align="left">869</entry>
+<entry valign="top" align="left">1,385</entry>
+<entry valign="top" align="left">46,618</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Chlamydia trachomatis</emphasis> infection</entry>
+<entry valign="top" align="left">11,024</entry>
+<entry valign="top" align="left">28,562</entry>
+<entry valign="top" align="left">31,089</entry>
+<entry valign="top" align="left">1,425,303</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Giardiasis</entry>
+<entry valign="top" align="left">115</entry>
+<entry valign="top" align="left">230</entry>
+<entry valign="top" align="left">335</entry>
+<entry valign="top" align="left">11,870</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Gonorrhea</entry>
+<entry valign="top" align="left">3,207</entry>
+<entry valign="top" align="left">7,155</entry>
+<entry valign="top" align="left">8,283</entry>
+<entry valign="top" align="left">369,926</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1167662494497" class="microbiology link-to-learning">
+
+<para id="fs-id1167660283108">The current <link url="https://openstax.org/l/22mortweekrep"><emphasis effect="italics">Morbidity and Mortality Weekly Report</emphasis></link> is available online.</para>
+</note>
+<note id="fs-id1167658046164" class="microbiology check-your-understanding">
+<list id="fs-id1167660210042" list-type="bulleted" bullet-style="bullet">
+<item>Describe how health agencies obtain data about the incidence of diseases of public health importance.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167662753150" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167662888941" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Epidemiology</emphasis> is the science underlying public health.</item>
+<item><emphasis effect="bold">Morbidity</emphasis> means being in a state of illness, whereas <emphasis effect="bold">mortality</emphasis> refers to death; both <emphasis effect="bold">morbidity rates</emphasis> and <emphasis effect="bold">mortality rates</emphasis> are of interest to epidemiologists.</item>
+<item><emphasis effect="bold">Incidence</emphasis> is the number of new cases (morbidity or mortality), usually expressed as a proportion, during a specified time period; <emphasis effect="bold">prevalence</emphasis> is the total number affected in the population, again usually expressed as a proportion.</item>
+<item><emphasis effect="bold">Sporadic diseases</emphasis> only occur rarely and largely without a geographic focus. <emphasis effect="bold">Endemic diseases</emphasis> occur at a constant (and often low) level within a population. <emphasis effect="bold">Epidemic diseases</emphasis> and <emphasis effect="bold">pandemic diseases</emphasis> occur when an outbreak occurs on a significantly larger than expected level, either locally or globally, respectively.</item>
+<item><emphasis effect="bold">Koch’s postulates</emphasis> specify the procedure for confirming a particular pathogen as the etiologic agent of a particular disease. Koch’s postulates have limitations in application if the microbe cannot be isolated and cultured or if there is no animal host for the microbe. In this case, molecular Koch’s postulates would be utilized.</item>
+<item>In the United States, the <emphasis effect="bold">Centers for Disease Control and Prevention</emphasis> monitors <emphasis effect="bold">notifiable diseases</emphasis> and publishes weekly updates in the <emphasis effect="italics">Morbidity and Mortality Weekly Report.</emphasis></item>
+</list>
+</section>
+<section id="fs-id1167662786514" class="matching">
+<title>Matching</title>
+<exercise id="fs-id1167662874156">
+<problem id="fs-id1167660372437">
+<para id="fs-id1167662450511">Match each term with its description.</para>
+<table id="fs-id1167662472243" summary="sporadic disease; endemic disease; pandemic disease; morbidity rate; mortality rate.  A. the number of disease cases per 100,000 individuals. B. a disease in higher than expected numbers around the world. C. the number of deaths from a disease for every 10,000 individuals. D. a disease found occasionally in a region with cases occurring mainly in isolation from each other. E. a disease found regularly in a region." class="unnumbered unstyled">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">___sporadic disease</entry>
+<entry valign="top" align="left">A. the number of disease cases per 100,000 individuals</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___endemic disease</entry>
+<entry valign="top" align="left">B. a disease in higher than expected numbers around the world</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___pandemic disease</entry>
+<entry valign="top" align="left">C. the number of deaths from a disease for every 10,000 individuals</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___morbidity rate</entry>
+<entry valign="top" align="left">D. a disease found occasionally in a region with cases occurring mainly in isolation from each other</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___mortality rate</entry>
+<entry valign="top" align="left">E. a disease found regularly in a region</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+<solution id="fs-id1167662778301">
+<para id="fs-id1167662418150">D, E, B, A, C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167660359288" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167660272246">
+<problem id="fs-id1167662627016">
+<para id="fs-id1167662548589">The ________ collects data and conducts epidemiologic studies in the United States.</para>
+</problem>
+<solution id="fs-id1167660178806">
+<para id="fs-id1167660269653">Centers for Disease Control and Prevention, or CDC</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167662763044" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167662466859">
+<problem id="fs-id1167660377854">
+<para id="fs-id1167662484866">During an epidemic, why might the prevalence of a disease at a particular time not be equal to the sum of the incidences of the disease?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167662491934">
+<problem id="fs-id1167660149808">
+<para id="fs-id1167658347871">In what publication would you find data on emerging/reemerging diseases in the United States?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167662427365" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167662518166">
+<problem id="fs-id1167662631106">
+<para id="fs-id1167660257301">Why might an epidemiological population in a state not be the same size as the number of people in a state? Use an example.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+
+</document>

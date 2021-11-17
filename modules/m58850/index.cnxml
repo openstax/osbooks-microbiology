@@ -1,0 +1,244 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Whole Genome Methods and Pharmaceutical Applications of Genetic Engineering</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58850</md:content-id>
+  <md:title>Whole Genome Methods and Pharmaceutical Applications of Genetic Engineering</md:title>
+  <md:abstract/>
+  <md:uuid>e5afd1ed-1df2-4625-b3f2-81f352c20a31</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167742887362" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167742827748">
+<item>Explain the uses of genome-wide comparative analyses</item>
+<item>Summarize the advantages of genetically engineered pharmaceutical products</item>
+</list>
+</section>
+<para id="fs-id1167742878194">Advances in molecular biology have led to the creation of entirely new fields of science. Among these are fields that study aspects of whole genomes, collectively referred to as whole-genome methods. In this section, we’ll provide a brief overview of the whole-genome fields of genomics, transcriptomics, and proteomics.</para>
+<section id="fs-id1167740838222">
+<title>Genomics, Transcriptomics, and Proteomics</title>
+<para id="fs-id1167740680140">The study and comparison of entire genomes, including the complete set of genes and their nucleotide sequence and organization, is called <term>genomics</term>. This field has great potential for future medical advances through the study of the human genome as well as the genomes of infectious organisms. Analysis of microbial genomes has contributed to the development of new antibiotics, diagnostic tools, vaccines, medical treatments, and environmental cleanup techniques.</para>
+<para id="fs-id1167742464181">The field of <term>transcriptomics</term> is the science of the entire collection of mRNA molecules produced by cells. Scientists compare gene expression patterns between infected and uninfected host cells, gaining important information about the cellular responses to infectious disease. Additionally, transcriptomics can be used to monitor the gene expression of <term class="no-emphasis">virulence factors</term> in microorganisms, aiding scientists in better understanding pathogenic processes from this viewpoint.</para>
+<para id="fs-id1167740761821">When genomics and transcriptomics are applied to entire microbial communities, we use the terms <term>metagenomics</term> and <term>metatranscriptomics</term>, respectively. Metagenomics and metatranscriptomics allow researchers to study genes and gene expression from a collection of multiple species, many of which may not be easily cultured or cultured at all in the laboratory. A DNA <term class="no-emphasis">microarray</term> (discussed in the previous section) can be used in metagenomics studies.</para>
+<para id="fs-id1167740830808">Another up-and-coming clinical application of genomics and transcriptomics is <term>pharmacogenomics</term>, also called <term>toxicogenomics</term>, which involves evaluating the effectiveness and safety of drugs on the basis of information from an individual’s genomic sequence. Genomic responses to drugs can be studied using experimental animals (such as laboratory rats or mice) or live cells in the laboratory before embarking on studies with humans. Changes in gene expression in the presence of a drug can sometimes be an early indicator of the potential for toxic effects. Personal genome sequence information may someday be used to prescribe medications that will be most effective and least toxic on the basis of the individual patient’s genotype.</para>
+<para id="fs-id1167740764507">The study of <term>proteomics</term> is an extension of genomics that allows scientists to study the entire complement of proteins in an organism, called the <term class="no-emphasis">proteome</term>. Even though all cells of a multicellular organism have the same set of genes, cells in various tissues produce different sets of proteins. Thus, the genome is constant, but the proteome varies and is dynamic within an organism. Proteomics may be used to study which proteins are expressed under various conditions within a single cell type or to compare protein expression patterns between different organisms.</para>
+<para id="fs-id1167742834270">The most prominent disease being studied with proteomic approaches is cancer, but this area of study is also being applied to infectious diseases. Research is currently underway to examine the feasibility of using proteomic approaches to diagnose various types of hepatitis, tuberculosis, and HIV infection, which are rather difficult to diagnose using currently available techniques.<footnote id="fs-id1167742815325">E.O. List, D.E. Berryman, B. Bower, L. Sackmann-Sala, E. Gosney, J. Ding, S. Okada, and J.J. Kopchick. “The Use of Proteomics to Study Infectious Diseases.” <emphasis effect="italics">Infectious Disorders-Drug Targets</emphasis> (Formerly <emphasis effect="italics">Current Drug Targets-Infectious Disorders</emphasis>) <emphasis effect="italics">8</emphasis> no. 1 (2008): 31–45.</footnote></para>
+<para id="fs-id1167742791556">A recent and developing proteomic analysis relies on identifying proteins called <term>biomarkers</term>, whose expression is affected by the disease process. Biomarkers are currently being used to detect various forms of cancer as well as infections caused by pathogens such as <term class="no-emphasis"><emphasis effect="italics">Yersinia pestis</emphasis></term> and <term class="no-emphasis"><emphasis effect="italics">Vaccinia virus</emphasis></term>.<footnote id="fs-id1167740958352">Mohan Natesan, and Robert G. Ulrich. “Protein Microarrays and Biomarkers of Infectious Disease.” <emphasis effect="italics">International Journal of Molecular Sciences 11</emphasis> no. 12 (2010): 5165–5183.</footnote></para>
+<para id="fs-id1167742433367">Other “-omic” sciences related to genomics and proteomics include metabolomics, glycomics, and lipidomics, which focus on the complete set of small-molecule metabolites, sugars, and lipids, respectively, found within a cell. Through these various global approaches, scientists continue to collect, compile, and analyze large amounts of genetic information. This emerging field of <term>bioinformatics</term> can be used, among many other applications, for clues to treating diseases and understanding the workings of cells.</para>
+<para id="fs-id1167742440364">Additionally, researchers can use <term class="no-emphasis">reverse genetics</term>, a technique related to classic <term class="no-emphasis">mutational analysis</term>, to determine the function of specific genes. Classic methods of studying gene function involved searching for the genes responsible for a given phenotype. Reverse genetics uses the opposite approach, starting with a specific DNA sequence and attempting to determine what phenotype it produces. Alternatively, scientists can attach known genes (called reporter genes) that encode easily observable characteristics to genes of interest, and the location of expression of such genes of interest can be easily monitored. This gives the researcher important information about what the gene product might be doing or where it is located in the organism. Common reporter genes include bacterial <term class="no-emphasis"><emphasis effect="italics">lacZ</emphasis></term>, which encodes beta-galactosidase and whose activity can be monitored by changes in colony color in the presence of <term class="no-emphasis">X-gal</term> as previously described, and the gene encoding the jellyfish protein <term class="no-emphasis">green fluorescent protein</term> (GFP) whose activity can be visualized in colonies under ultraviolet light exposure (<link target-id="OSC_Microbio_12_03_GFP"/>).</para>
+<figure id="OSC_Microbio_12_03_GFP">
+<media id="fs-id1167742395887" alt="a) A photograph of mice with green fluorescent regions. B) A photograph of an agar plate with green fluorescent colonies. C) A photograph of blue and white colonies on an agar plate">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_12_03_GFP.jpg"/>
+</media>
+<caption>(a) The gene encoding green fluorescence protein is a commonly used reporter gene for monitoring gene expression patterns in organisms. Under ultraviolet light, GFP fluoresces. Here, two mice are expressing GFP, while the middle mouse is not. (b) GFP can be used as a reporter gene in bacteria as well. Here, a plate containing bacterial colonies expressing GFP is shown. (c) Blue-white screening in bacteria is accomplished through the use of the <emphasis effect="italics">lacZ</emphasis> reporter gene, followed by plating of bacteria onto medium containing X-gal. Cleavage of X-gal by the LacZ enzyme results in the formation of blue colonies. (credit a: modification of work by Ingrid Moen, Charlotte Jevne, Jian Wang, Karl-Henning Kalland, Martha Chekenya, Lars A Akslen, Linda Sleire, Per Ø Enger, Rolf K Reed, Anne M Øyan, Linda EB Stuhr; credit b: modification of work by “2.5JIGEN.com”/Flickr; credit c:  modification of work by American Society for Microbiology)</caption>
+</figure>
+<note id="fs-id1167742473612" class="microbiology check-your-understanding">
+<list id="fs-id1167742448117" list-type="bulleted" bullet-style="bullet">
+<item>How is genomics different from traditional genetics?</item>
+<item>If you wanted to study how two different cells in the body respond to an infection, what –omics field would you apply?</item>
+<item>What are the biomarkers uncovered in proteomics used for?</item>
+</list>
+</note>
+<note id="fs-id1167742611259" class="microbiology clinical-focus">
+<title>Resolution</title>
+<para id="fs-id1167742509595">Because Kayla’s symptoms were persistent and serious enough to interfere with daily activities, Kayla’s physician decided to order some laboratory tests. The physician collected samples of Kayla’s blood, cerebrospinal fluid (CSF), and <term class="no-emphasis">synovial fluid</term> (from one of her swollen knees) and requested PCR analysis on all three samples. The PCR tests on the CSF and synovial fluid came back positive for the presence of <term class="no-emphasis"><emphasis effect="italics">Borrelia burgdorferi</emphasis></term>, the bacterium that causes <term class="no-emphasis">Lyme disease</term>.</para>
+<para id="fs-id1167742440882">Kayla’s physician immediately prescribed a full course of the antibiotic <term class="no-emphasis">doxycycline</term>. Fortunately, Kayla recovered fully within a few weeks and did not suffer from the long-term symptoms of <term class="no-emphasis">post-treatment Lyme disease syndrome</term> (PTLDS), which affects 10–20% of Lyme disease patients. To prevent future infections, Kayla’s physician advised her to use insect repellant and wear protective clothing during her outdoor adventures. These measures can limit exposure to Lyme-bearing ticks, which are common in many regions of the United States during the warmer months of the year. Kayla was also advised to make a habit of examining herself for ticks after returning from outdoor activities, as prompt removal of a tick greatly reduces the chances of infection.</para>
+<para id="fs-id1167742346354">Lyme disease is often difficult to diagnose. <emphasis effect="italics">B. burgdorferi</emphasis> is not easily cultured in the laboratory, and the initial symptoms can be very mild and resemble those of many other diseases. But left untreated, the symptoms can become quite severe and debilitating. In addition to two antibody tests, which were inconclusive in Kayla’s case, and the PCR test, a Southern blot could be used with <emphasis effect="italics">B. burgdorferi</emphasis>-specific DNA probes to identify DNA from the pathogen. Sequencing of surface protein genes of <emphasis effect="italics">Borrelia</emphasis> species is also being used to identify strains within the species that may be more readily transmitted to humans or cause more severe disease.</para>
+<para id="fs-id1167742449379"><emphasis effect="italics">Go back to the <link document="m58849" target-id="fs-id1167742455813">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+<section id="fs-id1167742370595">
+<title>Recombinant DNA Technology and Pharmaceutical Production</title>
+<para id="fs-id1167742663610">Genetic engineering has provided a way to create new pharmaceutical products called <term>recombinant DNA pharmaceuticals</term>. Such products include antibiotic drugs, vaccines, and hormones used to treat various diseases. <link target-id="fs-id1167742466149"/> lists examples of recombinant DNA products and their uses.</para>
+<para id="fs-id1167742464102">For example, the naturally occurring antibiotic synthesis pathways of various <term class="no-emphasis"><emphasis effect="italics">Streptomyces</emphasis></term> spp., long known for their antibiotic production capabilities, can be modified to improve yields or to create new antibiotics through the introduction of genes encoding additional enzymes. More than 200 new antibiotics have been generated through the targeted inactivation of genes and the novel combination of antibiotic synthesis genes in antibiotic-producing <emphasis effect="italics">Streptomyces</emphasis> hosts.<footnote id="fs-id1167742447308">Jose-Luis Adrio and Arnold L. Demain. “Recombinant Organisms for Production of Industrial Products.” <emphasis effect="italics">Bioengineered Bugs 1</emphasis> no. 2 (2010): 116–131.</footnote></para>
+<para id="fs-id1167742343130">Genetic engineering is also used to manufacture <term class="no-emphasis">subunit vaccines</term>, which are safer than other vaccines because they contain only a single antigenic molecule and lack any part of the genome of the pathogen (see <link document="m58888">Vaccines</link>). For example, a vaccine for hepatitis B is created by inserting a gene encoding a hepatitis B surface protein into a yeast; the yeast then produces this protein, which the human immune system recognizes as an antigen. The hepatitis B antigen is purified from yeast cultures and administered to patients as a vaccine. Even though the vaccine does not contain the hepatitis B virus, the presence of the antigenic protein stimulates the immune system to produce antibodies that will protect the patient against the virus in the event of exposure.<footnote id="fs-id1167742404528">U.S. Department of Health and Human Services. “Types of Vaccines.” 2013. http://www.vaccines.gov/more_info/types/#subunit. Accessed May 27, 2016.</footnote> <footnote id="fs-id1167742330838">The Internet Drug List. <emphasis effect="italics">Recombivax</emphasis>. 2015. http://www.rxlist.com/recombivax-drug.htm. Accessed May 27, 2016.</footnote></para>
+<para id="fs-id1167742494188">Genetic engineering has also been important in the production of other therapeutic proteins, such as <term class="no-emphasis">insulin</term>, <term class="no-emphasis">interferons</term>, and <term class="no-emphasis">human growth hormone</term>, to treat a variety of human medical conditions. For example, at one time, it was possible to treat diabetes only by giving patients pig insulin, which caused allergic reactions due to small differences between the proteins expressed in human and pig insulin. However, since 1978, recombinant DNA technology has been used to produce large-scale quantities of human insulin using <emphasis effect="italics">E. coli</emphasis> in a relatively inexpensive process that yields a more consistently effective pharmaceutical product. Scientists have also genetically engineered <emphasis effect="italics">E. coli</emphasis> capable of producing human growth hormone (HGH), which is used to treat growth disorders in children and certain other disorders in adults. The HGH gene was cloned from a cDNA library and inserted into <emphasis effect="italics">E. coli</emphasis> cells by cloning it into a bacterial vector. Eventually, genetic engineering will be used to produce <term class="no-emphasis">DNA vaccines</term> and various gene therapies, as well as customized medicines for fighting cancer and other diseases.</para>
+<table id="fs-id1167742466149" summary="Some genetically engineered pharmaceuticals and applications. Atrial natriuretic peptide: Treatment of heart disease (e.g., congestive heart failure), kidney disease, high blood pressure. DNase: Treatment of viscous lung secretions in cystic fibrosis. Erythropoietin: Treatment of severe anemia with kidney damage. Factor VIII: Treatment of hemophilia. Hepatitis B vaccine: Prevention of hepatitis B infection. Human growth hormone: Treatment of growth hormone deficiency, Turner’s syndrome, burns. Human insulin: Treatment of diabetes. Interferons: Treatment of multiple sclerosis, various cancers (e.g., melanoma), viral infections (e.g., Hepatitis B and C). Tetracenomycins: Used as antibiotics. Tissue plasminogen activator: Treatment of pulmonary embolism in ischemic stroke, myocardial infarction." class="span-all">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="middle" align="center" namest="c1" nameend="c2">Some Genetically Engineered Pharmaceutical Products and Applications</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="center">Recombinant DNA Product</entry>
+<entry valign="middle" align="center">Application</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="middle" align="left">Atrial natriuretic peptide</entry>
+<entry valign="middle" align="left">Treatment of heart disease (e.g., congestive heart failure), kidney disease, high blood pressure</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">DNase</entry>
+<entry valign="middle" align="left">Treatment of viscous lung secretions in cystic fibrosis</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">Erythropoietin</entry>
+<entry valign="middle" align="left">Treatment of severe anemia with kidney damage</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">Factor VIII</entry>
+<entry valign="middle" align="left">Treatment of hemophilia</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">Hepatitis B vaccine</entry>
+<entry valign="middle" align="left">Prevention of hepatitis B infection</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">Human growth hormone</entry>
+<entry valign="middle" align="left">Treatment of growth hormone deficiency, Turner’s syndrome, burns</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">Human insulin</entry>
+<entry valign="middle" align="left">Treatment of diabetes</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">Interferons</entry>
+<entry valign="middle" align="left">Treatment of multiple sclerosis, various cancers (e.g., melanoma), viral infections (e.g., Hepatitis B and C)</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">Tetracenomycins</entry>
+<entry valign="middle" align="left">Used as antibiotics</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">Tissue plasminogen activator</entry>
+<entry valign="middle" align="left">Treatment of pulmonary embolism in ischemic stroke, myocardial infarction</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1167742448741" class="microbiology check-your-understanding">
+<list id="fs-id1167742506706" list-type="bulleted" bullet-style="bullet">
+<item>What bacterium has been genetically engineered to produce human insulin for the treatment of diabetes?</item>
+<item>Explain how microorganisms can be engineered to produce vaccines.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167742359928">
+<title>RNA Interference Technology</title>
+<para id="fs-id1167742442208">In <link document="m58837">Structure and Function of RNA</link>, we described the function of mRNA, rRNA, and tRNA. In addition to these types of RNA, cells also produce several types of small noncoding RNA molecules that are involved in the regulation of gene expression. These include <term>antisense RNA</term> molecules, which are complementary to regions of specific mRNA molecules found in both prokaryotes and eukaryotic cells. Non-coding RNA molecules play a major role in <term>RNA interference (RNAi)</term>, a natural regulatory mechanism by which mRNA molecules are prevented from guiding the synthesis of proteins. RNA interference of specific genes results from the base pairing of short, single-stranded antisense RNA molecules to regions within complementary mRNA molecules, preventing protein synthesis. Cells use RNA interference to protect themselves from viral invasion, which may introduce double-stranded RNA molecules as part of the viral replication process (<link target-id="OSC_Microbio_12_03_Noncoding"/>).</para>
+<figure id="OSC_Microbio_12_03_Noncoding">
+<media id="fs-id1167742508773" alt="A eukaryotic cell transcribes a region of DNA into mrNA. Antisense mRNA then binds to the this mRNA to produce a double stranded region. This region is not translated (which means that ribosomes do not bind to the mRNA to produce proteins).">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_12_03_Noncoding.jpg"/>
+</media>
+<caption>Cells like the eukaryotic cell shown in this diagram commonly make small antisense RNA molecules with sequences complementary to specific mRNA molecules. When an antisense RNA molecule is bound to an mRNA molecule, the mRNA can no longer be used to direct protein synthesis. (credit: modification of work by Robinson R)</caption>
+</figure>
+<para id="fs-id1167742480670">Researchers are currently developing techniques to mimic the natural process of RNA interference as a way to treat viral infections in eukaryotic cells. RNA interference technology involves using small interfering RNAs (siRNAs) or microRNAs (miRNAs) (<link target-id="OSC_Microbio_12_03_siRNA"/>). siRNAs are completely complementary to the mRNA transcript of a specific gene of interest while miRNAs are mostly complementary. These double-stranded RNAs are bound to DICER, an endonuclease that cleaves the RNA into short molecules (approximately 20 nucleotides long). The RNAs are then bound to RNA-induced silencing complex (RISC), a ribonucleoprotein. The siRNA-RISC complex binds to mRNA and cleaves it. For miRNA, only one of the two strands binds to RISC. The miRNA-RISC complex then binds to mRNA, inhibiting translation. If the miRNA is completely complementary to the target gene, then the mRNA can be cleaved. Taken together, these mechanisms are known as <term>gene silencing</term>.</para>
+<figure id="OSC_Microbio_12_03_siRNA">
+<media id="fs-id1167742688076" alt="Double stranded RNA can be produced from DNA in the nucleus. Dicer than cuts this dsRNA into either miRNA or siRNA. miRNA is an imperfect match and only one strand is usually incorporated into RISC. This blocks translation but the mRNA is stable. The RISC is stuck on the target. The siRNA has a perfect match and is incorporated into RISC. This triggers mRNA cleavage.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_12_03_siRNA.jpg"/>
+</media>
+<caption>This diagram illustrates the process of using siRNA or miRNA in a eukaryotic cell to silence genes involved in the pathogenesis of various diseases. (credit: modification of work by National Center for Biotechnology Information)</caption>
+</figure>
+</section>
+<section id="fs-id1167742449598" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167742466398" list-type="bulleted" bullet-style="bullet">
+<item>The science of <emphasis effect="bold">genomics</emphasis> allows researchers to study organisms on a holistic level and has many applications of medical relevance.</item>
+<item><emphasis effect="bold">Transcriptomics</emphasis> and <emphasis effect="bold">proteomics</emphasis> allow researchers to compare gene expression patterns between different cells and shows great promise in better understanding global responses to various conditions.</item>
+<item>The various –omics technologies complement each other and together provide a more complete picture of an organism’s or microbial community’s (<emphasis effect="bold">metagenomics</emphasis>) state.</item>
+<item>The analysis required for large data sets produced through genomics, transcriptomics, and <emphasis effect="bold">proteomics</emphasis> has led to the emergence of <emphasis effect="bold">bioinformatics</emphasis>.</item>
+<item><emphasis effect="bold">Reporter genes</emphasis> encoding easily observable characteristics are commonly used to track gene expression patterns of genes of unknown function.</item>
+<item>The use of recombinant DNA technology has revolutionized the pharmaceutical industry, allowing for the rapid production of high-quality <emphasis effect="bold">recombinant DNA pharmaceuticals</emphasis> used to treat a wide variety of human conditions.</item>
+<item><emphasis effect="bold">RNA interference</emphasis> technology has great promise as a method of treating viral infections by silencing the expression of specific genes</item>
+</list>
+</section>
+<section id="fs-id1167742485188" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167742824998">
+<problem id="fs-id1167742403541">
+<para id="fs-id1167742615417">The science of studying the entire collection of mRNA molecules produced by cells, allowing scientists to monitor differences in gene expression patterns between cells, is called:</para>
+<list id="fs-id1167742482786" list-type="enumerated" number-style="lower-alpha">
+<item>genomics</item>
+<item>transcriptomics</item>
+<item>proteomics</item>
+<item>pharmacogenomics</item>
+</list>
+</problem>
+<solution id="fs-id1167742359196">
+<para id="fs-id1167742403520">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167742394023">
+<problem id="fs-id1167742403495">
+<para id="fs-id1167742445762">The science of studying genomic fragments from microbial communities, allowing researchers to study genes from a collection of multiple species, is called:</para>
+<list id="fs-id1167742418139" list-type="enumerated" number-style="lower-alpha">
+<item>pharmacogenomics</item>
+<item>transcriptomics</item>
+<item>metagenomics</item>
+<item>proteomics</item>
+</list>
+</problem>
+<solution id="fs-id1167742685187">
+<para id="fs-id1167742746193">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167742346689">
+<problem id="fs-id1167742477533">
+<para id="fs-id1167742403298">The insulin produced by recombinant DNA technology is</para>
+<list id="fs-id1167742577097" list-type="enumerated" number-style="lower-alpha">
+<item>a combination of <emphasis effect="italics">E. coli</emphasis> and human insulin.</item>
+<item>identical to human insulin produced in the pancreas.</item>
+<item>cheaper but less effective than pig insulin for treating diabetes.</item>
+<item>engineered to be more effective than human insulin.</item>
+</list>
+</problem>
+<solution id="fs-id1167742645824">
+<para id="fs-id1167742404012">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167742720172" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167742495978">
+<problem id="fs-id1167742415766">
+<para id="fs-id1167742481928">The application of genomics to evaluate the effectiveness and safety of drugs on the basis of information from an individual’s genomic sequence is called ____________.</para>
+</problem>
+<solution id="fs-id1167742439991">
+<para id="fs-id1167742641709">pharmacogenomics or toxicogenomics</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167742455631">
+<problem id="fs-id1167742445811">
+<para id="fs-id1167742752069">A gene whose expression can be easily visualized and monitored is called a ________.</para>
+</problem>
+<solution id="fs-id1167742500696">
+<para id="fs-id1167742403308">reporter gene</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167742708510" class="true-false">
+<title>True/False</title>
+<exercise id="fs-id1167742636012">
+<problem id="fs-id1167742477141">
+<para id="fs-id1167742432742">RNA interference does not influence the sequence of genomic DNA.</para>
+</problem>
+<solution id="fs-id1167742380841">
+<para id="fs-id1167742486336">true</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167742603231" class="short-answer">
+<title>Short answer</title>
+<exercise id="fs-id1167742469425">
+<problem id="fs-id1167742365864">
+<para id="fs-id1167742594929">If all cellular proteins are encoded by the cell’s genes, what information does proteomics provide that genomics cannot?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167742654967" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167742491427">
+<problem id="fs-id1167742750100">
+<para id="fs-id1167742386391">What are some advantages of cloning human genes into bacteria to treat human diseases caused by specific protein deficiencies?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+
+</document>

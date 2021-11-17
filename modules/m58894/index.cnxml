@@ -1,0 +1,174 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Organ Transplantation and Rejection</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58894</md:content-id>
+  <md:title>Organ Transplantation and Rejection</md:title>
+  <md:abstract/>
+  <md:uuid>54466cdb-b725-4f40-aa8e-ea122af62c72</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167661253817" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167663662267">
+<item>Explain why human leukocyte antigens (HLAs) are important in tissue transplantation</item>
+<item>Explain the types of grafts possible and their potential for interaction with the immune system</item>
+<item>Describe what occurs during graft-versus-host disease (GVHD)</item>
+</list>
+</section>
+<para id="fs-id1167661352930">A <term class="no-emphasis">graft</term> is the <term class="no-emphasis">transplantation</term> of an organ or tissue to a different location, with the goal of replacing a missing or damaged organ or tissue. Grafts are typically moved without their attachments to the circulatory system and must reestablish these, in addition to the other connections and interactions with their new surrounding tissues. There are different types of grafts depending on the source of the new tissue or organ. Tissues that are transplanted from one genetically distinct individual to another within the same species are called <term>allograft</term><emphasis effect="bold">s</emphasis>. An interesting variant of the allograft is an <term>isograft</term>, in which tissue from one twin is transplanted to another. As long as the twins are <term class="no-emphasis">monozygotic</term> (therefore, essentially genetically identical), the transplanted tissue is virtually never rejected. If tissues are transplanted from one area on an individual to another area on the same individual (e.g., a skin graft on a burn patient), it is known as an <term>autograft</term>. If tissues from an animal are transplanted into a human, this is called a <term>xenograft</term>.</para>
+<section id="fs-id1167661745134">
+<title>Transplant Rejection</title>
+<para id="fs-id1167661437218">The different types of grafts described above have varying risks for rejection (<link target-id="fs-id1167661260223"/>). Rejection occurs when the recipient’s immune system recognizes the donor tissue as foreign (non-self), triggering an immune response. The <term class="no-emphasis">major histocompatibility complex markers</term> <term class="no-emphasis">MHC I</term> and <term class="no-emphasis">MHC II</term>, more specifically identified as <term class="no-emphasis">human leukocyte antigens (HLAs)</term>, play a role in transplant rejection. The HLAs expressed in tissue transplanted from a genetically different individual or species may be recognized as non-self molecules by the host’s <term class="no-emphasis">dendritic cells</term>. If this occurs, the dendritic cells will process and present the foreign HLAs to the host’s helper T cells and cytotoxic T cells, thereby activating them. Cytotoxic T cells then target and kill the grafted cells through the same mechanism they use to kill virus-infected cells; helper T cells may also release cytokines that activate macrophages to kill graft cells.</para>
+<table id="fs-id1167661260223" summary="Table titled: Types of Tissue and Organ Grafts and Their Complications. Columns: Graft; Procedure; Complications. Autograft: From self to self; No rejection concerns. Isograft: From identical twin to twin; Little concern of rejection. Allograft: From relative or nonrelative to individual; Rejection possible. Xenograft: From animal to human; Rejection possible.">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c3">Types of Tissue and Organ Grafts and Their Complications</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Graft</entry>
+<entry valign="top" align="left">Procedure</entry>
+<entry valign="top" align="left">Complications</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Autograft</entry>
+<entry valign="top" align="left">From self to self</entry>
+<entry valign="top" align="left">No rejection concerns</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Isograft</entry>
+<entry valign="top" align="left">From identical twin to twin</entry>
+<entry valign="top" align="left">Little concern of rejection</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Allograft</entry>
+<entry valign="top" align="left">From relative or nonrelative to individual</entry>
+<entry valign="top" align="left">Rejection possible</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Xenograft</entry>
+<entry valign="top" align="left">From animal to human</entry>
+<entry valign="top" align="left">Rejection possible</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1167661542177">With the three highly polymorphic MHC I genes in humans (<emphasis effect="italics">HLA-A</emphasis>, <emphasis effect="italics">HLA-B</emphasis>, and <emphasis effect="italics">HLA-C</emphasis>) determining compatibility, each with many alleles segregating in a population, odds are extremely low that a randomly chosen donor will match a recipient's six-allele genotype (the two alleles at each locus are expressed codominantly). This is why a parent or a sibling may be the best donor in many situations—a genetic match between the MHC genes is much more likely and the organ is much less likely to be rejected.</para>
+<para id="fs-id1167661535232">Although matching all of the MHC genes can lower the risk for rejection, there are a number of additional gene products that also play a role in stimulating responses against grafted tissue. Because of this, no non-self grafted tissue is likely to completely avoid rejection. However, the more similar the MHC gene match, the more likely the graft is to be tolerated for a longer time. Most transplant recipients, even those with tissues well matched to their MHC genes, require treatment with <term class="no-emphasis">immunosuppressant drug</term>s for the rest of their lives. This can make them more vulnerable than the general population to complications from infectious diseases. It can also result in transplant-related malignancies because the body’s normal defenses against <term class="no-emphasis">cancer</term> cells are being suppressed.</para>
+<note id="fs-id1167663885136" class="microbiology check-your-understanding">
+<list id="fs-id1167661736310" list-type="bulleted" bullet-style="bullet">
+<item>What part of the immune response is responsible for graft rejection?</item>
+<item>Explain why blood relatives are preferred as organ donors.</item>
+<item>Describe the role of immunosuppression in transplantation.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167661367938">
+<title>Graft-versus-Host Disease</title>
+<para id="fs-id1167663537564">A form of rejection called <term>graft-versus-host disease (GVHD)</term> primarily occurs in recipients of <term class="no-emphasis">bone marrow transplant</term>s and peripheral blood stem cells. GHVD presents a unique situation because the transplanted tissue is capable of producing immune cells; APCs in the donated bone marrow may recognize the host cells as non-self, leading to activation of the donor cytotoxic T cells. Once activated, the donor’s T cells attack the recipient cells, causing <term class="no-emphasis">acute GVHD</term>.</para>
+<para id="fs-id1167661751507">Acute GVHD typically develops within weeks after a bone marrow transplant, causing tissue damage affecting the skin, gastrointestinal tract, liver, and eyes. In addition, acute GVHD may also lead to a <term class="no-emphasis">cytokine storm</term>, an unregulated secretion of cytokines that may be fatal. In addition to acute GVHD, there is also the risk for <term class="no-emphasis">chronic GVHD</term> developing months after the bone marrow transplant. The mechanisms responsible for chronic GVHD are not well understood.</para>
+<para id="fs-id1167663894659">To minimize the risk of GVHD, it is critically important to match the HLAs of the host and donor as closely as possible in bone marrow transplants. In addition, the donated bone marrow is processed before grafting to remove as many donor APCs and T cells as possible, leaving mostly <term class="no-emphasis">hematopoietic stem cell</term>s.</para>
+<note id="fs-id1167661466379" class="microbiology check-your-understanding">
+<list id="fs-id1167663529620" list-type="bulleted" bullet-style="bullet">
+<item>Why does GVHD occur in specifically in bone marrow transplants?</item>
+<item>What cells are responsible for GVHD?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167661436702">
+<title>The Future of Transplantation</title>
+<para id="fs-id1167663887386">Historically speaking, the practice of transplanting tissues—and the complications that can accompany such procedures—is a relatively recent development. It was not until 1954 that the first successful organ transplantation between two humans was achieved. Yet the field of organ transplantation has progressed rapidly since that time.</para>
+<para id="fs-id1167663860443">Nonetheless, the practice of transplanting non-self tissues may soon become obsolete. Scientists are now attempting to develop methods by which new organs may be grown <emphasis effect="italics">in vitro</emphasis> from an individual’s own harvested cells to replace damaged or abnormal ones. Because organs produced in this way would contain the individual’s own cells, they could be transplanted into the individual without risk for rejection.</para>
+<para id="fs-id1167661428885">An alternative approach that is gaining renewed research interest is genetic modification of donor animals, such as pigs, to provide transplantable organs that do not elicit an immune response in the recipient. The approach involves excising the genes in the pig (in the embryo) that are most responsible for the rejection reaction after transplantation. Finding these genes and effectively removing them is a challenge, however. So too is identifying and neutralizing risks from viral sequences that might be embedded in the pig genome, posing a risk for infection in the human recipient.</para>
+<note id="fs-id1167663809884" class="microbiology link-to-learning">
+
+<para id="fs-id1167661349274">There are currently more than a dozen different tissues and organs used in human transplantations. Learn more about them at <link url="https://openstax.org/l/22organstransp">this</link> website.</para>
+</note>
+<note id="fs-id1167661506571" class="microbiology clinical-focus">
+<title>Resolution</title>
+<para id="fs-id1167663735886">Kerry's tests come back positive, confirming a diagnosis of <term class="no-emphasis">lupus</term>, a disease that occurs 10 times more frequently in women than men. SLE cannot be cured, but there are various therapies available for reducing and managing its symptoms. Specific therapies are prescribed based on the particular symptoms presenting in the patient. Kerry's rheumatologist starts her therapy with a low dose of <term class="no-emphasis">corticosteroid</term>s to reduce her rashes. She also prescribes a low dose of hydroxychloroquine, an anti-inflammatory drug that is used to treat inflammation in patients with RA, childhood arthritis, SLE, and other autoimmune diseases. Although the mechanism of action of hydroxychloroquine is not well defined, it appears that this drug interferes with the processes of antigen processing and activation of autoimmunity. Because of its mechanism, the effects of hydroxychloroquine are not as immediate as that of other anti-inflammatory drugs, but it is still considered a good companion therapy for SLE. Kerry’s doctor also advises her to limit her exposure to sunlight, because photosensitivity to sunlight may precipitate rashes.</para>
+<para id="fs-id1167663653189">Over the next 6 months, Kerry follows her treatment plan and her symptoms do not return. However, future flare-ups are likely to occur. She will need to continue her treatment for the rest of her life and seek medical attention whenever new symptoms develop.</para>
+<para id="fs-id1167663988946"><emphasis effect="italics">Go back to the <link target-id="fs-id1167663642144" document="m58892">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+<section id="fs-id1167661617614" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167661275169" list-type="bulleted" bullet-style="bullet">
+<item>Grafts and transplants can be classified as <emphasis effect="bold">autografts</emphasis>, <emphasis effect="bold">isografts, allografts</emphasis>, or <emphasis effect="bold">xenografts</emphasis> based on the genetic differences between the donor’s and recipient’s tissues.</item>
+<item>Genetic differences, especially among the MHC (HLA) genes, will dictate the likelihood that <emphasis effect="bold">rejection</emphasis> of the transplanted tissue will occur.</item>
+<item>Transplant recipients usually require immunosuppressive therapy to avoid rejection, even with good genetic matching. This can create additional problems when immune responses are needed to fight off infectious agents and prevent cancer.</item>
+<item><emphasis effect="bold">Graft-versus-host disease</emphasis> can occur in bone marrow transplants, as the mature T cells in the transplant itself recognize the recipient’s tissues as foreign.</item>
+<item>Transplantation methods and technology have improved greatly in recent decades and may move into new areas with the use of stem cell technology to avoid the need for genetic matching of MHC molecules.</item>
+</list>
+</section>
+<section id="fs-id1167663618713" class="matching">
+<title>Matching</title>
+<exercise id="fs-id1167661294027">
+<problem id="fs-id1167661553883">
+<para id="fs-id1167663893034">Match the graft with its description.</para>
+<table id="fs-id1167661748993" class="unnumbered unstyled" summary="Autograft; allograft; xenograft; isograft. A. characterized by a donor being of a different species than the recipient.  B. characterized by a graft from one area of an individual to another area of the same individual. C. characterized by the donor being an identical twin of the recipient. D. characterized by a donor being of the same species as the recipient, but genetically different.">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">___autograft</entry>
+<entry valign="top" align="left">A. donor is a different species than the recipient</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___allograft</entry>
+<entry valign="top" align="left">B. donor and recipient are the same individual</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___xenograft</entry>
+<entry valign="top" align="left">C. donor is an identical twin of the recipient</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___isograft</entry>
+<entry valign="top" align="left">D. donor is the same species as the recipient, but genetically different</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+<solution id="fs-id1167661551394">
+<para id="fs-id1167661439559">B, D, A, C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167661430772" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167663970082">
+<problem id="fs-id1167661443889">
+<para id="fs-id1167661743336">For a transplant to have the best chances of avoiding rejection, the genes coding for the ________ molecules should be closely matched between donor and recipient.</para>
+</problem>
+<solution id="fs-id1167661645545">
+<para id="fs-id1167663740492">MHC</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663875007">
+<problem id="fs-id1167663544564">
+<para id="fs-id1167663742772">Because it is a “transplant” that can include APCs and T cells from the donor, a bone marrow transplant may induce a very specific type of rejection known as ________ disease.</para>
+</problem>
+<solution id="fs-id1167661288470">
+<para id="fs-id1167663670135">graft-versus-host</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167661759067" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167663970699">
+<problem id="fs-id1167661552008">
+<para id="fs-id1167663503207">Why is a parent usually a better match for transplanted tissue to a donor than a random individual of the same species?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

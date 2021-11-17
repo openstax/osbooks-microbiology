@@ -1,0 +1,241 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Foundations of Modern Cell Theory</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58791</md:content-id>
+  <md:title>Foundations of Modern Cell Theory</md:title>
+  <md:abstract/>
+  <md:uuid>19c787d3-37f9-43ca-97bf-5920459c1c1f</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1172098448739" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1172098261441">
+<item>Explain the key points of cell theory and the individual contributions of Hooke, Schleiden, Schwann, Remak, and Virchow</item>
+<item>Explain the key points of endosymbiotic theory and cite the evidence that supports this concept</item>
+<item>Explain the contributions of Semmelweis, Snow, Pasteur, Lister, and Koch to the development of germ theory</item>
+</list>
+</section>
+<para id="fs-id1172100937649">While some scientists were arguing over the theory of spontaneous generation, other scientists were making discoveries leading to a better understanding of what we now call the <term class="no-emphasis">cell theory</term>. Modern cell theory has two basic tenets:</para>
+<list id="fs-id1172098316816" list-type="bulleted" bullet-style="bullet">
+<item>All cells only come from other cells (the principle of biogenesis).</item>
+<item>Cells are the fundamental units of organisms.</item>
+</list>
+<para id="fs-id1172100632809">Today, these tenets are fundamental to our understanding of life on earth. However, modern cell theory grew out of the collective work of many scientists.</para>
+<section id="fs-id1172100882073">
+<title>The Origins of Cell Theory</title>
+<para id="fs-id1172098447870">The English scientist Robert <term class="no-emphasis">Hooke</term> first used the term “cells” in 1665 to describe the small chambers within cork that he observed under a microscope of his own design. To Hooke, thin sections of cork resembled “Honey-comb,” or “small Boxes or Bladders of Air.” He noted that each “Cavern, Bubble, or Cell” was distinct from the others (<link target-id="OSC_Microbio_03_02_Hooke"/>). At the time, Hooke was not aware that the cork cells were long dead and, therefore, lacked the internal structures found within living cells.</para>
+<figure id="OSC_Microbio_03_02_Hooke">
+<media id="fs-id1172100916192" alt="A drawing make by Hooke that shows many small rectangles in rows making up larger structures.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_03_02_Hooke.jpg"/>
+</media>
+<caption>Robert Hooke (1635–1703) was the first to describe cells based upon his microscopic observations of cork. This illustration was published in his work <emphasis effect="italics">Micrographia</emphasis>.</caption>
+</figure>
+<para id="fs-id1172100626240">Despite Hooke’s early description of cells, their significance as the fundamental unit of life was not yet recognized. Nearly 200 years later, in 1838, Matthias <term class="no-emphasis">Schleiden</term> (1804–1881), a German botanist who made extensive microscopic observations of plant tissues, described them as being composed of cells. Visualizing plant cells was relatively easy because plant cells are clearly separated by their thick cell walls. Schleiden believed that cells formed through crystallization, rather than cell division.</para>
+<para id="fs-id1172100960351">Theodor <term class="no-emphasis">Schwann</term> (1810–1882), a noted German physiologist, made similar microscopic observations of animal tissue. In 1839, after a conversation with Schleiden, Schwann realized that similarities existed between plant and animal tissues. This laid the foundation for the idea that cells are the fundamental components of plants and animals.</para>
+<para id="fs-id1172100993338">In the 1850s, two Polish scientists living in Germany pushed this idea further, culminating in what we recognize today as the modern cell theory. In 1852, Robert <term class="no-emphasis">Remak</term> (1815–1865), a prominent neurologist and embryologist, published convincing evidence that cells are derived from other cells as a result of cell division. However, this idea was questioned by many in the scientific community. Three years later, Rudolf <term class="no-emphasis">Virchow</term> (1821–1902), a well-respected pathologist, published an editorial essay entitled “Cellular Pathology,” which popularized the concept of cell theory using the Latin phrase <emphasis effect="italics">omnis cellula a cellula</emphasis> (“all cells arise from cells”), which is essentially the second tenet of modern cell theory.<footnote id="fs-id1172100660740">M. Schultz. “Rudolph Virchow.” <emphasis effect="italics">Emerging Infectious Diseases</emphasis> 14 no. 9 (2008):1480–1481.</footnote> Given the similarity of Virchow’s work to Remak’s, there is some controversy as to which scientist should receive credit for articulating cell theory. See the following Eye on Ethics feature for more about this controversy.</para>
+<note id="fs-id1172098457285" class="microbiology eye-on-ethics">
+<title>Science and Plagiarism</title>
+<para id="fs-id1172100959368">Rudolf Virchow, a prominent, Polish-born, German scientist, is often remembered as the “Father of Pathology.” Well known for innovative approaches, he was one of the first to determine the causes of various diseases by examining their effects on tissues and organs. He was also among the first to use animals in his research and, as a result of his work, he was the first to name numerous diseases and created many other medical terms. Over the course of his career, he published more than 2,000 papers and headed various important medical facilities, including the Charité – Universitätsmedizin Berlin, a prominent Berlin hospital and medical school. But he is, perhaps, best remembered for his 1855 editorial essay titled “Cellular Pathology,” published in <emphasis effect="italics">Archiv für Pathologische Anatomie und Physiologie</emphasis>, a journal that Virchow himself cofounded and still exists today.</para>
+<para id="fs-id1172098565430">Despite his significant scientific legacy, there is some controversy regarding this essay, in which Virchow proposed the central tenet of modern cell theory—that all cells arise from other cells. Robert Remak, a former colleague who worked in the same laboratory as Virchow at the University of Berlin, had published the same idea 3 years before. Though it appears Virchow was familiar with Remak’s work, he neglected to credit Remak’s ideas in his essay. When Remak wrote a letter to Virchow pointing out similarities between Virchow’s ideas and his own, Virchow was dismissive. In 1858, in the preface to one of his books, Virchow wrote that his 1855 publication was just an editorial piece, not a scientific paper, and thus there was no need to cite Remak’s work.</para>
+<para id="fs-id1172098311964">By today’s standards, Virchow’s editorial piece would certainly be considered an act of plagiarism, since he presented Remak’s ideas as his own. However, in the 19th century, standards for academic integrity were much less clear. Virchow’s strong reputation, coupled with the fact that Remak was a Jew in a somewhat anti-Semitic political climate, shielded him from any significant repercussions. Today, the process of peer review and the ease of access to the scientific literature help discourage plagiarism. Although scientists are still motivated to publish original ideas that advance scientific knowledge, those who would consider plagiarizing are well aware of the serious consequences.</para>
+<para id="fs-id1172100666776">In academia, plagiarism represents the theft of both individual thought and research—an offense that can destroy reputations and end careers.<footnote id="fs-id1172100532060">B. Kisch. “Forgotten Leaders in Modern Medicine, Valentin, Gouby, Remak, Auerbach.” <emphasis effect="italics">Transactions of the American Philosophical Society</emphasis> 44 (1954):139–317.</footnote> <footnote id="fs-id1172100575894">H. Harris. <emphasis effect="italics">The Birth of the Cell</emphasis>. New Haven, CT: Yale University Press, 2000:133.</footnote> <footnote id="fs-id1172100595446">C. Webster (ed.). <emphasis effect="italics">Biology, Medicine and Society 1840-1940</emphasis>. Cambridge, UK; Cambridge University Press, 1981:118–119.</footnote> <footnote id="fs-id1172100894436">C. Zuchora-Walske. <emphasis effect="italics">Key Discoveries in Life Science</emphasis>. Minneapolis, MN: Lerner Publishing, 2015:12–13.</footnote></para>
+<figure id="OSC_Microbio_03_02_VirchowRem">
+<media id="fs-id1172100536918" alt="a) Photo of Rudolf Virchow. B) Photo of Robert Remak">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_03_02_VirchowRem.jpg"/>
+</media>
+<caption>(a) Rudolf Virchow (1821–1902) popularized the cell theory in an 1855 essay entitled “Cellular Pathology<emphasis effect="italics">.”</emphasis> (b) The idea that all cells originate from other cells was first published in 1852 by his contemporary and former colleague Robert Remak (1815–1865).</caption>
+</figure>
+</note>
+<note id="fs-id1172100961567" class="microbiology check-your-understanding">
+<list id="fs-id1172102027496" list-type="bulleted" bullet-style="bullet">
+<item>What are the key points of the cell theory?</item>
+<item>What contributions did Rudolf Virchow and Robert Remak make to the development of the cell theory?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172100594561">
+<title>Endosymbiotic Theory</title>
+<para id="fs-id1172098395668">As scientists were making progress toward understanding the role of cells in plant and animal tissues, others were examining the structures within the cells themselves. In 1831, Scottish botanist Robert <term class="no-emphasis">Brown</term> (1773–1858) was the first to describe observations of nuclei, which he observed in plant cells. Then, in the early 1880s, German botanist Andreas <term class="no-emphasis">Schimper</term> (1856–1901) was the first to describe the chloroplasts of plant cells, identifying their role in starch formation during photosynthesis and noting that they divided independent of the nucleus.</para>
+<para id="fs-id1172098524287">Based upon the chloroplasts’ ability to reproduce independently, Russian botanist Konstantin <term class="no-emphasis">Mereschkowski</term> (1855–1921) suggested in 1905 that chloroplasts may have originated from ancestral photosynthetic bacteria living symbiotically inside a eukaryotic cell. He proposed a similar origin for the nucleus of plant cells. This was the first articulation of the <term class="no-emphasis">endosymbiotic hypothesis</term>, and would explain how eukaryotic cells evolved from ancestral bacteria.</para>
+<para id="fs-id1172098528019">Mereschkowski’s endosymbiotic hypothesis was furthered by American anatomist Ivan <term class="no-emphasis">Wallin</term> (1883–1969), who began to experimentally examine the similarities between mitochondria, chloroplasts, and bacteria—in other words, to put the endosymbiotic hypothesis to the test using objective investigation. Wallin published a series of papers in the 1920s supporting the endosymbiotic hypothesis, including a 1926 publication co-authored with Mereschkowski. Wallin claimed he could culture mitochondria outside of their eukaryotic host cells. Many scientists dismissed his cultures of mitochondria as resulting from bacterial contamination. Modern genome sequencing work supports the dissenting scientists by showing that much of the genome of mitochondria had been transferred to the host cell’s nucleus, preventing the mitochondria from being able to live on their own.<footnote id="fs-id1172100617815">T. Embley, W. Martin. “Eukaryotic Evolution, Changes, and Challenges.” <emphasis effect="italics">Nature</emphasis> Vol. 440 (2006):623–630.</footnote> <footnote id="fs-id1172098267665">O.G. Berg, C.G. Kurland. “Why Mitochondrial Genes Are Most Often Found in Nuclei.” <emphasis effect="italics">Molecular Biology and Evolution</emphasis> 17 no. 6 (2000):951–961.</footnote></para>
+<para id="fs-id1172098320157">Wallin’s ideas regarding the endosymbiotic hypothesis were largely ignored for the next 50 years because scientists were unaware that these organelles contained their own DNA. However, with the discovery of mitochondrial and chloroplast DNA in the 1960s, the endosymbiotic hypothesis was resurrected. Lynn <term class="no-emphasis">Margulis</term> (1938–2011), an American geneticist, published her ideas regarding the endosymbiotic hypothesis of the origins of mitochondria and chloroplasts in 1967.<footnote id="fs-id1172098382279">L. <emphasis effect="italics">Sagan. “On the Origin of Mitosing Cells.” Journal of Theoretical Biology 14 no. 3 (1967):225–274.</emphasis></footnote> In the decade leading up to her publication, advances in microscopy had allowed scientists to differentiate prokaryotic cells from eukaryotic cells. In her publication, Margulis reviewed the literature and argued that the eukaryotic organelles such as mitochondria and chloroplasts are of prokaryotic origin. She presented a growing body of microscopic, genetic, molecular biology, fossil, and geological data to support her claims.</para>
+<para id="fs-id1172098276894">Again, this hypothesis was not initially popular, but mounting genetic evidence due to the advent of DNA sequencing supported the <term>endosymbiotic theory</term>, which is now defined as the theory that mitochondria and chloroplasts arose as a result of prokaryotic cells establishing a symbiotic relationship within a eukaryotic host (<link target-id="OSC_Microbio_03_02_Endosymbio"/>). With Margulis’ initial endosymbiotic theory gaining wide acceptance, she expanded on the theory in her 1981 book <emphasis effect="italics">Symbiosis in Cell Evolution</emphasis>. In it, she explains how endosymbiosis is a major driving factor in the evolution of organisms. More recent genetic sequencing and phylogenetic analysis show that mitochondrial DNA and chloroplast DNA are highly related to their bacterial counterparts, both in DNA sequence and chromosome structure. However, mitochondrial DNA and chloroplast DNA are reduced compared with nuclear DNA because many of the genes have moved from the organelles into the host cell’s nucleus. Additionally, mitochondrial and chloroplast ribosomes are structurally similar to bacterial ribosomes, rather than to the eukaryotic ribosomes of their hosts. Last, the binary fission of these organelles strongly resembles the binary fission of bacteria, as compared with mitosis performed by eukaryotic cells. Since Margulis’ original proposal, scientists have observed several examples of bacterial endosymbionts in modern-day eukaryotic cells. Examples include the endosymbiotic bacteria found within the guts of certain insects, such as cockroaches,<footnote id="fs-id1172098275714">A.E. Douglas. “The Microbial Dimension in Insect Nutritional Ecology.” <emphasis effect="italics">Functional Ecology</emphasis> 23 (2009):38–47.</footnote> and photosynthetic bacteria-like organelles found in protists.<footnote id="fs-id1172098510439">J.M. Jaynes, L.P. Vernon. “The Cyanelle of <emphasis effect="italics">Cyanophora paradoxa</emphasis>: Almost a Cyanobacterial Chloroplast.” <emphasis effect="italics">Trends in Biochemical Sciences</emphasis> 7 no. 1 (1982):22–24.</footnote></para>
+<figure id="OSC_Microbio_03_02_Endosymbio">
+<media id="fs-id1172100993018" alt="Diagram of the endosymbiotic theory. Step 1 shows a cell labeled proto-eukaryote; the cell contains an outer membrane and DNA inside. The text reads: infoldings in the plasm amembrane of an ancestral cell gave rise to endomembrane components, including a nucleus and endoplasmic reticulum. The cell now contains DNA within a membrane (the nucleus). Outside are many folds labeled endoplasmic reticulum. Step 2 reads: In a first endosymbiotic event, the ancestral eukaryote consumed aerobic bacteria that evolved into mitochondria. The cell how shows a small oval entering the larger cell; the small oval is labeled aerobic bacterium. Once the small oval is in the cell, it is now labeled mitochondrion. The larger cell is now labeled modern heterotrophic eukaryote.  Step 3 reads: in a second endosymbiotic event, the early eukaryote consumed photosynthetic bacteria that evolved into chloroplast. The cell is shown engulfing another small oval labeled photosynthetic bacterium.  Once the oval is inside the larger cell is now labeled modern photosynthetic eukaryote.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_03_02_Endosymbio.jpg"/>
+</media>
+<caption>According to the endosymbiotic theory, mitochondria and chloroplasts are each derived from the uptake of bacteria. These bacteria established a symbiotic relationship with their host cell that eventually led to the bacteria evolving into mitochondria and chloroplasts.</caption>
+</figure>
+<note id="fs-id1172101006935" class="microbiology check-your-understanding">
+<list id="fs-id1172101716019" list-type="bulleted" bullet-style="bullet">
+<item>What does the modern endosymbiotic theory state?</item>
+<item>What evidence supports the endosymbiotic theory?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172098310775">
+<title>The Germ Theory of Disease</title>
+<para id="fs-id1172098458613">Prior to the discovery of microbes during the 17th century, other theories circulated about the origins of disease. For example, the ancient Greeks proposed the <term class="no-emphasis">miasma theory</term>, which held that disease originated from particles emanating from decomposing matter, such as that in sewage or cesspits. Such particles infected humans in close proximity to the rotting material. Diseases including the Black Death, which ravaged Europe’s population during the Middle Ages, were thought to have originated in this way.</para>
+<para id="fs-id1172098377197">In 1546, Italian physician Girolamo <term class="no-emphasis">Fracastoro</term> proposed, in his essay <emphasis effect="italics">De Contagione</emphasis> <emphasis effect="italics">et Contagiosis Morbis</emphasis>, that seed-like spores may be transferred between individuals through direct contact, exposure to contaminated clothing, or through the air. We now recognize Fracastoro as an early proponent of the <term>germ theory of disease</term>, which states that diseases may result from microbial infection. However, in the 16th century, Fracastoro’s ideas were not widely accepted and would be largely forgotten until the 19th century.</para>
+<para id="fs-id1172100597567">In 1847, Hungarian obstetrician Ignaz <term class="no-emphasis">Semmelweis</term> (<link target-id="OSC_Microbio_03_02_Semmelweis"/>) observed that mothers who gave birth in hospital wards staffed by physicians and medical students were more likely to suffer and die from puerperal fever after childbirth (10%–20% mortality rate) than were mothers in wards staffed by midwives (1% mortality rate). Semmelweis observed medical students performing autopsies and then subsequently carrying out vaginal examinations on living patients without washing their hands in between. He suspected that the students carried disease from the autopsies to the patients they examined. His suspicions were supported by the untimely death of a friend, a physician who contracted a fatal wound infection after a postmortem examination of a woman who had died of a puerperal infection. The dead physician’s wound had been caused by a scalpel used during the examination, and his subsequent illness and death closely paralleled that of the dead patient.</para>
+<para id="fs-id1172100950369">Although Semmelweis did not know the true cause of puerperal fever, he proposed that physicians were somehow transferring the causative agent to their patients. He suggested that the number of puerperal fever cases could be reduced if physicians and medical students simply washed their hands with chlorinated lime water before and after examining every patient. When this practice was implemented, the maternal mortality rate in mothers cared for by physicians dropped to the same 1% mortality rate observed among mothers cared for by midwives. This demonstrated that handwashing was a very effective method for preventing disease transmission. Despite this great success, many discounted Semmelweis’s work at the time, and physicians were slow to adopt the simple procedure of handwashing to prevent infections in their patients because it contradicted established norms for that time period.</para>
+<figure id="OSC_Microbio_03_02_Semmelweis">
+<media id="fs-id1172100973446" alt="Photo of Ignaz Semmelweis">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_03_02_Semmelweis.jpg"/>
+</media>
+<caption>Ignaz Semmelweis (1818–1865) was a proponent of the importance of handwashing to prevent transfer of disease between patients by physicians.</caption>
+</figure>
+<para id="fs-id1172100564193">Around the same time Semmelweis was promoting handwashing, in 1848, British physician John <term class="no-emphasis">Snow</term> conducted studies to track the source of cholera outbreaks in London. By tracing the outbreaks to two specific water sources, both of which were contaminated by sewage, Snow ultimately demonstrated that cholera bacteria were transmitted via drinking water. Snow’s work is influential in that it represents the first known epidemiological study, and it resulted in the first known public health response to an epidemic. The work of both Semmelweis and Snow clearly refuted the prevailing miasma theory of the day, showing that disease is not only transmitted through the air but also through contaminated items.</para>
+<para id="fs-id1172098530677">Although the work of Semmelweis and Snow successfully showed the role of sanitation in preventing infectious disease, the cause of disease was not fully understood. The subsequent work of Louis <term class="no-emphasis">Pasteur</term>, Robert <term class="no-emphasis">Koch</term>, and Joseph <term class="no-emphasis">Lister</term> would further substantiate the germ theory of disease.</para>
+<para id="fs-id1172098548728">While studying the causes of beer and wine spoilage in 1856, Pasteur discovered properties of fermentation by microorganisms. He had demonstrated with his swan-neck flask experiments (<link document="m58790" target-id="OSC_Microbio_03_01_Pasteur"/>) that airborne microbes, not spontaneous generation, were the cause of food spoilage, and he suggested that if microbes were responsible for food spoilage and fermentation, they could also be responsible for causing infection. This was the foundation for the germ theory of disease.</para>
+<para id="fs-id1172100932077">Meanwhile, British surgeon Joseph Lister (<link target-id="OSC_Microbio_03_02_ListerKoch"/>) was trying to determine the causes of postsurgical infections. Many physicians did not give credence to the idea that microbes on their hands, on their clothes, or in the air could infect patients’ surgical wounds, despite the fact that 50% of surgical patients, on average, were dying of postsurgical infections.<footnote id="fs-id1172100968322">Alexander, J. Wesley. “The Contributions of Infection Control to a Century of Progress” <emphasis effect="italics">Annals of Surgery</emphasis> 201:423-428, 1985.</footnote> Lister, however, was familiar with the work of Semmelweis and Pasteur; therefore, he insisted on handwashing and extreme cleanliness during surgery. In 1867, to further decrease the incidence of postsurgical wound infections, Lister began using carbolic acid (phenol) spray disinfectant/antiseptic during surgery. His extremely successful efforts to reduce postsurgical infection caused his techniques to become a standard medical practice.</para>
+<para id="fs-id1172098391960">A few years later, Robert Koch (<link target-id="OSC_Microbio_03_02_ListerKoch"/>) proposed a series of postulates (Koch’s postulates) based on the idea that the cause of a specific disease could be attributed to a specific microbe. Using these postulates, Koch and his colleagues were able to definitively identify the causative pathogens of specific diseases, including anthrax, tuberculosis, and cholera. Koch’s “one microbe, one disease” concept was the culmination of the 19th century’s paradigm shift away from miasma theory and toward the germ theory of disease. Koch’s postulates are discussed more thoroughly in <link document="m58867">How Pathogens Cause Disease</link>.</para>
+<figure id="OSC_Microbio_03_02_ListerKoch">
+<media id="fs-id1172100648115" alt="a) Photo of Joseph Lister b) Photo of Robert Koch">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_03_02_ListerKoch.jpg"/>
+</media>
+<caption>(a) Joseph Lister developed procedures for the proper care of surgical wounds and the sterilization of surgical equipment. (b) Robert Koch established a protocol to determine the cause of infectious disease. Both scientists contributed significantly to the acceptance of the germ theory of disease.</caption>
+</figure>
+<note id="fs-id1172098382783" class="microbiology check-your-understanding">
+<list id="fs-id1172102023435" list-type="bulleted" bullet-style="bullet">
+<item>Compare and contrast the miasma theory of disease with the germ theory of disease.</item>
+<item>How did Joseph Lister’s work contribute to the debate between the miasma theory and germ theory and how did this increase the success of medical procedures?</item>
+</list>
+</note>
+<note id="fs-id1172101038766" class="microbiology clinical-focus">
+<title>Part 2</title>
+<para id="fs-id1172101005420">After suffering a fever, congestion, cough, and increasing aches and pains for several days, Barbara suspects that she has a case of the flu. She decides to visit the health center at her university. The PA tells Barbara that her symptoms could be due to a range of diseases, such as influenza, bronchitis, pneumonia, or tuberculosis.</para>
+<para id="fs-id1172100940229">During her physical examination, the PA notes that Barbara’s heart rate is slightly elevated. Using a pulse oximeter, a small device that clips on her finger, he finds that Barbara has hypoxemia—a lower-than-normal level of oxygen in the blood. Using a stethoscope, the PA listens for abnormal sounds made by Barbara’s heart, lungs, and digestive system. As Barbara breathes, the PA hears a crackling sound and notes a slight shortness of breath. He collects a sputum sample, noting the greenish color of the mucus, and orders a chest radiograph, which shows a “shadow” in the left lung. All of these signs are suggestive of <term class="no-emphasis">pneumonia</term>, a condition in which the lungs fill with mucus (<link target-id="OSC_Microbio_03_02_pneumonia"/>).</para>
+<figure id="OSC_Microbio_03_02_pneumonia">
+<media id="fs-id1172100837078" alt="Chest X-rays show ribs and other bones as white and the lungs as black. The left image has significant white cloudiness in the lungs. This lung infiltrate is suggestive of pneumonia. Normal lungs show a smooth, even black color throughout the lungs.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_03_02_pneumonia.jpg"/>
+</media>
+<caption>This is a chest radiograph typical of pneumonia. Because X-ray images are negative images, a “shadow” is seen as a white area within the lung that should otherwise be black. In this case, the left lung shows a shadow as a result of pockets in the lung that have become filled with fluid. (credit left: modification of work by “Christaras A”/Wikimedia Commons)</caption>
+</figure>
+<list id="fs-id1172100828211" list-type="bulleted" bullet-style="bullet">
+<item>What kinds of infectious agents are known to cause pneumonia?</item>
+</list>
+<para id="fs-id1172101007134"><emphasis effect="italics">Jump to the <link document="m58792" target-id="fs-id1172099560231">next</link> Clinical Focus box. Go back to the <link document="m58790" target-id="fs-id1172100625585">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+<figure id="OSC_Microbio_03_02_GermTimeln">
+<media id="fs-id1172100886941" alt="A timeline. To the far left are the ancient Greeks who proposed the Miasma Theory. In 1546 Fracastoro begins early version of Germ Theory in De Contagione et Contagiosis Morbis. In 1665 Hooke observes cork cells under a microscope. In 1674 van Leeuwenhoek observes single-celled organisms. In 1847 Semmelweis demonstrates that hand washing reduces puerperal infections. In 1854 Snow demonstrates that cholera bacteria were transmitted in contaminated drinking water. In 1856 Pasteur discovers microbial fermentation while studying the cause of spoilage in beer and wine. In 1862 Pasteur disproves spontaneous generation with swan-neck flask experiment. In 1867 Lister begins using carbolic acid as a disinfectant during surgery. From 1867 – 1906 Koch and his workers determine causative agents for many bacterial infections.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_03_02_GermTimeln.jpg"/>
+</media>
+<caption>(credit “swan-neck flask”: modification of work by Wellcome Images)</caption>
+</figure>
+</section>
+<section id="fs-id1172101031184" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1172098395980" list-type="bulleted" bullet-style="bullet">
+<item>Although cells were first observed in the 1660s by Robert Hooke, <emphasis effect="bold">cell theory</emphasis> was not well accepted for another 200 years. The work of scientists such as Schleiden, Schwann, Remak, and Virchow contributed to its acceptance.</item>
+<item><emphasis effect="bold">Endosymbiotic theory</emphasis> states that mitochondria and chloroplasts, organelles found in many types of organisms, have their origins in bacteria. Significant structural and genetic information support this theory.</item>
+<item>The <emphasis effect="bold">miasma theory of disease</emphasis> was widely accepted until the 19th century, when it was replaced by the <emphasis effect="bold">germ theory of disease</emphasis> thanks to the work of Semmelweis, Snow, Pasteur, Lister, and Koch, and others.</item>
+</list>
+</section>
+<section id="fs-id1172100614393" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1172100999760">
+<problem id="fs-id1172098564840">
+<para id="fs-id1172100962136">Which of the following individuals did not contribute to the establishment of cell theory?</para>
+<list id="fs-id1172100626548" list-type="enumerated" number-style="upper-alpha">
+<item>Girolamo Fracastoro</item>
+<item>Matthias Schleiden</item>
+<item>Robert Remak</item>
+<item>Robert Hooke</item>
+</list>
+</problem>
+<solution id="fs-id1172100882707">
+<para id="fs-id1172100950221">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100835261">
+<problem id="fs-id1172101003231">
+<para id="fs-id1172100722835">Whose proposal of the endosymbiotic theory of mitochondrial and chloroplast origin was ultimately accepted by the greater scientific community?</para>
+<list id="fs-id1172100593169" list-type="enumerated" number-style="upper-alpha">
+<item>Rudolf Virchow</item>
+<item>Ignaz Semmelweis</item>
+<item>Lynn Margulis</item>
+<item>Theodor Schwann</item>
+</list>
+</problem>
+<solution id="fs-id1172100625458">
+<para id="fs-id1172100654019">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100596392">
+<problem id="fs-id1172100619354">
+<para id="fs-id1172100538665">Which of the following developed a set of postulates for determining whether a particular disease is caused by a particular pathogen?</para>
+<list id="fs-id1172100894973" list-type="enumerated" number-style="upper-alpha">
+<item>John Snow</item>
+<item>Robert Koch</item>
+<item>Joseph Lister</item>
+<item>Louis Pasteur</item>
+</list>
+</problem>
+<solution id="fs-id1172098417722">
+<para id="fs-id1172098433907">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172098581271" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1172098445955">
+<problem id="fs-id1172098446601">
+<para id="fs-id1172100629270">John Snow is known as the Father of _____________.</para>
+</problem>
+<solution id="fs-id1172098407259">
+<para id="fs-id1172098401203">epidemiology</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100896490">
+<problem id="fs-id1172100887022">
+<para id="fs-id1172100952551">The ____________ theory states that disease may originate from proximity to decomposing matter and is not due to person-to-person contact.</para>
+</problem>
+<solution id="fs-id1172100984143">
+<para id="fs-id1172098395693">miasma</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172101036420">
+<problem id="fs-id1172100984244">
+<para id="fs-id1172098449879">The scientist who first described cells was _____________.</para>
+</problem>
+<solution id="fs-id1172100900018">
+<para id="fs-id1172100896544">Robert Hooke</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172100969362" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1172100616952">
+<problem id="fs-id1172100790771">
+<para id="fs-id1172100656260">How did the explanation of Virchow and Remak for the origin of cells differ from that of Schleiden and Schwann?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172100546798">
+<problem id="fs-id1172100786316">
+<para id="fs-id1172098320538">What evidence exists that supports the endosymbiotic theory?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172100558391">
+<problem id="fs-id1172100991140">
+<para id="fs-id1172100837363">What were the differences in mortality rates due to puerperal fever that Ignaz Semmelweis observed? How did he propose to reduce the occurrence of puerperal fever? Did it work?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1172100781361" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1172098267150">
+<problem id="fs-id1172100960991">
+<para id="fs-id1172100551378">Why are mitochondria and chloroplasts unable to multiply outside of a host cell?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172098489299">
+<problem id="fs-id1172100667030">
+<para id="fs-id1172100600513">Why was the work of Snow so important in supporting the germ theory?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

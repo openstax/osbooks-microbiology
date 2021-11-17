@@ -1,0 +1,218 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Immunodeficiency</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58895</md:content-id>
+  <md:title>Immunodeficiency</md:title>
+  <md:abstract/>
+  <md:uuid>e54e2534-6e86-4d84-af36-027672966143</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167662445020" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167662905511">
+<item>Compare the causes of primary and secondary immunodeficiencies</item>
+<item>Describe treatments for primary and secondary immunodeficiencies</item>
+</list>
+</section>
+<para id="fs-id1167662501952">Immunodeficiencies are inherited (primary) or acquired (secondary) disorders in which elements of host immune defenses are either absent or functionally defective. In developed countries, most immunodeficiencies are inherited, and they are usually first seen in the clinic as recurrent or overwhelming infections in infants. However, on a global scale, <term class="no-emphasis">malnutrition</term> is the most common cause of <term class="no-emphasis">immunodeficiency</term> and would be categorized as an acquired immunodeficiency. Acquired immunodeficiencies are more likely to develop later in life, and the pathogenic mechanisms of many remain obscure.</para>
+<section id="fs-id1167662508916">
+<title>Primary Immunodeficiency</title>
+<para id="fs-id1167660157593">Primary immunodeficiencies, which number more than 250, are caused by inherited defects of either nonspecific innate or specific adaptive immune defenses. In general, patients born with primary immunodeficiency (PI) commonly have an increased susceptibility to infection. This susceptibility can become apparent shortly after birth or in early childhood for some individuals, whereas other patients develop symptoms later in life. Some primary immunodeficiencies are due to a defect of a single cellular or humoral component of the immune system; others may result from defects of more than one component. Examples of primary immunodeficiencies include chronic granulomatous disease, X-linked agammaglobulinemia, selective IgA deficiency, and severe combined immunodeficiency disease.</para>
+<section id="fs-id1167660339554">
+<title>Chronic Granulomatous Disease</title>
+<para id="fs-id1167662424486">The causes of <term>chronic granulomatous disease</term> (CGD) are defects in the <term class="no-emphasis">NADPH oxidase</term> system of phagocytic cells, including <term class="no-emphasis">neutrophils</term> and <term class="no-emphasis">macrophages</term>, that prevent the production of <term class="no-emphasis">superoxide radicals</term> in phagolysosomes. The inability to produce superoxide radicals impairs the antibacterial activity of <term class="no-emphasis">phagocytes</term>. As a result, infections in patients with CGD persist longer, leading to a chronic local inflammation called a <term class="no-emphasis">granuloma</term>. Microorganisms that are the most common causes of infections in patients with CGD include <term class="no-emphasis"><emphasis effect="italics">Aspergillus</emphasis></term> spp., <term class="no-emphasis"><emphasis effect="italics">Staphylococcus aureus</emphasis></term>, <term class="no-emphasis"><emphasis effect="italics">Chromobacterium violaceum</emphasis></term>, <term class="no-emphasis"><emphasis effect="italics">Serratia marcescens</emphasis></term>, and <term class="no-emphasis"><emphasis effect="italics">Salmonella typhimurium</emphasis></term>.</para>
+</section>
+<section id="fs-id1167662551075">
+<title>X-Linked Agammaglobulinemia</title>
+<para id="fs-id1167660179704">Deficiencies in B cells due to defective differentiation lead to a lack of specific antibody production known as <term>X-linked agammaglobulinemia</term>. In 1952, Ogden C. <term class="no-emphasis">Bruton</term> (1908–2003) described the first immunodeficiency in a boy whose immune system failed to produce antibodies. This defect is inherited on the X chromosome and is characterized by the absence of immunoglobulin in the serum; it is called <term class="no-emphasis">Bruton X-linked agammaglobulinemia</term> (XLA). The defective gene, <emphasis effect="italics">BTK,</emphasis> in XLA is now known to encode a <term class="no-emphasis">tyrosine kinase</term> called Bruton tyrosine kinase (Btk). In patients whose B cells are unable to produce sufficient amounts of Btk, the <term class="no-emphasis">B-cell maturation</term> and differentiation halts at the pre-B-cell stage of growth. B-cell maturation and differentiation beyond the pre-B-cell stage of growth is required for immunoglobulin production. Patients who lack antibody production suffer from recurrent infections almost exclusively due to <term class="no-emphasis">extracellular pathogens</term> that cause pyogenic infections: <term class="no-emphasis"><emphasis effect="italics">Haemophilus influenzae</emphasis></term>, <term class="no-emphasis"><emphasis effect="italics">Streptococcus pneumoniae</emphasis></term>, <emphasis effect="italics">S. pyogenes</emphasis>, and <emphasis effect="italics">S. aureus</emphasis>. Because cell-mediated immunity is not impaired, these patients are not particularly vulnerable to infections caused by viruses or intracellular pathogens.</para>
+</section>
+<section id="fs-id1167660270094">
+<title>Selective IgA Deficiency</title>
+<para id="fs-id1167660453130">The most common inherited form of immunoglobulin deficiency is <term>selective IgA deficiency</term>, affecting about one in 800 people. Individuals with selective IgA deficiency produce normal levels of IgG and IgM, but are not able to produce <term class="no-emphasis">secretory IgA</term>. IgA deficiency predisposes these individuals to lung and gastrointestinal infections for which secretory IgA is normally an important defense mechanism. Infections in the lungs and <term class="no-emphasis">gastrointestinal tract</term> can involve a variety of pathogens, including <emphasis effect="italics">H. influenzae</emphasis>, <emphasis effect="italics">S. pneumoniae</emphasis>, <term class="no-emphasis"><emphasis effect="italics">Moraxella catarrhalis</emphasis></term>, <emphasis effect="italics">S. aureus</emphasis>, <term class="no-emphasis"><emphasis effect="italics">Giardia lamblia</emphasis></term>, or pathogenic strains of <term class="no-emphasis"><emphasis effect="italics">Escherichia coli</emphasis></term>.</para>
+</section>
+<section id="fs-id1167660396931">
+<title>Severe Combined Immunodeficiency</title>
+<para id="fs-id1167662758891">Patients who suffer from <term>severe combined immunodeficiency (SCID)</term> have B-cell and T-cell defects that impair <term class="no-emphasis">T-cell dependent antibody response</term>s as well as <term class="no-emphasis">cell-mediated immune response</term>s. Patients with <term class="no-emphasis">SCID</term> also cannot develop immunological memory, so <term class="no-emphasis">vaccine</term>s provide them no protection, and live attenuated vaccines (e.g., for varicella-zoster, measles virus, rotavirus, poliovirus) can actually cause the infection they are intended to prevent. The most common form is <term class="no-emphasis">X-linked SCID</term>, which accounts for nearly 50% of all cases and occurs primarily in males. Patients with SCID are typically diagnosed within the first few months of life after developing severe, often life-threatening, opportunistic infection by <term class="no-emphasis"><emphasis effect="italics">Candida</emphasis></term> spp., <term class="no-emphasis"><emphasis effect="italics">Pneumocystis jirovecii</emphasis></term>, or pathogenic strains of <term class="no-emphasis"><emphasis effect="italics">E. coli</emphasis></term>.</para>
+<para id="fs-id1167660305333">Without treatment, babies with SCID do not typically survive infancy. In some cases, a <term class="no-emphasis">bone marrow transplant</term> may successfully correct the defects in lymphocyte development that lead to the SCID phenotype, by replacing the defective component. However, this treatment approach is not without risks, as demonstrated by the famous case of David Vetter (1971–1984), better known as “Bubble Boy” (<link target-id="OSC_Microbio_19_04_SCID"/>). Vetter, a patient with SCID who lived in a protective plastic bubble to prevent exposure to opportunistic microbes, received a bone marrow transplant from his sister. Because of a latent Epstein-Barr virus infection in her bone marrow, however, he developed mononucleosis and died of Burkitt lymphoma at the age of 12 years.</para>
+<figure id="OSC_Microbio_19_04_SCID">
+<media id="fs-id1167660176522" alt="Photo of a boy in a suit similar to a space suit.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_19_04_SCID.jpg"/>
+</media>
+<caption>David Vetter, popularly known as “The Bubble Boy,” was born with SCID and lived most of his life isolated inside a plastic bubble. Here he is shown outside the bubble in a suit specially built for him by NASA. (credit: NASA Johnson Space Center)</caption>
+</figure>
+<note id="fs-id1167660323572" class="microbiology check-your-understanding">
+<list id="fs-id1167656802507" list-type="bulleted" bullet-style="bullet">
+<item>What is the fundamental cause of a primary immunodeficiency?</item>
+<item>Explain why patients with chronic granulomatous disease are especially susceptible to bacterial infections.</item>
+<item>Explain why individuals with selective IgA deficiency are susceptible to respiratory and gastrointestinal infections.</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1167660186768">
+<title>Secondary Immunodeficiency</title>
+<para id="fs-id1167662444785">A <term>secondary immunodeficiency</term> occurs as a result an acquired impairment of function of B cells, T cells, or both. Secondary immunodeficiencies can be caused by:</para>
+<list id="fs-id1167660288238" list-type="bulleted" bullet-style="bullet">
+<item>Systemic disorders such as <term class="no-emphasis">diabetes mellitus</term>, <term class="no-emphasis">malnutrition</term>, <term class="no-emphasis">hepatitis</term>, or <term class="no-emphasis">HIV infection</term></item>
+<item>Immunosuppressive treatments such as cytotoxic <term class="no-emphasis">chemotherapy</term>, <term class="no-emphasis">bone marrow ablation</term> before transplantation, or <term class="no-emphasis">radiation therapy</term></item>
+<item>Prolonged critical illness due to infection, surgery, or trauma in the very young, elderly, or hospitalized patients</item>
+</list>
+<para id="fs-id1167662737883">Unlike primary immunodeficiencies, which have a genetic basis, secondary immunodeficiencies are often reversible if the underlying cause is resolved. Patients with secondary immunodeficiencies develop an increased susceptibility to an otherwise benign infection by <term class="no-emphasis">opportunistic pathogens</term> such as <term class="no-emphasis"><emphasis effect="italics">Candida</emphasis></term> spp., <emphasis effect="italics">P. jirovecii</emphasis>, and <term class="no-emphasis"><emphasis effect="italics">Cryptosporidium</emphasis></term>.</para>
+<para id="fs-id1167657888560"><term class="no-emphasis">HIV</term> infection and the associated <term>acquired immunodeficiency syndrome (AIDS)</term> are the best-known secondary immunodeficiencies. AIDS is characterized by profound CD4 T-cell <term class="no-emphasis">lymphopenia</term> (decrease in lymphocytes). The decrease in CD4 T cells is the result of various mechanisms, including HIV-induced <term class="no-emphasis">pyroptosis</term> (a type of <term class="no-emphasis">apoptosis</term> that stimulates an inflammatory response), viral cytopathic effect, and cytotoxicity to HIV-infected cells.</para>
+<para id="fs-id1167658171963">The most common cause of secondary immunodeficiency worldwide is severe malnutrition, which affects both innate and adaptive immunity. More research and information are needed for the more common causes of secondary immunodeficiency; however, the number of new discoveries in AIDS research far exceeds that of any other single cause of secondary immunodeficiency. AIDS research has paid off extremely well in terms of discoveries and treatments; increased research into the most common cause of immunodeficiency, malnutrition, would likely be as beneficial.</para>
+<note id="fs-id1167658076090" class="microbiology check-your-understanding">
+<list id="fs-id1167662593631" list-type="bulleted" bullet-style="bullet">
+<item>What is the most common cause of secondary immunodeficiencies?</item>
+<item>Explain why secondary immunodeficiencies can sometimes be reversed.</item>
+</list>
+</note>
+<note id="fs-id1167660664664" class="microbiology case-in-point">
+<title>An Immunocompromised Host</title>
+<para id="fs-id1167662558915">Benjamin, a 50-year-old male patient who has been receiving chemotherapy to treat his <term class="no-emphasis">chronic myelogenous leukemia</term> (<term class="no-emphasis">CML</term>), a disease characterized by massive overproduction of nonfunctional, malignant myelocytic leukocytes that crowd out other, healthy leukocytes, is seen in the emergency department. He is complaining of a productive, wet cough, dyspnea, and fatigue. On examination, his pulse is 120 beats per minute (bpm) (normal range is 60–100 bpm) and weak, and his blood pressure is 90/60 mm Hg (normal is 120/80 mm Hg). During auscultation, a distinct crackling can be heard in his lungs as he breathes, and his pulse-oximeter level (a measurement of blood-oxygen saturation) is 80% (normal is 95%–100%). He has a fever; his temperature is 38.9 °C (102 °F). Sputum cultures and blood samples are obtained and sent to the lab, but Benjamin goes into respiratory distress and dies before the results can be obtained.</para>
+<para id="fs-id1167658043956">Benjamin’s death was a result of a combination of his immune system being compromised by his leukemia and his chemotherapy treatment further weakening his ability to mount an immune response. CML (and leukemia in general) and corresponding chemotherapy cause a decrease in the number of leukocytes capable of normal function, leading to secondary immunodeficiency. This increases the risk for opportunistic bacterial, viral, protozoal, and fungal infections that could include <emphasis effect="italics">Staphylococcus</emphasis>, enteroviruses, <emphasis effect="italics">Pneumocystis</emphasis>, <emphasis effect="italics">Giardia,</emphasis> or <emphasis effect="italics">Candida</emphasis>. Benjamin’s symptoms were suggestive of bacterial pneumonia, but his leukemia and chemotherapy likely complicated and contributed to the severity of the pneumonia, resulting in his death. Because his leukemia was overproducing certain white blood cells, and those overproduced white blood cells were largely nonfunctional or abnormal in their function, he did not have the proper immune system blood cells to help him fight off the infection.</para>
+</note>
+<para id="fs-id1167660331570"><link target-id="fs-id1167660404016"/> summarizes primary and secondary immunodeficiencies, their effects on immune function, and typical outcomes.</para>
+<table id="fs-id1167660404016" summary="Table Titled: Primary and Secondary Immunodeficiencies. Columns: Disease; Effect on Immune Function; Outcomes. Three are 4 examples of Primary immunodeficiencies. Chronic granulomatous disease: Impaired killing of bacteria within the phagolysosome of neutrophils and macrophages; Chronic infections and granulomas. Selective IgA deficiency: Inability to produce secretory IgA; Predisposition to lung and gastrointestinal infections. Severe combined immunodeficiency disease (SCID): Deficient humoral and cell-mediated immune responses; Early development of severe and life-threatening opportunistic infections.  X-linked agammaglobulinemia: Flawed differentiation of B cells and absence of specific antibodies; Recurrent infections almost exclusively due to pathogens that cause pyogenic infections. There are 3 examples of Secondary immunodeficiencies. Immunosuppressive therapies (e.g., chemotherapy, radiotherapy): Impaired humoral and/or cell-mediated immune responses; Opportunistic infections, rare cancers. Malnutrition: Impaired humoral and/or cell-mediated immune responses; Opportunistic infections, rare cancers. Viral infection (e.g., HIV): Impaired cell-mediated immune responses due to CD4 T-cell lymphopenia; Opportunistic infections, rare cancers." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c4">Primary and Secondary Immunodeficiencies</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c2">Disease</entry>
+<entry valign="top" align="left">Effect on Immune Function</entry>
+<entry valign="top" align="left">Outcomes</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="3">Primary immunodeficiencies</entry>
+<entry valign="top" align="left">Chronic granulomatous disease</entry>
+<entry valign="top" align="left">Impaired killing of bacteria within the phagolysosome of neutrophils and macrophages</entry>
+<entry valign="top" align="left">Chronic infections and granulomas</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Selective IgA deficiency</entry>
+<entry valign="top" align="left">Inability to produce secretory IgA</entry>
+<entry valign="top" align="left">Predisposition to lung and gastrointestinal infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Severe combined immunodeficiency disease (SCID)</entry>
+<entry valign="top" align="left">Deficient humoral and cell-mediated immune responses</entry>
+<entry valign="top" align="left">Early development of severe and life-threatening opportunistic infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">X-linked agammaglobulinemia</entry>
+<entry valign="top" align="left">Flawed differentiation of B cells and absence of specific antibodies</entry>
+<entry valign="top" align="left">Recurrent infections almost exclusively due to pathogens that cause pyogenic infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="2">Secondary immunodeficiencies</entry>
+<entry valign="top" align="left">Immunosuppressive therapies (e.g., chemotherapy, radiotherapy)</entry>
+<entry valign="top" align="left">Impaired humoral and/or cell-mediated immune responses</entry>
+<entry valign="top" align="left">Opportunistic infections, rare cancers</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Malnutrition</entry>
+<entry valign="top" align="left">Impaired humoral and/or cell-mediated immune responses</entry>
+<entry valign="top" align="left">Opportunistic infections, rare cancers</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Viral infection (e.g., HIV)</entry>
+<entry valign="top" align="left">Impaired cell-mediated immune responses due to CD4 T-cell lymphopenia</entry>
+<entry valign="top" align="left">Opportunistic infections, rare cancers</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<section id="fs-id1167656765421" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167660386183" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Primary immunodeficiencies</emphasis> are caused by genetic abnormalities; <emphasis effect="bold">secondary immunodeficiencies</emphasis> are acquired through disease, diet, or environmental exposures</item>
+<item>Primary immunodeficiencies may result from flaws in phagocyte killing of innate immunity, or impairment of T cells and B cells.</item>
+<item>Primary immunodeficiencies include chronic granulomatous disease, X-linked agammaglobulinemia, selective IgA deficiency, and severe combined immunodeficiency disease.</item>
+<item>Secondary immunodeficiencies result from environmentally induced defects in B cells and/or T cells.</item>
+<item>Causes for secondary immunodeficiencies include malnutrition, viral infection, diabetes, prolonged infections, and chemical or radiation exposure.</item>
+</list>
+</section>
+<section id="fs-id1167660587821" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167662404622">
+<problem id="fs-id1167657889493">
+<para id="fs-id1167662450570">Which of the following is a genetic disease that results in lack of production of antibodies?</para>
+<list id="fs-id1167656775164" list-type="enumerated" number-style="upper-alpha">
+<item>agammaglobulinemia</item>
+<item>myasthenia gravis</item>
+<item>HIV/AIDS</item>
+<item>chronic granulomatous disease</item>
+</list>
+</problem>
+<solution id="fs-id1167658360976">
+<para id="fs-id1167660638769">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660170633">
+<problem id="fs-id1167660253212">
+<para id="fs-id1167660136712">Which of the following is a genetic disease that results in almost no adaptive immunity due to lack of B and/ or T cells?</para>
+<list id="fs-id1167658401517" list-type="enumerated" number-style="upper-alpha">
+<item>agammaglobulinemia</item>
+<item>severe combined immunodeficiency</item>
+<item>HIV/AIDS</item>
+<item>chronic granulomatous disease</item>
+</list>
+</problem>
+<solution id="fs-id1167660672768">
+<para id="fs-id1167658384377">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660659992">
+<problem id="fs-id1167658353262">
+<para id="fs-id1167660590055">All but which one of the following are examples of secondary immunodeficiencies?</para>
+<list id="fs-id1167662463800" list-type="enumerated" number-style="upper-alpha">
+<item>HIV/AIDS</item>
+<item>malnutrition</item>
+<item>chronic granulomatous disease</item>
+<item>immunosuppression due to measles infection</item>
+</list>
+</problem>
+<solution id="fs-id1167662480676">
+<para id="fs-id1167660456105">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167660282756" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167660267154">
+<problem id="fs-id1167662371078">
+<para id="fs-id1167658359294">Diseases due to ________ abnormalities are termed primary immunodeficiencies.</para>
+</problem>
+<solution id="fs-id1167658039141">
+<para id="fs-id1167660572298">genetic</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660185960">
+<problem id="fs-id1167658100608">
+<para id="fs-id1167662427023">A secondary immunodeficiency is ________, rather than genetic.</para>
+</problem>
+<solution id="fs-id1167660324122">
+<para id="fs-id1167662778159">acquired</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167658369016" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167658363180">
+<problem id="fs-id1167662427761">
+<para id="fs-id1167658400254">Compare the treatments for primary and secondary immunodeficiencies.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

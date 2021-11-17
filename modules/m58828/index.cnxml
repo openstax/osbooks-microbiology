@@ -1,0 +1,577 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>How Microbes Grow</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58828</md:content-id>
+  <md:title>How Microbes Grow</md:title>
+  <md:abstract/>
+  <md:uuid>dd9f24b9-6979-4d9d-bc3c-1fb7eafbefc4</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1172099514920" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1172101984195">
+<item>Define the generation time for growth based on binary fission</item>
+<item>Identify and describe the activities of microorganisms undergoing typical phases of binary fission (simple cell division) in a growth curve</item>
+<item>Explain several laboratory methods used to determine viable and total cell counts in populations undergoing exponential growth</item>
+<item>Describe examples of cell division not involving binary fission, such as budding or fragmentation</item>
+<item>Describe the formation and characteristics of biofilms</item>
+<item>Identify health risks associated with biofilms and how they are addressed</item>
+<item>Describe quorum sensing and its role in cell-to-cell communication and coordination of cellular activities</item>
+</list>
+</section>
+<note id="fs-id1172099378549" class="microbiology clinical-focus">
+<title>Part 1</title>
+<para id="fs-id1172099476565">Jeni, a 24-year-old pregnant woman in her second trimester, visits a clinic with complaints of high fever, 38.9 °C (102 °F), fatigue, and muscle aches—typical flu-like signs and symptoms. Jeni exercises regularly and follows a nutritious diet with emphasis on organic foods, including raw milk that she purchases from a local farmer’s market. All of her immunizations are up to date. However, the health-care provider who sees Jeni is concerned and orders a blood sample to be sent for testing by the microbiology laboratory.</para>
+<list id="fs-id1172101659434" list-type="bulleted" bullet-style="bullet">
+<item>Why is the health-care provider concerned about Jeni’s signs and symptoms?</item>
+</list>
+<para id="fs-id1172099927557"><emphasis effect="italics">Jump to the <link document="m58829" target-id="fs-id1172098266125">next</link> Clinical Focus box</emphasis></para>
+</note>
+<para id="fs-id1172101784826">The bacterial cell cycle involves the formation of new cells through the replication of DNA and partitioning of cellular components into two daughter cells. In prokaryotes, reproduction is always asexual, although extensive genetic recombination in the form of horizontal gene transfer takes place, as will be explored in a different chapter. Most bacteria have a single circular chromosome; however, some exceptions exist. For example, <term class="no-emphasis"><emphasis effect="italics">Borrelia burgdorferi</emphasis></term>, the causative agent of Lyme disease, has a linear chromosome.</para>
+<section id="fs-id1172099538510">
+<title>Binary Fission</title>
+<para id="fs-id1172101986316">The most common mechanism of cell replication in bacteria is a process called <term>binary fission</term>, which is depicted in <link target-id="OSC_Microbio_09_01_binaryfiss"/>. Before dividing, the cell grows and increases its number of cellular components. Next, the replication of DNA starts at a location on the circular chromosome called the origin of replication, where the chromosome is attached to the inner cell membrane. Replication continues in opposite directions along the chromosome until the terminus is reached.</para>
+<para id="fs-id1172099491443">The center of the enlarged cell constricts until two daughter cells are formed, each offspring receiving a complete copy of the parental genome and a division of the cytoplasm (cytokinesis). This process of cytokinesis and cell division is directed by a protein called <term class="no-emphasis">FtsZ</term>. FtsZ assembles into a <term class="no-emphasis">Z ring</term> on the cytoplasmic membrane (<link target-id="OSC_Microbio_09_01_Zring"/>). The Z ring is anchored by FtsZ-binding proteins and defines the division plane between the two daughter cells. Additional proteins required for cell division are added to the Z ring to form a structure called the <term class="no-emphasis">divisome</term>. The divisome activates to produce a peptidoglycan cell wall and build a <term>septum</term> that divides the two daughter cells. The daughter cells are separated by the division septum, where all of the cells’ outer layers (the cell wall and outer membranes, if present) must be remodeled to complete division. For example, we know that specific enzymes break bonds between the monomers in peptidoglycans and allow addition of new subunits along the division septum.</para>
+<figure id="OSC_Microbio_09_01_binaryfiss">
+<media id="fs-id1172101906776" alt="A) A micrograph of two rod shaped cells attached at their ends. B) A diagram of binary fission. First a cell replicates its DNA and elongates. Then, as the cell continues to elongate, each loop of DNA travels to one end or the other. The cell then starts to constrict in the center. This results in two cells each containing a loop of DNA.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_01_binaryfiss.jpg"/>
+</media>
+<caption>(a) The electron micrograph depicts two cells of <emphasis effect="italics">Salmonella typhimurium</emphasis> after a binary fission event. (b) Binary fission in bacteria starts with the replication of DNA as the cell elongates. A division septum forms in the center of the cell. Two daughter cells of similar size form and separate, each receiving a copy of the original chromosome. (credit a: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<figure id="OSC_Microbio_09_01_Zring">
+<media id="fs-id1172097139248" alt="A diagram of a cell dividing. The cell is shaped like a figure 8; each end of the cell contains a loop a DNA. The constriction point of the figure 8 is labeled cleavage furrow. A ring of dots in this region is labeled FtsZ ring. Next these dots line up along the constriction point as the constriction point completely separates the two halves of the cell. This region is now called the septum. Finally the two cells separate completely.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_01_Zring.jpg"/>
+</media>
+<caption>FtsZ proteins assemble to form a Z ring that is anchored to the plasma membrane. The Z ring pinches the cell envelope to separate the cytoplasm of the new cells.</caption>
+</figure>
+<note id="fs-id1172099456479" class="microbiology check-your-understanding">
+<list id="fs-id1167661368859" list-type="bulleted" bullet-style="bullet">
+<item>What is the name of the protein that assembles into a Z ring to initiate cytokinesis and cell division?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172099388976">
+<title>Generation Time</title>
+<para id="fs-id1172101906517">In eukaryotic organisms, the generation time is the time between the same points of the life cycle in two successive generations. For example, the typical generation time for the human population is 25 years. This definition is not practical for bacteria, which may reproduce rapidly or remain dormant for thousands of years. In prokaryotes (Bacteria and Archaea), the <term>generation time</term> is also called the <term>doubling time</term> and is defined as the time it takes for the population to double through one round of binary fission. Bacterial doubling times vary enormously. Whereas <emphasis effect="italics">Escherichia coli</emphasis> can double in as little as 20 minutes under optimal growth conditions in the laboratory, bacteria of the same species may need several days to double in especially harsh environments. Most pathogens grow rapidly, like <emphasis effect="italics">E. coli</emphasis>, but there are exceptions. For example, <term class="no-emphasis"><emphasis effect="italics">Mycobacterium tuberculosis</emphasis></term>, the causative agent of tuberculosis, has a generation time of between 15 and 20 hours. On the other hand, <emphasis effect="italics">M. leprae</emphasis>, which causes <term class="no-emphasis">Hansen’s disease</term> (leprosy), grows much more slowly, with a doubling time of 14 days.</para>
+<note id="fs-id1172101732154" class="microbiology micro-connection">
+<title>Calculating Number of Cells</title>
+<para id="fs-id1172099510385">It is possible to predict the number of cells in a population when they divide by binary fission at a constant rate. As an example, consider what happens if a single cell divides every 30 minutes for 24 hours. The diagram in <link target-id="OSC_Microbio_09_01_generation"/> shows the increase in cell numbers for the first three generations.</para>
+<para id="fs-id1172101761998">The number of cells increases exponentially and can be expressed as 2<emphasis effect="italics"><sup>n</sup></emphasis>, where <emphasis effect="italics">n</emphasis> is the number of generations. If cells divide every 30 minutes, after 24 hours, 48 divisions would have taken place. If we apply the formula 2<emphasis effect="italics"><sup>n</sup></emphasis>, where <emphasis effect="italics">n</emphasis> is equal to 48, the single cell would give rise to 2<sup>48</sup> or 281,474,976,710,656 cells at 48 generations (24 hours). When dealing with such huge numbers, it is more practical to use scientific notation. Therefore, we express the number of cells as 2.8 × 10<sup>14</sup> cells.</para>
+<para id="fs-id1172099880241">In our example, we used one cell as the initial number of cells. For any number of starting cells, the formula is adapted as follows:</para>
+<equation id="fs-id1172101884848" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>N</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:msub><m:mi>N</m:mi><m:mn>0</m:mn></m:msub><m:msup><m:mn>2</m:mn><m:mi>n</m:mi></m:msup></m:mrow></m:math></equation>
+<para id="fs-id1172099834065"><emphasis effect="italics">N<sub>n</sub></emphasis> is the number of cells at any generation <emphasis effect="italics">n</emphasis>, <emphasis effect="italics">N</emphasis><sub>0</sub> is the initial number of cells, and <emphasis effect="italics">n</emphasis> is the number of generations.</para>
+<figure id="OSC_Microbio_09_01_generation">
+<media id="fs-id1172099514583" alt="In generation 0 there is 1 cell. In generation 1 there are 2 cells. In generation 2 there are 4 cells. In generation 3 there are 8 cells.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_01_generation.jpg"/>
+</media>
+<caption>The parental cell divides and gives rise to two daughter cells. Each of the daughter cells, in turn, divides, giving a total of four cells in the second generation and eight cells in the third generation. Each division doubles the number of cells.</caption>
+</figure>
+</note>
+<note id="fs-id1172099577506" class="microbiology check-your-understanding">
+<list id="fs-id1167661329520" list-type="bulleted" bullet-style="bullet">
+<item>With a doubling time of 30 minutes and a starting population size of 1 × 10<sup>5</sup> cells, how many cells will be present after 2 hours, assuming no cell death?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172099619326">
+<title>The Growth Curve</title>
+<para id="fs-id1172101753811">Microorganisms grown in <term class="no-emphasis">closed culture</term> (also known as a <term class="no-emphasis">batch culture</term>), in which no nutrients are added and most waste is not removed, follow a reproducible growth pattern referred to as the <term>growth curve</term>. An example of a batch culture in nature is a pond in which a small number of cells grow in a closed environment. The <term>culture density</term> is defined as the number of cells per unit volume. In a closed environment, the culture density is also a measure of the number of cells in the population. Infections of the body do not always follow the growth curve, but correlations can exist depending upon the site and type of infection. When the number of live cells is plotted against time, distinct phases can be observed in the curve (<link target-id="OSC_Microbio_09_01_growthcurv"/>).</para>
+<figure id="OSC_Microbio_09_01_growthcurv">
+<media id="fs-id1172102128811" alt="A graph with time on the X axis and logarithm of living bacterial cells on the Y axis. The line of the graph begins towards the bottom of the Y axis and is flat for a short time. This is labeled 1) lag phase: no increase in number of living bacterial cells. Next the line slopes upwards. This is labeled Log phase: exponential increase in number of living bacterial cells. Next the line flattens again. This is labeled 3) Stationary phase: plateau in number of living bacterial cells; rate of cell division and death roughly equal. Final the line slopes downwards. This is labeled 4) Death or decline phase: exponential decrease in number of living bacterial cells.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_01_growthcurv.jpg"/>
+</media>
+<caption>The growth curve of a bacterial culture is represented by the logarithm of the number of live cells plotted as a function of time. The graph can be divided into four phases according to the slope, each of which matches events in the cell. The four phases are lag, log, stationary, and death.</caption>
+</figure>
+<section id="fs-id1172101856012">
+<title>The Lag Phase</title>
+<para id="fs-id1172099725106">The beginning of the growth curve represents a small number of cells, referred to as an <term>inoculum</term>, that are added to a fresh <term>culture medium</term>, a nutritional broth that supports growth. The initial phase of the growth curve is called the <term>lag phase</term>, during which cells are gearing up for the next phase of growth. The number of cells does not change during the lag phase; however, cells grow larger and are metabolically active, synthesizing proteins needed to grow within the medium. If any cells were damaged or shocked during the transfer to the new medium, repair takes place during the lag phase. The duration of the lag phase is determined by many factors, including the species and genetic make-up of the cells, the composition of the medium, and the size of the original inoculum.</para>
+</section>
+<section id="fs-id1172101801194">
+<title>The Log Phase</title>
+<para id="fs-id1172099512997">In the <term>logarithmic (log) growth phase</term>, sometimes called <term class="no-emphasis">exponential growth phase</term>, the cells are actively dividing by binary fission and their number increases exponentially. For any given bacterial species, the generation time under specific growth conditions (nutrients, temperature, pH, and so forth) is genetically determined, and this generation time is called the <term>intrinsic growth rate</term>. During the log phase, the relationship between time and number of cells is not linear but exponential; however, the growth curve is often plotted on a semilogarithmic graph, as shown in <link target-id="OSC_Microbio_09_01_Jgrowthcur"/>, which gives the appearance of a linear relationship.</para>
+<figure id="OSC_Microbio_09_01_Jgrowthcur">
+<media id="fs-id1172101891775" alt="a) An arithmetic scale graph showing log phase growth. The X axis is time (hours) and the Y ais is cells per ml. The line on this graph starts fairly flat with readings of (1,2) and (5,32) but quickly slopes up steeply with a final reading of (10, 1024). B) is a semilog scale graph of log phase growth. Again the X axis is time (hours) and the Y axis is cells per ml. But the intervals of the Y axis more clearly show the difference between 10 superscript 1 and 10 superscript 3. The line on this graph is a straight line diagonally across the graph with points of (1,2), (5,32) and (10,1024) – just like the first graph. The equation for both graphs is N=2 superscript n.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_01_Jgrowthcur.jpg"/>
+</media>
+<caption>Both graphs illustrate population growth during the log phase for a bacterial sample with an initial population of one cell and a doubling time of 1 hour. (a) When plotted on an arithmetic scale, the growth rate resembles a curve. (b) When plotted on a semilogarithmic scale (meaning the values on the <emphasis effect="italics">y</emphasis>-axis are logarithmic), the growth rate appears linear.</caption>
+</figure>
+<para id="fs-id1172097241658">Cells in the log phase show constant growth rate and uniform metabolic activity. For this reason, cells in the log phase are preferentially used for industrial applications and research work. The log phase is also the stage where bacteria are the most susceptible to the action of disinfectants and common antibiotics that affect protein, DNA, and cell-wall synthesis.</para>
+</section>
+<section id="fs-id1172099924273">
+<title>Stationary Phase</title>
+<para id="fs-id1172099877725">As the number of cells increases through the log phase, several factors contribute to a slowing of the growth rate. Waste products accumulate and nutrients are gradually used up. In addition, gradual depletion of oxygen begins to limit aerobic cell growth. This combination of unfavorable conditions slows and finally stalls population growth. The total number of live cells reaches a plateau referred to as the <term>stationary phase</term> (<link target-id="OSC_Microbio_09_01_growthcurv"/>). In this phase, the number of new cells created by cell division is now equivalent to the number of cells dying; thus, the total population of living cells is relatively stagnant. The culture density in a stationary culture is constant. The culture’s carrying capacity, or maximum culture density, depends on the types of microorganisms in the culture and the specific conditions of the culture; however, carrying capacity is constant for a given organism grown under the same conditions.</para>
+<para id="fs-id1172101802625">During the stationary phase, cells switch to a survival mode of metabolism. As growth slows, so too does the synthesis of peptidoglycans, proteins, and nucleic-acids; thus, stationary cultures are less susceptible to antibiotics that disrupt these processes. In bacteria capable of producing endospores, many cells undergo sporulation during the stationary phase. Secondary metabolites, including antibiotics, are synthesized in the stationary phase. In certain pathogenic bacteria, the stationary phase is also associated with the expression of virulence factors, products that contribute to a microbe’s ability to survive, reproduce, and cause disease in a host organism. For example, quorum sensing in <emphasis effect="italics">Staphylococcus aureus</emphasis> initiates the production of enzymes that can break down human tissue and cellular debris, clearing the way for bacteria to spread to new tissue where nutrients are more plentiful.</para>
+</section>
+<section id="fs-id1172102051572">
+<title>The Death Phase</title>
+<para id="fs-id1172097137244">As a culture medium accumulates toxic waste and nutrients are exhausted, cells die in greater and greater numbers. Soon, the number of dying cells exceeds the number of dividing cells, leading to an exponential decrease in the number of cells (<link target-id="OSC_Microbio_09_01_growthcurv"/>). This is the aptly named <term>death phase</term>, sometimes called the decline phase. Many cells lyse and release nutrients into the medium, allowing surviving cells to maintain viability and form endospores. A few cells, the so-called <term>persisters</term>, are characterized by a slow metabolic rate. Persister cells are medically important because they are associated with certain chronic infections, such as tuberculosis, that do not respond to antibiotic treatment.</para>
+</section>
+<section id="fs-id1172099414507">
+<title>Sustaining Microbial Growth</title>
+<para id="fs-id1172101889882">The growth pattern shown in <link target-id="OSC_Microbio_09_01_growthcurv"/> takes place in a closed environment; nutrients are not added and waste and dead cells are not removed. In many cases, though, it is advantageous to maintain cells in the logarithmic phase of growth. One example is in industries that harvest microbial products. A <term class="no-emphasis">chemostat</term> (<link target-id="OSC_Microbio_09_01_chemostat"/>) is used to maintain a continuous culture in which nutrients are supplied at a steady rate. A controlled amount of air is mixed in for aerobic processes. Bacterial suspension is removed at the same rate as nutrients flow in to maintain an optimal growth environment.</para>
+<figure id="OSC_Microbio_09_01_chemostat">
+<media id="fs-id1172099682091" alt="A drawing of a chemostat – a vat filled with fluid that is moved by a rotating blade in the center. Feed enters one side and effluent leaves from the other side.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_01_chemostat.jpg"/>
+</media>
+<caption>A chemostat is a culture vessel fitted with an opening to add nutrients (feed) and an outlet to remove contents (effluent), effectively diluting toxic wastes and dead cells. The addition and removal of fluids is adjusted to maintain the culture in the logarithmic phase of growth. If aerobic bacteria are grown, suitable oxygen levels are maintained.</caption>
+</figure>
+<note id="fs-id1172099909360" class="microbiology check-your-understanding">
+<list id="fs-id1167659402298" list-type="bulleted" bullet-style="bullet">
+<item>During which phase does growth occur at the fastest rate?</item>
+<item>Name two factors that limit microbial growth.</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1172101803506">
+<title>Measurement of Bacterial Growth</title>
+<para id="fs-id1172101907134">Estimating the number of bacterial cells in a sample, known as a bacterial count, is a common task performed by microbiologists. The number of bacteria in a clinical sample serves as an indication of the extent of an infection. Quality control of drinking water, food, medication, and even cosmetics relies on estimates of bacterial counts to detect contamination and prevent the spread of disease. Two major approaches are used to measure cell number. The direct methods involve counting cells, whereas the indirect methods depend on the measurement of cell presence or activity without actually counting individual cells. Both direct and indirect methods have advantages and disadvantages for specific applications.</para>
+<section id="fs-id1172099888520">
+<title>Direct Cell Count</title>
+<para id="fs-id1172101838964">Direct cell count refers to counting the cells in a liquid culture or colonies on a plate. It is a direct way of estimating how many organisms are present in a sample. Let’s look first at a simple and fast method that requires only a specialized slide and a compound microscope.</para>
+<para id="fs-id1172101779947">The simplest way to count bacteria is called the <term>direct microscopic cell count</term>, which involves transferring a known volume of a culture to a calibrated slide and counting the cells under a light microscope. The calibrated slide is called a <term>Petroff-Hausser chamber</term> (<link target-id="OSC_Microbio_09_01_hemcy"/>) and is similar to a <term class="no-emphasis">hemocytometer</term> used to count red blood cells. The central area of the counting chamber is etched into squares of various sizes. A sample of the culture suspension is added to the chamber under a coverslip that is placed at a specific height from the surface of the grid. It is possible to estimate the concentration of cells in the original sample by counting individual cells in a number of squares and determining the volume of the sample observed. The area of the squares and the height at which the coverslip is positioned are specified for the chamber. The concentration must be corrected for dilution if the sample was diluted before enumeration.</para>
+<figure id="OSC_Microbio_09_01_hemcy">
+<media id="fs-id1172102021464" alt="a) A photo of a gloved hand holding a very thick slide with etching across the center of the slide. B) A diagram of what these etching looks like. The etchings create a grid that has larger squares along the outside (of 0.25 nm) and smaller squares in the inside of 0.05 nm. One can use a microscope to determine the count of cells in the smallest square to determine the titer of the solution.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_01_hemcy.jpg"/>
+</media>
+<caption>(a) A Petroff-Hausser chamber is a special slide designed for counting the bacterial cells in a measured volume of a sample. A grid is etched on the slide to facilitate precision in counting. (b) This diagram illustrates the grid of a Petroff-Hausser chamber, which is made up of squares of known areas. The enlarged view shows the square within which bacteria (red cells) are counted. If the coverslip is 0.2 mm above the grid and the square has an area of 0.04 mm<sup>2</sup>, then the volume is 0.008 mm<sup>3</sup>, or 0.000008 mL. Since there are 10 cells inside the square, the density of bacteria is 10 cells/0.000008 mL, which equates to 1,250,000 cells/mL. (credit a: modification of work by Jeffrey M. Vinocur)</caption>
+</figure>
+<para id="fs-id1172101926398">Cells in several small squares must be counted and the average taken to obtain a reliable measurement. The advantages of the chamber are that the method is easy to use, relatively fast, and inexpensive. On the downside, the counting chamber does not work well with dilute cultures because there may not be enough cells to count.</para>
+<para id="fs-id1172101785048">Using a counting chamber does not necessarily yield an accurate count of the number of live cells because it is not always possible to distinguish between live cells, dead cells, and debris of the same size under the microscope. However, newly developed fluorescence staining techniques make it possible to distinguish viable and dead bacteria. These viability stains (or live stains) bind to nucleic acids, but the primary and secondary stains differ in their ability to cross the cytoplasmic membrane. The primary stain, which fluoresces green, can penetrate intact cytoplasmic membranes, staining both live and dead cells. The secondary stain, which fluoresces red, can stain a cell only if the cytoplasmic membrane is considerably damaged. Thus, live cells fluoresce green because they only absorb the green stain, whereas dead cells appear red because the red stain displaces the green stain on their nucleic acids (<link target-id="OSC_Microbio_09_01_livedead"/>).</para>
+<figure id="OSC_Microbio_09_01_livedead">
+<media id="fs-id1172099665312" alt="A micrograph of many glowing green cells and some glowing red cells.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_01_livedead.jpg"/>
+</media>
+<caption>Fluorescence staining can be used to differentiate between viable and dead bacterial cells in a sample for purposes of counting. Viable cells are stained green, whereas dead cells are stained red. (credit: modification of work by Emerson J, Adams R, Bentancourt Román C, Brooks B, Coil D, Dahlhousen K, Ganz H, et al.)</caption>
+</figure>
+<para id="fs-id1172101715971">Another technique uses an <term class="no-emphasis">electronic cell counting device</term> (<term class="no-emphasis">Coulter counter</term>) to detect and count the changes in electrical resistance in a saline solution. A glass tube with a small opening is immersed in an electrolyte solution. A first electrode is suspended in the glass tube. A second electrode is located outside of the tube. As cells are drawn through the small aperture in the glass tube, they briefly change the resistance measured between the two electrodes and the change is recorded by an electronic sensor (<link target-id="OSC_Microbio_09_01_coulter"/>); each resistance change represents a cell. The method is rapid and accurate within a range of concentrations; however, if the culture is too concentrated, more than one cell may pass through the aperture at any given time and skew the results. This method also does not differentiate between live and dead cells.</para>
+<para id="fs-id1172099800074">Direct counts provide an estimate of the total number of cells in a sample. However, in many situations, it is important to know the number of live, or <term>viable</term>, cells. Counts of live cells are needed when assessing the extent of an infection, the effectiveness of antimicrobial compounds and medication, or contamination of food and water.</para>
+<figure id="OSC_Microbio_09_01_coulter">
+<media id="fs-id1172099543028" alt="A) A diagram of a coulter counter. This includes a beaker with small spheres indicating cells. The beaker is divided to create a region of positive charge and a region of negative charge. The cells move from the positive region to the negative region. A device is able to measure the number of cells crossing from one side to the other. B) a photograph of this device which looks like a small glass cup.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_01_coulter.jpg"/>
+</media>
+<caption>A Coulter counter is an electronic device that counts cells. It measures the change in resistance in an electrolyte solution that takes place when a cell passes through a small opening in the inside container wall. A detector automatically counts the number of cells passing through the opening. (credit b: modification of work by National Institutes of Health)</caption>
+</figure>
+<note id="fs-id1172102001305" class="microbiology check-your-understanding">
+<list id="fs-id1167659338583" list-type="bulleted" bullet-style="bullet">
+<item>Why would you count the number of cells in more than one square in the Petroff-Hausser chamber to estimate cell numbers?</item>
+<item>In the viability staining method, why do dead cells appear red?</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1172099765131">
+<title>Plate Count</title>
+<para id="fs-id1172102116138">The <term>viable plate count</term>, or simply <term class="no-emphasis">plate count</term>, is a count of viable or live cells. It is based on the principle that viable cells replicate and give rise to visible colonies when incubated under suitable conditions for the specimen. The results are usually expressed as <term>colony-forming unit</term>s per milliliter (CFU/mL) rather than cells per milliliter because more than one cell may have landed on the same spot to give rise to a single colony. Furthermore, samples of bacteria that grow in clusters or chains are difficult to disperse and a single colony may represent several cells. Some cells are described as viable but nonculturable and will not form colonies on solid media. For all these reasons, the viable plate count is considered a low estimate of the actual number of live cells. These limitations do not detract from the usefulness of the method, which provides estimates of live bacterial numbers.</para>
+<para id="fs-id1172101754429">Microbiologists typically count plates with 30–300 colonies. Samples with too few colonies (&lt;30) do not give statistically reliable numbers, and overcrowded plates (&gt;300 colonies) make it difficult to accurately count individual colonies. Also, counts in this range minimize occurrences of more than one bacterial cell forming a single colony. Thus, the calculated CFU is closer to the true number of live bacteria in the population.</para>
+<para id="fs-id1172101807367">There are two common approaches to inoculating plates for viable counts: the pour plate and the spread plate methods. Although the final inoculation procedure differs between these two methods, they both start with a serial dilution of the culture.</para>
+<section id="fs-id1172097162441">
+<title>Serial Dilution</title>
+<para id="fs-id1172099742329">The <term>serial dilution</term> of a culture is an important first step before proceeding to either the pour plate or spread plate method. The goal of the serial dilution process is to obtain plates with CFUs in the range of 30–300, and the process usually involves several dilutions in multiples of 10 to simplify calculation. The number of serial dilutions is chosen according to a preliminary estimate of the culture density. <link target-id="OSC_Microbio_09_01_serialtub"/> illustrates the serial dilution method.</para>
+<para id="fs-id1172099479868">A fixed volume of the original culture, 1.0 mL, is added to and thoroughly mixed with the first dilution tube solution, which contains 9.0 mL of sterile broth. This step represents a dilution factor of 10, or 1:10, compared with the original culture. From this first dilution, the same volume, 1.0 mL, is withdrawn and mixed with a fresh tube of 9.0 mL of dilution solution. The dilution factor is now 1:100 compared with the original culture. This process continues until a series of dilutions is produced that will bracket the desired cell concentration for accurate counting. From each tube, a sample is plated on solid medium using either the <term>pour plate method</term> (<link target-id="OSC_Microbio_09_01_pourplate"/>) or the <term>spread plate method</term> (<link target-id="OSC_Microbio_09_01_spreadplate"/>). The plates are incubated until colonies appear. Two to three plates are usually prepared from each dilution and the numbers of colonies counted on each plate are averaged. In all cases, thorough mixing of samples with the dilution medium (to ensure the cell distribution in the tube is random) is paramount to obtaining reliable results.</para>
+<figure id="OSC_Microbio_09_01_serialtub">
+<media id="fs-id1172099466660" alt="A diagram of serial dilution. A large beaker on the left contains a dark solution. 1 ml is moved from this beaker to a tube containing 9 ml of broth. This tube has a dilution of 1:10 and is lighter in color than the original beaker. A sample of 0.1 ml from this tube is put on an agar plate; the colonies are too numerous to count. 1 ml is taken out of this tube and placed in a tube containing 9 ml of broth. This tube now has a dilution of 1:100 from the original beaker and is even lighter in color. 0.1 ml is plated on an a agar plate and the colonies are still too numerous to count. 1 ml is taken from this tube and placed in another tube containing 9 ml broth. This is now a dilution of 1:1000 from the original beaker and the tube is lighter than the last. 0.1 ml is taken out of this tube and placed on an agar plate; there are 389 colonies. 1 ml is taken out of this tube and placed in another tube containing 9 ml broth. This is now a dilution of 1:10,000 from the original beaker and this tube is even lighter than the last. 0.1 ml is taken out of this tube and placed on an agar plate; there are 50 colonies. 1 ml is taken out of this tube and placed in a tube containing 9 ml of broth. This is a dilution of 1:100,000 from the original beaker and this is the lightest tube of all. 0.1 ml is taken from this tube and placed on an agar plate; there are 2 colonies.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_01_serialtub.jpg"/>
+</media>
+<caption>Serial dilution involves diluting a fixed volume of cells mixed with dilution solution using the previous dilution as an inoculum. The result is dilution of the original culture by an exponentially growing factor. (credit: modification of work by “Leberechtc”/Wikimedia Commons)</caption>
+</figure>
+<para id="fs-id1172101682298">The dilution factor is used to calculate the number of cells in the original cell culture. In our example, an average of 50 colonies was counted on the plates obtained from the 1:10,000 dilution. Because only 0.1 mL of suspension was pipetted on the plate, the multiplier required to reconstitute the original concentration is 10 × 10,000. The number of CFU per mL is equal to 50 × 10 × 10,000 = 5,000,000. The number of bacteria in the culture is estimated as 5 million cells/mL. The colony count obtained from the 1:1000 dilution was 389, well below the expected 500 for a 10-fold difference in dilutions. This highlights the issue of inaccuracy when colony counts are greater than 300 and more than one bacterial cell grows into a single colony.</para><figure id="OSC_Microbio_09_01_pourplate">
+<media id="fs-id1172099908922" alt="A diagram of the pour plate method. Step 1 – the bacterial sample is mixed with warm agar (45-50° C). Step 2 – the sample is poured onto a sterile plate. Step 3 – the sample is swirled to mix and allowed to solidify. Step 4 – the plate is incubated until bacterial colonies grow.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_01_pourplate.jpg"/>
+</media>
+<caption>In the pour plate method of cell counting, the sample is mixed in liquid warm agar (45–50 °C) poured into a sterile Petri dish and further mixed by swirling. This process is repeated for each serial dilution prepared. The resulting colonies are counted and provide an estimate of the number of cells in the original volume sampled.</caption>
+</figure>
+<figure id="OSC_Microbio_09_01_spreadplate">
+<media id="fs-id1172099663854" alt="A diagram of the spread plate method. Step 1 – a sample (0.1 ml) from a bacterial dilution is poured onto a solid medium. Step 2 – the sample is spread evenly over the surface. Step 3 – the plate is incubated until bacterial colonies grow on the surface of the medium.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_01_spreadplate.jpg"/>
+</media>
+<caption>In the spread plate method of cell counting, the sample is poured onto solid agar and then spread using a sterile spreader. This process is repeated for each serial dilution prepared. The resulting colonies are counted and provide an estimate of the number of cells in the original volume samples.</caption>
+</figure>
+<para id="fs-id1172099675457">A very dilute sample—drinking water, for example—may not contain enough organisms to use either of the plate count methods described. In such cases, the original sample must be concentrated rather than diluted before plating. This can be accomplished using a modification of the plate count technique called the <term>membrane filtration technique</term>. Known volumes are vacuum-filtered aseptically through a membrane with a pore size small enough to trap microorganisms. The membrane is transferred to a Petri plate containing an appropriate growth medium. Colonies are counted after incubation. Calculation of the cell density is made by dividing the cell count by the volume of filtered liquid.</para>
+<note id="fs-id1172102022924" class="microbiology link-to-learning">
+
+<para id="fs-id1172102066685">Watch this <link url="https://openstax.org/l/22serdilpltcvid">video</link> for demonstrations of serial dilutions and spread plate techniques.</para>
+</note>
+</section>
+<section id="fs-id1172099701627">
+<title>The Most Probable Number</title>
+<para id="fs-id1172101855604">The number of microorganisms in dilute samples is usually too low to be detected by the plate count methods described thus far. For these specimens, microbiologists routinely use the <term>most probable number (MPN) method</term>, a statistical procedure for estimating of the number of viable microorganisms in a sample. Often used for water and food samples, the MPN method evaluates detectable growth by observing changes in turbidity or color due to metabolic activity.</para>
+<para id="fs-id1172099882531">A typical application of MPN method is the estimation of the number of coliforms in a sample of pond water. Coliforms are gram-negative rod bacteria that ferment lactose. The presence of <term class="no-emphasis">coliforms</term> in water is considered a sign of contamination by fecal matter. For the method illustrated in <link target-id="OSC_Microbio_09_01_MPNtubes"/>, a series of three dilutions of the water sample is tested by inoculating five lactose broth tubes with 10 mL of sample, five lactose broth tubes with 1 mL of sample, and five lactose broth tubes with 0.1 mL of sample. The lactose broth tubes contain a pH indicator that changes color from red to yellow when the lactose is fermented. After inoculation and incubation, the tubes are examined for an indication of coliform growth by a color change in media from red to yellow. The first set of tubes (10-mL sample) showed growth in all the tubes; the second set of tubes (1 mL) showed growth in two tubes out of five; in the third set of tubes, no growth is observed in any of the tubes (0.1-mL dilution). The numbers 5, 2, and 0 are compared with <link target-id="OSC_Microbio_00_EE_MPN" document="m58947">Figure B1</link> in <link document="m58947">Appendix B</link>, which has been constructed using a probability model of the sampling procedure. From our reading of the table, we conclude that 49 is the most probable number of bacteria per 100 mL of pond water.no lo</para><figure id="OSC_Microbio_09_01_MPNtubes">
+<media id="fs-id1172097532809" alt="A diagram where the original sample of pond water is diluted into tubes containing lactose broth (a pink broth). 10 mL of the sample is placed into each of 5 lactose broth tubes. Another 5 tubes get 1 mL each of the sample. Another 5 tubes get 0.1 mL of sample. After 24 hours of incubation at 37°C some tubes have a color change. All of the 5 tubes containing 10 mL of the sample turned yellow and show gas in the smaller inner tube. 2 of the 5 tubes that got 1 mL of the original sample turned yellow and show gas; 3 of these tubes remain pink. All of the tubes that got 0.1 mL of the original sample remain pink.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_01_MPNtubes.jpg"/>
+</media>
+<caption>In the most probable number method, sets of five lactose broth tubes are inoculated with three different volumes of pond water: 10 mL, 1 mL, and 0.1mL. Bacterial growth is assessed through a change in the color of the broth from red to yellow as lactose is fermented.</caption>
+</figure>
+<note id="fs-id1172099712260" class="microbiology check-your-understanding">
+<list id="fs-id1167661352592" list-type="bulleted" bullet-style="bullet">
+<item>What is a colony-forming unit?</item>
+<item>What two methods are frequently used to estimate bacterial numbers in water samples?</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1172101923681">
+<title>Indirect Cell Counts</title>
+<para id="fs-id1172101882718">Besides direct methods of counting cells, other methods, based on an indirect detection of cell density, are commonly used to estimate and compare cell densities in a culture. The foremost approach is to measure the <term>turbidity</term> (cloudiness) of a sample of bacteria in a liquid suspension. The laboratory instrument used to measure turbidity is called a <term class="no-emphasis">spectrophotometer</term> (<link target-id="OSC_Microbio_09_01_spectroph"/>). In a spectrophotometer, a light beam is transmitted through a bacterial suspension, the light passing through the suspension is measured by a detector, and the amount of light passing through the sample and reaching the detector is converted to either percent transmission or a logarithmic value called absorbance (optical density). As the numbers of bacteria in a suspension increase, the turbidity also increases and causes less light to reach the detector. The decrease in light passing through the sample and reaching the detector is associated with a decrease in percent transmission and increase in absorbance measured by the spectrophotometer.</para>
+<para id="fs-id1172099643797">Measuring turbidity is a fast method to estimate cell density as long as there are enough cells in a sample to produce turbidity. It is possible to correlate turbidity readings to the actual number of cells by performing a viable plate count of samples taken from cultures having a range of absorbance values. Using these values, a <term class="no-emphasis">calibration curve</term> is generated by plotting turbidity as a function of cell density. Once the calibration curve has been produced, it can be used to estimate cell counts for all samples obtained or cultured under similar conditions and with densities within the range of values used to construct the curve.</para>
+<figure id="OSC_Microbio_09_01_spectroph">
+<media id="fs-id1172101734644" alt="a) A photograph of a spectrophotometer; a machine with a keypad and a place to put a sample. b) A diagram explaining how the spectrophotometer measures turbidity. A light source passes through a prism and a single wavelength is selected. If this beam of light passes through a clear broth, most of the light reaches the detector. If this beam of light passes through a cloudy sample, much of the light is reflected and refracted and only a little bit of light reaches the detector.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_01_spectroph.jpg"/>
+</media>
+<caption>(a) A spectrophotometer is commonly used to measure the turbidity of a bacterial cell suspension as an indirect measure of cell density. (b) A spectrophotometer works by splitting white light from a source into a spectrum. The spectrophotometer allows choice of the wavelength of light to use for the measurement. The optical density (turbidity) of the sample will depend on the wavelength, so once one wavelength is chosen, it must be used consistently. The filtered light passes through the sample (or a control with only medium) and the light intensity is measured by a detector. The light passing into a suspension of bacteria is scattered by the cells in such a way that some fraction of it never reaches the detector. This scattering happens to a far lesser degree in the control tube with only the medium. (credit a: modification of work by Hwang HS, Kim MS; credit b “test tube photos”: modification of work by Suzanne Wakim)</caption>
+</figure>
+<para id="fs-id1172099542752">Measuring <term class="no-emphasis">dry weight of a culture sample</term> is another indirect method of evaluating culture density without directly measuring cell counts. The cell suspension used for weighing must be concentrated by filtration or centrifugation, washed, and then dried before the measurements are taken. The degree of drying must be standardized to account for residual water content. This method is especially useful for filamentous microorganisms, which are difficult to enumerate by direct or viable plate count.</para>
+<para id="fs-id1172101773902">As we have seen, methods to estimate viable cell numbers can be labor intensive and take time because cells must be grown. Recently, indirect ways of measuring live cells have been developed that are both fast and easy to implement. These methods measure cell activity by following the production of metabolic products or disappearance of reactants. Adenosine triphosphate (ATP) formation, biosynthesis of proteins and nucleic acids, and consumption of oxygen can all be monitored to estimate the number of cells.</para>
+<note id="fs-id1172099526836" class="microbiology check-your-understanding">
+<list id="fs-id1167661345834" list-type="bulleted" bullet-style="bullet">
+<item>What is the purpose of a calibration curve when estimating cell count from turbidity measurements?</item>
+<item>What are the newer indirect methods of counting live cells?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172102072562">
+<title>Alternative Patterns of Cell Division</title>
+<para id="fs-id1172102061761">Binary fission is the most common pattern of cell division in prokaryotes, but it is not the only one. Other mechanisms usually involve asymmetrical division (as in budding) or production of spores in aerial filaments.</para>
+<para id="fs-id1172099513699">In some <term class="no-emphasis">cyanobacteria</term>, many nucleoids may accumulate in an enlarged round cell or along a filament, leading to the generation of many new cells at once. The new cells often split from the parent filament and float away in a process called <term>fragmentation</term> (<link target-id="OSC_Microbio_09_01_filam"/>). Fragmentation is commonly observed in the <term class="no-emphasis">Actinomycetes</term>, a group of gram-positive, anaerobic bacteria commonly found in soil. Another curious example of cell division in prokaryotes, reminiscent of live birth in animals, is exhibited by the giant bacterium <term class="no-emphasis"><emphasis effect="italics">Epulopiscium</emphasis></term>. Several daughter cells grow fully in the parent cell, which eventually disintegrates, releasing the new cells to the environment. Other species may form a long narrow extension at one pole in a process called <term>budding</term>. The tip of the extension swells and forms a smaller cell, the bud that eventually detaches from the parent cell. Budding is most common in yeast (<link target-id="OSC_Microbio_09_01_filam"/>), but it is also observed in prosthecate bacteria and some cyanobacteria.</para>
+<figure id="OSC_Microbio_09_01_filam">
+<media id="fs-id1172099531452" alt="a) A micrograph showing chains of green spheres. B) A micrograph showing a larger sphere with a smaller sphere attached to it. The smaller sphere is labeled NE. Each of these spheres has a darker region labeled N.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_01_filam.jpg"/>
+</media>
+<caption>(a) Filamentous cyanobacteria, like those pictured here, replicate by fragmentation. (b) In this electron micrograph, cells of the bacterium <emphasis effect="italics">Gemmata obscuriglobus</emphasis> are budding. The larger cell is the mother cell. Labels indicate the nucleoids (N) and the still-forming nuclear envelope (NE) of the daughter cell. (credit a: modification of work by CSIRO; credit b: modification of work by Kuo-Chang Lee, Rick I Webb and John A Fuerst)</caption>
+</figure>
+<para id="fs-id1172099750223">The soil bacteria <term class="no-emphasis"><emphasis effect="italics">Actinomyces</emphasis></term> grow in long filaments divided by septa, similar to the mycelia seen in fungi, resulting in long cells with multiple nucleoids. Environmental signals, probably related to low nutrient availability, lead to the formation of aerial filaments. Within these <term class="no-emphasis">aerial filaments</term>, elongated cells divide simultaneously. The new cells, which contain a single nucleoid, develop into spores that give rise to new colonies.</para>
+<note id="fs-id1172099534007" class="microbiology check-your-understanding">
+<list id="fs-id1167661291704" list-type="bulleted" bullet-style="bullet">
+<item>Identify at least one difference between fragmentation and budding.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172099507950">
+<title>Biofilms</title>
+<para id="fs-id1172099566093">In nature, microorganisms grow mainly in <term>biofilms</term>, complex and dynamic ecosystems that form on a variety of environmental surfaces, from industrial conduits and water treatment pipelines to rocks in river beds. Biofilms are not restricted to solid surface substrates, however. Almost any surface in a liquid environment containing some minimal nutrients will eventually develop a biofilm. Microbial mats that float on water, for example, are biofilms that contain large populations of photosynthetic microorganisms. Biofilms found in the human mouth may contain hundreds of bacterial species. Regardless of the environment where they occur, biofilms are not random collections of microorganisms; rather, they are highly structured communities that provide a selective advantage to their constituent microorganisms.</para>
+<section id="fs-id1172101611913">
+<title>Biofilm Structure</title>
+<para id="fs-id1172099508875">Observations using <term class="no-emphasis">confocal microscopy</term> have shown that environmental conditions influence the overall structure of biofilms. Filamentous biofilms called streamers form in rapidly flowing water, such as freshwater streams, eddies, and specially designed laboratory flow cells that replicate growth conditions in fast-moving fluids. The streamers are anchored to the substrate by a “head” and the “tail” floats downstream in the current. In still or slow-moving water, biofilms mainly assume a mushroom-like shape. The structure of biofilms may also change with other environmental conditions such as nutrient availability.</para>
+<para id="fs-id1172099658302">Detailed observations of biofilms under confocal laser and scanning electron microscopes reveal clusters of microorganisms embedded in a matrix interspersed with open water channels. The extracellular matrix consists of <term>extracellular polymeric substances (EPS)</term> secreted by the organisms in the biofilm. The extracellular matrix represents a large fraction of the biofilm, accounting for 50%–90% of the total dry mass. The properties of the EPS vary according to the resident organisms and environmental conditions.</para>
+<para id="fs-id1172099388922">EPS is a hydrated gel composed primarily of polysaccharides and containing other macromolecules such as proteins, nucleic acids, and lipids. It plays a key role in maintaining the integrity and function of the biofilm. Channels in the EPS allow movement of nutrients, waste, and gases throughout the biofilm. This keeps the cells hydrated, preventing desiccation. EPS also shelters organisms in the biofilm from predation by other microbes or cells (e.g., protozoans, white blood cells in the human body).</para>
+</section>
+<section id="fs-id1172099586512">
+<title>Biofilm Formation</title>
+<para id="fs-id1172101730897">Free-floating microbial cells that live in an aquatic environment are called <term>planktonic</term> cells. The formation of a biofilm essentially involves the attachment of planktonic cells to a substrate, where they become <term>sessile</term> (attached to a surface). This occurs in stages, as depicted in <link target-id="OSC_Microbio_09_05_filmdiag"/>. The first stage involves the attachment of planktonic cells to a surface coated with a conditioning film of organic material. At this point, attachment to the substrate is reversible, but as cells express new phenotypes that facilitate the formation of EPS, they transition from a planktonic to a sessile lifestyle. The biofilm develops characteristic structures, including an extensive matrix and water channels. Appendages such as <term class="no-emphasis">fimbriae</term>, <term class="no-emphasis">pili</term>, and <term class="no-emphasis">flagella</term> interact with the EPS, and microscopy and genetic analysis suggest that such structures are required for the establishment of a mature biofilm. In the last stage of the biofilm life cycle, cells on the periphery of the biofilm revert to a planktonic lifestyle, sloughing off the mature biofilm to colonize new sites. This stage is referred to as <term class="no-emphasis">dispersal</term>.</para>
+<figure id="OSC_Microbio_09_05_filmdiag">
+<media id="fs-id1172101693993" alt="Diagram of the formation of a biofilm. Step 1 – the reversible attachment of planktonic cells (seconds). This is shown as a few cells with flagella attaching to a surface. Step 2 – the first colonizers become irreversibly attached (seconds to minutes). This is shown as small clusters of cells on the surface. Step 3 – Growth and cell division (hours, days). This is shown as larger clusters on the surface. Step 4 – Production of EPS and formation of water channels (hours, days). This is shown as very large clusters. Step 5 – Attachment of secondary colonizers and dispersion of microbes to new sites (days, months). This is shown as small flagellated cells leaving from the very large cluster.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_05_filmdiag.jpg"/>
+</media>
+<caption>Stages in the formation and life cycle of a biofilm. (credit: modification of work by Public Library of Science and American Society for Microbiology)</caption>
+</figure>
+<para id="fs-id1172099596741">Within a biofilm, different species of microorganisms establish metabolic collaborations in which the waste product of one organism becomes the nutrient for another. For example, aerobic microorganisms consume oxygen, creating anaerobic regions that promote the growth of anaerobes. This occurs in many polymicrobial infections that involve both aerobic and anaerobic pathogens.</para>
+<para id="fs-id1172099649694">The mechanism by which cells in a biofilm coordinate their activities in response to environmental stimuli is called <term>quorum sensing</term>. Quorum sensing—which can occur between cells of different species within a biofilm—enables microorganisms to detect their cell density through the release and binding of small, diffusible molecules called <term>autoinducers</term>. When the cell population reaches a critical threshold (a quorum), these autoinducers initiate a cascade of reactions that activate genes associated with cellular functions that are beneficial only when the population reaches a critical density. For example, in some pathogens, synthesis of virulence factors only begins when enough cells are present to overwhelm the immune defenses of the host. Although mostly studied in bacterial populations, quorum sensing takes place between bacteria and eukaryotes and between eukaryotic cells such as the fungus <term class="no-emphasis"><emphasis effect="italics">Candida albicans</emphasis></term>, a common member of the human microbiota that can cause infections in immunocompromised individuals.</para>
+<para id="fs-id1172102070814">The signaling molecules in quorum sensing belong to two major classes. Gram-negative bacteria communicate mainly using N-acylated homoserine lactones, whereas gram-positive bacteria mostly use small peptides (<link target-id="OSC_Microbio_09_05_autoinduc"/>). In all cases, the first step in quorum sensing consists of the binding of the autoinducer to its specific receptor only when a threshold concentration of signaling molecules is reached. Once binding to the receptor takes place, a cascade of signaling events leads to changes in gene expression. The result is the activation of biological responses linked to quorum sensing, notably an increase in the production of signaling molecules themselves, hence the term autoinducer.</para>
+<figure id="OSC_Microbio_09_05_autoinduc">
+<media id="fs-id1172101758664" alt="The short peptide has the following amino acids in a chain: tyr, ser, thr, cys, asp, phe, ile, met. Attached to the cys is an S, attached to the S is a C which also attaches to the met. The C also has a double bonded O. The N-acetylated homoserine lactone has a pentagon with an O on the bottom left corner and a double bonded O attached to the left corner. The top corner is attached to an N which is attached to an R and a C. The C is double bonded to an O and also has an H.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_05_autoinduc.jpg"/>
+</media>
+<caption>Short peptides in gram-positive bacteria and N-acetylated homoserine lactones in gram-negative bacteria act as autoinducers in quorum sensing and mediate the coordinated response of bacterial cells. The R side chain of the N-acetylated homoserine lactone is specific for the species of gram-negative bacteria. Some secreted homoserine lactones are recognized by more than one species.</caption>
+</figure>
+</section>
+<section id="fs-id1172101806845">
+<title>Biofilms and Human Health</title>
+<para id="fs-id1172101778314">The human body harbors many types of biofilms, some beneficial and some harmful. For example, the layers of normal microbiota lining the intestinal and respiratory mucosa play a role in warding off infections by pathogens. However, other biofilms in the body can have a detrimental effect on health. For example, the plaque that forms on teeth is a biofilm that can contribute to dental and periodontal disease. Biofilms can also form in wounds, sometimes causing serious infections that can spread. The bacterium <term class="no-emphasis"><emphasis effect="italics">Pseudomonas aeruginosa</emphasis></term> often colonizes biofilms in the airways of patients with <term class="no-emphasis">cystic fibrosis</term>, causing chronic and sometimes fatal infections of the lungs. Biofilms can also form on medical devices used in or on the body, causing infections in patients with in-dwelling <term class="no-emphasis">catheters</term>, artificial joints, or <term class="no-emphasis">contact lenses</term>.</para>
+<para id="fs-id1172099515474">Pathogens embedded within biofilms exhibit a higher resistance to antibiotics than their free-floating counterparts. Several hypotheses have been proposed to explain why. Cells in the deep layers of a biofilm are metabolically inactive and may be less susceptible to the action of antibiotics that disrupt metabolic activities. The EPS may also slow the diffusion of antibiotics and antiseptics, preventing them from reaching cells in the deeper layers of the biofilm. Phenotypic changes may also contribute to the increased resistance exhibited by bacterial cells in biofilms. For example, the increased production of <term class="no-emphasis">efflux pumps</term>, membrane-embedded proteins that actively extrude antibiotics out of bacterial cells, have been shown to be an important mechanism of antibiotic resistance among biofilm-associated bacteria. Finally, biofilms provide an ideal environment for the exchange of <term class="no-emphasis">extrachromosomal DNA</term>, which often includes genes that confer antibiotic resistance.</para>
+<note id="fs-id1172099503719" class="microbiology check-your-understanding">
+<list id="fs-id1167661463726" list-type="bulleted" bullet-style="bullet">
+<item>What is the matrix of a biofilm composed of?</item>
+<item>What is the role of quorum sensing in a biofilm?</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1172099538585" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1172099477484" list-type="bulleted" bullet-style="bullet">
+<item>Most bacterial cells divide by <emphasis effect="bold">binary fission</emphasis>. <emphasis effect="bold">Generation time</emphasis> in bacterial growth is defined as the <emphasis effect="bold">doubling time</emphasis> of the population.</item>
+<item>Cells in a closed system follow a pattern of growth with four phases: <emphasis effect="bold">lag</emphasis>, <emphasis effect="bold">logarithmic (exponential)</emphasis>, <emphasis effect="bold">stationary</emphasis>, and <emphasis effect="bold">death</emphasis>.</item>
+<item>Cells can be counted by <emphasis effect="bold">direct viable cell count</emphasis>. The <emphasis effect="bold">pour plate</emphasis> and <emphasis effect="bold">spread plate</emphasis> methods are used to plate <emphasis effect="bold">serial dilutions</emphasis> into or onto, respectively, agar to allow counting of viable cells that give rise to <emphasis effect="bold">colony-forming units</emphasis>. <emphasis effect="bold">Membrane filtration</emphasis> is used to count live cells in dilute solutions. The <emphasis effect="bold">most probable cell number (MPN)</emphasis> method allows estimation of cell numbers in cultures without using solid media.</item>
+<item>Indirect methods can be used to estimate <emphasis effect="bold">culture density</emphasis> by measuring <emphasis effect="bold">turbidity</emphasis> of a culture or live cell density by measuring metabolic activity.</item>
+<item>Other patterns of cell division include multiple nucleoid formation in cells; asymmetric division, as in <emphasis effect="bold">budding</emphasis>; and the formation of hyphae and terminal spores.</item>
+<item><emphasis effect="bold">Biofilms</emphasis> are communities of microorganisms enmeshed in a matrix of <emphasis effect="bold">extracellular polymeric substance</emphasis>. The formation of a biofilm occurs when <emphasis effect="bold">planktonic</emphasis> cells attach to a substrate and become <emphasis effect="bold">sessile</emphasis>. Cells in biofilms coordinate their activity by communicating through <emphasis effect="bold">quorum sensing</emphasis>.</item>
+<item>Biofilms are commonly found on surfaces in nature and in the human body, where they may be beneficial or cause severe infections. Pathogens associated with biofilms are often more resistant to antibiotics and disinfectants.</item>
+</list>
+</section>
+<section id="fs-id1172099611702" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1172099705617">
+<problem id="fs-id1172099463085">
+<para id="fs-id1172101766078">Which of the following methods would be used to measure the concentration of bacterial contamination in processed peanut butter?</para>
+<list id="fs-id1172099577166" list-type="enumerated" number-style="upper-alpha">
+<item>turbidity measurement</item>
+<item>total plate count</item>
+<item>dry weight measurement</item>
+<item>direct counting of bacteria on a calibrated slide under the microscope</item>
+</list>
+</problem>
+<solution id="fs-id1172101852985">
+<para id="fs-id1172099752344">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172101685442">
+<problem id="fs-id1172101853787">
+<para id="fs-id1172097136786">In which phase would you expect to observe the most endospores in a <emphasis effect="italics">Bacillus</emphasis> cell culture?</para>
+<list id="fs-id1172099757754" list-type="enumerated" number-style="upper-alpha">
+<item>death phase</item>
+<item>lag phase</item>
+<item>log phase</item>
+<item>log, lag, and death phases would all have roughly the same number of endospores.</item>
+</list>
+</problem>
+<solution id="fs-id1172101641945">
+<para id="fs-id1172101663575">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172101759753">
+<problem id="fs-id1172099410085">
+<para id="fs-id1172097145493">During which phase would penicillin, an antibiotic that inhibits cell-wall synthesis, be most effective?</para>
+<list id="fs-id1172101786323" list-type="enumerated" number-style="upper-alpha">
+<item>death phase</item>
+<item>lag phase</item>
+<item>log phase</item>
+<item>stationary phase</item>
+</list>
+</problem>
+<solution id="fs-id1172101778764">
+<para id="fs-id1172102127006">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172099739651">
+<problem id="fs-id1172099456425">
+<para id="fs-id1172099905983">Which of the following is the best definition of generation time in a bacterium?</para>
+<list id="fs-id1172101788888" list-type="enumerated" number-style="upper-alpha">
+<item>the length of time it takes to reach the log phase</item>
+<item>the length of time it takes for a population of cells to double</item>
+<item>the time it takes to reach stationary phase</item>
+<item>the length of time of the exponential phase</item>
+</list>
+</problem>
+<solution id="fs-id1172099515983">
+<para id="fs-id1172099720739">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172102011174">
+<problem id="fs-id1172099511550">
+<para id="fs-id1172101779662">What is the function of the Z ring in binary fission?</para>
+<list id="fs-id1172101891959" list-type="enumerated" number-style="upper-alpha">
+<item>It controls the replication of DNA.</item>
+<item>It forms a contractile ring at the septum.</item>
+<item>It separates the newly synthesized DNA molecules.</item>
+<item>It mediates the addition of new peptidoglycan subunits.</item>
+</list>
+</problem>
+<solution id="fs-id1172101969053">
+<para id="fs-id1172101839791">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172099498850">
+<problem id="fs-id1172099811861">
+<para id="fs-id1172101934797">If a culture starts with 50 cells, how many cells will be present after five generations with no cell death?</para>
+<list id="fs-id1172102109648" list-type="enumerated" number-style="upper-alpha">
+<item>200</item>
+<item>400</item>
+<item>1600</item>
+<item>3200</item>
+</list>
+</problem>
+<solution id="fs-id1172102094703">
+<para id="fs-id1172102037977">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172099908439">
+<problem id="fs-id1172099716262">
+<para id="fs-id1172099479243">Filamentous cyanobacteria often divide by which of the following?</para>
+<list id="fs-id1172102122648" list-type="enumerated" number-style="upper-alpha">
+<item>budding</item>
+<item>mitosis</item>
+<item>fragmentation</item>
+<item>formation of endospores</item>
+</list>
+</problem>
+<solution id="fs-id1172102051417">
+<para id="fs-id1172099923920">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172099693365">
+<problem id="fs-id1172101920142">
+<para id="fs-id1172102082054">Which is a reason for antimicrobial resistance being higher in a biofilm than in free-floating bacterial cells?</para>
+<list id="fs-id1172099399228" list-type="enumerated" number-style="upper-alpha">
+<item>The EPS allows faster diffusion of chemicals in the biofilm.</item>
+<item>Cells are more metabolically active at the base of a biofilm.</item>
+<item>Cells are metabolically inactive at the base of a biofilm.</item>
+<item>The structure of a biofilm favors the survival of antibiotic resistant cells.</item>
+</list>
+</problem>
+<solution id="fs-id1172099391150">
+<para id="fs-id1172101780459">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172101797052">
+<problem id="fs-id1172101975861">
+<para id="fs-id1172097493305">Quorum sensing is used by bacterial cells to determine which of the following?</para>
+<list id="fs-id1172101763371" list-type="enumerated" number-style="upper-alpha">
+<item>the size of the population</item>
+<item>the availability of nutrients</item>
+<item>the speed of water flow</item>
+<item>the density of the population</item>
+</list>
+</problem>
+<solution id="fs-id1172102074728">
+<para id="fs-id1172101913949">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172101689049">
+<problem id="fs-id1172099504535">
+<para id="fs-id1172102107188">Which of the following statements about autoinducers is incorrect?</para>
+<list id="fs-id1172101776956" list-type="enumerated" number-style="upper-alpha">
+<item>They bind directly to DNA to activate transcription.</item>
+<item>They can activate the cell that secreted them.</item>
+<item>N-acylated homoserine lactones are autoinducers in gram-negative cells.</item>
+<item>Autoinducers may stimulate the production of virulence factors.</item>
+</list>
+</problem>
+<solution id="fs-id1172099716843">
+<para id="fs-id1172099606231">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172102044292" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1172101780005">
+<problem id="fs-id1172102132361">
+<para id="fs-id1172099381503">Direct count of total cells can be performed using a ________ or a ________.</para>
+</problem>
+<solution id="fs-id1172099409514">
+<para id="fs-id1172099742940">hemocytometer, Petroff-Hausser counting chamber</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172101919740">
+<problem id="fs-id1172101964671">
+<para id="fs-id1172101735900">The ________ method allows direct count of total cells growing on solid medium.</para>
+</problem>
+<solution id="fs-id1172099722634">
+<para id="fs-id1172099544702">plate count</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172101905629">
+<problem id="fs-id1172099406259">
+<para id="fs-id1172101781721">A statistical estimate of the number of live cells in a liquid is usually done by ________.</para>
+</problem>
+<solution id="fs-id1172101755217">
+<para id="fs-id1172101747827">most probable number</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172101949020">
+<problem id="fs-id1172101911413">
+<para id="fs-id1172102146240">For this indirect method of estimating the growth of a culture, you measure ________ using a spectrophotometer.</para>
+</problem>
+<solution id="fs-id1172101738296">
+<para id="fs-id1172099647117">turbidity</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172102145471">
+<problem id="fs-id1172102131444">
+<para id="fs-id1172097144750">Active growth of a culture may be estimated indirectly by measuring the following products of cell metabolism: ________ or ________.</para>
+</problem>
+<solution id="fs-id1172099538714">
+<para id="fs-id1172099559829">ATP, acid from fermentation</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172101994942" class="matching">
+<title>Matching</title>
+<exercise id="fs-id1172101716856">
+<problem id="fs-id1172099724385">
+<para id="fs-id1172102115888">Match the definition with the name of the growth phase in the growth curve.</para>
+<table id="fs-id1172101772757" class="unnumbered unstyled" summary="No Summary">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">___Number of dying cells is higher than the number of cells dividing</entry>
+<entry valign="top" align="left">A. Lag phase</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___Number of new cells equal to number of dying cells</entry>
+<entry valign="top" align="left">B. Log phase</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___New enzymes to use available nutrients are induced</entry>
+<entry valign="top" align="left">C. Stationary phase</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___Binary fission is occurring at maximum rate</entry>
+<entry valign="top" align="left">D. Death phase</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+<solution id="fs-id1172102015286">
+<para id="fs-id1172099626594">D, C, A, B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172097144570" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1172101768000">
+<problem id="fs-id1172101798675">
+<para id="fs-id1172102006302">Why is it important to measure the transmission of light through a control tube with only broth in it when making turbidity measures of bacterial cultures?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172102131740">
+<problem id="fs-id1172101994858">
+<para id="fs-id1172101785474">In terms of counting cells, what does a plating method accomplish that an electronic cell counting method does not?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172102030088">
+<problem id="fs-id1172099743159">
+<para id="fs-id1172099467866">Order the following stages of the development of a biofilm from the earliest to the last step.</para>
+<list id="fs-id1172102111842" list-type="enumerated" number-style="arabic">
+<item>secretion of EPS</item>
+<item>reversible attachment</item>
+<item>dispersal</item>
+<item>formation of water channels</item>
+<item>irreversible attachment</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-id1172099600969">
+<problem id="fs-id1172099872164">
+<para id="fs-id1172099493623">Infections among hospitalized patients are often related to the presence of a medical device in the patient. Which conditions favor the formation of biofilms on in-dwelling catheters and prostheses?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1172101678281" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1172101704337">
+<problem id="fs-id1172101768310">
+<para id="fs-id1172099753942">A patient in the hospital has an intravenous catheter inserted to allow for the delivery of medications, fluids, and electrolytes. Four days after the catheter is inserted, the patient develops a fever and an infection in the skin around the catheter. Blood cultures reveal that the patient has a blood-borne infection. Tests in the clinical laboratory identify the blood-borne pathogen as <emphasis effect="italics">Staphylococcus epidermidis</emphasis>, and antibiotic susceptibility tests are performed to provide doctors with essential information for selecting the best drug for treatment of the infection. Antibacterial chemotherapy is initiated and delivered through the intravenous catheter that was originally inserted into the patient. Within 7 days, the skin infection is gone, blood cultures are negative for <emphasis effect="italics">S. epidermidis</emphasis>, and the antibacterial chemotherapy is discontinued. However, 2 days after discontinuing the antibacterial chemotherapy, the patient develops another fever and skin infection and the blood cultures are positive for the same strain of <emphasis effect="italics">S. epidermidis</emphasis> that had been isolated the previous week. This time, doctors remove the intravenous catheter and administer oral antibiotics, which successfully treat both the skin and blood-borne infection caused by <emphasis effect="italics">S. epidermidis.</emphasis> Furthermore, the infection does not return after discontinuing the oral antibacterial chemotherapy. What are some possible reasons why intravenous chemotherapy failed to completely cure the patient despite laboratory tests showing the bacterial strain was susceptible to the prescribed antibiotic? Why might the second round of antibiotic therapy have been more successful? Justify your answers.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172097169505">
+<problem id="fs-id1172101780315">
+<para id="fs-id1172102066960">Why are autoinducers small molecules?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172099494587">
+<problem id="fs-id1172101887423">
+<para id="fs-id1172101881920">Refer to <link target-id="OSC_Microbio_00_EE_MPN" document="m58947">Figure B1</link> in <link document="m58947">Appendix B</link>. If the results from a pond water sample were recorded as 3, 2, 1, what would be the MPN of bacteria in 100 mL of pond water?</para></problem>
+</exercise>
+<exercise id="fs-id1172101611081">
+<problem id="fs-id1172102137981">
+<para id="fs-id1172097162325">Refer to <link target-id="OSC_Microbio_09_01_spectroph"/>. Why does turbidity lose reliability at high cell concentrations when the culture reaches the stationary phase?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

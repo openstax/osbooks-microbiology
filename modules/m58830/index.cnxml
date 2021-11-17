@@ -1,0 +1,149 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Effects of pH on Microbial Growth</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58830</md:content-id>
+  <md:title>The Effects of pH on Microbial Growth</md:title>
+  <md:abstract/>
+  <md:uuid>37176e21-c32f-45ac-9d66-ac12c5f712a0</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1172101792451" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1172099753340">
+<item>Illustrate and briefly describe minimum, optimum, and maximum pH requirements for growth</item>
+<item>Identify and describe the different categories of microbes with pH requirements for growth: acidophiles, neutrophiles, and alkaliphiles</item>
+<item>Give examples of microorganisms for each category of pH requirement</item>
+</list>
+</section>
+<para id="fs-id1172099577397">Yogurt, pickles, sauerkraut, and lime-seasoned dishes all owe their tangy taste to a high acid content (<link target-id="OSC_Microbio_09_03_yogurt"/>). Recall that acidity is a function of the concentration of hydrogen ions [H<sup>+</sup>] and is measured as pH. Environments with pH values below 7.0 are considered acidic, whereas those with pH values above 7.0 are considered basic. Extreme pH affects the structure of all macromolecules. The hydrogen bonds holding together strands of DNA break up at high pH. Lipids are hydrolyzed by an extremely basic pH. The proton motive force responsible for production of ATP in cellular respiration depends on the concentration gradient of H<sup>+</sup> across the plasma membrane (see <link document="m58821">Cellular Respiration</link>). If H<sup>+</sup> ions are neutralized by hydroxide ions, the concentration gradient collapses and impairs energy production. But the component most sensitive to pH in the cell is its workhorse, the protein. Moderate changes in pH modify the ionization of amino-acid functional groups and disrupt hydrogen bonding, which, in turn, promotes changes in the folding of the molecule, promoting denaturation and destroying activity.</para>
+<figure id="OSC_Microbio_09_03_yogurt">
+<media id="fs-id1172102071160" alt="Photo of yogurt and strawberries. Photo of pickes in home canning jars. Photo of sauerkraut. Photo of pico de gallo.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_03_yogurt.jpg"/>
+</media>
+<caption>Lactic acid bacteria that ferment milk into yogurt or transform vegetables in pickles thrive at a pH close to 4.0. Sauerkraut and dishes such as pico de gallo owe their tangy flavor to their acidity. Acidic foods have been a mainstay of the human diet for centuries, partly because most microbes that cause food spoilage grow best at a near neutral pH and do not tolerate acidity well. (credit “yogurt”: modification of work by “nina.jsc”/Flickr; credit “pickles”: modification of work by Noah Sussman; credit “sauerkraut”: modification of work by Jesse LaBuff; credit “pico de gallo”: modification of work by “regan76”/Flickr)</caption>
+</figure>
+<para id="fs-id1172101764711">The <term>optimum growth pH</term> is the most favorable pH for the growth of an organism. The lowest pH value that an organism can tolerate is called the <term>minimum growth pH</term> and the highest pH is the <term>maximum growth pH</term>. These values can cover a wide range, which is important for the preservation of food and to microorganisms’ survival in the stomach. For example, the optimum growth pH of <emphasis effect="italics">Salmonella</emphasis> spp. is 7.0–7.5, but the minimum growth pH is closer to 4.2.</para>
+<para id="fs-id1172099491254">Most bacteria are <term>neutrophile</term>s, meaning they grow optimally at a pH within one or two pH units of the neutral pH of 7 (see <link target-id="OSC_Microbio_09_03_pH"/>). Most familiar bacteria, like <term class="no-emphasis"><emphasis effect="italics">Escherichia coli</emphasis></term>, staphylococci, and <term class="no-emphasis"><emphasis effect="italics">Salmonella</emphasis></term> spp. are neutrophiles and do not fare well in the acidic pH of the stomach. However, there are pathogenic strains of <emphasis effect="italics">E. coli, S. typhi,</emphasis> and other species of intestinal pathogens that are much more resistant to stomach acid. In comparison, fungi thrive at slightly acidic pH values of 5.0–6.0.</para>
+<para id="fs-id1172101923913">Microorganisms that grow optimally at pH less than 5.55 are called <term>acidophile</term>s. For example, the sulfur-oxidizing <term class="no-emphasis"><emphasis effect="italics">Sulfolobus</emphasis></term> spp. isolated from sulfur mud fields and hot springs in Yellowstone National Park are extreme acidophiles. These archaea survive at pH values of 2.5–3.5. Species of the archaean genus <term class="no-emphasis"><emphasis effect="italics">Ferroplasma</emphasis></term> live in acid mine drainage at pH values of 0–2.9. <term class="no-emphasis"><emphasis effect="italics">Lactobacillus</emphasis></term> bacteria, which are an important part of the normal microbiota of the vagina, can tolerate acidic environments at pH values 3.5–6.8 and also contribute to the acidity of the vagina (pH of 4, except at the onset of menstruation) through their metabolic production of lactic acid. The vagina’s acidity plays an important role in inhibiting other microbes that are less tolerant of acidity. Acidophilic microorganisms display a number of adaptations to survive in strong acidic environments. For example, proteins show increased negative surface charge that stabilizes them at low pH. Pumps actively eject H<sup>+</sup> ions out of the cells. The changes in the composition of membrane phospholipids probably reflect the need to maintain membrane fluidity at low pH.</para>
+<figure id="OSC_Microbio_09_03_pH">
+<media id="fs-id1172101907322" alt="A graph with pH on the X axis and growth rate on the Y axis. One bell shaped curve peaks at about pH 3 and drops down, reaching a growth rate of 0 at pH 1 and 5.5. This line is labeled acidophile. Another bell curve peaks at pH 7 and drops to 0 at pH 5.5 and 8.5. This is labeled neutrophile. The final curve peaks at pH 9.5 and drops to 0 at pH of 7.5 and 11.5. This is labeled alkaliphile.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_03_pH.jpg"/>
+</media>
+<caption>The curves show the approximate pH ranges for the growth of the different classes of pH-specific prokaryotes. Each curve has an optimal pH and extreme pH values at which growth is much reduced. Most bacteria are neutrophiles and grow best at near-neutral pH (center curve). Acidophiles have optimal growth at pH values near 3 and alkaliphiles have optimal growth at pH values above 9.</caption>
+</figure>
+<para id="fs-id1172099744559">At the other end of the spectrum are <term>alkaliphile</term>s, microorganisms that grow best at pH between 8.0 and 10.5. <term class="no-emphasis"><emphasis effect="italics">Vibrio cholerae</emphasis></term>, the pathogenic agent of <term class="no-emphasis">cholera</term>, grows best at the slightly basic pH of 8.0; it can survive pH values of 11.0 but is inactivated by the acid of the stomach. When it comes to survival at high pH, the bright pink archaean <term class="no-emphasis"><emphasis effect="italics">Natronobacterium</emphasis></term>, found in the soda lakes of the African Rift Valley, may hold the record at a pH of 10.5 (<link target-id="OSC_Microbio_09_03_natronL"/>). Extreme alkaliphiles have adapted to their harsh environment through evolutionary modification of lipid and protein structure and compensatory mechanisms to maintain the proton motive force in an alkaline environment. For example, the alkaliphile <term class="no-emphasis"><emphasis effect="italics">Bacillus firmus</emphasis></term> derives the energy for transport reactions and motility from a Na<sup>+</sup> ion gradient rather than a proton motive force. Many enzymes from alkaliphiles have a higher isoelectric point, due to an increase in the number of basic amino acids, than homologous enzymes from neutrophiles.</para>
+<figure id="OSC_Microbio_09_03_natronL">
+<media id="fs-id1172101784826" alt="A photo of a red lake">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_09_03_natronL.jpg"/>
+</media>
+<caption>View from space of Lake Natron in Tanzania. The pink color is due to the pigmentation of the extreme alkaliphilic and halophilic microbes that colonize the lake. (credit: NASA)</caption>
+</figure>
+<note id="fs-id1172099744051" class="microbiology micro-connection">
+<title>Survival at the Low pH of the Stomach</title>
+<para id="fs-id1172099488046">Peptic ulcers (or <term class="no-emphasis">stomach ulcers</term>) are painful sores on the stomach lining. Until the 1980s, they were believed to be caused by spicy foods, stress, or a combination of both. Patients were typically advised to eat bland foods, take anti-acid medications, and avoid stress. These remedies were not particularly effective, and the condition often recurred. This all changed dramatically when the real cause of most <term class="no-emphasis">peptic ulcers</term> was discovered to be a slim, corkscrew-shaped bacterium, <term class="no-emphasis"><emphasis effect="italics">Helicobacter pylori</emphasis></term>. This organism was identified and isolated by Barry Marshall and Robin Warren, whose discovery earned them the Nobel Prize in Medicine in 2005.</para>
+<para id="fs-id1172099721695">The ability of <emphasis effect="italics">H. pylori</emphasis> to survive the low pH of the stomach would seem to suggest that it is an extreme acidophile. As it turns out, this is not the case. In fact, <emphasis effect="italics">H. pylori</emphasis> is a neutrophile. So, how does it survive in the stomach? Remarkably, <emphasis effect="italics">H. pylori</emphasis> creates a microenvironment in which the pH is nearly neutral. It achieves this by producing large amounts of the enzyme urease, which breaks down urea to form NH<sub>4</sub><sup>+</sup> and CO<sub>2</sub>. The ammonium ion raises the pH of the immediate environment.</para>
+<para id="fs-id1172101910165">This metabolic capability of <emphasis effect="italics">H. pylori</emphasis> is the basis of an accurate, noninvasive test for infection. The patient is given a solution of urea containing radioactively labeled carbon atoms. If <emphasis effect="italics">H. pylori</emphasis> is present in the stomach, it will rapidly break down the urea, producing radioactive CO<sub>2</sub> that can be detected in the patient’s breath. Because peptic ulcers may lead to gastric cancer, patients who are determined to have <emphasis effect="italics">H. pylori</emphasis> infections are treated with antibiotics.</para>
+</note>
+<note id="fs-id1172097228748" class="microbiology check-your-understanding">
+<list id="fs-id1167659223199" list-type="bulleted" bullet-style="bullet">
+<item>What effect do extremes of pH have on proteins?</item>
+<item>What pH-adaptive type of bacteria would most human pathogens be?</item>
+</list>
+</note>
+<section id="fs-id1172101921137" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1172099717704" list-type="bulleted" bullet-style="bullet">
+<item>Bacteria are generally <emphasis effect="bold">neutrophiles</emphasis>. They grow best at neutral pH close to 7.0.</item>
+<item><emphasis effect="bold">Acidophiles</emphasis> grow optimally at a pH near 3.0. <emphasis effect="bold">Alkaliphiles</emphasis> are organisms that grow optimally between a pH of 8 and 10.5. Extreme acidophiles and alkaliphiles grow slowly or not at all near neutral pH.</item>
+<item>Microorganisms grow best at their <emphasis effect="bold">optimum growth pH</emphasis>. Growth occurs slowly or not at all below the <emphasis effect="bold">minimum growth pH</emphasis> and above the <emphasis effect="bold">maximum growth pH</emphasis>.</item>
+</list>
+</section>
+<section id="fs-id1172102006275" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1172099736093">
+<problem id="fs-id1172101761998">
+<para id="fs-id1172099883137">Bacteria that grow in mine drainage at pH 1–2 are probably which of the following?</para>
+<list id="fs-id1172099924204" list-type="enumerated" number-style="upper-alpha">
+<item>alkaliphiles</item>
+<item>acidophiles</item>
+<item>neutrophiles</item>
+<item>obligate anaerobes</item>
+</list>
+</problem>
+<solution id="fs-id1172099413101">
+<para id="fs-id1172099929833">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172101736995">
+<problem id="fs-id1172102052804">
+<para id="fs-id1172101803506">Bacteria isolated from Lake Natron, where the water pH is close to 10, are which of the following?</para>
+<list id="fs-id1172101889882" list-type="enumerated" number-style="upper-alpha">
+<item>alkaliphiles</item>
+<item>facultative anaerobes</item>
+<item>neutrophiles</item>
+<item>obligate anaerobes</item>
+</list>
+</problem>
+<solution id="fs-id1172099385740">
+<para id="fs-id1172097148138">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172101802674">
+<problem id="fs-id1172097384340">
+<para id="fs-id1172101776830">In which environment are you most likely to encounter an acidophile?</para>
+<list id="fs-id1172102118082" list-type="enumerated" number-style="upper-alpha">
+<item>human blood at pH 7.2</item>
+<item>a hot vent at pH 1.5</item>
+<item>human intestine at pH 8.5</item>
+<item>milk at pH 6.5</item>
+</list>
+</problem>
+<solution id="fs-id1172099834065">
+<para id="fs-id1172101769433">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172101758276" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1172101732816">
+<problem id="fs-id1172099564287">
+<para id="fs-id1172101913252">A bacterium that thrives in a soda lake where the average pH is 10.5 can be classified as a(n) ________.</para>
+</problem>
+<solution id="fs-id1172099548957">
+<para id="fs-id1172099902780">alkaliphile</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172102115804">
+<problem id="fs-id1172099896238">
+<para id="fs-id1172099378535"><emphasis effect="italics">Lactobacillus acidophilus</emphasis> grows best at pH 4.5. It is considered a(n) ________.</para>
+</problem>
+<solution id="fs-id1172099514583">
+<para id="fs-id1172099568584">acidophile</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172102006764" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1172099692827">
+<problem id="fs-id1172101839830">
+<para id="fs-id1172099532754">Which macromolecule in the cell is most sensitive to changes in pH?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172102123939">
+<problem id="fs-id1172099531126">
+<para id="fs-id1172102078392">Which metabolic process in the bacterial cell is particularly challenging at high pH?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1172097264869" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1172099524007">
+<problem id="fs-id1172101912926">
+<para id="fs-id1172099898781">People who use proton pumps inhibitors or antacids are more prone to infections of the gastrointestinal tract. Can you explain the observation in light of what you have learned?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

@@ -1,0 +1,124 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Deeply Branching Bacteria</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58799</md:content-id>
+  <md:title>Deeply Branching Bacteria</md:title>
+  <md:abstract/>
+  <md:uuid>d1a198c1-2ec8-4f9d-9719-b273ea9eb380</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1172098448487" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1172101003084">
+<item>Describe the unique features of deeply branching bacteria</item>
+<item>Give examples of significant deeply branching bacteria</item>
+</list>
+</section>
+<para id="fs-id1172098446606">On a <term class="no-emphasis">phylogenetic tree</term> (see <link document="m58782">A Systematic Approach</link>), the trunk or root of the tree represents a common ancient evolutionary ancestor, often called the <term class="no-emphasis">last universal common ancestor (LUCA)</term>, and the branches are its evolutionary descendants. Scientists consider the <term>deeply branching bacteria</term>, such as the genus <term class="no-emphasis"><emphasis effect="italics">Acetothermus</emphasis></term>, to be the first of these non-LUCA forms of life produced by evolution some 3.5 billion years ago. When placed on the phylogenetic tree, they stem from the common root of life, deep and close to the <term class="no-emphasis">LUCA</term> root—hence the name “deeply branching” (<link target-id="OSC_Microbio_04_05_DeepBranch"/>).</para>
+<figure id="OSC_Microbio_04_05_DeepBranch">
+<media id="fs-id1172098316181" alt="A diagram of a phylogenetic tree. At the base is the label LUCA This branches into two branches. The branch on the left is the bacteria, the branch to the right branches again to form the archaea and Eukarya. The lowest branch of the bacteria is the acetothermus (which is starred). Branches above that include (from bottom to top): aquifex, thermotoga, green filamentous bacteria, bacteroides, cytophaga, planctomyces, gram positives, cyanobacteria, porteiobacteria and spirochetes. Branches of the arcaea from bottom to top: pyrodicticum, thermoproteus, Thermococcus, methanococcus, methanobacterium, methanosarcina, and halophies. Branches of the Eukarya from bottom to top: diplomonads, microsporidia, trichomonads, flagellates, entamoebae, slime molds, ciliates, plants, animals, and fungi.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_05_DeepBranch.jpg"/>
+</media>
+<caption>The star on this phylogenetic tree of life shows the position of the deeply branching bacteria <emphasis effect="italics">Acetothermus</emphasis>. (credit: modification of work by Eric Gaba)</caption>
+</figure>
+<para id="fs-id1172100526357">The deeply branching bacteria may provide clues regarding the structure and function of ancient and now extinct forms of life. We can hypothesize that ancient bacteria, like the deeply branching bacteria that still exist, were thermophiles or <term class="no-emphasis">hyperthermophiles</term>, meaning that they thrived at very high temperatures. <term class="no-emphasis"><emphasis effect="italics">Acetothermus paucivorans</emphasis></term>, a gram-negative anaerobic bacterium discovered in 1988 in sewage sludge, is a thermophile growing at an optimal temperature of 58 °C.<footnote id="fs-id1172100536746">G. Dietrich et al. “<emphasis effect="italics">Acetothermus paucivorans</emphasis>, gen. nov., sp. Nov., a Strictly Anaerobic, Thermophilic Bacterium From Sewage Sludge, Fermenting Hexoses to Acetate, CO<sub>2</sub>, and H<sub>2</sub>.” <emphasis effect="italics">Systematic and Applied Microbiology</emphasis> 10 no. 2 (1988):174–179.</footnote> Scientists have determined it to be the deepest branching bacterium, or the closest evolutionary relative of the LUCA (<link target-id="OSC_Microbio_04_05_DeepBranch"/>).</para>
+<para id="fs-id1172101009529">The class <term class="no-emphasis">Aquificae</term> includes deeply branching bacteria that are adapted to the harshest conditions on our planet, resembling the conditions thought to dominate the earth when life first appeared. Bacteria from the genus <term class="no-emphasis"><emphasis effect="italics">Aquifex</emphasis></term> are hyperthermophiles, living in hot springs at a temperature higher than 90 °C. The species <emphasis effect="italics">A. pyrophilus</emphasis> thrives near underwater volcanoes and thermal ocean vents, where the temperature of water (under high pressure) can reach 138 °C. <emphasis effect="italics">Aquifex</emphasis> bacteria use inorganic substances as nutrients. For example, <emphasis effect="italics">A. pyrophilus</emphasis> can reduce oxygen, and it is able to reduce nitrogen in anaerobic conditions. They also show a remarkable resistance to ultraviolet light and ionizing radiation. Taken together, these observations support the hypothesis that the ancient ancestors of deeply branching bacteria began evolving more than 3 billion years ago, when the earth was hot and lacked an atmosphere, exposing the bacteria to nonionizing and ionizing radiation.</para>
+<para id="fs-id1172098257984">The class <term class="no-emphasis">Thermotogae</term> is represented mostly by hyperthermophilic, as well as some mesophilic (preferring moderate temperatures), anaerobic gram-negative bacteria whose cells are wrapped in a peculiar sheath-like outer membrane called a <term class="no-emphasis">toga</term>. The thin layer of peptidoglycan in their cell wall has an unusual structure; it contains diaminopimelic acid and D-lysine. These bacteria are able to use a variety of organic substrates and produce molecular hydrogen, which can be used in industry. The class contains several genera, of which the best known is the genus <term class="no-emphasis"><emphasis effect="italics">Thermotoga</emphasis></term>. One species of this genus, <emphasis effect="italics">T. maritima</emphasis>, lives near the thermal ocean vents and thrives in temperatures of 90 °C; another species, <emphasis effect="italics">T. subterranea</emphasis>, lives in underground oil reservoirs.</para>
+<para id="fs-id1172100765723">Finally, the deeply branching bacterium <term class="no-emphasis"><emphasis effect="italics">Deinococcus radiodurans</emphasis></term> belongs to a genus whose name is derived from a Greek word meaning <emphasis effect="italics">terrible</emphasis> <emphasis effect="italics">berry</emphasis>. Nicknamed “<term class="no-emphasis">Conan the Bacterium</term>,” <emphasis effect="italics">D. radiodurans</emphasis> is considered a polyextremophile because of its ability to survive under the many different kinds of extreme conditions—extreme heat, drought, vacuum, acidity, and radiation. It owes its name to its ability to withstand doses of ionizing radiation that kill all other known bacteria; this special ability is attributed to some unique mechanisms of DNA repair.</para>
+<figure id="OSC_Microbio_04_05_Dradiodura">
+<media id="fs-id1172100988422" alt="A micrograph of four round cells forming a square.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_05_Dradiodura.jpg"/>
+</media>
+<caption><emphasis effect="italics">Deinococcus radiodurans</emphasis>, or “Conan the Bacterium,” survives in the harshest conditions on earth.</caption>
+</figure>
+<section id="fs-id1172098310384" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1172100637644" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Deeply branching bacteria</emphasis> are phylogenetically the most ancient forms of life, being the closest to the last universal common ancestor.</item>
+<item>Deeply branching bacteria include many species that thrive in extreme environments that are thought to resemble conditions on earth billions of years ago</item>
+<item>Deeply branching bacteria are important for our understanding of evolution; some of them are used in industry</item>
+</list>
+</section>
+<section id="fs-id1172100991393" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1172100906155">
+<problem id="fs-id1172100887196">
+<para id="fs-id1172100846570">The term “deeply branching” refers to which of the following?</para>
+<list id="fs-id1172098526103" list-type="enumerated" number-style="upper-alpha">
+<item>the cellular shape of deeply branching bacteria</item>
+<item>the position in the evolutionary tree of deeply branching bacteria</item>
+<item>the ability of deeply branching bacteria to live in deep ocean waters</item>
+<item>the pattern of growth in culture of deeply branching bacteria</item>
+</list>
+</problem>
+<solution id="fs-id1172100893555">
+<para id="fs-id1172100848162">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100937701">
+<problem id="fs-id1172098406395">
+<para id="fs-id1172098394853">Which of these deeply branching bacteria is considered a polyextremophile?</para>
+<list id="fs-id1172100960744" list-type="enumerated" number-style="upper-alpha">
+<item><emphasis effect="italics">Aquifex pyrophilus</emphasis></item>
+<item><emphasis effect="italics">Deinococcus radiodurans</emphasis></item>
+<item><emphasis effect="italics">Staphylococcus aureus</emphasis></item>
+<item><emphasis effect="italics">Mycobacterium tuberculosis</emphasis></item>
+</list>
+</problem>
+<solution id="fs-id1172100921667">
+<para id="fs-id1172100893856">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172098646928" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1172100622878">
+<problem id="fs-id1172100492469">
+<para id="fs-id1172098265470">The length of the branches of the evolutionary tree characterizes the evolutionary ________ between organisms.</para>
+</problem>
+<solution id="fs-id1172098589251">
+<para id="fs-id1172098448863">distance</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100658563">
+<problem id="fs-id1172100882557">
+<para id="fs-id1172100887022">The deeply branching bacteria are thought to be the form of life closest to the last universal ________ ________.</para>
+</problem>
+<solution id="fs-id1172100576939">
+<para id="fs-id1172100827451">common ancestor</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098273028">
+<problem id="fs-id1172100965278">
+<para id="fs-id1172098401203">Many of the deeply branching bacteria are aquatic and hyperthermophilic, found near underwater volcanoes and thermal ocean ________.</para>
+</problem>
+<solution id="fs-id1172100530997">
+<para id="fs-id1172100548815">vents</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100905378">
+<problem id="fs-id1172100911445">
+<para id="fs-id1172098433907">The deeply branching bacterium <emphasis effect="italics">Deinococcus radiodurans</emphasis> is able to survive exposure to high doses of ________.</para>
+</problem>
+<solution id="fs-id1172100840930">
+<para id="fs-id1172100766470">ionizing radiation</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172100549829" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1172100594080">
+<problem id="fs-id1172098436252">
+<para id="fs-id1172100677111">Briefly describe the significance of deeply branching bacteria for basic science and for industry.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172098421174">
+<problem id="fs-id1172100923538">
+<para id="fs-id1172100664825">What is thought to account for the unique radiation resistance of <emphasis effect="italics">D. radiodurans</emphasis>?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

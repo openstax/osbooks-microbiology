@@ -1,0 +1,237 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="appendix">
+
+<title>Mathematical Basics</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58947</md:content-id>
+  <md:title>Mathematical Basics</md:title>
+  <md:abstract/>
+  <md:uuid>b793420f-f95f-4093-b293-4682763280af</md:uuid>
+</metadata>
+
+<content class="appendix">
+<section id="fs-id1167661304526">
+<title>Squares and Other Powers</title>
+<para id="fs-id1167661268917">An exponent, or a power, is mathematical shorthand for repeated multiplications. For example, the exponent “2” means to multiply the base for that exponent by itself (in the example here, the base is “5”):</para>
+<equation id="fs-id1167663740529" class="unnumbered"><label/><m:math><m:mrow><m:msup><m:mn>5</m:mn><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>5</m:mn><m:mo>=</m:mo><m:mn>25</m:mn></m:mrow></m:math></equation>
+<para id="fs-id1167659275196">The exponent is “2” and the base is the number “5.” This expression (multiplying a number by itself) is also called a square. Any number raised to the power of 2 is being squared. Any number raised to the power of 3 is being cubed:</para>
+<equation id="fs-id1167661298918" class="unnumbered"><label/><m:math><m:mrow><m:msup><m:mn>5</m:mn><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:mn>5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>5</m:mn><m:mo>=</m:mo><m:mn>125</m:mn></m:mrow></m:math></equation>
+<para id="fs-id1167663928460">A number raised to the fourth power is equal to that number multiplied by itself four times, and so on for higher powers. In general:</para>
+<equation id="fs-id1167661427530" class="unnumbered"><label/><m:math><m:mrow><m:msup><m:mi>n</m:mi><m:mi>x</m:mi></m:msup><m:mo>=</m:mo><m:mi>n</m:mi><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mi>n</m:mi><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></equation>
+</section>
+<section id="fs-id1167659424609">
+<title>Calculating Percents</title>
+<para id="fs-id1167659069990">A percent is a way of expressing a fractional amount of something using a whole divided into 100 parts. A percent is a ratio whose denominator is 100. We use the percent symbol, %, to show percent. Thus, 25% means a ratio of <m:math><m:mrow><m:mfrac><m:mrow><m:mn>25</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math>, 3% means a ratio of <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math>, and 100 % percent means <m:math><m:mrow><m:mfrac><m:mrow><m:mn>100</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math>, or a whole.</para>
+<section id="fs-id1167663980818">
+<title>Converting Percents</title>
+<para id="fs-id1167661645686">A percent can be converted to a fraction by writing the value of the percent as a fraction with a denominator of 100 and simplifying the fraction if possible.</para>
+<equation id="fs-id1167661414934" class="unnumbered"><label/><m:math><m:mrow><m:mtext>25%</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>25</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-id1167663934085">A percent can be converted to a decimal by writing the value of the percent as a fraction with a denominator of 100 and dividing the numerator by the denominator.</para>
+<equation id="fs-id1167661304331" class="unnumbered"><label/><m:math><m:mrow><m:mtext>10%</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>0.10</m:mn></m:mrow></m:math></equation>
+<para id="fs-id1167663603935">To convert a decimal to a percent, write the decimal as a fraction. If the denominator of the fraction is not 100, convert it to a fraction with a denominator of 100, and then write the fraction as a percent.</para>
+<equation id="fs-id1167661462771" class="unnumbered"><label/><m:math><m:mrow><m:mn>0.833</m:mn><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>833</m:mn></m:mrow><m:mrow><m:mn>1000</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>83.3</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>83.3%</m:mn></m:mrow></m:math></equation>
+<para id="fs-id1167659063376">To convert a fraction to a percent, first convert the fraction to a decimal, and then convert the decimal to a percent.</para>
+<equation id="fs-id1167663736183" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>0.75</m:mn><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>75</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>75%</m:mn></m:mrow></m:math></equation>
+<para id="fs-id1167661296201">Suppose a researcher finds that 15 out of 23 students in a class are carriers of <emphasis effect="italics">Neisseria meningitides</emphasis>. What percentage of students are carriers? To find this value, first express the numbers as a fraction.</para>
+<equation id="fs-id1167663541182" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>carriers</m:mtext></m:mrow><m:mrow><m:mtext>total students</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>15</m:mn></m:mrow><m:mrow><m:mn>23</m:mn></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-id1167661441014">Then divide the numerator by the denominator.</para>
+<equation id="fs-id1167661518758" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mrow><m:mn>15</m:mn></m:mrow><m:mrow><m:mn>23</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>15</m:mn><m:mo>÷</m:mo><m:mn>23</m:mn><m:mo>≈</m:mo><m:mn>0.65</m:mn></m:mrow></m:math></equation>
+<para id="fs-id1167661298596">Finally, to convert a decimal to a percent, multiply by 100.</para>
+<equation id="fs-id1167663659868" class="unnumbered"><label/><m:math><m:mrow><m:mn>0.65</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mo>=</m:mo><m:mn>65%</m:mn></m:mrow></m:math></equation>
+<para id="fs-id1167663636425">The percent of students who are carriers is 65%.</para>
+<para id="fs-id1167663923796">You might also get data on occurrence and non-occurrence; for example, in a sample of students, 9 tested positive for <emphasis effect="italics">Toxoplasma</emphasis> antibodies, while 28 tested negative. What is the percentage of seropositive students? The first step is to determine the “whole,” of which the positive students are a part. To do this, sum the positive and negative tests.</para>
+<equation id="fs-id1167663736165" class="unnumbered"><label/><m:math><m:mrow><m:mtext>positive</m:mtext><m:mo>+</m:mo><m:mtext>negative</m:mtext><m:mo>=</m:mo><m:mn>9</m:mn><m:mo>+</m:mo><m:mn>28</m:mn><m:mo>=</m:mo><m:mn>37</m:mn></m:mrow></m:math></equation>
+<para id="fs-id1167661402937">The whole sample consisted of 37 students. The fraction of positives is:</para>
+<equation id="fs-id1167661419384" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>positive</m:mtext></m:mrow><m:mrow><m:mtext>total students</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>9</m:mn><m:mrow><m:mn>37</m:mn></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-id1167661415902">To find the percent of students who are carriers, divide the numerator by the denominator and multiply by 100.</para>
+<equation id="fs-id1167661665465" class="unnumbered"><label/><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mfrac><m:mn>9</m:mn><m:mrow><m:mn>37</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>9</m:mn><m:mo>÷</m:mo><m:mn>37</m:mn><m:mo>≈</m:mo><m:mn>0.24</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mn>0.24</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn><m:mo>=</m:mo><m:mn>24%</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1167663713196">The percent of positive students is about 24%.</para>
+<para id="fs-id1167663929263">Another way to think about calculating a percent is to set up equivalent fractions, one of which is a fraction with 100 as the denominator, and cross-multiply. The previous example would be expressed as:</para>
+<equation id="fs-id1167661630569" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mn>9</m:mn><m:mrow><m:mn>37</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>x</m:mi><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-id1167663639458">Now, cross multiply and solve for the unknown:</para>
+<equation id="fs-id1167663931540" class="unnumbered"><label/><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mn>9</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>37</m:mn><m:mi>x</m:mi></m:mtd><m:mtd/><m:mtd/><m:mtd/></m:mtr><m:mtr><m:mtd columnalign="right"><m:mfrac><m:mrow><m:mn>9</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>100</m:mn></m:mrow><m:mrow><m:mn>37</m:mn></m:mrow></m:mfrac></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mi>x</m:mi></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="5em"/><m:mtext>Divide both sides by 37</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mfrac><m:mrow><m:mn>900</m:mn></m:mrow><m:mrow><m:mn>37</m:mn></m:mrow></m:mfrac></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mi>x</m:mi></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="5em"/><m:mtext>Multiply</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>24</m:mn></m:mtd><m:mtd columnalign="left"><m:mo>≈</m:mo></m:mtd><m:mtd columnalign="left"><m:mi>x</m:mi></m:mtd><m:mtd/><m:mtd/><m:mtd columnalign="left"><m:mspace width="5em"/><m:mtext>Divide</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1167663927721">The answer, rounded, is the same.</para>
+</section>
+</section>
+<section id="fs-id1167661736895">
+<title>Multiplying and Dividing by Tens</title>
+<para id="fs-id1167659333399">In many fields, especially in the sciences, it is common to multiply decimals by powers of 10. Let’s see what happens when we multiply 1.9436 by some powers of 10.</para>
+<equation id="fs-id1167661398105" class="unnumbered"><label/><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mn>1.9436</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>10</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>19.436</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>1.9436</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>100</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>194.36</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>1.9436</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1000</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>1943.6</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1167661743216">The number of places that the decimal point moves is the same as the number of zeros in the power of ten. <link target-id="fs-id1167663639521"/> summarizes the results.</para>
+<table id="fs-id1167663639521" summary="A table explains that to multiply by 10, there is one zero and the decimal point moves 1 place to the right. To multiply by 100, there are two zeroes and the decimal point moves 2 places to the right. To multiply by 1000, there are three zeroes and the decimal point moves 3 places to the right. To multiply by 10,000 there are four zeroes and the decimal point moves 4 places to the right." class="span-all">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left">Multiply by</entry>
+<entry valign="top" align="left">Zeros</entry>
+<entry valign="top" align="left">Decimal point moves . . .</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">10</entry>
+<entry valign="top" align="center">1</entry>
+<entry valign="top" align="left">1 place to the right</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">100</entry>
+<entry valign="top" align="center">2</entry>
+<entry valign="top" align="left">2 places to the right</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">1,000</entry>
+<entry valign="top" align="center">3</entry>
+<entry valign="top" align="left">3 places to the right</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">10,000</entry>
+<entry valign="top" align="center">4</entry>
+<entry valign="top" align="left">4 places to the right</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1167663973164">We can use this pattern as a shortcut to multiply by powers of ten instead of multiplying using the vertical format. We can count the zeros in the power of 10 and then move the decimal point that same number of places to the right.</para>
+<para id="fs-id1167663646001">So, for example, to multiply 45.86 by 100, move the decimal point 2 places to the right.</para>
+<media id="fs-id1167661456695" alt="An equation reads 45.86 × 100 = 4586. An arrow shows the decimal point moving two places to the right.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_00_BB_Decimal1.jpg"/>
+</media>
+<para id="fs-id1167661723606">Sometimes when we need to move the decimal point, there are not enough decimal places. In that case, we use zeros as placeholders. For example, let’s multiply 2.4 by 100. We need to move the decimal point 2 places to the right. Since there is only one digit to the right of the decimal point, we must write a 0 in the hundredths place.</para>
+<media id="fs-id1167663995120" alt="An equation reads 2.4 × 100 = 240. An arrow shows the decimal point moving two places to the right.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_00_BB_Decimal2.jpg"/>
+</media>
+<para id="fs-id1167663620676">When dividing by powers of 10, simply take the opposite approach and move the decimal to the left by the number of zeros in the power of ten.</para>
+<para id="fs-id1167663623502">Let’s see what happens when we divide 1.9436 by some powers of 10.</para>
+<equation id="fs-id1167663984760" class="unnumbered"><label/><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mn>1.9436</m:mn><m:mo>÷</m:mo><m:mn>10</m:mn></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>0.19436</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>1.9436</m:mn><m:mo>÷</m:mo><m:mn>100</m:mn></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>0.019436</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>1.9436</m:mn><m:mo>÷</m:mo><m:mn>1000</m:mn></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>0.0019436</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1167661642090">If there are insufficient digits to move the decimal, add zeroes to create places.</para>
+</section>
+<section id="fs-id1167661433644">
+<title>Scientific Notation</title>
+<para id="fs-id1167661344567">Scientific notation is used to express very large and very small numbers as a product of two numbers. The first number of the product, the digit term, is usually a number not less than 1 and not greater than 10. The second number of the product, the exponential term, is written as 10 with an exponent. Some examples of scientific notation are given in <link target-id="fs-id1167663664079"/>.</para>
+<table id="fs-id1167663664079" summary="A table gives examples of standard and scientific notation. The standard notation of 1000 has the scientific notation of 1 × 103. The standard notation of 100 has the scientific notation of 1 × 102. The standard notation of 10 has the scientific notation of 1 × 101. The standard notation of 1 has the scientific notation of 1 × 100. The standard notation of 0.1 has the scientific notation of 1 × 10−1. The standard notation of 0.01 has the scientific notation of 1 × 10−2." class="span-all">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center">Standard Notation</entry>
+<entry valign="top" align="center">Scientific Notation</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="center">1000</entry>
+<entry valign="top" align="center">1 × 10<sup>3</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">100</entry>
+<entry valign="top" align="center">1 × 10<sup>2</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">10</entry>
+<entry valign="top" align="center">1 × 10<sup>1</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">1</entry>
+<entry valign="top" align="center">1 × 10<sup>0</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">0.1</entry>
+<entry valign="top" align="center">1 × 10<sup>−1</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">0.01</entry>
+<entry valign="top" align="center">1 × 10<sup>−2</sup></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1167659276691">Scientific notation is particularly useful notation for very large and very small numbers, such as 1,230,000,000 = 1.23 × 10<sup>9</sup>, and 0.00000000036 = 3.6 × 10<sup>−10</sup>.</para>
+</section>
+<section id="fs-id1167661649628">
+<title>Expressing Numbers in Scientific Notation</title>
+<para id="fs-id1167661325300">Converting any number to scientific notation is straightforward. Count the number of places needed to move the decimal next to the left-most non-zero digit: that is, to make the number between 1 and 10. Then multiply that number by 10 raised to the number of places you moved the decimal. The exponent is positive if you moved the decimal to the left and negative if you moved the decimal to the right. So</para>
+<equation id="fs-id1167661457910" class="unnumbered"><label/><m:math><m:mrow><m:mn>2386</m:mn><m:mo>=</m:mo><m:mn>2.386</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>1000</m:mn><m:mo>=</m:mo><m:mn>2.386</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math></equation>
+<para id="fs-id1167663640040">and</para>
+<equation id="fs-id1167661629702" class="unnumbered"><label/><m:math><m:mrow><m:mn>0.123</m:mn><m:mo>=</m:mo><m:mn>1.23</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>0.1</m:mn><m:mo>=</m:mo><m:mn>1.23</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−1</m:mn></m:mrow></m:msup></m:mrow></m:math></equation>
+<para id="fs-id1167663588724">The power (exponent) of 10 is equal to the number of places the decimal is shifted.</para>
+</section>
+<section id="fs-id1167661729918">
+<title>Logarithms</title>
+<para id="fs-id1167661391098">The common logarithm (log) of a number is the power to which 10 must be raised to equal that number. For example, the common logarithm of 100 is 2, because 10 must be raised to the second power to equal 100. Additional examples are in <link target-id="fs-id1167661395255"/>.</para>
+<table id="fs-id1167661395255" summary="A table gives the exponential form and common logarithm of several numbers. For 1000, the exponential form is 103 and the common logarithm is 3. For 10, the exponential form is 101 and the common logarithm is 1.For 1, the exponential form is 10° and the common logarithm is 0. For 0.1, the exponential form is 10−1 and the common logarithm is −1. For 0.001, the exponential form is 10−3 and the common logarithm is −3." class="span-all">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left">Number</entry>
+<entry valign="top" align="left">Exponential Form</entry>
+<entry valign="top" align="left">Common Logarithm</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="center">1000</entry>
+<entry valign="top" align="center">10<sup>3</sup></entry>
+<entry valign="top" align="center">3</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">10</entry>
+<entry valign="top" align="center">10<sup>1</sup></entry>
+<entry valign="top" align="center">1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">1</entry>
+<entry valign="top" align="center">10<sup>0</sup></entry>
+<entry valign="top" align="center">0</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">0.1</entry>
+<entry valign="top" align="center">10<sup>−1</sup></entry>
+<entry valign="top" align="center">−1</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">0.001</entry>
+<entry valign="top" align="center">10<sup>−3</sup></entry>
+<entry valign="top" align="center">−3</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1167663606773">To find the common logarithm of most numbers, you will need to use the LOG button on a calculator.</para>
+</section>
+<section id="fs-id1167661617685">
+<title>Rounding and Significant Digits</title>
+<para id="fs-id1167661310604">In reporting numerical data obtained via measurements, we use only as many significant figures as the accuracy of the measurement warrants. For example, suppose a microbiologist using an automated cell counter determines that there are 525,341 bacterial cells in a one-liter sample of river water. However, she records the concentration as 525,000 cells per liter and uses this rounded number to estimate the number of cells that would likely be found in 10 liters of river water. In this instance, the last three digits of the measured quantity are not considered <emphasis effect="italics">significant.</emphasis> They are rounded to account for variations in the number of cells that would likely occur if more samples were measured.</para>
+<para id="fs-id1167661419901">The importance of significant figures lies in their application to fundamental computation. In addition and subtraction, the sum or difference should contain as many digits to the right of the decimal as that in the <emphasis effect="italics">least</emphasis> certain (indicated by underscoring in the following example) of the numbers used in the computation.</para>
+<para id="fs-id1167661539968">Suppose a microbiologist wishes to calculate the total mass of two samples of agar.</para>
+<equation id="fs-id1167663968038" class="unnumbered"><label/><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mn>4.38</m:mn><m:munder accentunder="true"><m:mn>3</m:mn><m:mo stretchy="true">_</m:mo></m:munder><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:munder accentunder="true"><m:mrow><m:mn>3.002</m:mn><m:munder accentunder="true"><m:mn>1</m:mn><m:mo>_</m:mo></m:munder></m:mrow><m:mo stretchy="true">______</m:mo></m:munder><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mn>7.38</m:mn><m:munder accentunder="true"><m:mn>5</m:mn><m:mo>_</m:mo></m:munder><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-id1167659083670">The least certain of the two masses has three decimal places, so the sum must have three decimal places.</para>
+<para id="fs-id1167659333982">In multiplication and division, the product or quotient should contain no more digits than than in the factor containing the <emphasis effect="italics">least</emphasis> number of significant figures. Suppose the microbiologist would like to calculate how much of a reagent would be present in 6.6 mL if the concentration is 0.638 g/mL.</para>
+<equation id="fs-id1167661326948" class="unnumbered"><label/><m:math><m:mrow><m:mn>0.63</m:mn><m:munder accentunder="true"><m:mn>8</m:mn><m:mo>_</m:mo></m:munder><m:mspace width="0.2em"/><m:mfrac><m:mtext>g</m:mtext><m:mrow><m:mtext>mL</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>6.</m:mn><m:munder accentunder="true"><m:mn>6</m:mn><m:mo>_</m:mo></m:munder><m:mspace width="0.2em"/><m:mtext>mL</m:mtext><m:mo>=</m:mo><m:mn>4.1</m:mn><m:mspace width="0.2em"/><m:mtext>g</m:mtext></m:mrow></m:math></equation>
+<para id="fs-id1167659023882">Again, the answer has only one decimal place because this is the accuracy of the least accurate number in the calculation.</para>
+<para id="fs-id1167661736283">When rounding numbers, increase the retained digit by 1 if it is followed by a number larger than 5 (“round up”). Do not change the retained digit if the digits that follow are less than 5 (“round down”). If the retained digit is followed by 5, round up if the retained digit is odd, or round down if it is even (after rounding, the retained digit will thus always be even).</para>
+</section>
+<section id="fs-id1167661364221">
+<title>Generation Time</title>
+<para id="fs-id1167661629259">It is possible to write an equation to calculate the cell numbers at any time if the number of starting cells and doubling time are known, as long as the cells are dividing at a constant rate. We define <emphasis effect="italics">N</emphasis><sub>0</sub> as the starting number of bacteria, the number at time <emphasis effect="italics">t</emphasis> = 0. <emphasis effect="italics">N<sub>i</sub></emphasis> is the number of bacteria at time <emphasis effect="italics">t</emphasis> = <emphasis effect="italics">i</emphasis>, an arbitrary time in the future. Finally we will set <emphasis effect="italics">j</emphasis> equal to the number of generations, or the number of times the cell population doubles during the time interval. Then we have,</para>
+<equation id="fs-id1167663734733" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>N</m:mi><m:mi>i</m:mi></m:msub><m:mo>=</m:mo><m:msub><m:mi>N</m:mi><m:mn>0</m:mn></m:msub><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>2</m:mn><m:mi>j</m:mi></m:msup></m:mrow></m:math></equation>
+<para id="fs-id1167659281654">This equation is an expression of growth by binary fission.</para>
+<para id="fs-id1167663483016">In our example, <emphasis effect="italics">N</emphasis><sub>0</sub> = 4, the number of generations, <emphasis effect="italics">j</emphasis>, is equal to 3 after 90 minutes because the generation time is 30 minutes. The number of cells can be estimated from the following equation:</para>
+<equation id="fs-id1167661335492" class="unnumbered"><label/><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:msub><m:mi>N</m:mi><m:mi>i</m:mi></m:msub></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:msub><m:mi>N</m:mi><m:mn>0</m:mn></m:msub><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>2</m:mn><m:mi>j</m:mi></m:msup></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:msub><m:mi>N</m:mi><m:mrow><m:mn>90</m:mn></m:mrow></m:msub></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>2</m:mn><m:mn>3</m:mn></m:msup></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:msub><m:mi>N</m:mi><m:mrow><m:mn>90</m:mn></m:mrow></m:msub></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>8</m:mn><m:mo>=</m:mo><m:mn>32</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation>
+<para id="fs-id1167661308204">The number of cells after 90 minutes is 32.</para>
+</section>
+<section id="fs-id1167661735403">
+<title>Most Probable Number</title>
+<para id="fs-id1167663629987">The table in <link target-id="OSC_Microbio_00_EE_MPN"/> contains values used to calculate the most probable number example given in <link target-id="fs-id1172099701627" document="m58828">How Microbes Grow</link>.</para>
+<figure id="OSC_Microbio_00_EE_MPN">
+<media id="fs-id1167661369294" alt="A table is titled Most Probable Number Table. For each row, it states the number of tubes giving a positive reaction for a 5-tube set for 10 mL, 1 mL and 0.1 mL tubes, followed by the MPN per 100 mL, and the 95% confidence limits for low and high. For row 1, the reactions are 10 mL = 0, 1 mL = 0, 0.1 mL = 0; the MPN is &lt;2, and the low and high confidence limits are &lt;1 and 7. For row 2, the reactions are 10 mL = 0, 1 mL = 1, 0.1 mL = 0; the MPN is 2, and the low and high confidence limits are &lt;1 and 7. For row 3, the reactions are 10 mL = 0, 1 mL = 2, 0.1 mL = 0; the MPN is 4, and the low and high confidence limits are &lt;1 and 11. For row 4, the reactions are 10 mL = 1, 1 mL = 0, 0.1 mL = 0; the MPN is 2, and the low and high confidence limits are &lt;1 and 7. For row 5, the reactions are 10 mL = 1, 1 mL = 0, 0.1 mL = 1; the MPN is 4, and the low and high confidence limits are &lt;1 and 11. For row 6, the reactions are 10 mL = 1, 1 mL = 1, 0.1 mL = 0; the MPN is 4, and the low and high confidence limits are &lt;1 and 11. For row 7, the reactions are 10 mL = 1, 1 mL = 1, 0.1 mL = 1; the MPN is 6, and the low and high confidence limits are &lt;1 and 15. For row 8, the reactions are 10 mL = 2, 1 mL = 0, 0.1 mL = 0; the MPN is 5, and the low and high confidence limits are &lt;1 and 13. For row 9, the reactions are 10 mL = 2, 1 mL = 0, 0.1 mL = 1; the MPN is 7, and the low and high confidence limits are 1 and 17. For row 10, the reactions are 10 mL = 2, 1 mL = 1, 0.1 mL = 0; the MPN is 7, and the low and high confidence limits are 1 and 17. For row 11, the reactions are 10 mL = 2, 1 mL = 1, 0.1 mL = 1; the MPN is 9, and the low and high confidence limits are 2 and 21. For row 12, the reactions are 10 mL = 2, 1 mL = 2, 0.1 mL = 0; the MPN is 9, and the low and high confidence limits are 2 and 21. For row 13, the reactions are 10 mL = 2, 1 mL = 3, 0.1 mL = 0; the MPN is 12, and the low and high confidence limits are 3 and 28. For row 14, the reactions are 10 mL = 3, 1 mL = 0, 0.1 mL = 0; the MPN is 8, and the low and high confidence limits are 1 and 19. For row 15, the reactions are 10 mL = 3, 1 mL = 0, 0.1 mL = 1; the MPN is 11, and the low and high confidence limits are 2 and 25. For row 16, the reactions are 10 mL = 3, 1 mL = 1, 0.1 mL = 0; the MPN is 11, and the low and high confidence limits are 2 and 25. For row 17, the reactions are 10 mL = 3, 1 mL = 1, 0.1 mL = 1; the MPN is 14, and the low and high confidence limits are 4 and 34. For row 18, the reactions are 10 mL = 3, 1 mL = 2, 0.1 mL = 0; the MPN is 14, and the low and high confidence limits are 4 and 34. For row 19, the reactions are 10 mL = 3, 1 mL = 2, 0.1 mL = 1; the MPN is 17, and the low and high confidence limits are 5 and 46. For row 20, the reactions are 10 mL = 3, 1 mL = 3, 0.1 mL = 0; the MPN is 17, and the low and high confidence limits are 5 and 46. For row 21, the reactions are 10 mL = 4, 1 mL = 0, 0.1 mL = 0; the MPN is 13, and the low and high confidence limits are 3 and 31. For row 22, the reactions are 10 mL = 4, 1 mL = 0, 0.1 mL = 1; the MPN is 17, and the low and high confidence limits are 5 and 46. For row 23, the reactions are 10 mL = 4, 1 mL = 1, 0.1 mL = 0; the MPN is 17, and the low and high confidence limits are 5 and 46. For row 24, the reactions are 10 mL = 4, 1 mL = 1, 0.1 mL = 1; the MPN is 21, and the low and high confidence limits are 7 and 63. For row 25, the reactions are 10 mL = 4, 1 mL = 1, 0.1 mL = 2; the MPN is 26, and the low and high confidence limits are 9 and 78. For row 26, the reactions are 10 mL = 4, 1 mL = 2, 0.1 mL = 0; the MPN is 22, and the low and high confidence limits are 7 and 67. For row 27, the reactions are 10 mL = 4, 1 mL = 2, 0.1 mL = 1; the MPN is 26, and the low and high confidence limits are 9 and 80. For row 28, the reactions are 10 mL = 4, 1 mL = 3, 0.1 mL = 0; the MPN is 27, and the low and high confidence limits are 9 and 80. For row 29, the reactions are 10 mL = 4, 1 mL = 3, 0.1 mL = 1; the MPN is 33, and the low and high confidence limits are 11 and 93. For row 30, the reactions are 10 mL = 4, 1 mL = 4, 0.1 mL = 0; the MPN is 34, and the low and high confidence limits are 12 and 93. For row 31, the reactions are 10 mL = 5, 1 mL = 0, 0.1 mL = 0; the MPN is 23, and the low and high confidence limits are 7 and 70. For row 32, the reactions are 10 mL = 5, 1 mL = 0, 0.1 mL = 1; the MPN is 31, and the low and high confidence limits are 11 and 89. For row 33, the reactions are 10 mL = 5, 1 mL = 0, 0.1 mL = 2; the MPN is 43, and the low and high confidence limits are 15 and 110. For row 34, the reactions are 10 mL = 5, 1 mL = 1, 0.1 mL = 0; the MPN is 33, and the low and high confidence limits are 11 and 93. For row 35, the reactions are 10 mL = 5, 1 mL = 1, 0.1 mL = 1; the MPN is 46, and the low and high confidence limits are 16 and 120. For row 36, the reactions are 10 mL = 5, 1 mL = 1, 0.1 mL = 2; the MPN is 63, and the low and high confidence limits are 21 and 150. For row 37, the reactions are 10 mL = 5, 1 mL = 2, 0.1 mL = 0; the MPN is 49, and the low and high confidence limits are 17 and 130. For row 38, the reactions are 10 mL = 5, 1 mL = 2, 0.1 mL = 1; the MPN is 70, and the low and high confidence limits are 23 and 170. For row 39, the reactions are 10 mL = 5, 1 mL = 2, 0.1 mL = 2; the MPN is 94, and the low and high confidence limits are 28 and 220. For row 40, the reactions are 10 mL = 5, 1 mL = 3, 0.1 mL = 0; the MPN is 79, and the low and high confidence limits are 25 and 190. For row 41, the reactions are 10 mL = 5, 1 mL = 3, 0.1 mL = 1; the MPN is 110, and the low and high confidence limits are 31 and 250. For row 42, the reactions are 10 mL = 5, 1 mL = 3, 0.1 mL = 2; the MPN is 140, and the low and high confidence limits are 37 and 340. For row 43, the reactions are 10 mL = 5, 1 mL = 3, 0.1 mL = 3; the MPN is 180, and the low and high confidence limits are 44 and 500.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_00_EE_MPNTable.jpg"/>
+</media>
+</figure>
+</section>
+ </content>
+</document>

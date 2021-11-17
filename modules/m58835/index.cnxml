@@ -1,0 +1,299 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Using Microbiology to Discover the Secrets of Life</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58835</md:content-id>
+  <md:title>Using Microbiology to Discover the Secrets of Life</md:title>
+  <md:abstract/>
+  <md:uuid>c00aeccd-7338-43bd-b62d-556f8202de36</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1172101005203" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1172098463922">
+<item>Describe the discovery of nucleic acid and nucleotides</item>
+<item>Explain the historical experiments that led to the characterization of DNA</item>
+<item>Describe how microbiology and microorganisms have been used to discover the biochemistry of genes</item>
+<item>Explain how scientists established the link between DNA and heredity</item>
+</list>
+</section>
+<note id="fs-id1172098310660" class="microbiology clinical-focus">
+<title>Part 1</title>
+<para id="fs-id1172098617833">Alex is a 22-year-old college student who vacationed in Puerta Vallarta, Mexico, for spring break. Unfortunately, two days after flying home to Ohio, he began to experience abdominal cramping and extensive watery diarrhea. Because of his discomfort, he sought medical attention at a large Cincinnati hospital nearby.</para>
+<list id="fs-id1172100559348" list-type="bulleted" bullet-style="bullet">
+<item>What types of infections or other conditions may be responsible?</item>
+</list>
+<para id="fs-id1172098694205"><emphasis effect="italics">Jump to the <link document="m58836" target-id="fs-id1172099702711">next</link> Clinical Focus box.</emphasis></para>
+</note>
+<para id="fs-id1172098654441">Through the early 20th century, DNA was not yet recognized as the genetic material responsible for <term class="no-emphasis">heredity</term>, the passage of traits from one generation to the next. In fact, much of the research was dismissed until the mid-20th century. The scientific community believed, incorrectly, that the process of inheritance involved a blending of parental traits that produced an intermediate physical appearance in offspring; this hypothetical process appeared to be correct because of what we know now as continuous variation, which results from the action of many genes to determine a particular characteristic, like human height. Offspring appear to be a “blend” of their parents’ traits when we look at characteristics that exhibit continuous variation. The blending theory of inheritance asserted that the original parental traits were lost or absorbed by the blending in the offspring, but we now know that this is not the case.</para>
+<para id="fs-id1172100760732">Two separate lines of research, begun in the mid to late 1800s, ultimately led to the discovery and characterization of <term class="no-emphasis">DNA</term> and the foundations of genetics, the science of heredity. These lines of research began to converge in the 1920s, and research using microbial systems ultimately resulted in significant contributions to elucidating the molecular basis of <term class="no-emphasis">genetics</term>.</para>
+<section id="fs-id1172098560076">
+<title>Discovery and Characterization of DNA</title>
+<para id="fs-id1172098695092">Modern understanding of DNA has evolved from the discovery of nucleic acid to the development of the double-helix model. In the 1860s, Friedrich <term class="no-emphasis">Miescher</term> (1844–1895), a physician by profession, was the first person to isolate phosphorus-rich chemicals from leukocytes (white blood cells) from the pus on used bandages from a local surgical clinic. He named these chemicals (which would eventually be known as RNA and DNA) “<term class="no-emphasis">nuclein</term>” because they were isolated from the nuclei of the cells. His student Richard <term class="no-emphasis">Altmann</term> (1852–1900) subsequently termed it “<term class="no-emphasis">nucleic acid</term>” 20 years later when he discovered the acidic nature of nuclein. In the last two decades of the 19th century, German biochemist Albrecht <term class="no-emphasis">Kossel</term> (1853–1927) isolated and characterized the five different <term class="no-emphasis">nucleotide bases</term> composing nucleic acid. These are adenine, guanine, cytosine, thymine (in DNA), and uracil (in RNA). Kossell received the Nobel Prize in Physiology or Medicine in 1910 for his work on nucleic acids and for his considerable work on proteins, including the discovery of <term class="no-emphasis">histidine</term>.</para>
+</section>
+<section id="fs-id1172100644430">
+<title>Foundations of Genetics</title>
+<para id="fs-id1172098419285">Despite the discovery of DNA in the late 1800s, scientists did not make the association with heredity for many more decades. To make this connection, scientists, including a number of microbiologists, performed many experiments on plants, animals, and bacteria.</para>
+<section id="fs-id1172100525102">
+<title>Mendel’s Pea Plants</title>
+<para id="fs-id1172098549772">While Miescher was isolating and discovering DNA in the 1860s, Austrian monk and botanist Johann Gregor <term class="no-emphasis">Mendel</term> (1822–1884) was experimenting with garden peas, demonstrating and documenting basic patterns of inheritance, now known as Mendel’s laws.</para>
+<para id="fs-id1172098458440">In 1856, Mendel began his decade-long research into inheritance patterns. He used the diploid garden pea, <emphasis effect="italics">Pisum sativum</emphasis>, as his primary model system because it naturally self-fertilizes and is highly inbred, producing “true-breeding” pea plant lines—plants that always produce offspring that look like the parent. By experimenting with true-breeding pea plants, Mendel avoided the appearance of unexpected traits in offspring that might occur if he used plants that were not true-breeding. Mendel performed hybridizations, which involve mating two true-breeding individuals (P generation) that have different traits, and examined the characteristics of their offspring (first filial generation, F<sub>1</sub>) as well as the offspring of self-fertilization of the F<sub>1</sub> generation (second filial generation, F<sub>2</sub>) (<link target-id="OSC_Microbio_10_01_Mendel"/>).</para>
+<figure id="OSC_Microbio_10_01_Mendel">
+<media id="fs-id1172098516807" alt="Diagram of  flower genetics. In the P generation are violet flowers and white flowers. Hybridization of true-breeding plants produces the F1 generation which has all hybrid progeny and violet flowers. Self-fertilization of hybrid plants produces the F2 generation which has 705 violet flowers and 224 white flowers.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_10_01_Mendel.jpg"/>
+</media>
+<caption>In one of his experiments on inheritance patterns, Mendel crossed plants that were true- breeding for violet flower color with plants true-breeding for white flower color (the P generation). The resulting hybrids in the F<sub>1</sub> generation all had violet flowers. In the F<sub>2</sub> generation, approximately three-quarters of the plants had violet flowers, and one-quarter had white flowers.</caption>
+</figure>
+<para id="fs-id1172100876591">In 1865, Mendel presented the results of his experiments with nearly 30,000 pea plants to the local natural history society. He demonstrated that traits are transmitted faithfully from parents to offspring independently of other traits. In 1866, he published his work, “Experiments in Plant Hybridization,”<footnote id="fs-id1172098408229">J.G. Mendel. “Versuche über Pflanzenhybriden.” <emphasis effect="italics">Verhandlungen des naturforschenden Vereines in Brünn, Bd. Abhandlungen</emphasis> 4 (1865):3–7. (For English translation, see http://www.mendelweb.org/Mendel.plain.html)</footnote> in the <emphasis effect="italics">Proceedings of the Natural History Society of Brünn</emphasis>. Mendel’s work went virtually unnoticed by the scientific community, which believed, incorrectly, in the theory of blending of traits in continuous variation.</para>
+<para id="fs-id1172098431957">He was not recognized for his extraordinary scientific contributions during his lifetime. In fact, it was not until 1900 that his work was rediscovered, reproduced, and revitalized by scientists on the brink of discovering the chromosomal basis of heredity.</para>
+</section>
+<section id="fs-id1172096020416">
+<title>The Chromosomal Theory of Inheritance</title>
+<para id="fs-id1172100564713">Mendel carried out his experiments long before <term class="no-emphasis">chromosomes</term> were visualized under a microscope. However, with the improvement of microscopic techniques during the late 1800s, cell biologists could stain and visualize subcellular structures with dyes and observe their actions during <term class="no-emphasis">meiosis</term>. They were able to observe chromosomes replicating, condensing from an amorphous nuclear mass into distinct X-shaped bodies and migrating to separate cellular poles. The speculation that chromosomes might be the key to understanding heredity led several scientists to examine Mendel’s publications and re-evaluate his model in terms of the behavior of chromosomes during <term class="no-emphasis">mitosis</term> and meiosis.</para>
+<para id="fs-id1172100557904">In 1902, Theodor <term class="no-emphasis">Boveri</term> (1862–1915) observed that in sea urchins, nuclear components (chromosomes) determined proper embryonic development. That same year, Walter <term class="no-emphasis">Sutton</term> (1877–1916) observed the separation of chromosomes into daughter cells during meiosis. Together, these observations led to the development of the <term class="no-emphasis">Chromosomal Theory of Inheritance</term>, which identified chromosomes as the genetic material responsible for Mendelian inheritance.</para>
+<para id="fs-id1172100982448">Despite compelling correlations between the behavior of chromosomes during meiosis and Mendel’s observations, the Chromosomal Theory of Inheritance was proposed long before there was any direct evidence that traits were carried on chromosomes. Thomas Hunt <term class="no-emphasis">Morgan</term> (1866–1945) and his colleagues spent several years carrying out crosses with the fruit fly, <emphasis effect="italics">Drosophila melanogaster</emphasis>. They performed meticulous microscopic observations of fly chromosomes and correlated these observations with resulting fly characteristics. Their work provided the first experimental evidence to support the Chromosomal Theory of Inheritance in the early 1900s. In 1915, Morgan and his “Fly Room” colleagues published <emphasis effect="italics">The Mechanism of Mendelian Heredity,</emphasis> which identified chromosomes as the cellular structures responsible for heredity. For his many significant contributions to genetics, Morgan received the Nobel Prize in Physiology or Medicine in 1933.</para>
+<para id="fs-id1172098641630">In the late 1920s, Barbara <term class="no-emphasis">McClintock</term> (1902–1992) developed chromosomal staining techniques to visualize and differentiate between the different chromosomes of maize (corn). In the 1940s and 1950s, she identified a breakage event on chromosome 9, which she named the dissociation locus (<emphasis effect="italics">Ds</emphasis>). <emphasis effect="italics">Ds</emphasis> could change position within the chromosome. She also identified an activator locus (<emphasis effect="italics">Ac</emphasis>). <emphasis effect="italics">Ds</emphasis> chromosome breakage could be activated by an <emphasis effect="italics">Ac</emphasis> element (transposase enzyme). At first, McClintock’s finding of these <term class="no-emphasis">jumping genes</term>, which we now call <term class="no-emphasis">transposons</term>, was not accepted by the scientific community. It wasn’t until the 1960s and later that transposons were discovered in bacteriophages, bacteria, and <emphasis effect="italics">Drosophila</emphasis>. Today, we know that transposons are mobile segments of DNA that can move within the genome of an organism. They can regulate gene expression, protein expression, and virulence (ability to cause disease).</para>
+</section>
+<section id="fs-id1172098422109">
+<title>Microbes and Viruses in Genetic Research</title>
+<para id="fs-id1172098694270">Microbiologists have also played a crucial part in our understanding of genetics. Experimental organisms such as <term class="no-emphasis">Mendel</term>’s garden peas, Morgan’s fruit flies, and <term class="no-emphasis">McClintock</term>’s corn had already been used successfully to pave the way for an understanding of genetics. However, microbes and viruses were (and still are) excellent model systems for the study of <term class="no-emphasis">genetics</term> because, unlike peas, fruit flies, and corn, they are propagated more easily in the laboratory, growing to high population densities in a small amount of space and in a short time. In addition, because of their structural simplicity, microbes and viruses are more readily manipulated genetically.</para>
+<para id="fs-id1172100666153">Fortunately, despite significant differences in size, structure, reproduction strategies, and other biological characteristics, there is biochemical unity among all organisms; they have in common the same underlying molecules responsible for <term class="no-emphasis">heredity</term> and the use of genetic material to give cells their varying characteristics. In the words of French scientist Jacques <term class="no-emphasis">Monod</term>, “What is true for <emphasis effect="italics">E. coli</emphasis> is also true for the elephant,” meaning that the biochemistry of life has been maintained throughout evolution and is shared in all forms of life, from simple unicellular organisms to large, complex organisms. This biochemical continuity makes microbes excellent models to use for genetic studies.</para>
+<para id="fs-id1172101004549">In a clever set of experiments in the 1930s and 1940s, German scientist Joachim <term class="no-emphasis">Hämmerling</term> (1901–1980), using the single-celled alga <term class="no-emphasis"><emphasis effect="italics">Acetabularia</emphasis></term> as a microbial model, established that the genetic information in a eukaryotic cell is housed within the <term class="no-emphasis">nucleus</term>. <emphasis effect="italics">Acetabularia</emphasis> spp. are unusually large algal cells that grow asymmetrically, forming a “foot” containing the nucleus, which is used for substrate attachment; a stalk; and an umbrella-like cap—structures that can all be easily seen with the naked eye. In an early set of experiments, Hämmerling removed either the cap or the foot of the cells and observed whether new caps or feet were regenerated (<link target-id="OSC_Microbio_10_01_footandcap"/>). He found that when the foot of these cells was removed, new feet did not grow; however, when caps were removed from the cells, new caps were regenerated. This suggested that the hereditary information was located in the nucleus-containing foot of each cell.</para>
+<figure id="OSC_Microbio_10_01_footandcap">
+<media id="fs-id1172100640083" alt="a) photograph of small organisms with a long stalk and a round top. b) diagram of Acetabularia showing a round cap at the top connected to the foot at the bottom by a long stalk. The nucleus is near the foot. If the cap is removed a new cap will regenerate. If the foot is removed no new foot is regenerated.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_10_01_footandcap.jpg"/>
+</media>
+<caption>(a) The cells of the single-celled alga <emphasis effect="italics">Acetabularia</emphasis> measure 2–6 cm and have a cell morphology that can be observed with the naked eye. Each cell has a cap, a stalk, and a foot, which contains the nucleus. (b) Hämmerling found that if he removed the cap, a new cap would regenerate; but if he removed the foot, a new foot would not regenerate. He concluded that the genetic information needed for regeneration was found in the nucleus. (credit a: modification of work by James St. John)</caption>
+</figure>
+<para id="fs-id1172100610498">In another set of experiments, Hämmerling used two species of <emphasis effect="italics">Acetabularia</emphasis> that have different cap morphologies, <emphasis effect="italics">A. crenulata</emphasis> and <emphasis effect="italics">A. mediterranea</emphasis> (<link target-id="OSC_Microbio_10_01_AcetabCap"/>). He cut the caps from both types of cells and then grafted the stalk from an <emphasis effect="italics">A. crenulata</emphasis> onto an <emphasis effect="italics">A. mediterranea</emphasis> foot, and vice versa. Over time, he observed that the grafted cell with the <emphasis effect="italics">A. crenulata</emphasis> foot and <emphasis effect="italics">A. mediterranea</emphasis> stalk developed a cap with the <emphasis effect="italics">A. crenulata</emphasis> morphology. Conversely, the grafted cell with the <emphasis effect="italics">A. mediterranea</emphasis> foot and <emphasis effect="italics">A. crenulata</emphasis> stalk developed a cap with the <emphasis effect="italics">A. mediterranea</emphasis> morphology. He microscopically confirmed the presence of nuclei in the feet of these cells and attributed the development of these cap morphologies to the nucleus of each grafted cell. Thus, he showed experimentally that the <term class="no-emphasis">nucleus</term> was the location of genetic material that dictated a cell’s properties.</para>
+<figure id="OSC_Microbio_10_01_AcetabCap">
+<media id="fs-id1172101038506" alt="A diagram of 2 different Acetabularia; both have a foot and long stalk but A. mediterranea has a round top and A. crenulata has a pom-pom shaped top. If the foot of A. mediterranea is grafted on to the upper stalks of A. crenulata – the resulting cap looks like A. mediterranea (round). If the foot of A. crenulata is grafted on to the upper stalks of A. mediterranea – the resulting cap looks like A. crenulata (pom-pom shape).">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_10_01_AcetabCap.jpg"/>
+</media>
+<caption>In a second set of experiments, Hämmerling used two morphologically different species and grafted stalks from each species to the feet of the other. He found that the properties of the regenerated caps were dictated by the species of the nucleus-containing foot.</caption>
+</figure>
+<para id="fs-id1172098544778">Another microbial model, the red bread mold <term class="no-emphasis"><emphasis effect="italics">Neurospora crassa</emphasis></term>, was used by George Beadle and Edward Tatum to demonstrate the relationship between genes and the proteins they encode. Beadle had worked with fruit flies in <term class="no-emphasis">Morgan</term>’s laboratory but found them too complex to perform certain types of experiments. <emphasis effect="italics">N. crassa</emphasis>, on the other hand, is a simpler organism and has the ability to grow on a minimal medium because it contains enzymatic pathways that allow it to use the medium to produce its own vitamins and amino acids.</para>
+<para id="fs-id1172100660869"><term class="no-emphasis">Beadle and Tatum</term> irradiated the mold with X-rays to induce changes to a sequence of nucleic acids, called <term class="no-emphasis">mutations</term>. They mated the irradiated mold spores and attempted to grow them on both a complete medium and a minimal medium. They looked for <term class="no-emphasis">mutants</term> that grew on a complete medium, supplemented with vitamins and amino acids, but did not grow on the minimal medium lacking these supplements. Such molds theoretically contained mutations in the genes that encoded biosynthetic pathways. Upon finding such mutants, they systematically tested each to determine which vitamin or amino acid it was unable to produce (<link target-id="OSC_Microbio_10_01_X-rayMold"/>) and published this work in 1941.<footnote id="fs-id1172098616335">G.W. Beadle, E.L. Tatum. “Genetic Control of Biochemical Reactions in <emphasis effect="italics">Neurospora.” Proceedings of the National Academy of Sciences</emphasis> 27 no. 11 (1941):499–506.</footnote></para>
+<figure id="OSC_Microbio_10_01_X-rayMold">
+<media id="fs-id1172100665749" alt="Diagram of Beadle and Tatum’s experiment. Wild type spores are exposed to X-rays to form mutagenized spores. The wild type and mutagenized spores are then crossed. The mutants are then grown on complete (with amino acids) and minimal media (without amino acids). Mutants that grow only on complete medium are identified. Spores that cannot grow on a minimal medium are tested on a minimal medium with a single amino acid added. Spores that grow inonly one of these tubes have a mutation in the pathway that produces that particular amino acid.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_10_01_X-rayMold.jpg"/>
+</media>
+<caption><term class="no-emphasis">Beadle and Tatum</term>’s experiment involved the mating of irradiated and nonirradiated mold spores. These spores were grown on both complete medium and a minimal medium to determine which amino acid or vitamin the mutant was unable to produce on its own.</caption>
+</figure>
+<para id="fs-id1172098747760">Subsequent work by Beadle, Tatum, and colleagues showed that they could isolate different classes of mutants that required a particular supplement, like the amino acid arginine (<link target-id="OSC_Microbio_10_01_GeneEnzyme"/>). With some knowledge of the arginine biosynthesis pathway, they identified three classes of arginine mutants by supplementing the minimal medium with intermediates (citrulline or ornithine) in the pathway. The three mutants differed in their abilities to grow in each of the media, which led the group of scientists to propose, in 1945, that each type of mutant had a defect in a different gene in the arginine biosynthesis pathway. This led to the so-called <term class="no-emphasis">one gene–one enzyme hypothesis</term>, which suggested that each gene encodes one enzyme.</para>
+<para id="fs-id1172098594404">Subsequent knowledge about the processes of <term class="no-emphasis">transcription</term> and <term class="no-emphasis">translation</term> led scientists to revise this to the “one gene–one polypeptide” hypothesis. Although there are some genes that do not encode polypeptides (but rather encode for transfer RNAs [tRNAs] or ribosomal RNAs [rRNAs], which we will discuss later), the one gene–one enzyme hypothesis is true in many cases, especially in microbes. Beadle and Tatum’s discovery of the link between genes and corresponding characteristics earned them the 1958 Nobel Prize in Physiology and Medicine and has since become the basis for modern molecular genetics.</para>
+<figure id="OSC_Microbio_10_01_GeneEnzyme">
+<media id="fs-id1172098479839" alt="The table at the top is labeled Beadle and Tatum Experiments and shows the growth pattern of 4 different spores. The wild type spore grew on minimal medium (MM), MM + Ornithing, MM + Citruline and MM + Arginine. Mutant 1 did not grow on MM but did grow on MM + Ornithing, MM + Citruline and MM + Arginine. Mutant 2 did not grow on MM or  MM + Ornithing but did grow on  MM + Citruline and MM + Arginine. Mutant 3 did not grow on MM, MM + Ornithing, or MM + Citruline but did grow on MM + Arginine.  Underneath the table is a diagram that explains these results. The top diagram shows a pathway where gene 1 produces enzyme 1 and enzyme 1 produces ornithine. Gene 2 produces enzyme 2 which converts ornithine to citruline. Gene 3 produces enzyme 3 which converts citruline to arginine. Mutant 1 had a mutation in gene 1 that destroyed the function of enzyme 1, so one of the amino acids are produced. Mutant 2 had a mutation in gene 2 that destroyed the function of enzyme 2. So, Ornithine is still produced but citruline and arginine are not. Mutant 3 had a mutation in gene 3 that destroyed the function of enzyme 3. So, ornithine and citruline are produced but arginine is not.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_10_01_GeneEnzyme.jpg"/>
+</media>
+<caption>Three classes of arginine mutants were identified, each differing in their ability to grow in the presence of intermediates in the arginine biosynthesis pathway. From this, Beadle and Tatum concluded that each mutant was defective in a different gene encoding a different enzyme in the arginine biosynthesis pathway, leading to them to their one gene–one enzyme hypothesis.</caption>
+</figure>
+<note id="fs-id1172098403855" class="microbiology link-to-learning">
+
+<para id="fs-id1172098642740">To learn more about the experiments of Beadle and Tatum, visit this <link url="https://www.openstax.org/l/22expbeatatum">website</link> from the DNA Learning Center.</para>
+</note>
+<note id="fs-id1172098500306" class="microbiology check-your-understanding">
+<list id="fs-id1172100893773" list-type="bulleted" bullet-style="bullet">
+<item>What organism did Morgan and his colleagues use to develop the Chromosomal Theory of Inheritance? What traits did they track?</item>
+<item>What did Hämmerling prove with his experiments on <emphasis effect="italics">Acetabularia</emphasis>?</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1172098528897">
+<title>DNA as the Molecule Responsible for Heredity</title>
+<para id="fs-id1172098600354">By the beginning of the 20th century, a great deal of work had already been done on characterizing <term class="no-emphasis">DNA</term> and establishing the foundations of genetics, including attributing heredity to chromosomes found within the nucleus. Despite all of this research, it was not until well into the 20th century that these lines of research converged and scientists began to consider that DNA could be the genetic material that offspring inherited from their parents. DNA, containing only four different <term class="no-emphasis">nucleotides</term>, was thought to be structurally too simple to encode such complex genetic information. Instead, protein was thought to have the complexity required to serve as cellular genetic information because it is composed of 20 different amino acids that could be combined in a huge variety of combinations. Microbiologists played a pivotal role in the research that determined that DNA is the molecule responsible for <term class="no-emphasis">heredity</term>.</para>
+<section id="fs-id1172098574211">
+<title>Griffith’s Transformation Experiments</title>
+<para id="fs-id1172098433423">British bacteriologist Frederick <term class="no-emphasis">Griffith</term> (1879–1941) was perhaps the first person to show that hereditary information could be transferred from one cell to another “horizontally” (between members of the same generation), rather than “vertically” (from parent to offspring). In 1928, he reported the first demonstration of <term class="no-emphasis">bacterial transformation</term>, a process in which external DNA is taken up by a cell, thereby changing its characteristics.<footnote id="fs-id1172100617769">F. Griffith. “The Significance of Pneumococcal Types.” <emphasis effect="italics">Journal of Hygiene</emphasis> 27 no. 2 (1928):8–159.</footnote> He was working with two strains of <term class="no-emphasis"><emphasis effect="italics">Streptococcus pneumoniae</emphasis></term>, a bacterium that causes pneumonia: a rough (R) strain and a smooth (S) strain. The R strain is nonpathogenic and lacks a capsule on its outer surface; as a result, colonies from the R strain appear rough when grown on plates. The S strain is pathogenic and has a capsule outside its cell wall, allowing it to escape phagocytosis by the host immune system. The capsules cause colonies from the S strain to appear smooth when grown on plates.</para>
+<para id="fs-id1172100922434">In a series of experiments, Griffith analyzed the effects of live R, live S, and heat-killed S strains of <emphasis effect="italics">S. pneumoniae</emphasis> on live mice (<link target-id="OSC_Microbio_10_01_Griffith"/>). When mice were injected with the live S strain, the mice died. When he injected the mice with the live R strain or the heat-killed S strain, the mice survived. But when he injected the mice with a mixture of live R strain and heat-killed S strain, the mice died. Upon isolating the live bacteria from the dead mouse, he only recovered the S strain of bacteria. When he then injected this isolated S strain into fresh mice, the mice died. Griffith concluded that something had passed from the heat-killed S strain into the live R strain and “transformed” it into the pathogenic S strain; he called this the “transforming principle.” These experiments are now famously known as <term class="no-emphasis">Griffith’s transformation experiments</term>.</para>
+<figure id="OSC_Microbio_10_01_Griffith">
+<media id="fs-id1172096194827" alt="Diagram of the Griffith experiment. In the control experiment the rough strain (nonvirulent) is injected into the mouse and the mouse lives. In Experiment 1 the heat-killed smooth strain is injected into a mouse and the mouse lives. In Experiment 2, the rough strain and the heat killed smooth strain are injected into a mouse and the mouse dies. In experiment 3 the smooth strain (virulent strain recovered from dead mice in experiment 2) is injected into mice and the mice die.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_10_01_Griffith.jpg"/>
+</media>
+<caption>In his famous series of experiments, Griffith used two strains of <emphasis effect="italics">S. pneumoniae</emphasis>. The S strain is pathogenic and causes death. Mice injected with the nonpathogenic R strain or the heat-killed S strain survive. However, a combination of the heat-killed S strain and the live R strain causes the mice to die. The S strain recovered from the dead mouse showed that something had passed from the heat-killed S strain to the R strain, transforming the R strain into an S strain in the process.</caption>
+</figure>
+<para id="fs-id1172098649326">In 1944, Oswald <term class="no-emphasis">Avery</term>, Colin <term class="no-emphasis">MacLeod</term>, and Maclyn <term class="no-emphasis">McCarty</term> were interested in exploring Griffith’s transforming principle further. They isolated the S strain from infected dead mice, heat-killed it, and inactivated various components of the S extract, conducting a systematic elimination study (<link target-id="OSC_Microbio_10_01_DNATrans"/>). They used enzymes that specifically degraded proteins, RNA, and DNA and mixed the S extract with each of these individual enzymes. Then, they tested each extract/enzyme combination’s resulting ability to transform the R strain, as observed by the diffuse growth of the S strain in culture media and confirmed visually by growth on plates. They found that when <term class="no-emphasis">DNA</term> was degraded, the resulting mixture was no longer able to transform the R strain bacteria, whereas no other enzymatic treatment was able to prevent transformation. This led them to conclude that DNA was the transforming principle. Despite their results, many scientists did not accept their conclusion, instead believing that there were protein contaminants within their extracts.</para>
+<figure id="OSC_Microbio_10_01_DNATrans">
+<media id="fs-id1172100957742" alt="A diagram of Avery, MaLeod and McCarty’s experiment: Determining the identity of the hereditary material. Heat is used to kill S strain of S. pneumonia and capsule components are removed from solution. This produes a solution with DNA, RNA and proteins. This solution is then placed into 4 tubes. In the control, no enzymes are used so DNA, RNA, and proteins are all present. R cells are then added and S cells are found because transformation occurred. In the next experiment proteases degrade proteins in the sample, leaving DNA and RNA. R cells are added and S cells are found. Therefore, transformation occurred in the absence of proteins. In the next experiment ribonucleases degrade RNA in the sample, leaving DNA and proteins. R cells are added and S cells are found. Therefore, transformation occurred in the absence of RNA. In the final experiment deoxyribonucleases degrade DNA in the sample, leaving proteins and RNA. R cells are added and S cells are not found. Therefore, transformation does not occur without DNA. DNA is necessary for transformation.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_10_01_DNATrans.jpg"/>
+</media>
+<caption>Oswald Avery, Colin MacLeod, and Maclyn McCarty followed up on Griffith’s experiment and experimentally determined that the transforming principle was DNA.</caption>
+</figure>
+<note id="fs-id1172100909885" class="microbiology check-your-understanding">
+<list id="fs-id1172098285738" list-type="bulleted" bullet-style="bullet">
+<item>How did Avery, MacLeod, and McCarty’s experiments show that DNA was the transforming principle first described by Griffith?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172098525868">
+<title>Hershey and Chase’s Proof of DNA as Genetic Material</title>
+<para id="fs-id1172098750707">Alfred Hershey and Martha Chase performed their own experiments in 1952 and were able to provide confirmatory evidence that <term class="no-emphasis">DNA</term>, not protein, was the genetic material (<link target-id="OSC_Microbio_10_01_HersheyChase"/>).<footnote id="fs-id1172098317905">A.D. Hershey, M. Chase. “Independent Functions of Viral Protein and Nucleic Acid in Growth of Bacteriophage.” <emphasis effect="italics">Journal of General Physiology</emphasis> 36 no. 1 (1952):39–56.</footnote> <term class="no-emphasis">Hershey and Chase</term> were studying a <term class="no-emphasis">bacteriophage</term>, a virus that infects bacteria. Viruses typically have a simple structure: a protein coat, called the capsid, and a nucleic acid core that contains the genetic material, either DNA or RNA (see <link document="m58808">Viruses</link>). The particular bacteriophage they were studying was the T2 bacteriophage, which infects <emphasis effect="italics">E. coli</emphasis> cells. As we now know today, T2 attaches to the surface of the bacterial cell and then it injects its nucleic acids inside the cell. The phage DNA makes multiple copies of itself using the host machinery, and eventually the host cell bursts, releasing a large number of bacteriophages.</para>
+<para id="fs-id1172100564012">Hershey and Chase labeled the protein coat in one batch of phage using radioactive sulfur, <sup>35</sup>S, because sulfur is found in the amino acids methionine and cysteine but not in nucleic acids. They labeled the DNA in another batch using radioactive phosphorus, <sup>32</sup>P, because phosphorus is found in DNA and RNA but not typically in protein.</para>
+<para id="fs-id1172098454699">Each batch of phage was allowed to infect the cells separately. After infection, Hershey and Chase put each phage bacterial suspension in a blender, which detached the phage coats from the host cell, and spun down the resulting suspension in a centrifuge. The heavier bacterial cells settled down and formed a pellet, whereas the lighter phage particles stayed in the supernatant. In the tube with the protein labeled, the radioactivity remained only in the supernatant. In the tube with the DNA labeled, the radioactivity was detected only in the bacterial cells. Hershey and Chase concluded that it was the phage DNA that was injected into the cell that carried the information to produce more phage particles, thus proving that DNA, not proteins, was the source of the genetic material. As a result of their work, the scientific community more broadly accepted DNA as the molecule responsible for heredity.</para>
+<figure id="OSC_Microbio_10_01_HersheyChase">
+<media id="fs-id1172100635904" alt="Diagram of Hershey Chase experiment. 1- One batch of phage was labeled with 32P which is incorporated into the DNA. Another batch is labeled with 35S which is incorporated into the protein coat. 2 – Bacteria were infected with the phage. The researchers were looking to identify if viral DNA or viral protein entered the host cell. 3 – Each culture is blended and centrifuged to separate the phage from the bacteria. The centrifuge separates the lighter phage particles from the heavier bacterial cells. 4 – Bacteria infected with phage 32P labeled DNA produce 32P labeled phage. Bacteria infected with 35S labeled phage produced unlabeled phage.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_10_01_HersheyChase.jpg"/>
+</media>
+<caption>Martha Chase and Alfred Hershey conducted an experiment separately labeling the DNA and proteins of the T2 bacteriophage to determine which component was the genetic material responsible for the production of new phage particles.</caption>
+</figure>
+<para id="fs-id1172098545511">By the time <term class="no-emphasis">Hershey and Chase</term> published their experiment in the early 1950s, microbiologists and other scientists had been researching heredity for over 80 years. Building on one another’s research during that time culminated in the general agreement that DNA was the genetic material responsible for heredity (<link target-id="OSC_Microbio_10_01_Timeline"/>). This knowledge set the stage for the age of molecular biology to come and the significant advancements in biotechnology and systems biology that we are experiencing today.</para>
+<note id="fs-id1172101031418" class="microbiology link-to-learning">
+
+<para id="fs-id1172098256690">To learn more about the experiments involved in the history of genetics and the discovery of DNA as the genetic material of cells, visit this <link url="https://www.openstax.org/l/22dnalearncen">website</link> from the DNA Learning Center.</para>
+</note>
+<note id="fs-id1172098641648" class="microbiology check-your-understanding">
+<list id="fs-id1172100735316" list-type="bulleted" bullet-style="bullet">
+<item>How did Hershey and Chase use microbes to prove that DNA is genetic material?</item>
+</list>
+</note>
+<figure id="OSC_Microbio_10_01_Timeline">
+<media id="fs-id1172100743740" alt="A timeline. 1865: Mendel documents patters of heredity in pea plants. 1869L Miescher first identifies DNA (“nuclein”). 1902: Sutton and Boveri propose chromosome theory of heredity. 1915: Morgan and his “Fly Room” colleagues confirm the chromosome theory of heredity. 1927: Muller shows that X-rays induce mutation. 1928: Griffith’s “transformation experiments” transform non-pathogenic bacterial strains to pathogenic. 1930’s: Mammerling shows that hereditary information is contained in the nuclei of eukaryotic cells. 1930: McClintock demonstrates genetic recombination in corn. 1941: Beadle and Tatum describe the “one gen-one enzyme” hypothesis. 1944: Avery, McLeod, and McCarty show that DNA is the “transforming principle” responsible for heredity. 1950: Chargaff discovers that A=T and C=G (Chargaff’s rules). 1952: Hershey and Chase use radioactive labeling to prove that DNA is responsible for heredity. 1953: Watson and Crick propose the double helix structure of DNA. 1961: Jacob and Monod propose the existence of mRNA. 1990’s: Genome sequence projects begin.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_10_01_Timeline.jpg"/>
+</media>
+<caption>A timeline of key events leading up to the identification of DNA as the molecule responsible for heredity</caption>
+</figure>
+</section>
+</section>
+<section id="fs-id1172098379658" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1172100656945" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">DNA</emphasis> was discovered and characterized long before its role in heredity was understood. Microbiologists played significant roles in demonstrating that DNA is the hereditary information found within cells.</item>
+<item>In the 1850s and 1860s, Gregor Mendel experimented with true-breeding garden peas to demonstrate the <emphasis effect="bold">heritability</emphasis> of specific observable traits.</item>
+<item>In 1869, Friedrich Miescher isolated and purified a compound rich in phosphorus from the nuclei of white blood cells; he named the compound nuclein. Miescher’s student Richard Altmann discovered its acidic nature, renaming it <emphasis effect="bold">nucleic acid</emphasis>. Albrecht Kossell characterized the <emphasis effect="bold">nucleotide bases</emphasis> found within nucleic acids.</item>
+<item>Although Walter Sutton and Theodor Boveri proposed the <emphasis effect="bold">Chromosomal Theory of Inheritance</emphasis> in 1902, it was not scientifically demonstrated until the 1915 publication of the work of Thomas Hunt Morgan and his colleagues.</item>
+<item>Using <emphasis effect="italics">Acetabularia,</emphasis> a large algal cell, as his model system, Joachim Hämmerling demonstrated in the 1930s and 1940s that the nucleus was the location of hereditary information in these cells.</item>
+<item>In the 1940s, George Beadle and Edward Tatum used the mold <emphasis effect="italics">Neurospora crassa</emphasis> to show that each protein’s production was under the control of a single gene, demonstrating the <emphasis effect="bold">“one gene–one enzyme” hypothesis</emphasis>.</item>
+<item>In 1928, Frederick Griffith showed that dead encapsulated bacteria could pass genetic information to live nonencapsulated bacteria and transform them into harmful strains. In 1944, Oswald Avery, Colin McLeod, and Maclyn McCarty identified the compound as DNA.</item>
+<item>The nature of DNA as the molecule that stores genetic information was unequivocally demonstrated in the experiment of Alfred Hershey and Martha Chase published in 1952. Labeled DNA from bacterial viruses entered and infected bacterial cells, giving rise to more viral particles. The labeled protein coats did not participate in the transmission of genetic information.</item>
+</list>
+</section>
+<section id="fs-id1172098760447" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1172100731286">
+<problem id="fs-id1172098456205">
+<para id="fs-id1172098567529">Frederick Griffith infected mice with a combination of dead R and live S bacterial strains. What was the outcome, and why did it occur?</para>
+<list id="fs-id1172101002447" list-type="enumerated" number-style="upper-alpha">
+<item>The mice will live. Transformation was not required.</item>
+<item>The mice will die. Transformation of genetic material from R to S was required.</item>
+<item>The mice will live. Transformation of genetic material from S to R was required.</item>
+<item>The mice will die. Transformation was not required.</item>
+</list>
+</problem>
+<solution id="fs-id1172098524905">
+<para id="fs-id1172100530615">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098392508">
+<problem id="fs-id1172100535542">
+<para id="fs-id1172098779552">Why was the alga <emphasis effect="italics">Acetabularia</emphasis> a good model organism for Joachim Hämmerling to use to identify the location of genetic material?</para>
+<list id="fs-id1172100636858" list-type="enumerated" number-style="upper-alpha">
+<item>It lacks a nuclear membrane.</item>
+<item>It self-fertilizes.</item>
+<item>It is a large, asymmetrical, single cell easy to see with the naked eye.</item>
+<item>It makes a protein capsid.</item>
+</list>
+</problem>
+<solution id="fs-id1172098644564">
+<para id="fs-id1172098404285">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172096089432">
+<problem id="fs-id1172098378572">
+<para id="fs-id1172098574897">Which of the following best describes the results from Hershey and Chase’s experiment using bacterial viruses with <sup>35</sup>S-labeled proteins or <sup>32</sup>P-labeled DNA that are consistent with protein being the molecule responsible for hereditary?</para>
+<list id="fs-id1172100537523" list-type="enumerated" number-style="upper-alpha">
+<item>After infection with the <sup>35</sup>S-labeled viruses and centrifugation, only the pellet would be radioactive.</item>
+<item>After infection with the <sup>35</sup>S-labeled viruses and centrifugation, both the pellet and the supernatant would be radioactive.</item>
+<item>After infection with the <sup>32</sup>P-labeled viruses and centrifugation, only the pellet would be radioactive.</item>
+<item>After infection with the <sup>32</sup>P-labeled viruses and centrifugation, both the pellet and the supernatant would be radioactive.</item>
+</list>
+</problem>
+<solution id="fs-id1172098523535">
+<para id="fs-id1172100668555">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100738195">
+<problem id="fs-id1172098545804">
+<para id="fs-id1172100720573">Which method did Morgan and colleagues use to show that hereditary information was carried on chromosomes?</para>
+<list id="fs-id1172100596642" list-type="enumerated" number-style="upper-alpha">
+<item>statistical predictions of the outcomes of crosses using true-breeding parents</item>
+<item>correlations between microscopic observations of chromosomal movement and the characteristics of offspring</item>
+<item>transformation of nonpathogenic bacteria to pathogenic bacteria</item>
+<item>mutations resulting in distinct defects in metabolic enzymatic pathways</item>
+</list>
+</problem>
+<solution id="fs-id1172100848641">
+<para id="fs-id1172098656508">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098421677">
+<problem id="fs-id1172100757178">
+<para id="fs-id1172098550579">According to Beadle and Tatum’s “one gene–one enzyme” hypothesis, which of the following enzymes will eliminate the transformation of hereditary material from pathogenic bacteria to nonpathogenic bacteria?</para>
+<list id="fs-id1172096309925" list-type="enumerated" number-style="upper-alpha">
+<item>carbohydrate-degrading enzymes</item>
+<item>proteinases</item>
+<item>ribonucleases</item>
+<item>deoxyribonucleases</item>
+</list>
+</problem>
+<solution id="fs-id1172100577971">
+<para id="fs-id1172098459696">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172096227863" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1172100728513">
+<problem id="fs-id1172100738596">
+<para id="fs-id1172100654154">The element ____________ is unique to nucleic acids compared with other macromolecules.</para>
+</problem>
+<solution id="fs-id1172100625441">
+<para id="fs-id1172100517327">phosphorus</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100937528">
+<problem id="fs-id1172098434068">
+<para id="fs-id1172098458368">In the late 1800s and early 1900s, the macromolecule thought to be responsible for heredity was ______________.</para>
+</problem>
+<solution id="fs-id1172098690776">
+<para id="fs-id1172098795137">protein</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172100895136" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1172098311272">
+<problem id="fs-id1172100668537">
+<para id="fs-id1172098319255">Why do bacteria and viruses make good model systems for various genetic studies?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172100900083">
+<problem id="fs-id1172100661076">
+<para id="fs-id1172100738792">Why was nucleic acid disregarded for so long as the molecule responsible for the transmission of hereditary information?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172100644383">
+<problem id="fs-id1172098762549">
+<para id="fs-id1172098523478">Bacteriophages inject their genetic material into host cells, whereas animal viruses enter host cells completely. Why was it important to use a bacteriophage in the Hershey–Chase experiment rather than an animal virus?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1172096386845" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1172098266148">
+<problem id="fs-id1172101004222">
+<para id="fs-id1172100669049">In the figure shown, if the nuclei were contained within the stalks of <emphasis effect="italics">Acetabularia</emphasis>, what types of caps would you expect from the pictured grafts?</para>
+<media id="fs-id1172098265873" alt="A diagram showing a. mediterranea and A. crenulata. Graft A is of the foot of A. mediterranea and the upper stalk of A. crenulata. Graft B is of the foot of A. crenulata and the upper stalk of A. mediterranea.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_10_01_AcetabStalk_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-id1172098318748">
+<problem id="fs-id1172098643021">
+<para id="fs-id1172100657189">Why are Hershey and Chase credited with identifying DNA as the carrier of heredity even though DNA had been discovered many years before?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

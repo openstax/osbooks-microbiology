@@ -1,0 +1,296 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Physical Defenses</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58877</md:content-id>
+  <md:title>Physical Defenses</md:title>
+  <md:abstract/>
+  <md:uuid>74235f2b-8250-4444-bafb-1b012d523b4c</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1172100666612" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1172100855782">
+<item>Describe the various physical barriers and mechanical defenses that protect the human body against infection and disease</item>
+<item>Describe the role of microbiota as a first-line defense against infection and disease</item>
+</list>
+</section>
+<note id="fs-id1172098423383" class="microbiology clinical-focus">
+<title>Part 1</title>
+<para id="fs-id1172100575838">Angela, a 25-year-old female patient in the emergency department, is having some trouble communicating verbally because of shortness of breath. A nurse observes constriction and swelling of the airway and labored breathing. The nurse asks Angela if she has a history of asthma or allergies. Angela shakes her head no, but there is fear in her eyes. With some difficulty, she explains that her father died suddenly at age 27, when she was just a little girl, of a similar respiratory attack. The underlying cause had never been identified.</para>
+<list id="fs-id1172098564085" list-type="bulleted" bullet-style="bullet">
+<item>What are some possible causes of constriction and swelling of the airway?</item>
+<item>What causes swelling of body tissues in general?</item>
+</list>
+<para id="fs-id1172098774419"><emphasis effect="italics">Jump to the <link target-id="fs-id1172099665672" document="m58878">next</link> Clinical Focus box.</emphasis></para>
+</note>
+<para id="fs-id1172100638917">Nonspecific innate immunity can be characterized as a multifaceted system of defenses that targets invading pathogens in a nonspecific manner. In this chapter, we have divided the numerous defenses that make up this system into three categories: physical defenses, chemical defenses, and cellular defenses. However, it is important to keep in mind that these defenses do not function independently, and the categories often overlap. <link target-id="fs-id1172098375099"/> provides an overview of the nonspecific defenses discussed in this chapter.</para>
+<table id="fs-id1172098375099" class="span-all" summary="A table contains two columns and eleven rows. The first row is merged across both columns and reads “Overview of nonspecific innate immune defenses.” The second row begins with a merged cell reading “Physical defenses” and correlates to “physical barriers, mechanical defenses, and microbiome” in the right column. The next merged cell reads “chemical defenses” and correlates to “chemicals and enzymes in body fluids, antimicrobial peptides, plasma protein mediators, cytokines, and inflammation-eliciting mediators” in the right column. The third merged cell reads “Cellular defenses” and correlates to “granulocytes and agranulocytes” in the right column.">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c2">Overview of Nonspecific Innate Immune Defenses</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="middle" align="left" morerows="2">Physical defenses</entry>
+<entry valign="middle" align="left">Physical barriers</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">Mechanical defenses</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">Microbiome</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left" morerows="4">Chemical defenses</entry>
+<entry valign="middle" align="left">Chemicals and enzymes in body fluids</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">Antimicrobial peptides</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">Plasma protein mediators</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">Cytokines</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">Inflammation-eliciting mediators</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left" morerows="1">Cellular defenses</entry>
+<entry valign="middle" align="left">Granulocytes</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">Agranulocytes</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1172100750214">Physical defenses provide the body’s most basic form of nonspecific defense. They include physical barriers to microbes, such as the skin and mucous membranes, as well as mechanical defenses that physically remove microbes and debris from areas of the body where they might cause harm or infection. In addition, the microbiome provides a measure of physical protection against disease, as microbes of the normal microbiota compete with pathogens for nutrients and cellular binding sites necessary to cause infection.</para>
+<section id="fs-id1172096157631">
+<title>Physical Barriers</title>
+<para id="fs-id1172100627990">Physical barriers play an important role in preventing microbes from reaching tissues that are susceptible to infection. At the cellular level, barriers consist of cells that are tightly joined to prevent invaders from crossing through to deeper tissue. For example, the <term class="no-emphasis">endothelial cells</term> that line blood vessels have very tight cell-to-cell junctions, blocking microbes from gaining access to the bloodstream. Cell junctions are generally composed of cell membrane proteins that may connect with the extracellular matrix or with complementary proteins from neighboring cells. Tissues in various parts of the body have different types of <term class="no-emphasis">cell junctions</term>. These include tight junctions, desmosomes, and gap junctions, as illustrated in <link target-id="OSC_Microbio_17_02_Junction"/>. Invading microorganisms may attempt to break down these substances chemically, using enzymes such as proteases that can cause structural damage to create a point of entry for pathogens.</para>
+<figure id="OSC_Microbio_17_02_Junction">
+<media id="fs-id1172100624130" alt="Tight junctions – two membranes connected with many spot welds in multiple lines. Desmosomes – two membranes with long strands weaving them together. Gap junctions – two membranes with a few spot welds each of which has a pore in the center.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_17_02_Junction.jpg"/>
+</media>
+<caption>There are multiple types of cell junctions in human tissue, three of which are shown here. Tight junctions rivet two adjacent cells together, preventing or limiting material exchange through the spaces between them. Desmosomes have intermediate fibers that act like shoelaces, tying two cells together, allowing small materials to pass through the resulting spaces. Gap junctions are channels between two cells that permit their communication via signals. (credit: modification of work by Mariana Ruiz Villareal)</caption>
+</figure>
+<section id="fs-id1172098450586">
+<title>The Skin Barrier</title>
+<para id="fs-id1172100653517">One of the body’s most important physical barriers is the <term class="no-emphasis">skin barrier</term>, which is composed of three layers of closely packed cells. The thin upper layer is called the epidermis. A second, thicker layer, called the dermis, contains hair follicles, sweat glands, nerves, and blood vessels. A layer of fatty tissue called the hypodermis lies beneath the dermis and contains blood and lymph vessels (<link target-id="OSC_Microbio_17_02_Skin"/>).</para>
+<figure id="OSC_Microbio_17_02_Skin">
+<media id="fs-id1172098404657" alt="A diagram of a section of skin. The bottom layer is the hypodermis and is mostly made up of large circular cells (fatty tissue). The next layer up, and the thickest layer is the dermis. At the bottom of the dermis are blood vessels, lymph vessels, and nerves, all of which run throughout the dermis. Sweat glands are coiled tubes that lead to the surface. Hair follicles are thick vase-shaped structures containing a hair; an oil gland is attached to the hair follicle. The top layer is the epidermis and is made of many layers of flat cells.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_17_02_Skin.jpg"/>
+</media>
+<caption>Human skin has three layers, the epidermis, the dermis, and the hypodermis, which provide a thick barrier between microbes outside the body and deeper tissues. Dead skin cells on the surface of the epidermis are continually shed, taking with them microbes on the skin’s surface. (credit: modification of work by National Institutes of Health)</caption>
+</figure>
+<para id="fs-id1172098310498">The topmost layer of skin, the <term class="no-emphasis">epidermis</term>, consists of cells that are packed with keratin. These dead cells remain as a tightly connected, dense layer of protein-filled cell husks on the surface of the skin. The keratin makes the skin’s surface mechanically tough and resistant to degradation by bacterial enzymes. Fatty acids on the skin’s surface create a dry, salty, and acidic environment that inhibits the growth of some microbes and is highly resistant to breakdown by bacterial enzymes. In addition, the dead cells of the epidermis are frequently shed, along with any microbes that may be clinging to them. Shed skin cells are continually replaced with new cells from below, providing a new barrier that will soon be shed in the same way.</para>
+<para id="fs-id1172100633229">Infections can occur when the skin barrier is compromised or broken. A wound can serve as a point of entry for opportunistic pathogens, which can infect the skin tissue surrounding the wound and possibly spread to deeper tissues.</para>
+<note id="fs-id1172096286742" class="microbiology case-in-point">
+<title>Every Rose Has its Thorn</title>
+<para id="fs-id1172098274298">Mike, a gardener from southern California, recently noticed a small red bump on his left forearm. Initially, he did not think much of it, but soon it grew larger and then ulcerated (opened up), becoming a painful lesion that extended across a large part of his forearm (<link target-id="OSC_Microbio_17_02_Sporotrich"/>). He went to an urgent care facility, where a physician asked about his occupation. When he said he was a landscaper, the physician immediately suspected a case of <term class="no-emphasis">sporotrichosis</term>, a type of fungal infection known as <term class="no-emphasis">rose gardener’s disease</term> because it often afflicts landscapers and gardening enthusiasts.</para>
+<para id="fs-id1172098272553">Under most conditions, fungi cannot produce skin infections in healthy individuals. Fungi grow filaments known as hyphae, which are not particularly invasive and can be easily kept at bay by the physical barriers of the skin and mucous membranes. However, small wounds in the skin, such as those caused by thorns, can provide an opening for opportunistic pathogens like <term class="no-emphasis"><emphasis effect="italics">Sporothrix schenkii</emphasis></term><emphasis effect="italics">,</emphasis> a soil-dwelling fungus and the causative agent of rose gardener’s disease. Once it breaches the skin barrier, <emphasis effect="italics">S. schenkii</emphasis> can infect the skin and underlying tissues, producing ulcerated lesions like Mike’s. Compounding matters, other pathogens may enter the infected tissue, causing secondary bacterial infections.</para>
+<para id="fs-id1172100963142">Luckily, rose gardener’s disease is treatable. Mike’s physician wrote him a prescription for some antifungal drugs as well as a course of antibiotics to combat secondary bacterial infections. His lesions eventually healed, and Mike returned to work with a new appreciation for gloves and protective clothing.</para>
+<figure id="OSC_Microbio_17_02_Sporotrich">
+<media id="fs-id1172098455697" alt="An arm with festering, bleeding scratches and a picture of a rose plant.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_17_02_Sporotrich.jpg"/>
+</media>
+<caption>Rose gardener’s disease can occur when the fungus <emphasis effect="italics">Sporothrix schenkii</emphasis> breaches the skin through small cuts, such as might be inflicted by thorns. (credit left: modification of work by Elisa Self; credit right: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+</note>
+</section>
+<section id="fs-id1172100735358">
+<title>Mucous Membranes</title>
+<para id="fs-id1172098454452">The <term>mucous membrane</term><emphasis effect="bold">s</emphasis> lining the nose, mouth, lungs, and urinary and digestive tracts provide another nonspecific barrier against potential pathogens. Mucous membranes consist of a layer of <term class="no-emphasis">epithelial cells</term> bound by tight junctions. The epithelial cells secrete a moist, sticky substance called <term>mucus</term>, which covers and protects the more fragile cell layers beneath it and traps debris and particulate matter, including microbes. Mucus secretions also contain antimicrobial peptides.</para>
+<para id="fs-id1172100548203">In many regions of the body, mechanical actions serve to flush mucus (along with trapped or dead microbes) out of the body or away from potential sites of infection. For example, in the respiratory system, inhalation can bring microbes, dust, mold spores, and other small airborne debris into the body. This debris becomes trapped in the mucus lining the respiratory tract, a layer known as the mucociliary blanket. The epithelial cells lining the upper parts of the respiratory tract are called <term>ciliated epithelial cells</term> because they have hair-like appendages known as cilia. Movement of the cilia propels debris-laden mucus out and away from the lungs. The expelled mucus is then swallowed and destroyed in the stomach, or coughed up, or sneezed out (<link target-id="OSC_Microbio_17_02_Cilia"/>). This system of removal is often called the <term>mucociliary escalator</term>.</para>
+<figure id="OSC_Microbio_17_02_Cilia">
+<media id="fs-id1172101036746" alt="A spongy-looking surface with tufts of long hairs. Each hair is about 5 µm long; each tuft is about 10 µm in diameter.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_17_02_Cilia.jpg"/>
+</media>
+<caption>This scanning electron micrograph shows ciliated and nonciliated epithelial cells from the human trachea. The mucociliary escalator pushes mucus away from the lungs, along with any debris or microorganisms that may be trapped in the sticky mucus, and the mucus moves up to the esophagus where it can be removed by swallowing.</caption>
+</figure>
+<para id="fs-id1172098449549">The mucociliary escalator is such an effective barrier to microbes that the lungs, the lowermost (and most sensitive) portion of the respiratory tract, were long considered to be a sterile environment in healthy individuals. Only recently has research suggested that healthy lungs may have a small normal microbiota. Disruption of the mucociliary escalator by the damaging effects of smoking or diseases such as <term class="no-emphasis">cystic fibrosis</term> can lead to increased colonization of bacteria in the lower respiratory tract and frequent infections, which highlights the importance of this physical barrier to host defenses.</para>
+<para id="fs-id1172100673785">Like the respiratory tract, the digestive tract is a portal of entry through which microbes enter the body, and the mucous membranes lining the digestive tract provide a nonspecific physical barrier against ingested microbes. The intestinal tract is lined with epithelial cells, interspersed with mucus-secreting <term class="no-emphasis">goblet cells</term> (<link target-id="OSC_Microbio_17_02_GobletCell"/>). This mucus mixes with material received from the stomach, trapping foodborne microbes and debris. The mechanical action of <term>peristalsis</term>, a series of muscular contractions in the digestive tract, moves the sloughed mucus and other material through the intestines, rectum, and anus, excreting the material in feces.</para>
+<figure id="OSC_Microbio_17_02_GobletCell">
+<media id="fs-id1172098749540" alt="Figure a is a diagram of a single goblet cell. Cell is tall and slightly hour-glass shaped. The bottom of the cell is filled with a nucleus. The top shows the Golgi apparatus (folds of membranes), rough endoplasmic reticulum (folds of membranes with dots), secretory vesicles containing mucin (large bubbles), and microvilli (finger-like projections at the top). Figure b is a micrograph of two goblet cells within a row of epithelial cells. The epithelial cells are rectangular with a large nucleus visible. The goblet cells are thinner and have a clear (uncolored) top.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_17_02_GobletCell.jpg"/>
+</media>
+<caption>Goblet cells produce and secrete mucus. The arrows in this micrograph point to the mucus-secreting goblet cells (magnification 1600⨯) in the intestinal epithelium. (credit micrograph: Micrograph provided by the Regents of University of Michigan Medical School © 2012)</caption>
+</figure>
+</section>
+<section id="fs-id1172101034831">
+<title>Endothelia</title>
+<para id="fs-id1172098391666">The epithelial cells lining the urogenital tract, blood vessels, lymphatic vessels, and certain other tissues are known as <term>endothelia</term>. These tightly packed cells provide a particularly effective frontline barrier against invaders. The endothelia of the <term>blood-brain barrier</term>, for example, protect the central nervous system (CNS), which consists of the brain and the spinal cord. The CNS is one of the most sensitive and important areas of the body, as microbial infection of the CNS can quickly lead to serious and often fatal inflammation. The cell junctions in the blood vessels traveling through the CNS are some of the tightest and toughest in the body, preventing any transient microbes in the bloodstream from entering the CNS. This keeps the cerebrospinal fluid that surrounds and bathes the brain and spinal cord sterile under normal conditions.</para>
+<note id="fs-id1172100970624" class="microbiology check-your-understanding">
+<list id="fs-id1172100621272" list-type="bulleted" bullet-style="bullet">
+<item>Describe how the mucociliary escalator functions.</item>
+<item>Name two places you would find endothelia.</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1172100856799">
+<title>Mechanical Defenses</title>
+<para id="fs-id1172100716241">In addition to physical barriers that keep microbes out, the body has a number of <term class="no-emphasis">mechanical defenses</term> that physically remove pathogens from the body, preventing them from taking up residence. We have already discussed several examples of mechanical defenses, including the shedding of skin cells, the expulsion of mucus via the mucociliary escalator, and the excretion of feces through intestinal peristalsis. Other important examples of mechanical defenses include the flushing action of urine and tears, which both serve to carry microbes away from the body. The flushing action of urine is largely responsible for the normally sterile environment of the urinary tract, which includes the kidneys, ureters, and urinary bladder. Urine passing out of the body washes out transient microorganisms, preventing them from taking up residence. The eyes also have physical barriers and mechanical mechanisms for preventing infections. The eyelashes and eyelids prevent dust and airborne microorganisms from reaching the surface of the eye. Any microbes or debris that make it past these physical barriers may be flushed out by the mechanical action of blinking, which bathes the eye in tears, washing debris away (<link target-id="OSC_Microbio_17_02_Barrier"/>).</para>
+<figure id="OSC_Microbio_17_02_Barrier">
+<media id="fs-id1172098407688" alt="A diagram of a person. An arrow from the eye points to a larger image that shows eyelashes, the eyelid and tear ducts. An arrow from the abdominal region shows a larger kidney are ureter. An arrow from the groin region shows a larger urethra.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_17_02_Barrier.jpg"/>
+</media>
+<caption>Tears flush microbes away from the surface of the eye. Urine washes microbes out of the urinary tract as it passes through; as a result, the urinary system is normally sterile.</caption>
+</figure>
+<note id="fs-id1172098709790" class="microbiology check-your-understanding">
+<list id="fs-id1172100953441" list-type="bulleted" bullet-style="bullet">
+<item>Name two mechanical defenses that protect the eyes.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172098444255">
+<title>Microbiome</title>
+<para id="fs-id1172101005535">In various regions of the body, <term class="no-emphasis">resident microbiota</term> serve as an important first-line defense against invading pathogens. Through their occupation of cellular binding sites and competition for available nutrients, the resident microbiota prevent the critical early steps of pathogen attachment and proliferation required for the establishment of an infection. For example, in the <term class="no-emphasis">vagina</term>, members of the resident microbiota compete with opportunistic pathogens like the yeast <emphasis effect="italics">Candida</emphasis>. This competition prevents infections by limiting the availability of nutrients, thus inhibiting the growth of <term class="no-emphasis"><emphasis effect="italics">Candida</emphasis></term><emphasis effect="italics">,</emphasis> keeping its population in check. Similar competitions occur between the microbiota and potential pathogens on the skin, in the upper respiratory tract, and in the gastrointestinal tract. As will be discussed later in this chapter, the resident microbiota also contribute to the chemical defenses of the innate nonspecific host defenses.</para>
+<para id="fs-id1172098523404">The importance of the normal microbiota in host defenses is highlighted by the increased susceptibility to infectious diseases when the microbiota is disrupted or eliminated. Treatment with antibiotics can significantly deplete the normal microbiota of the gastrointestinal tract, providing an advantage for pathogenic bacteria to colonize and cause diarrheal infection. In the case of diarrhea caused by <term class="no-emphasis"><emphasis effect="italics">Clostridium difficile</emphasis></term>, the infection can be severe and potentially lethal. One strategy for treating <emphasis effect="italics">C. difficile</emphasis> infections is <term class="no-emphasis">fecal transplantation</term>, which involves the transfer of fecal material from a donor (screened for potential pathogens) into the intestines of the recipient patient as a method of restoring the normal microbiota and combating <emphasis effect="italics">C. difficile</emphasis> infections.</para>
+<para id="fs-id1172100664823"><link target-id="fs-id1172100897138"/> provides a summary of the physical defenses discussed in this section.</para>
+<table id="fs-id1172100897138" class="span-all" summary="A table contains three columns and five rows. The first row is a header row that reads “Physical defenses of nonspecific innate immunity. The second row contains subheaders “defense, examples, and function.” The third row contains “cellular barriers”, “skin, mucous membranes, endothelial cells”, and “deny entry to pathogens.” The fourth row contains “mechanical defenses”, “shedding of skin cells, mucociliary sweeping, peristalsis, flushing action of urine and tears”, and “remove pathogens from potential sites of infection.” The fifth row contains “microbiome”, “resident bacteria of the skin, upper respiratory tract, gastrointestinal tract, and genitourinary tract”, and “compete with pathogens for cellular binding sites and nutrients.”">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c3">Physical Defenses of Nonspecific Innate Immunity</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Defense</entry>
+<entry valign="top" align="center">Examples</entry>
+<entry valign="top" align="center">Function</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Cellular barriers</entry>
+<entry valign="top" align="left">Skin, mucous membranes, endothelial cells</entry>
+<entry valign="top" align="left">Deny entry to pathogens</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Mechanical defenses</entry>
+<entry valign="top" align="left">Shedding of skin cells, mucociliary sweeping, peristalsis, flushing action of urine and tears</entry>
+<entry valign="top" align="left">Remove pathogens from potential sites of infection</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Microbiome</entry>
+<entry valign="top" align="left">Resident bacteria of the skin, upper respiratory tract, gastrointestinal tract, and genitourinary tract</entry>
+<entry valign="top" align="left">Compete with pathogens for cellular binding sites and nutrients</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1172098274909" class="microbiology check-your-understanding">
+<list id="fs-id1172100530251" list-type="bulleted" bullet-style="bullet">
+<item>List two ways resident microbiota defend against pathogens.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172100536203" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1172101008315" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Nonspecific innate immunity</emphasis> provides a first line of defense against infection by nonspecifically blocking entry of microbes and targeting them for destruction or removal from the body.</item>
+<item>The physical defenses of innate immunity include physical barriers, mechanical actions that remove microbes and debris, and the microbiome, which competes with and inhibits the growth of pathogens.</item>
+<item>The skin, mucous membranes, and endothelia throughout the body serve as physical barriers that prevent microbes from reaching potential sites of infection. Tight cell junctions in these tissues prevent microbes from passing through.</item>
+<item>Microbes trapped in dead skin cells or <emphasis effect="bold">mucus</emphasis> are removed from the body by mechanical actions such as shedding of skin cells, mucociliary sweeping, coughing, <emphasis effect="bold">peristalsis</emphasis>, and flushing of bodily fluids (e.g., urination, tears)</item>
+<item>The resident microbiota provide a physical defense by occupying available cellular binding sites and competing with pathogens for available nutrients.</item>
+</list>
+</section>
+<section id="fs-id1172098695008" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1172100760283">
+<problem id="fs-id1172098560961">
+<para id="fs-id1172098395643">Which of the following best describes the innate nonspecific immune system?</para>
+<list id="fs-id1172096195007" list-type="enumerated" number-style="upper-alpha">
+<item>a targeted and highly specific response to a single pathogen or molecule</item>
+<item>a generalized and nonspecific set of defenses against a class or group of pathogens</item>
+<item>a set of barrier mechanisms that adapts to specific pathogens after repeated exposure</item>
+<item>the production of antibody molecules against pathogens</item>
+</list>
+</problem>
+<solution id="fs-id1172098258754">
+<para id="fs-id1172100538939">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100959355">
+<problem id="fs-id1172098321652">
+<para id="fs-id1172100639144">Which of the following constantly sheds dead cells along with any microbes that may be attached to those cells?</para>
+<list id="fs-id1172098383804" list-type="enumerated" number-style="upper-alpha">
+<item>epidermis</item>
+<item>dermis</item>
+<item>hypodermis</item>
+<item>mucous membrane</item>
+</list>
+</problem>
+<solution id="fs-id1172100653428">
+<para id="fs-id1172096053283">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100827434">
+<problem id="fs-id1172096090450">
+<para id="fs-id1172100648955">Which of the following uses a particularly dense suite of tight junctions to prevent microbes from entering the underlying tissue?</para>
+<list id="fs-id1172100500421" list-type="enumerated" number-style="upper-alpha">
+<item>the mucociliary escalator</item>
+<item>the epidermis</item>
+<item>the blood-brain barrier</item>
+<item>the urethra</item>
+</list>
+</problem>
+<solution id="fs-id1172100831598">
+<para id="fs-id1172098267421">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172100887494" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1172100670645">
+<problem id="fs-id1172100884836">
+<para id="fs-id1172098696362">The muscular contraction of the intestines that results in movement of material through the digestive tract is called ________.</para>
+</problem>
+<solution id="fs-id1172098276058">
+<para id="fs-id1172098600969">peristalsis</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098628048">
+<problem id="fs-id1172100674833">
+<para id="fs-id1172100549051">______ are the hair-like appendages of cells lining parts of the respiratory tract that sweep debris away from the lungs.</para>
+</problem>
+<solution id="fs-id1172101039554">
+<para id="fs-id1172096065629">cilia</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100872244">
+<problem id="fs-id1172098501209">
+<para id="fs-id1172098313872">Secretions that bathe and moisten the interior of the intestines are produced by _______ cells.</para>
+</problem>
+<solution id="fs-id1172098580484">
+<para id="fs-id1172100673942">goblet</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172098501267" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1172100766556">
+<problem id="fs-id1172100716773">
+<para id="fs-id1172098633819">Differentiate a physical barrier from a mechanical removal mechanism and give an example of each.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172098527018">
+<problem id="fs-id1172100516442">
+<para id="fs-id1172100513645">Identify some ways that pathogens can breach the physical barriers of the innate immune system.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+
+</document>

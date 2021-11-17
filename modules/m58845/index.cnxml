@@ -1,0 +1,302 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>How Asexual Prokaryotes Achieve Genetic Diversity</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58845</md:content-id>
+  <md:title>How Asexual Prokaryotes Achieve Genetic Diversity</md:title>
+  <md:abstract/>
+  <md:uuid>a7981691-1e65-4bca-b7fa-1c618d611f63</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167661539215" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167663957310">
+<item>Compare the processes of transformation, transduction, and conjugation</item>
+<item>Explain how asexual gene transfer results in prokaryotic genetic diversity</item>
+<item>Explain the structure and consequences for bacterial genetic diversity of transposons</item>
+</list>
+</section>
+<para id="fs-id1167664003911">Typically, when we consider genetic transfer, we think of <term>vertical gene transfer</term>, the transmission of genetic information from generation to generation. Vertical gene transfer is by far the main mode of transmission of genetic information in all cells. In sexually reproducing organisms, crossing-over events and independent assortment of individual chromosomes during <term class="no-emphasis">meiosis</term> contribute to <term class="no-emphasis">genetic diversity</term> in the population. Genetic diversity is also introduced during <term class="no-emphasis">sexual reproduction</term>, when the genetic information from two parents, each with different complements of genetic information, are combined, producing new combinations of parental genotypes in the diploid offspring. The occurrence of mutations also contributes to genetic diversity in a population. Genetic diversity of offspring is useful in changing or inconsistent environments and may be one reason for the evolutionary success of sexual reproduction.</para>
+<para id="fs-id1167661351841">When prokaryotes and eukaryotes reproduce asexually, they transfer a nearly identical copy of their genetic material to their offspring through vertical gene transfer. Although <term class="no-emphasis">asexual reproduction</term> produces more offspring more quickly, any benefits of diversity among those offspring are lost. How then do organisms whose dominant reproductive mode is asexual create genetic diversity? In prokaryotes, <term>horizontal gene transfer (HGT)</term>, the introduction of genetic material from one organism to another organism within the same generation, is an important way to introduce genetic diversity. HGT allows even distantly related species to share genes, influencing their phenotypes. It is thought that HGT is more prevalent in prokaryotes but that only a small fraction of the prokaryotic genome may be transferred by this type of transfer at any one time. As the phenomenon is investigated more thoroughly, it may be revealed to be even more common. Many scientists believe that HGT and mutation are significant sources of genetic variation, the raw material for the process of natural selection, in prokaryotes. Although HGT is more common among evolutionarily related organisms, it may occur between any two species that live together in a natural community.</para>
+<para id="fs-id1167663524092">HGT in prokaryotes is known to occur by the three primary mechanisms that are illustrated in <link target-id="OSC_Microbio_11_06_HGT"/>:</para>
+<list id="fs-id1167663992419" list-type="enumerated" number-style="arabic">
+<item>Transformation: naked DNA is taken up from the environment</item>
+<item>Transduction: genes are transferred between cells in a virus (see <link document="m58809">The Viral Life Cycle</link>)</item>
+<item>Conjugation: use of a hollow tube called a conjugation pilus to transfer genes between cells</item>
+</list>
+<figure id="OSC_Microbio_11_06_HGT">
+<media id="fs-id1167661463158" alt="a) Transformation is when DNA enters into a cell and is incorporated into the genome. B) transduction is when a virus injects DNA into a cell and this DNA is incorporated into the genome. C) Conjugation is when one bacterial cell copies its plasmid and sends that copy to another bacterial cell via a pilus (bridge of cytoplasm).">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_06_HGT.jpg"/>
+</media>
+<caption>There are three prokaryote-specific mechanisms leading to horizontal gene transfer in prokaryotes. a) In transformation, the cell takes up DNA directly from the environment. The DNA may remain separate as a plasmid or be incorporated into the host genome. b) In transduction, a bacteriophage injects DNA that is a hybrid of viral DNA and DNA from a previously infected bacterial cell. c) In conjugation, DNA is transferred between cells through a cytoplasmic bridge after a conjugation pilus draws the two cells close enough to form the bridge.</caption>
+</figure>
+<note id="fs-id1167663901904" class="microbiology check-your-understanding">
+<list id="fs-id1167661310263" list-type="bulleted" bullet-style="bullet">
+<item>What are three ways sexual reproduction introduces genetic variation into offspring?</item>
+<item>What is a benefit of asexual reproduction?</item>
+<item>What are the three mechanisms of horizontal gene transfer in prokaryotes?</item>
+</list>
+</note>
+<section id="fs-id1167663641968">
+<title>Transformation</title>
+<para id="fs-id1167663558611">Frederick <term class="no-emphasis">Griffith</term> was the first to demonstrate the process of <term class="no-emphasis">transformation</term>. In 1928, he showed that live, nonpathogenic <term class="no-emphasis"><emphasis effect="italics">Streptococcus pneumoniae</emphasis></term> bacteria could be transformed into pathogenic bacteria through exposure to a heat-killed pathogenic strain. He concluded that some sort of agent, which he called the “transforming principle,” had been passed from the dead pathogenic bacteria to the live, nonpathogenic bacteria. In 1944, Oswald <term class="no-emphasis">Avery</term> (1877–1955), Colin <term class="no-emphasis">MacLeod</term> (1909–1972), and Maclyn <term class="no-emphasis">McCarty</term> (1911–2005) demonstrated that the transforming principle was DNA (see <link document="m58835">Using Microorganisms to Discover the Secrets of Life</link>).</para>
+<para id="fs-id1167663636765">In <term>transformation</term>, the prokaryote takes up naked DNA found in its environment and that is derived from other cells that have lysed on death and released their contents, including their genome, into the environment. Many bacteria are naturally competent, meaning that they actively bind to environmental DNA, transport it across their cell envelopes into their cytoplasm, and make it single stranded. Typically, double-stranded foreign DNA within cells is destroyed by nucleases as a defense against viral infection. However, these nucleases are usually ineffective against single-stranded DNA, so this single-stranded DNA within the cell has the opportunity to recombine into the bacterial genome. A molecule of DNA that contains fragments of DNA from different organisms is called <term class="no-emphasis">recombinant DNA</term>. (Recombinant DNA will be discussed in more detail in <link document="m58848">Microbes and the Tools of Genetic Engineering</link>.) If the bacterium incorporates the new DNA into its own genome through recombination, the bacterial cell may gain new phenotypic properties. For example, if a nonpathogenic bacterium takes up DNA for a toxin gene from a pathogen and then incorporates it into its chromosome, it, too, may become pathogenic. Plasmid DNA may also be taken up by competent bacteria and confer new properties to the cell. Overall, transformation in nature is a relatively inefficient process because environmental DNA levels are low because of the activity of nucleases that are also released during cellular lysis. Additionally, genetic recombination is inefficient at incorporating new DNA sequences into the genome.</para>
+<para id="fs-id1167663533150">In nature, bacterial transformation is an important mechanism for the acquisition of genetic elements encoding <term class="no-emphasis">virulence factor</term>s and <term class="no-emphasis">antibiotic resistance</term>. Genes encoding resistance to antimicrobial compounds have been shown to be widespread in nature, even in environments not influenced by humans. These genes, which allow microbes living in mixed communities to compete for limited resources, can be transferred within a population by transformation, as well as by the other processes of HGT. In the laboratory, we can exploit the natural process of bacterial transformation for genetic engineering to make a wide variety of medicinal products, as discussed in <link document="m58848">Microbes and the Tools of Genetic Engineering</link>.</para>
+<note id="fs-id1167663653822" class="microbiology check-your-understanding">
+<list id="fs-id1167661323699" list-type="bulleted" bullet-style="bullet">
+<item>Why does a bacterial cell make environmental DNA brought into the cell into a single-stranded form?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167661744723">
+<title>Transduction</title>
+<para id="fs-id1167663893415">Viruses that infect bacteria (<term class="no-emphasis">bacteriophages</term>) may also move short pieces of chromosomal DNA from one bacterium to another in a process called <term>transduction</term> (see <link document="m58809" target-id="OSC_Microbio_06_02_transd"/>). Recall that in <term class="no-emphasis">generalized transduction</term>, any piece of chromosomal DNA may be transferred to a new host cell by accidental packaging of chromosomal DNA into a phage head during phage assembly. By contrast, <term class="no-emphasis">specialized transduction</term> results from the imprecise excision of a lysogenic prophage from the bacterial chromosome such that it carries with it a piece of the bacterial chromosome from either side of the phage’s integration site to a new host cell. As a result, the host may acquire new properties. This process is called lysogenic conversion. Of medical significance, a lysogenic phage may carry with it a <term class="no-emphasis">virulence gene</term> to its new host. Once inserted into the new host’s chromosome, the new host may gain pathogenicity. Several pathogenic bacteria, including <term class="no-emphasis"><emphasis effect="italics">Corynebacterium diphtheriae</emphasis></term> (the causative agent of diphtheria) and <term class="no-emphasis"><emphasis effect="italics">Clostridium botulinum</emphasis></term> (the causative agent of botulism), are virulent because of the introduction of toxin-encoding genes by lysogenic bacteriophages, affirming the clinical relevance of transduction in the exchange of genes involved in infectious disease. Archaea have their own viruses that translocate genetic material from one individual to another.</para>
+<note id="fs-id1167663636244" class="microbiology check-your-understanding">
+<list id="fs-id1167659356242" list-type="bulleted" bullet-style="bullet">
+<item>What is the agent of transduction of prokaryotic cells?</item>
+<item>In specialized transduction, where does the transducing piece of DNA come from?</item>
+</list>
+</note>
+<note id="fs-id1167661441061" class="microbiology case-in-point">
+<title>The Clinical Consequences of Transduction</title>
+<para id="fs-id1167661729381">Paul, a 23-year-old relief worker from Atlanta, traveled to Haiti in 2011 to provide aid following the 2010 earthquake. After working there for several weeks, he suddenly began experiencing abdominal distress, including severe cramping, nausea, vomiting, and watery diarrhea. He also began to experience intense muscle cramping. At a local clinic, the physician suspected that Paul’s symptoms were caused by cholera because there had been a cholera outbreak after the earthquake. Because cholera is transmitted by the fecal-oral route, breaches in sanitation infrastructure, such as often occur following natural disasters, may precipitate outbreaks. The physician confirmed the presumptive diagnosis using a cholera dipstick test. He then prescribed Paul a single dose of doxycycline, as well as oral rehydration salts, instructing him to drink significant amounts of clean water.</para>
+<para id="fs-id1167663653189">Cholera is caused by the gram-negative curved rod <emphasis effect="italics">Vibrio cholerae</emphasis> (<link target-id="OSC_Microbio_11_06_VC"/>). Its symptoms largely result from the production of the cholera toxin (CT), which ultimately activates a chloride transporter to pump chloride ions out of the epithelial cells into the gut lumen. Water then follows the chloride ions, causing the prolific watery diarrhea characteristic of cholera. The gene encoding the cholera toxin is incorporated into the bacterial chromosome of <emphasis effect="italics">V</emphasis>. <emphasis effect="italics">cholerae</emphasis> through infection of the bacterium with the lysogenic filamentous CTX phage, which carries the CT gene and introduces it into the chromosome on integration of the prophage. Thus, pathogenic strains of <emphasis effect="italics">V. cholerae</emphasis> result from horizontal gene transfer by specialized transduction.</para>
+<list id="fs-id1167661752987" list-type="bulleted" bullet-style="bullet">
+<item>Why are outbreaks of cholera more common as a result of a natural disaster?</item>
+<item>Why is muscle cramping a common symptom of cholera? Why is treatment with oral rehydration salts so important for the treatment of cholera?</item>
+<item>In areas stricken by cholera, what are some strategies that people could use to prevent disease transmission?</item>
+</list>
+<figure id="OSC_Microbio_11_06_VC">
+<media id="fs-id1167661626908" alt="Micrograph of curved rods.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_06_VC.jpg"/>
+</media>
+<caption>A scanning electron micrograph of <emphasis effect="italics">Vibrio cholerae</emphasis> shows its characteristic curved rod shape.</caption>
+</figure>
+</note>
+</section>
+<section id="fs-id1167661642612">
+<title>Conjugation</title>
+<para id="fs-id1167663626631">In <term>conjugation</term>, DNA is directly transferred from one prokaryote to another by means of a <term>conjugation pilus</term>, which brings the organisms into contact with one another. In <term class="no-emphasis"><emphasis effect="italics">E. coli</emphasis></term>, the genes encoding the ability to conjugate are located on a bacterial <term class="no-emphasis">plasmid</term> called the <term>F plasmid</term>, also known as the <term>fertility factor</term>, and the conjugation pilus is called the <term>F pilus</term>. The F-plasmid genes encode both the proteins composing the F pilus and those involved in <term class="no-emphasis">rolling circle replication</term> of the plasmid. Cells containing the F plasmid, capable of forming an F pilus, are called <term>F<sup>+</sup> cell</term>s or <term>donor cell</term><emphasis effect="bold">s</emphasis>, and those lacking an F plasmid are called <term>F<sup>−</sup> cell</term>s or <term>recipient cell</term><emphasis effect="bold">s</emphasis>.</para>
+<section id="fs-id1167661444180">
+<title>Conjugation of the F Plasmid</title>
+<para id="fs-id1167663716083">During typical conjugation in <emphasis effect="italics">E. coli</emphasis>, the F pilus of an F<sup>+</sup> cell comes into contact with an F<sup>–</sup> cell and retracts, bringing the two cell envelopes into contact (<link target-id="OSC_Microbio_11_06_Conjug"/>). Then a cytoplasmic bridge forms between the two cells at the site of the conjugation pilus. As rolling circle replication of the F plasmid occurs in the F<sup>+</sup> cell, a single-stranded copy of the F plasmid is transferred through the cytoplasmic bridge to the F<sup>−</sup> cell, which then synthesizes the complementary strand, making it double stranded. The F<sup>−</sup> cell now becomes an F<sup>+</sup> cell capable of making its own conjugation pilus. Eventually, in a mixed bacterial population containing both F<sup>+</sup> and F<sup>−</sup> cells, all cells will become F<sup>+</sup> cells. Genes on the <emphasis effect="italics">E. coli</emphasis> F plasmid also encode proteins preventing conjugation between F<sup>+</sup> cells.</para>
+<figure id="OSC_Microbio_11_06_Conjug">
+<media id="fs-id1167663955583" alt="Diagram of conjugation. 1: Pilus of donor cell attaches to recipient cell. The donor cell contains a plasmid labeled F plasmid; the cell is labeled F+ donor cell. The recipient cell is labeled F- recipient cell and does not contain a plasmid. A bridge between them is labeled pilus. 2: Pilus contracts, drawing cells together to make contact with one another. 3: One strand of F plasmid DNA transfers from donor cell to recipient cell. 4: Donor synthesizes complementary strand to restore plasmid. Recipient synthesizes complementary strand to become F+ cell pith pilus. Both cells are now labeled F+ and contain a small circular plasmid.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_06_Conjug.jpg"/>
+</media>
+<caption>Typical conjugation of the F plasmid from an F<sup>+</sup> cell to an F<sup>−</sup> cell is brought about by the conjugation pilus bringing the two cells into contact. A single strand of the F plasmid is transferred to the F<sup>−</sup> cell, which is then made double stranded.</caption>
+</figure>
+</section>
+<section id="fs-id1167661440199">
+<title>Conjugation of F’ and Hfr Cells</title>
+<para id="fs-id1167661551226">Although typical conjugation in <emphasis effect="italics">E. coli</emphasis> results in the transfer of the F-plasmid DNA only, conjugation may also transfer chromosomal DNA. This is because the F plasmid occasionally integrates into the bacterial chromosome through recombination between the plasmid and the chromosome, forming an <term>Hfr cell</term> (<link target-id="OSC_Microbio_11_06_FtoHfr"/>). “Hfr” refers to the high frequency of recombination seen when recipient F<sup>−</sup> cells receive genetic information from Hfr cells through conjugation. Similar to the imprecise excision of a prophage during <term class="no-emphasis">specialized transduction</term>, the integrated F plasmid may also be imprecisely excised from the chromosome, producing an <term>F’ plasmid</term> that carries with it some chromosomal DNA adjacent to the integration site. On conjugation, this DNA is introduced to the recipient cell and may be either maintained as part of the F’ plasmid or be recombined into the recipient cell’s bacterial chromosome.</para>
+<para id="fs-id1167663712664">Hfr cells may also treat the bacterial chromosome like an enormous F plasmid and attempt to transfer a copy of it to a recipient F<sup>−</sup> cell. Because the bacterial chromosome is so large, transfer of the entire chromosome takes a long time (<link target-id="OSC_Microbio_11_06_HFR"/>). However, contact between bacterial cells during conjugation is transient, so it is unusual for the entire chromosome to be transferred. Host chromosomal DNA near the integration site of the F plasmid, displaced by the unidirectional process of rolling circle replication, is more likely to be transferred and recombined into a recipient cell’s chromosome than host genes farther away. Thus, the relative location of bacterial genes on the Hfr cell’s genome can be mapped based on when they are transferred through conjugation. As a result, prior to the age of widespread bacterial genome sequencing, distances on prokaryotic genome maps were often measured in minutes.</para>
+<figure id="OSC_Microbio_11_06_FtoHfr">
+<media id="fs-id1167661440258" alt="A cell contains host chromosome (large loop of DNA), F plasmid (small loop of DNA) and a pilus (projection out of the cell). The F plasmid is inserted into the host chromosome to become Hfr male (donor). When the plasmid is removed from the host chromosome, genes from the chromosome (such as lac) may move from the chromosome to the plasmid. In this case the cell becomes an F’ cell.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_06_FtoHfr.jpg"/>
+</media>
+<caption>(a) The F plasmid can occasionally integrate into the bacterial chromosome, producing an Hfr cell. (b) Imprecise excision of the F plasmid from the chromosome of an Hfr cell may lead to the production of an F’ plasmid that carries chromosomal DNA adjacent to the integration site. This F’ plasmid can be transferred to an F<sup>−</sup> cell by conjugation.</caption>
+</figure>
+<figure id="OSC_Microbio_11_06_HFR">
+<media id="fs-id1167663863926" alt="a) Diagram showing one cell with multiple genes on its chromosome as well as an integrated F plasmid. This cell begins copying and transferring its entire genome but conjugation ends before the entire chromosome is transferred. B) A sample plasmid showing the variety of genes on the plasmid. Some sample genes include: argG, pabB, metA, argR, polA, and oriC. Numbers in the center of the plasmid indicate the location of genes; these numbers show a plasmid of 1000bp total.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_06_HFR.jpg"/>
+</media>
+<caption>(a) An Hfr cell may attempt to transfer the entire bacterial chromosome to an F<sup>−</sup> cell, treating the chromosome like an extremely large F plasmid. However, contact between cells during conjugation is temporary. Chromosomal genes closest to the integration site (gene 1) that are first displaced during rolling circle replication will be transferred more quickly than genes far away from the integration site (gene 4). Hence, they are more likely to be recombined into the recipient F<sup>−</sup> cell’s chromosome. (b) The time it takes for a gene to be transferred, as detected by recombination into the F<sup>−</sup> cell’s chromosome, can be used to generate a map of the bacterial genome, such as this genomic map of <emphasis effect="italics">E. coli</emphasis>. Note that it takes approximately 100 minutes for the entire genome (4.6 Mbp) of an Hfr strain of <emphasis effect="italics">E. coli</emphasis> to be transferred by conjugation.</caption>
+</figure>
+</section>
+<section id="fs-id1167663972007">
+<title>Consequences and Applications of Conjugation</title>
+<para id="fs-id1167661583455">Plasmids are an important type of extrachromosomal DNA element in bacteria and, in those cells that harbor them, are considered to be part of the bacterial genome. From a clinical perspective, <term class="no-emphasis">plasmid</term>s often code for genes involved in virulence. For example, genes encoding proteins that make a bacterial cell resistant to a particular antibiotic are encoded on <term>R plasmids</term>. R plasmids, in addition to their genes for antimicrobial resistance, contain genes that control conjugation and transfer of the plasmid. R plasmids are able to transfer between cells of the same species and between cells of different species. Single R plasmids commonly contain multiple genes conferring resistance to multiple antibiotics.</para>
+<para id="fs-id1167661647631">Genes required for the production of various toxins and molecules important for colonization during infection may also be found encoded on plasmids. For example, verotoxin-producing strains of <term class="no-emphasis"><emphasis effect="italics">E. coli</emphasis></term> (<term class="no-emphasis">VTEC</term>) appear to have acquired the genes encoding the Shiga toxin from its gram-negative relative <term class="no-emphasis"><emphasis effect="italics">Shigella dysenteriae</emphasis></term> through the acquisition of a large plasmid encoding this toxin. VTEC causes severe diarrheal disease that may result in <term class="no-emphasis">hemolytic uremic syndrome</term> (HUS), which may be lead to kidney failure and death.</para>
+<para id="fs-id1167663588724">In nonclinical settings, bacterial genes that encode metabolic enzymes needed to degrade specialized atypical compounds like polycyclic aromatic hydrocarbons (PAHs) are also frequently encoded on plasmids. Additionally, certain plasmids have the ability to move from bacterial cells to other cell types, like those of plants and animals, through mechanisms distinct from conjugation. Such mechanisms and their use in genetic engineering are covered in <link document="m58847">Modern Applications of Microbial Genetics</link>.</para>
+<note id="fs-id1167661485980" class="microbiology link-to-learning">
+
+<para id="fs-id1167663993752">Click through this <link url="https://openstax.org/l/22conjuganim">animation</link> to learn more about the process of conjugation.</para>
+</note>
+<note id="fs-id1167663640512" class="microbiology check-your-understanding">
+<list id="fs-id1167655911217" list-type="bulleted" bullet-style="bullet">
+<item>What type of replication occurs during conjugation?</item>
+<item>What occurs to produce an Hfr <emphasis effect="italics">E. coli</emphasis> cell?</item>
+<item>What types of traits are encoded on plasmids?</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1167661322540">
+<title>Transposition</title>
+<para id="fs-id1167661433554">Genetic elements called <term>transposons</term> (transposable elements), or “<term class="no-emphasis">jumping genes</term>,” are molecules of DNA that include special inverted repeat sequences at their ends and a gene encoding the enzyme <term class="no-emphasis">transposase</term> (<link target-id="OSC_Microbio_11_06_Transpos"/>). Transposons allow the entire sequence to independently excise from one location in a DNA molecule and integrate into the DNA elsewhere through a process called <term>transposition</term>. Transposons were originally discovered in maize (corn) by American geneticist Barbara <term class="no-emphasis">McClintock</term> (1902–1992) in the 1940s. Transposons have since been found in all types of organisms, both prokaryotes and eukaryotes. Thus, unlike the three previous mechanisms discussed, transposition is not prokaryote-specific. Most transposons are nonreplicative, meaning they move in a “cut-and-paste” fashion. Some may be replicative, however, retaining their location in the DNA while making a copy to be inserted elsewhere (“copy and paste”). Because transposons can move within a DNA molecule, from one DNA molecule to another, or even from one cell to another, they have the ability to introduce genetic diversity. Movement within the same DNA molecule can alter phenotype by inactivating or activating a gene.</para>
+<para id="fs-id1167661640657">Transposons may carry with them additional genes, moving these genes from one location to another with them. For example, bacterial transposons can relocate <term class="no-emphasis">antibiotic resistance</term> genes, moving them from chromosomes to plasmids. This mechanism has been shown to be responsible for the colocalization of multiple antibiotic resistance genes on a single R plasmid in <term class="no-emphasis"><emphasis effect="italics">Shigella</emphasis></term> strains causing bacterial dysentery. Such an R plasmid can then be easily transferred among a bacterial population through the process of conjugation.</para>
+<figure id="OSC_Microbio_11_06_Transpos">
+<media id="fs-id1167663906660" alt="Diagram of a transposon. 1: A typical transposon encodes the enzyme transposase, surrounded by inverted repeat sequences. A segment of chromosome shows that the transposon is interspersed between genes. The transposon is made of a gene for transposase and small bands labeled inverted repeat sequence on either side of the gene. 2: Transposase facilitates recombination between inverted repeats. Transposon is cut from its original location and inserted into a new location. This is shown by an oval labeled transposase causing the DNA segment for fold upon itself so the inverted repeats are nearly touching. 3: Transposon targets specific sequences in DNA that will be duplicated, forming direct repeats on either side of the inserted transposon sequence. This is shows as the transposon now sitting in the middle of a gene labeled disrupted gene.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_06_Transpos.jpg"/>
+</media>
+<caption>Transposons are segments of DNA that have the ability to move from one location to another because they code for the enzyme transposase. In this example, a nonreplicative transposon has disrupted gene B. The consequence of that the transcription of gene B may now have been interrupted.</caption>
+</figure>
+<note id="fs-id1167661309410" class="microbiology check-your-understanding">
+<list id="fs-id1167661776599" list-type="bulleted" bullet-style="bullet">
+<item>What are two ways a transposon can affect the phenotype of a cell it moves to?</item>
+</list>
+</note>
+<para id="fs-id1167663622374"><link target-id="fs-id1167663877679"/> summarizes the processes discussed in this section.</para>
+<table id="fs-id1167663877679" summary="Table titled: Summary of Mechanisms of Genetic Diversity in Prokaryotes. Columns: Term, Definition. Conjugation: Transfer of DNA through direct contact using a conjugation pilus. Transduction: Mechanism of horizontal gene transfer in bacteria in which genes are transferred through viral infection. Transformation: Mechanism of horizontal gene transfer in which naked environmental DNA is taken up by a bacterial cell. Transposition: Process whereby DNA independently excises from one location in a DNA molecule and integrates elsewhere." class="span-all">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c2">Summary of Mechanisms of Genetic Diversity in Prokaryotes</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Term</entry>
+<entry valign="top" align="left">Definition</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Conjugation</entry>
+<entry valign="top" align="left">Transfer of DNA through direct contact using a conjugation pilus</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Transduction</entry>
+<entry valign="top" align="left">Mechanism of horizontal gene transfer in bacteria in which genes are transferred through viral infection</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Transformation</entry>
+<entry valign="top" align="left">Mechanism of horizontal gene transfer in which naked environmental DNA is taken up by a bacterial cell</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Transposition</entry>
+<entry valign="top" align="left">Process whereby DNA independently excises from one location in a DNA molecule and integrates elsewhere</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1167661565061" class="microbiology clinical-focus">
+<title>Part 3</title>
+<para id="fs-id1167663931110">Despite continued antibiotic treatment, Mark’s infection continued to progress rapidly. The infected region continued to expand, and he had to be put on a ventilator to help him breathe. Mark’s physician ordered surgical removal of the infected tissue. Following an initial surgery, Mark’s wound was monitored daily to ensure that the infection did not return, but it continued to spread.</para>
+<para id="fs-id1167663738004">After two additional rounds of surgery, the infection finally seemed to be contained. A few days later, Mark was removed from the ventilator and was able to breathe on his own. However, he had lost a great deal of skin and soft tissue on his lower leg.</para>
+<list id="fs-id1167663714210" list-type="bulleted" bullet-style="bullet">
+<item>Why does the removal of infected tissue stem the infection?</item>
+<item>What are some likely complications of this method of treatment?</item>
+</list>
+<para id="fs-id1167663966895"><emphasis effect="italics">Jump to the <link document="m58846" target-id="fs-id1167663650577">next</link> Clinical Focus box. Go back to the <link document="m58842" target-id="fs-id1167663965745">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+<section id="fs-id1167663911668" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167661326148" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Horizontal gene transfer</emphasis> is an important way for asexually reproducing organisms like prokaryotes to acquire new traits.</item>
+<item>There are three mechanisms of horizontal gene transfer typically used by bacteria: <emphasis effect="bold">transformation</emphasis>, <emphasis effect="bold">transduction</emphasis>, and <emphasis effect="bold">conjugation</emphasis>.</item>
+<item>Transformation allows for competent cells to take up naked DNA, released from other cells on their death, into their cytoplasm, where it may recombine with the host genome.</item>
+<item>In <emphasis effect="bold">generalized transduction</emphasis>, any piece of chromosomal DNA may be transferred by accidental packaging of the degraded host chromosome into a phage head. In <emphasis effect="bold">specialized transduction</emphasis>, only chromosomal DNA adjacent to the integration site of a lysogenic phage may be transferred as a result of imprecise excision of the prophage.</item>
+<item>Conjugation is mediated by the <emphasis effect="bold">F plasmid,</emphasis> which encodes a <emphasis effect="bold">conjugation pilus</emphasis> that brings an F plasmid-containing <emphasis effect="bold">F<sup>+</sup> cell</emphasis> into contact with an <emphasis effect="bold">F</emphasis><sup>-</sup> <emphasis effect="bold">cell</emphasis>.</item>
+<item>The rare integration of the F plasmid into the bacterial chromosome, generating an <emphasis effect="bold">Hfr cell</emphasis>, allows for transfer of chromosomal DNA from the donor to the recipient. Additionally, imprecise excision of the F plasmid from the chromosome may generate an F’ plasmid that may be transferred to a recipient by conjugation.</item>
+<item>Conjugation transfer of <emphasis effect="bold">R plasmids</emphasis> is an important mechanism for the spread of antibiotic resistance in bacterial communities.</item>
+<item><emphasis effect="bold">Transposons</emphasis> are molecules of DNA with inverted repeats at their ends that also encode the enzyme transposase, allowing for their movement from one location in DNA to another. Although found in both prokaryotes and eukaryotes, transposons are clinically relevant in bacterial pathogens for the movement of virulence factors, including antibiotic resistance genes.</item>
+</list>
+</section>
+<section id="fs-id1167663646137" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167663653549">
+<problem id="fs-id1167663531097">
+<para id="fs-id1167661741898">Which is the mechanism by which improper excision of a prophage from a bacterial chromosome results in packaging of bacterial genes near the integration site into a phage head?</para>
+<list id="fs-id1167663860277" list-type="enumerated" number-style="upper-alpha">
+<item>conjugation</item>
+<item>generalized transduction</item>
+<item>specialized transduction</item>
+<item>transformation</item>
+</list>
+</problem>
+<solution id="fs-id1167663988783">
+<para id="fs-id1167663631066">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167661743528">
+<problem id="fs-id1167663712292">
+<para id="fs-id1167663887915">Which of the following refers to the uptake of naked DNA from the surrounding environment?</para>
+<list id="fs-id1167663620884" list-type="enumerated" number-style="upper-alpha">
+<item>conjugation</item>
+<item>generalized transduction</item>
+<item>specialized transduction</item>
+<item>transformation</item>
+</list>
+</problem>
+<solution id="fs-id1167661754794">
+<para id="fs-id1167661563828">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663963908">
+<problem id="fs-id1167661573032">
+<para id="fs-id1167661343611">The F plasmid is involved in which of the following processes?</para>
+<list id="fs-id1167663643455" list-type="enumerated" number-style="upper-alpha">
+<item>conjugation</item>
+<item>transduction</item>
+<item>transposition</item>
+<item>transformation</item>
+</list>
+</problem>
+<solution id="fs-id1167663957925">
+<para id="fs-id1167663524114">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663637654">
+<problem id="fs-id1167663613474">
+<para id="fs-id1167663880976">Which of the following refers to the mechanism of horizontal gene transfer naturally responsible for the spread of antibiotic resistance genes within a bacterial population?</para>
+<list id="fs-id1167661330356" list-type="enumerated" number-style="upper-alpha">
+<item>conjugation</item>
+<item>generalized transduction</item>
+<item>specialized transduction</item>
+<item>transformation</item>
+</list>
+</problem>
+<solution id="fs-id1167663649520">
+<para id="fs-id1167661565862">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167661746708" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167663591185">
+<problem id="fs-id1167661294609">
+<para id="fs-id1167661553881">A small DNA molecule that has the ability to independently excise from one location in a larger DNA molecule and integrate into the DNA elsewhere is called a ________.</para>
+</problem>
+<solution id="fs-id1167661642390">
+<para id="fs-id1167661343766">transposon or transposable element</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663993594">
+<problem id="fs-id1167661342716">
+<para id="fs-id1167663638873">________ is a group of mechanisms that allow for the introduction of genetic material from one organism to another organism within the same generation.</para>
+</problem>
+<solution id="fs-id1167661550895">
+<para id="fs-id1167661342556">Horizontal gene transfer</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167661252288" class="true-false">
+<title>True/False</title>
+<exercise id="fs-id1167661268608">
+<problem id="fs-id1167663633644">
+<para id="fs-id1167661267782">Asexually reproducing organisms lack mechanisms for generating genetic diversity within a population.</para>
+</problem>
+<solution id="fs-id1167661743523">
+<para id="fs-id1167661291710">False</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167661748156" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167661563838">
+<problem id="fs-id1167663906527">
+<para id="fs-id1167661349302">Briefly describe two ways in which chromosomal DNA from a donor cell may be transferred to a recipient cell during the process of conjugation.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167663737163">
+<problem id="fs-id1167661346562">
+<para id="fs-id1167661549998">Describe what happens when a nonsense mutation is introduced into the gene encoding transposase within a transposon.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

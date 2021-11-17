@@ -1,0 +1,1080 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="appendix">
+
+<title>Taxonomy of Clinically Relevant Microorganisms</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58949</md:content-id>
+  <md:title>Taxonomy of Clinically Relevant Microorganisms</md:title>
+  <md:abstract/>
+  <md:uuid>c7f8fe6b-50e6-49a3-84b1-13c90c9684b6</md:uuid>
+</metadata>
+
+<content class="appendix">
+<section id="fs-id1167660217218">
+<title>Bacterial Pathogens</title>
+<para id="fs-id1167662501968">The following tables list the species, and some higher groups, of pathogenic Eubacteria mentioned in the text. The classification of Bacteria, one of the three domains of life, is in constant flux as relationships become clearer through sampling of genetic sequences. Many groups at all taxonomic levels still have an undetermined relationship with other members of the phylogenetic tree of Bacteria. <emphasis effect="italics">Bergey’s Manual of Systematics of Archaea and Bacteria</emphasis> maintains a published list and descriptions of prokaryotic species. The tables here follow the taxonomic organization in the <emphasis effect="italics">Bergey’s Manual</emphasis> Taxonomic Outline.<footnote id="fs-id1167662773138">Bergey’s Manual Trust. <emphasis effect="italics">Bergey’s Manual of Systematics of Archaea and Bacteria, Taxonomic Outline</emphasis>. 2012. http://www.bergeys.org/outlines.html</footnote></para>
+<para id="fs-id1167662423070">We have divided the species into tables corresponding to different bacterial phyla. The taxonomic rank of kingdom is not used in prokaryote taxonomy, so the phyla are the subgrouping below domain. Note that many bacterial phyla not represented by these tables. The species and genera are listed only under the class within each phylum. The names given to bacteria are regulated by the International Code of Nomenclature of Bacteria as maintained by the International Committee on Systematics or Prokaryotes.</para>
+<table id="fs-id1167662553295" summary="A table titled “Phylum Actinobacteria” gives information on class, genus, species, and related diseases. All entries are for class Actinobacteria. For genus Corynebacterium, species diphtheriae, the related disease is Diphtheria. For genus Gardnerella, species vaginalis, the related disease is Bacterial vaginosis. For genus Micrococcus, the related disease is Opportunistic infections. For genus Mycobacterium, species bovis, the related disease is Tuberculosis, primarily in cattle. For genus Mycobacterium, species leprae, the related disease is Hansen's disease. For genus Mycobacterium, species tuberculosis, the related disease is Tuberculosis. For genus Propionibacterium, species acnes, the related diseases are Acne, blepharitis, endophthalmitis." class="span-all"><tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Phylum Actinobacteria</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Class</entry>
+<entry valign="top" align="left">Genus</entry>
+<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Related Diseases</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="6">Actinobacteria</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Corynebacterium</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">diphtheriae</emphasis></entry>
+<entry valign="top" align="left">Diphtheria</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Gardnerella</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">vaginalis</emphasis></entry>
+<entry valign="top" align="left">Bacterial vaginosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Micrococcus</emphasis></entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Opportunistic infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Mycobacterium</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">bovis</emphasis></entry>
+<entry valign="top" align="left">Tuberculosis, primarily in cattle</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Mycobacterium</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">leprae</emphasis></entry>
+<entry valign="top" align="left">Hansen’s disease</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Mycobacterium</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">tuberculosis</emphasis></entry>
+<entry valign="top" align="left">Tuberculosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Propionibacterium</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">acnes</emphasis></entry>
+<entry valign="top" align="left">Acne, blepharitis, endophthalmitis</entry>
+</row>
+</tbody>
+</tgroup>
+</table><table id="fs-id1167660439329" summary="A table titled “Phylum Bacteroidetes” gives information on class, genus, species, and related diseases. All entries are for class Bacteroidia. For genus Porphyromonas, the related disease is Periodontal disease. For genus Prevotella, species intermedia, the related disease is Periodontal disease." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Phylum Bacteroidetes</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Class</entry>
+<entry valign="top" align="left">Genus</entry>
+<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Related Diseases</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="1">Bacteroidia</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Porphyromonas</emphasis></entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Periodontal disease</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Prevotella</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">intermedia</emphasis></entry>
+<entry valign="top" align="left">Periodontal disease</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table id="fs-id1167662778431" summary="A table titled “Phylum Chlamydiae” gives information on class, genus, species, and related diseases. All entries are for class Chlamydiae. For genus Chlamydia, species psittaci, the related disease is Psittacosis. For genus Chlamydia, species trachomatis, the related disease is Sexually transmitted chlamydia." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Phylum Chlamydiae</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Class</entry>
+<entry valign="top" align="left">Genus</entry>
+<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Related Diseases</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="1">Chlamydiae</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Chlamydia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">psittaci</emphasis></entry>
+<entry valign="top" align="left">Psittacosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Chlamydia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">trachomatis</emphasis></entry>
+<entry valign="top" align="left">Sexually transmitted chlamydia</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table id="fs-id1167660264394" summary="A table titled “Phylum Firmicutes” gives information on class, genus, species, and related diseases. The first set of entries is for class Bacilli. For genus Bacillus, species anthracis, the related disease is Anthrax. For genus Bacillus, species cereus, the related disease is Diarrheal and emetic food poisoning. For genus Listeria, species monocytogenes, the related disease is Listeriosis. For genus Enterococcus, species faecalis, the related diseases are Endocarditis, septicemia, urinary tract infections, meningitis. For genus Staphylococcus, species aureus, the related diseases are Skin infections, sinusitis, food poisoning. For genus Staphylococcus, species epidermidis, the related disease is Nosocomial and opportunistic infections. For genus Staphylococcus, species hominis, the related disease is Opportunistic infections. For genus Staphylococcus, species saprophyticus, the related disease is Urinary tract infections.For genus Streptococcus, species agalactiae, the related diseases are Postpartum infection, neonatal sepsis. For genus Streptococcus, species mutans, the related disease is Tooth decay. For genus Streptococcus, species pneumoniae, the related diseases are Pneumonia, many other infections. For genus Streptococcus, species pyogenes, the related diseases are Pharyngitis, scarlet fever, impetigo, necrotizing fasciitis. The second set of entries is for class Clostridia. For genus Clostridium, species botulinum, the related disease is Botulism.For genus Clostridium, species difficile, the related disease is Colitis. For genus Clostridium, species perfringens, the related diseases are Food poisoning, gas gangrene. For genus Clostridium, species tetani, the related disease is Tetanus." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Phylum Firmicutes</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Class</entry>
+<entry valign="top" align="left">Genus</entry>
+<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Related Diseases</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="11">Bacilli</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Bacillus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">anthracis</emphasis></entry>
+<entry valign="top" align="left">Anthrax</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Bacillus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">cereus</emphasis></entry>
+<entry valign="top" align="left">Diarrheal and emetic food poisoning</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Listeria</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">monocytogenes</emphasis></entry>
+<entry valign="top" align="left">Listeriosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Enterococcus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">faecalis</emphasis></entry>
+<entry valign="top" align="left">Endocarditis, septicemia, urinary tract infections, meningitis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Staphylococcus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">aureus</emphasis></entry>
+<entry valign="top" align="left">Skin infections, sinusitis, food poisoning</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Staphylococcus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">epidermidis</emphasis></entry>
+<entry valign="top" align="left">Nosocomial and opportunistic infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Staphylococcus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">hominis</emphasis></entry>
+<entry valign="top" align="left">Opportunistic infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Staphylococcus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">saprophyticus</emphasis></entry>
+<entry valign="top" align="left">Urinary tract infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Streptococcus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">agalactiae</emphasis></entry>
+<entry valign="top" align="left">Postpartum infection, neonatal sepsis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Streptococcus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">mutans</emphasis></entry>
+<entry valign="top" align="left">Tooth decay</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Streptococcus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">pneumoniae</emphasis></entry>
+<entry valign="top" align="left">Pneumonia, many other infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Streptococcus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">pyogenes</emphasis></entry>
+<entry valign="top" align="left">Pharyngitis, scarlet fever, impetigo, necrotizing fasciittis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="3">Clostridia</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Clostridium</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">botulinum</emphasis></entry>
+<entry valign="top" align="left">Botulinum poisoning</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Clostridium</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">difficile</emphasis></entry>
+<entry valign="top" align="left">Colitis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Clostridium</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">perfringens</emphasis></entry>
+<entry valign="top" align="left">Food poisoning, gas gangrene</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Clostridium</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">tetani</emphasis></entry>
+<entry valign="top" align="left">Tetanus</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table id="fs-id1167658337987" summary="A table titled “Phylum Fusobacteria” gives information on class, genus, species, and related diseases. All entries are for class Fusobacteria. For genus Fusobacterium, the related diseases are Periodontal disease, Lemierre syndrome, skin ulcers. For genus Streptobacillus, species moniliformis, the related disease is Rat-bite fever." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Phylum Fusobacteria</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Class</entry>
+<entry valign="top" align="left">Genus</entry>
+<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Related Diseases</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="1">Fusobacteriia</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Fusobacterium</emphasis></entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Periodontal disease, Lemierre syndrome, skin ulcers</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Streptobacillus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">moniliformis</emphasis></entry>
+<entry valign="top" align="left">Rat-bite fever</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table id="fs-id1167662551178" summary="A table titled “Phylum Proteobacteria” gives information on class, genus, species, and related diseases. The first set of entries is for class Alphaproteobacteria. For genus Anaplasma, species phagocytophilum, the related disease is Human granulocytic anaplasmosis. For genus Bartonella, species henselae, the related diseases are Peliosis hepatitis, bacillary angiomatosis, endocarditis, bacteremia. For genus Bartonella, species quintana, the related disease is Trench fever. For genus Brucella, species melitensis, the related disease is Ovine brucellosis. For genus Ehrlichia, species chaffeensis, the related disease is Human monocytic ehrlichiosis. For genus Rickettsia, species prowazekii, the related disease is Epidemic typhus. For genus Rickettsia, species rickettsii, the related disease is Rocky Mountain spotted fever. For genus Rickettsia, species typhi, the related disease is Murine typhus. The second set of entries is for class Betaproteobacteria. For genus Bordetella, species pertussis, the related disease is Pertussis. For genus Eikenella, the related disease is Bite-injury infections. For genus Neisseria, species gonorrhoeae, the related disease is Gonorrhea. For genus Neisseria, species meningitidis, the related disease is Meningitis. For genus Spirillum, species minus, the related disease is Sodoku (rat-bite fever). The third set of entries is for class Epsilonproteobacteria. For genus Campylobacter, species jejuni, the related diseases are Gastroenteritis, Guillain-Barré syndrome. For genus Helicobacter, species pylori, the related disease is Gastric ulcers. The fourth set of entries is for class Gammaproteobacteria. For genus Aeromonas, species hydrophila, the related disease is Dysenteric gastroenteritis. For genus Coxiella, species burnetii, the related disease is Q fever. For genus Enterobacter, the related diseases are Urinary and respiratory infections. For genus Escherichia, species coli Strains: shiga toxin-producing (STEC) (e.g., O157:H7) also called enterohemorrhagic E. coli (EHEC) or verocytotoxin-producing E. coli (VTEC), the related diseases are Foodborne diarrhea outbreaks, hemorrhagic colitis, hemolytic-uremic syndrome. For genus Escherichia, species coli Strain: enterotoxigenic E. coli (ETEC), the related disease is Traveler's diarrhea. For genus Escherichia, species coli Strain: enteropathogenic E. coli (EPEC), the related disease is Diarrhea, especially in young children. For genus Escherichia, species coli Strain: enteroaggregative E. coli (EAEC), the related disease is Diarrheal disease in children and travelers. For genus Escherichia, species coli Strain: diffusely adherent E. coli (DAEC, the related disease is Diarrheal disease of children. For genus Escherichia, species coli Strain: enteroinvasive E. coli (EPEC), the related disease is Bacillary dysentery, cells invade intestinal epithelial cells. For genus Francisella, species tularensis, the related disease is Tularemia. For genus Haemophilus, species ducreyi, the related disease is Chancroid. For genus Haemophilus, species influenzae, the related diseases are Bacteremia, pneumonia, meningitis. For genus Klebsiella, species pneumoniae, the related disease is Pneumonia, nosocomial infections. For genus Legionella, species pneumophila, the related disease is Legionnaires disease. For genus Moraxella, species catarrhalis, the related diseases are Otitis media, bronchitis, sinusitis, laryngitis, pneumonia. For genus Pasteurella, the related disease is Pasteurellosis. For genus Plesiomonas, species shigelloides, the related disease is Gastroenteritis. For genus Proteus, the related disease is Opportunistic urinary tract infections. For genus Pseudomonas, species aeruginosa, the related disease is Opportunistic, nosocomial pneumonia and sepsis. For genus Salmonella, species bongori, the related disease is Salmonellosis. For genus Salmonella, species enterica, the related disease is Salmonellosis. For genus Serratia, the related diseases are Pneumonia, urinary tract infections. For genus Shigella, species boydii, the related disease is Dysentery. For genus Shigella, species dysenteriae, the related disease is Dysentery. For genus Shigella, species flexneri, the related disease is Dysentery. For genus Shigella, species sonnei, the related disease is Dysentery. For genus Vibrio, species cholerae, the related disease is Cholera. For genus Vibrio, species parahemolyticus, the related disease is Seafood gastroenteritis. For genus Vibrio, species vulnificus, the related diseases are Seafood gastroenteritis, necrotizing wound infections, septicemia . For genus Yersinia, species enterocolitica, the related disease is Yersiniosis. For genus Yersinia, species pestis, the related disease is Plague. For genus Yersinia, species pseudotuberculosis, the related disease is Far East scarlet-like fever." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Phylum Proteobacteria</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Class</entry>
+<entry valign="top" align="left">Genus</entry>
+<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Related Diseases</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="7">Alphaproteobacteria</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Anaplasma</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">phagocytophilum</emphasis></entry>
+<entry valign="top" align="left">Human granulocytic anaplasmosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Bartonella</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">henselae</emphasis></entry>
+<entry valign="top" align="left">Peliosis hepatitis, bacillary angiomatosis, endocarditis, bacteremia</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Bartonella</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">quintana</emphasis></entry>
+<entry valign="top" align="left">Trench fever</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Brucella</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">melitensis</emphasis></entry>
+<entry valign="top" align="left">Ovine brucellosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Ehrlichia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">chaffeensis</emphasis></entry>
+<entry valign="top" align="left">Human monocytic ehrlichiosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Rickettsia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">prowazekii</emphasis></entry>
+<entry valign="top" align="left">Epidemic typhus</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Rickettsia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">rickettsii</emphasis></entry>
+<entry valign="top" align="left">Rocky Mountain spotted fever</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Rickettsia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">typhi</emphasis></entry>
+<entry valign="top" align="left">Murine typhus</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="4">Betaproteobacteria</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Bordetella</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">pertussis</emphasis></entry>
+<entry valign="top" align="left">Pertussis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Eikenella</emphasis></entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Bite-injury infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Neisseria</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">gonorrhoeae</emphasis></entry>
+<entry valign="top" align="left">Gonorrhea</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Neisseria</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">meningitidis</emphasis></entry>
+<entry valign="top" align="left">Meningitis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Spirillum</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">minus (alt. minor)</emphasis></entry>
+<entry valign="top" align="left">Sodoku (rat-bite fever)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="1">Epsilonproteobacteria</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Campylobacter</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">jejuni</emphasis></entry>
+<entry valign="top" align="left">Gastroenteritis, Guillain-Barré syndrome</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Helicobacter</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">pylori</emphasis></entry>
+<entry valign="top" align="left">Gastric ulcers</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="31">Gammaproteobacteria</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Aeromonas</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">hydrophila</emphasis></entry>
+<entry valign="top" align="left">Dysenteric gastroenteritis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Coxiella</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">burnetii</emphasis></entry>
+<entry valign="top" align="left">Q fever</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Enterobacter</emphasis></entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Urinary and respiratory infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Escherichia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">coli</emphasis><newline/>Strains:<newline/>shiga toxin-producing (STEC) (e.g., O157:H7) also called enterohemorrhagic <emphasis effect="italics">E. coli</emphasis> (EHEC) or verocytotoxin-producing <emphasis effect="italics">E. coli</emphasis> (VTEC)</entry>
+<entry valign="top" align="left">Foodborne diarrhea outbreaks, hemorrhagic colitis, hemolytic-uremic syndrome</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Escherichia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">coli</emphasis><newline/>Strain:<newline/>enterotoxigenic <emphasis effect="italics">E. coli</emphasis> (ETEC)</entry>
+<entry valign="top" align="left">Traveler’s diarrhea</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Escherichia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">coli</emphasis><newline/>Strain:<newline/>enteropathogenic <emphasis effect="italics">E. coli</emphasis> (EPEC)</entry>
+<entry valign="top" align="left">Diarrhea, especially in young children</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Escherichia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">coli</emphasis><newline/>Strain:<newline/>enteroaggregative <emphasis effect="italics">E. coli</emphasis> (EAEC)</entry>
+<entry valign="top" align="left">Diarrheal disease in children and travelers</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Escherichia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">coli</emphasis><newline/>Strain:<newline/>diffusely adherent <emphasis effect="italics">E. coli</emphasis> (DAEC)</entry>
+<entry valign="top" align="left">Diarrheal disease of children</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Escherichia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">coli</emphasis><newline/>Strain:<newline/>enteroinvasive <emphasis effect="italics">E. coli</emphasis> (EPEC)</entry>
+<entry valign="top" align="left">Bacillary dysentery, cells invade intestinal epithelial cells</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Francisella</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">tularensis</emphasis></entry>
+<entry valign="top" align="left">Tularemia</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Haemophilus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">ducreyi</emphasis></entry>
+<entry valign="top" align="left">Chancroid</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Haemophilus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">influenzae</emphasis></entry>
+<entry valign="top" align="left">Bacteremia, pneumonia, meningitis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Klebsiella</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">pneumoniae</emphasis></entry>
+<entry valign="top" align="left">Pneumonia, nosocomial infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Legionella</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">pneumophila</emphasis></entry>
+<entry valign="top" align="left">Legionnaire’s disease</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Moraxella</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">catarrhalis</emphasis></entry>
+<entry valign="top" align="left">Otitis media, bronchitis, sinusitis, laryngitis, pneumonia</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Pasteurella</emphasis></entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Pasteurellosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Plesiomonas</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">shigelloides</emphasis></entry>
+<entry valign="top" align="left">Gastroenteritis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Proteus</emphasis></entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Opportunistic urinary tract infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Pseudomonas</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">aeruginosa</emphasis></entry>
+<entry valign="top" align="left">Opportunistic, nosocomial pneumonia and sepsis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Salmonella</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">bongori</emphasis></entry>
+<entry valign="top" align="left">Salmonellosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Salmonella</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">enterica</emphasis></entry>
+<entry valign="top" align="left">Salmonellosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Serratia</emphasis></entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Pneumonia, urinary tract infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Shigella</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">boydii</emphasis></entry>
+<entry valign="top" align="left">Dysentery</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Shigella</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">dysenteriae</emphasis></entry>
+<entry valign="top" align="left">Dysentery</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Shigella</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">flexneri</emphasis></entry>
+<entry valign="top" align="left">Dysentery</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Shigella</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">sonnei</emphasis></entry>
+<entry valign="top" align="left">Dysentery</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Vibrio</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">cholerae</emphasis></entry>
+<entry valign="top" align="left">Cholera</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Vibrio</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">parahemolyticus</emphasis></entry>
+<entry valign="top" align="left">Seafood gastroenteritis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Vibrio</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">vulnificus</emphasis></entry>
+<entry valign="top" align="left">Seafood gastroenteritis, necrotizing wound infections, septicemia</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Yersinia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">enterocolitica</emphasis></entry>
+<entry valign="top" align="left">Yersiniosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Yersinia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">pestis</emphasis></entry>
+<entry valign="top" align="left">Plague</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Yersinia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">pseudotuberculosis</emphasis></entry>
+<entry valign="top" align="left">Far East scarlet-like fever</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table id="fs-id1167662571307" summary="A table titled “Phylum Spirochaetes” gives information on class, genus, species, and related diseases. All entries are for class Spirochaetia. For genus Borrelia, species burgdorferi, the related disease is Lyme disease. For genus Borrelia, species hermsii, the related disease is Tick-borne relapsing fever. For genus Borrelia, species recurrentis, the related disease is Louse-borne relapsing fever. For genus Leptospira, species interrogans, the related disease is Leptospirosis. For genus Treponema, species pallidum, the related diseases are Syphilis, bejel, pinta, yaws." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Phylum Spirochaetes</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Class</entry>
+<entry valign="top" align="left">Genus</entry>
+<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Related Diseases</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="4">Spirochaetia</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Borrelia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">burgdorferi</emphasis></entry>
+<entry valign="top" align="left">Lyme disease</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Borrelia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">hermsii</emphasis></entry>
+<entry valign="top" align="left">Tick-borne relapsing fever</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Borrelia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">recurrentis</emphasis></entry>
+<entry valign="top" align="left">Louse-borne relapsing fever</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Leptospira</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">interrogans</emphasis></entry>
+<entry valign="top" align="left">Leptospirosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Treponema</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">pallidum</emphasis></entry>
+<entry valign="top" align="left">Syphilis, bejel, pinta, yaws</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table id="fs-id1167657986586" summary="A table titled “Phylum Tenericutes” gives information on class, genus, species, and related diseases. All entries are for class Mollicutes. For genus Mycoplasma, species genitalium, the related diseases are Urethritis, cervicitis. For genus Mycoplasma, species hominis, the related diseases are Pelvic inflammatory disease, bacterial vaginosis. For genus Mycoplasma, species pneumoniae, the related disease is Mycoplasma pneumonia. For genus Ureaplasma, species urealyticum, the related diseases are Urethritis, fetal infections." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Phylum Tenericutes</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Class</entry>
+<entry valign="top" align="left">Genus</entry>
+<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Related Diseases</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="3">Mollicutes</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Mycoplasma</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">genitalium</emphasis></entry>
+<entry valign="top" align="left">Urethritis, cervicitis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Mycoplasma</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">hominis</emphasis></entry>
+<entry valign="top" align="left">Pelvic inflammatory disease, bacterial vaginosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Mycoplasma</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">pneumoniae</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">Mycoplasma</emphasis> pneumonia</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Ureaplasma</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">urealyticum</emphasis></entry>
+<entry valign="top" align="left">Urethritis, fetal infections</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<section id="fs-id1167658393401">
+<title>Viral Pathogens</title>
+<para id="fs-id1167662603829">There are several classification systems for viruses. The International Committee on Taxonomy of Viruses (ICTV) is the international scientific body responsible for the rules of viral classification. The ICTV system used here groups viruses based on genetic similarity and presumed monophyly. The viral classification system is separate from the classification system for cellular organisms. The ICTV system groups viruses within seven orders, which contain related families. There is, presently, a large number of unassigned families with unknown affinities to the seven orders. Three of these orders infect only Eubacteria, Archaea, or plants and do not appear in this table. Some families may be divided into subfamilies. There are also many unassigned genera. Like all taxonomies, viral taxonomy is in constant flux. The latest complete species list and classification can be obtained on the ICTV website.<footnote id="fs-id1167662603831">International Committee on Taxonomy of Viruses. “ICTV Master Species List.” http://talk.ictvonline.org/files/ictv_documents/m/msl/default.aspx</footnote></para>
+<figure id="OSC_Microbio_00_DD_VirPatTBL1">
+<media id="fs-id1167660288234" alt="A table titled “Viral Pathogens” gives information on order, family, subfamily, genus, species, and related diseases. For order Herpesvirales, family herpesviridae, subfamily betaherpesvirinae, genus human cytomegalovirus group, species human herpesvirus 5, the related disease is Cytomegalovirus hepatitis and other infections in immunocompromised people. For order herpesvirales, family herpesviridae, subfamily gammaherpesvirinae, genus lymphocryptovirus, species human herpesvirus 4(HHV-4; Epstein-Barr virus), the related disease is infectious mononucleosis. For order Herpesvirales, family herpesviridae, subfamily alphaherpesvirinae, genus simplexvirus, species human herpesvirus 1, human herpesvirus 2, the related diseases are herpes simplex virus 1, herpes simplex virus 2. For order herpesvirales, family herpesviridae, subfamily alphaherpesvirinae, genus varicellovirus, species human herpesvirus 3, the related diseases chickenpox, shingles. For order mononegavirales, family filoviridae, subfamily alphaherpesvirinae, genus ebolavirus, species zaire ebolavirus (EBOV), the related disease is Ebola. For order mononegavirales, family filoviridae, genus marburgvirus, species Marburg marburgvirus (MARV), the related disease is Marburg virus disease. For order mononegavirales, family rhabdoviridae, genus lyssavirus, species rabies virus, the related disease is Rabies. For order mononegavirales, family paramyxoviridae, subfamily pneumovirinae, genus pneumovirus, species human respiratory syncytial virus, the related disease is lower respiratory tract infection. For order mononegavirales, family paramyxoviridae, subfamily paramyxovirinae, genus morbillivirus, species measles virus, the related disease is measles (rubeola). For order Nidovirales, family coronaviridae, subfamily coronavirinae, genus coronavirus, the related diseases are common cold, pneumonia, SARS. For order picornavirales, family picornaviridae, genus hepatovirus, species hepatitis A virus, the related disease is hepatitis A. For order picornavirales, family picornaviridae, genus enterovirus, species enterovirus C, the related disease is polio. For order picornavirales, family picornaviridae, genus enterovirus, species rhinovirus A, the related disease is common cold. For order picornavirales, family picornaviridae, genus enterovirus, species rhinovirus B, the related disease is common cold. For order picornavirales, family picornaviridae, genus enterovirus, species rhinovirus C, the related disease is common cold. The remaining entries in this table are unassigned in the order category. In the family adenovirus, genus mastadenovirus, the related diseases are respiratory and other infections. In the family arenaviridae, genus mammarenavirus, species lassa mammarenavirus, the related disease is Lassa fever. For the family astroviridae, the related disease is gastroenteritis. For the family bunyaviridae, genus hantavirus, species several species, the related diseases are hantavirus hemorrhagic fever with renal syndrome (HFRS), hantavirus pulmonary syndrome (HPS). For family Bunyaviridae, genus nairovirus, species Crimean-congo hemorrhagic fever virus (CCHF), the related disease is Crimean-Congo hemorrhagic fever. For the family caliciviridae, genus norovirus, species Norwalk virus, the related disease is gastroenteritis.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_Figure 00_DD_VirPatTBL1.jpg"/>
+</media>
+</figure>
+<figure id="OSC_Microbio_00_DD_VirPatTBL2">
+<media id="fs-id1167662559452" alt="A table titled “Viral Pathogens (continued)” gives information on order, family, subfamily, genus, species, and related diseases.All entries in this table are unassigned in the order category. For the family flaviviriadae, genus flavivirus, species dengue virus, the related disease is dengue fever. For the family flaviviriadae, genus flavivirus, species Yellow fever virus, the related disease is yellow fever. In the family flaviviriadae, genus hepacivirus, species hepatitis c virus, the related disease is hepatitis C. For the family hepadnaviridae, genus orthohepadnavirus, species hepatitis B virus, the related disease is hepatitis B. For the family Hepeviridae, genus orthohepevirus, species hepatitis E virus, the related disease is hepatitis E. For the family orthomyxoviridae, genus influenzavirus A, species influenza virus A, the related disease is pandemic flu. For the family orthomyxoviridae, genus influenzavirus B, species influenza virus B, the related disease is Flu. For the family orthomyxoviridae, genus influenzavirus C, species influenza virus C, the related disease is Flu. For the family papillomaviridae, genus alphapapillomavirus, species human papillomavirus, the related disease is skin warts. For the family parvoviridae, subfamily parvovirinae, genus erythroparvovirus, species human parvovirus B 19, the related disease is fifth disease (erythema infectosum). For the family poxviridae, subfamily chordopoxvirinae, genus orthopoxvirus, species variola virus, the related diseases are variola major, variola minor (smallpox). For the family poxviridae, subfamily chordopoxvirinae, genus orthopoxvirus, species vaccinia virus, the related disease is cowpox. For the family reoviridae, subfamily sedoreovirinae, genus rotavirus, species eight species, the related disease is gastroenteritis. For the family retroviridae, subfamily orthoretrovirinae, genus lentivirus, species human immunodeficiency virus, the related disease is AIDS. For the family togaviridae, genus alphavirus, species chikungunya virus (CHIKV), the related disease is Chikungunya. For the family togaviridae, genus rubivirus, species rubella virus, the related disease is Rubella (German measles). For an unassigned order, genus deltavirus, species hepatitis D virus, the related disease is hepatitis D.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_Figure 00_DD_VirPatTBL2.jpg"/>
+</media>
+</figure>
+</section>
+<section id="fs-id1167662500881">
+<title>Fungal Pathogens</title>
+<para id="fs-id1167662500887">The Fungi are one of the kingdoms of the domain Eukarya. Fungi are most closely related to the animals and a few other small groups and more distantly related to the plants and other groups that formerly were categorized as protist. At present, the Fungi are divided into seven phyla (or divisions, a hold over from when fungi were studied with plants), but there are uncertainties about some relationships.<footnote id="fs-id1167656875242">D. S. Hibbett et al. “A Higher-level Phylogenetic Classification of the Fungi.” <emphasis effect="italics">Mycological Research</emphasis> 111 no. 5 (2007):509–547.</footnote> Many groups of fungi, particularly those that were formerly classified in the phylum Zygomycota, which was not monophyletic, have uncertain relationships to the other fungi. The one species listed in this table that falls into this category is <emphasis effect="italics">Rhizopus arrhizus.</emphasis> Fungal names are governed by the International Code of Nomenclature for Algae, Fungi, and Plants,<footnote id="fs-id1167662424444">J. McNeill et al. <emphasis effect="italics">International Code of Nomenclature for Algae, Fungi, and Plants (Melbourne Code)</emphasis>. Oberreifenerg, Germany. Koeltz Scientific Books; 2012. http://www.iapt-taxon.org/nomen/main.php?</footnote> but the International Commission on the Taxonomy of Fungi (ICTF) also promotes taxonomic work on fungi. One activity of the ICTF is publicizing name changes for medically and otherwise important fungal species. Many species that formerly had two names (one for the sexual form and one for the asexual form) are now being brought together under one name.</para>
+<table id="fs-id1167662462135" summary="A table titled “Fungal Pathogens” gives information on division, genus, species and related diseases. The following entries are under the Ascomycota division. For the genus aspergillus, species flavus, the related disease is opportunistic aspergillosis. For the genus aspergillus, species fumigatus, the related disease is opportunistic aspergillosis. For the genus blastomyces, species dermatitidis, the related disease is blastomycosis. For the genus candida, species albicans, the related disease is thrush (candidiasis). For the genus coccidioides, species immitis, the related disease is valley fever (coccidioidomycosis). For the related genus epidermophyton, the related diseases are tinea corporis (ringworm), tinea cruris (jock itch), tinea pedis (athlete’s foot), tinea unguium (onychomycosis). For the genus histoplasma, species capsulatum, the related disease is histoplasmosis. For the genus microsporum, the related diseases are tinea capitis (ringworm), tinea corpus (ringworm), other dermatophytoses. For the genus pneumocystis, species jirovecii, the related disease is opportunistic pneumonia. For the genus sporothrix, species schenckii, the related disease is sporotrichosis (rose-handler’s disease). For the genus trichophyton, species mentagrophytes var. interdigitale, the related disease is tinea barbae (barber’s itch), dermatophytoses. For the genus trichophyton, species rubrum, the related diseases are tinea corporis (ringworm), tinea cruris (jock itch), tinea pedis (athlete’s foot), tinea unguium (onychomycosis). For the division basidiomycota, genus Cryptococcus, species neoformans, the related diseases are opportunistic cryptococcosis, fungal meningitis, encephalitis. For the division basidiomycota, genus malassezia, the related diseases are dandruff, tinea versicolor. For an uncertain division, genus rhizopus, species arrhizus, the related disease is mucormycosis." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Fungal Pathogens</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Division</entry>
+<entry valign="top" align="left">Genus</entry>
+<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Related Diseases</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="11">Ascomycota</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Aspergillus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">flavus</emphasis></entry>
+<entry valign="top" align="left">Opportunistic aspergillosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Aspergillus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">fumigatus</emphasis></entry>
+<entry valign="top" align="left">Opportunistic aspergillosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Blastomyces</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">dermatitidis</emphasis></entry>
+<entry valign="top" align="left">Blastomycosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Candida</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">albicans</emphasis></entry>
+<entry valign="top" align="left">Thrush (candidiasis)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Coccidioides</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">immitis</emphasis></entry>
+<entry valign="top" align="left">Valley fever (coccidioidomycosis)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Epidermophyton</emphasis></entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Tinea corporis (ringworm), tinea cruris (jock itch), tinea pedis (althlete’s foot), tinea unguium (onychomycosis)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Histoplasma</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">capsulatum</emphasis></entry>
+<entry valign="top" align="left">Histoplasmosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Microsporum</emphasis></entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Tinea capitis (ringworm), tinea corpus (ringworm), other dermatophytoses</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Pneumocystis</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">jirovecii</emphasis></entry>
+<entry valign="top" align="left">Opportunistic pneumonia</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Sporothrix</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">schenckii</emphasis></entry>
+<entry valign="top" align="left">Sporotrichosis (rose-handler’s disease)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Trichophyton</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">mentagrophytes</emphasis> var. <emphasis effect="italics">interdigitale</emphasis></entry>
+<entry valign="top" align="left">Tinea barbae (barber’s itch), dermatophytoses</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Trichophyton</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">rubrum</emphasis></entry>
+<entry valign="top" align="left">Tinea corporis (ringworm), tinea cruris (jock itch), tinea pedis (althlete’s foot), tinea unguium (onychomycosis)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="1">Basidiomycota</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Cryptococcus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">neoformans</emphasis></entry>
+<entry valign="top" align="left">Opportunistic cryptococcosis, fungal meningitis, encephalitis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Malassezia</emphasis></entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Dandruff, tinea versicolor</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">uncertain</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Rhizopus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">arrhizus</emphasis></entry>
+<entry valign="top" align="left">Mucormycosis</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<section id="fs-id1167660209696">
+<title>Protozoan Pathogens</title>
+<para id="fs-id1167660209702">The relationships among the organisms (and thus their taxonomy) previously grouped under the name Protists are better understood than they were two or three decades ago, but this is still a work in progress. In 2005, the Eukarya were divided into six supergroups.<footnote id="fs-id1167662864043">S.M. Adl et al. “The New Higher Level Classification of Eukaryotes with Emphasis on the Taxonomy of Protists.” <emphasis effect="italics">Journal of Eukaryotic Microbiology</emphasis> 52 no. 5 (2005):399–451.</footnote> The latest high-level classification combined two of the previous supergroups to produce a system comprising five supergroups.<footnote id="fs-id1167662776652">S.M. Adl et al. “The Revised Classification of Eukaryotes.” <emphasis effect="italics">Journal of Eukaryotic Microbiology</emphasis> 59 no. 5 (2012):429–514.</footnote> This classification was developed for the Society of Protozoologists, but it is not the only suggested approach. One of the five supergroups includes the animals, fungi, and some smaller protist groups. Another contains green plants and three algal groups. The other three supergroups (listed in the three tables below) contain the other protists, many of them which cause disease. In addition, there is a large number of protist groups whose relationships are not understood. In the three supergroups represented here we have indicated the phyla to which the listed pathogens belong.</para>
+<table id="fs-id1167662776261" summary="A table titled “Supergroup Amoebozoa” gives information on phylum, genus, species, and related diseases. All entries are under the Phylum Amoebozoa. For the genus acanthamoeba, the related diseases are granulomatous amoebic encephalitis, acanthamoebic keratitis. For the genus entamoeba, species histolytica, the related disease is enterobiasis." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Supergroup Amoebozoa</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Phylum</entry>
+<entry valign="top" align="left">Genus</entry>
+<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Related Diseases</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="1">Amoebozoa</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Acanthamoeba</emphasis></entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Granulomatous amoebic encephalitis, acanthamoebic keratitis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Entamoeba</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">histolytica</emphasis></entry>
+<entry valign="top" align="left">Enterobiasis</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table id="fs-id1167662796324" summary="A table titled “Supergroup SAR (Stramenopiles, Alveolata, Rhizaria)”. All entries for phylum are Apicomplexa. For genus babesia, the related disease is babesiosis. For the genus cryptosporidium, species hominis, the related disease is cryptosporidiosis. For the genus cryptosporidium, species parvum, the related disease is cryptosporidiosis. For the genus cyclospora, species cayetanensis, the related disease is gastroenteritis. For genus plasmodium, species malariae, the related disease is “benign” or “quartan” (3-day recurrent fever) malaria. For the genus plasmodium, species ovale, the related disease is “tertian” (2-day recurrent fever) malaria. For the genus plasmodium, species vivax, the related disease is “benign” “tertian” (2-day recurrent fever) malaria. For the genus plasmodium, species knowlesi, the related disease is primate malaria capable of zoonosis, quotidian fever. For the genus toxoplasma, species gondii, the related disease is toxoplasmosis." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Supergroup SAR (Stramenopiles, Alveolata, Rhizaria)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Phylum</entry>
+<entry valign="top" align="left">Genus</entry>
+<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Related Diseases</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="9">Apicomplexa</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Babesia</emphasis></entry>
+<entry valign="top" align="left"/>
+<entry valign="top" align="left">Babesiosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Cryptosporidium</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">hominis</emphasis></entry>
+<entry valign="top" align="left">Cryptosporidiosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Cryptosporidium</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">parvum</emphasis></entry>
+<entry valign="top" align="left">Cryptosporidiosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Cyclospora</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">cayetanensis</emphasis></entry>
+<entry valign="top" align="left">Gastroenteritis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Plasmodium</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">falciparum</emphasis></entry>
+<entry valign="top" align="left">Malaria</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Plasmodium</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">malariae</emphasis></entry>
+<entry valign="top" align="left">“Benign” or “quartan” (3-day recurrent fever) malaria</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Plasmodium</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">ovale</emphasis></entry>
+<entry valign="top" align="left">“Tertian” (2-day recurrent fever) malaria</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Plasmodium</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">vivax</emphasis></entry>
+<entry valign="top" align="left">“Benign” “tertian” (2-day recurrent fever) malaria</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Plasmodium</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">knowlesi</emphasis></entry>
+<entry valign="top" align="left">Primate malaria capable of zoonosis, quotidian fever</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Toxoplasma</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">gondii</emphasis></entry>
+<entry valign="top" align="left">Toxoplasmosis</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table id="fs-id1167660304491" summary="A table titled “Supergroup Excavata” gives information on phylum, genus, species, related disease. For the phylum metamonada, genus giaradia, species lamblia, the related disease is giardiasis. For the phylum metamonada, genus trichomonas, species vaginalis, the related disease is trichomoniasis. For the phylum euglenozoa, genus leishmania, species braziliensis, the related disease is leishmaniasis. For the phylum euglenozoa, genus leishmania, species donovani, the related disease is leishmaniasis. For the phylum euglenozoa, genus leishmania, species tropica, the related disease is cutaneous leishmaniasis. For the phylum euglenozoa, genus trypanosome, species brucei, the related disease is African sleeping sickness (African trypanosomiasis). For the Euglenozoa, genus trypanosome, species cruzi, the related disease is chagas disease. For the phylum percolozoa, genus naegleria, species fowleri, the related disease is primary amoebic meningoencephalitis (naegleriasis)." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Supergroup Excavata</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Phylum</entry>
+<entry valign="top" align="left">Genus</entry>
+<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Related Diseases</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="1">Metamonada</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Giardia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">lamblia</emphasis></entry>
+<entry valign="top" align="left">Giardiasis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Trichomonas</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">vaginalis</emphasis></entry>
+<entry valign="top" align="left">Trichomoniasis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="4">Euglenozoa</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Leishmania</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">braziliensis</emphasis></entry>
+<entry valign="top" align="left">Leishmaniasis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Leishmania</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">donovani</emphasis></entry>
+<entry valign="top" align="left">Leishmaniasis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Leishmania</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">tropica</emphasis></entry>
+<entry valign="top" align="left">Cutaneous leishmaniasis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Trypanosoma</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">brucei</emphasis></entry>
+<entry valign="top" align="left">African sleeping sickness (African trypanosomiasis)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Trypanosoma</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">cruzi</emphasis></entry>
+<entry valign="top" align="left">Chagas disease</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Percolozoa</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Naegleria</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">fowleri</emphasis></entry>
+<entry valign="top" align="left">Primary amoebic meningoencephalitis (naegleriasis)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<section id="fs-id1167662857229">
+<title>Parasitic Helminths</title>
+<para id="fs-id1167662857235">The taxonomy of parasitic worms, all of which belong to the kingdom Animalia still contains many uncertainties. The pathogenic species are found in two phyla: the Nematoda, or roundworms, and the Platyhelminthes, or flat worms. The Nematoda is tentatively divided into two classes<footnote id="fs-id1167660126928">National Center for Biotechnology Information. “Taxonomy Browser: Nematoda.” http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=6231</footnote>, one of which, Chromadorea, probably contains unrelated groups. The parasitic flatworms are contained within three classes of flatworm, of which two are important to humans, the trematodes and the cestodes.</para>
+<table id="fs-id1167662863496" summary="A table titled “Phylum Nematoda” gives information on class, genus, species, and related diseases. The following entries are under the class chromadorea. For the genus ancylostoma, species caninum, the related disease is dog hookworm infection. For the genus ancylostoma, species duodenale, the related disease is old world hookworm infection. For the genus ascaris, species lumbricoides, the related disease is ascariasis. For the genus enterobius, species vermicularis, the related disease is enterobiasis (pin worm). For the genus loa, species loa, the related disease is loa loa filariasis (eye worm). For the genus necator, species americanus, the related disease is necatoriasis (new world hookworm infection). For the genus strongyloides, species stercoralis, the related disease is strongyloidiasis. For the class enoplea, genus trichinella, species spiralis, the related disease is trichinosis. For the class enoplea, genus trichuris, species trichiura, the related disease is trichuriasis (whipworm infection)." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Phylum Nematoda</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Class</entry>
+<entry valign="top" align="left">Genus</entry>
+<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Related Diseases</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="6">Chromadorea</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Ancylostoma</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">caninum</emphasis></entry>
+<entry valign="top" align="left">Dog hookworm infection</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Ancylostoma</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">duodenale</emphasis></entry>
+<entry valign="top" align="left">Old World hookworm infection</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Ascaris</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">lumbricoides</emphasis></entry>
+<entry valign="top" align="left">Ascariasis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Enterobius</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">vermicularis</emphasis></entry>
+<entry valign="top" align="left">Enterobiasis (pin worm)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Loa</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">loa</emphasis></entry>
+<entry valign="top" align="left">Loa loa filariasis (eye worm)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Necator</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">americanus</emphasis></entry>
+<entry valign="top" align="left">Necatoriasis (New World hookworm infection)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Strongyloides</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">stercoralis</emphasis></entry>
+<entry valign="top" align="left">Strongyloidiasis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="1">Enoplea</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Trichinella</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">spiralis</emphasis></entry>
+<entry valign="top" align="left">Trichinosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Trichuris</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">trichiura</emphasis></entry>
+<entry valign="top" align="left">Trichuriasis (whip worm infection)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table id="fs-id1167662776452" summary="A table titled “Phylum Platyhelminthes” gives information on class, genus, species, and related diseases. The following entries fall under the class Trematoda. For the genus clonorchis, species sinensis, the related disease is chinese liver fluke. For the genus fasciolopsis, species buski, the related disease is fasciolopsiasis. For the genus fasciola, species gigantica, the related disease is fascioliasis. For the genus fasciola hepatica, the related disease is fascioliasis. For the genus opisthorchis, species felineus, the related disease is opisthorchiasis. For the genus opisthorchis, species viverrini, the related disease is opisthorchiasis. For the genus schistosoma, species haematobium, the related disease is urinary schistosomiasis. For the genus schistosoma, species japonicum, the related disease is schistosomiasis. For the genus schistosoma, species mansoni, the related disease is intestinal schistosomiasis. All following entries fall under Cestoda class.For the genus diphyllobothrium, species latum, the related disease is diphyllobothriosis. For the genus echinococcus, species granulosus, the related disease is hydatid cysts (cystic echinococcosis). For the genus echinococcus, species multilocularis, the related disease is echinococcosis. For the genus taenia, species asiatica, the related disease is intestinal taeniasis. For the genus taenia, species saginata, the related disease is intestinal taeniasis. For the genus taenia, species solium, the related disease is intestinal taeniasis, cysticerocosis." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Phylum Platyhelminthes</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Class</entry>
+<entry valign="top" align="left">Genus</entry>
+<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Related Diseases</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="8">Trematoda</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Clonorchis</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">sinensis</emphasis></entry>
+<entry valign="top" align="left">Chinese liver fluke</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Fasciolopsis</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">buski</emphasis></entry>
+<entry valign="top" align="left">Fasciolopsiasis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Fasciola</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">gigantica</emphasis></entry>
+<entry valign="top" align="left">Fascioliasis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Fasciola</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">hepatica</emphasis></entry>
+<entry valign="top" align="left">Fascioliasis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Opisthorchis</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">felineus</emphasis></entry>
+<entry valign="top" align="left">Opisthorchiasis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Opisthorchis</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">viverrini</emphasis></entry>
+<entry valign="top" align="left">Opisthorchiasis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Schistosoma</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">haematobium</emphasis></entry>
+<entry valign="top" align="left">Urinary schistosomiasis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Schistosoma</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">japonicum</emphasis></entry>
+<entry valign="top" align="left">Schistosomiasis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Schistosoma</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">mansoni</emphasis></entry>
+<entry valign="top" align="left">Intestinal schistosomiasis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="5">Cestoda</entry>
+<entry valign="top" align="left"><emphasis effect="italics">Diphyllobothrium</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">latum</emphasis></entry>
+<entry valign="top" align="left">Diphyllobothriosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Echinococcus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">granulosus</emphasis></entry>
+<entry valign="top" align="left">Hydatid cysts (cystic echinococcosis)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Echinococcus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">multilocularis</emphasis></entry>
+<entry valign="top" align="left">Echinococcosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Taenia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">asiatica</emphasis></entry>
+<entry valign="top" align="left">Intestinal taeniasis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Taenia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">saginata</emphasis></entry>
+<entry valign="top" align="left">Intestinal taeniasis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><emphasis effect="italics">Taenia</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="italics">solium</emphasis></entry>
+<entry valign="top" align="left">Intestinal taeniasis, cysticercosis</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+ </content>
+</document>

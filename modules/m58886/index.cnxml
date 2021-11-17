@@ -1,0 +1,386 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>T Lymphocytes and Cellular Immunity</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58886</md:content-id>
+  <md:title>T Lymphocytes and Cellular Immunity</md:title>
+  <md:abstract/>
+  <md:uuid>6d87c16b-b7ff-4d92-bf84-efbed828d9d4</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167662578313" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167662915808">
+<item>Describe the process of T-cell maturation and thymic selection</item>
+<item>Explain the genetic events that lead to diversity of T-cell receptors</item>
+<item>Compare and contrast the various classes and subtypes of T cells in terms of activation and function</item>
+<item>Explain the mechanism by which superantigens effect unregulated T-cell activation</item>
+</list>
+</section>
+<para id="fs-id1167662440718">As explained in <link document="m58884">Overview of Specific Adaptive Immunity</link>, the antibodies involved in humoral immunity often bind pathogens and toxins before they can attach to and invade host cells. Thus, humoral immunity is primarily concerned with fighting pathogens in extracellular spaces. However, pathogens that have already gained entry to host cells are largely protected from the humoral antibody-mediated defenses. Cellular immunity, on the other hand, targets and eliminates <term class="no-emphasis">intracellular pathogens</term> through the actions of T lymphocytes, or T cells (<link target-id="OSC_Microbio_18_03_Tcell"/>). T cells also play a more central role in orchestrating the overall adaptive immune response (humoral as well as cellular) along with the cellular defenses of innate immunity.</para>
+<figure id="OSC_Microbio_18_03_Tcell">
+<media id="fs-id1167660150041" alt="A micrograph of a round cell approximately 7 micrometer in diameter. The cell has a studded surface.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_18_03_Tcell.jpg"/>
+</media>
+<caption>This scanning electron micrograph shows a T lymphocyte, which is responsible for the cell-mediated immune response. The spike-like membrane structures increase surface area, allowing for greater interaction with other cell types and their signals. (credit: modification of work by NCI)</caption>
+</figure>
+<section id="fs-id1167662617063">
+<title>T Cell Production and Maturation</title>
+<para id="fs-id1167662417831">T cells, like all other white blood cells involved in innate and adaptive immunity, are formed from multipotent <term class="no-emphasis">hematopoietic stem cells</term> (HSCs) in the bone marrow (see <link document="m58879" target-id="OSC_Microbio_17_05_Hematopo"/>). However, unlike the white blood cells of innate immunity, eventual T cells differentiate first into lymphoid stem cells that then become small, immature lymphocytes, sometimes called <term class="no-emphasis">lymphoblasts</term>. The first steps of differentiation occur in the red marrow of bones (<link target-id="OSC_Microbio_18_01_marrow"/>), after which immature T lymphocytes enter the bloodstream and travel to the <term class="no-emphasis">thymus</term> for the final steps of maturation (<link target-id="OSC_Microbio_18_01_thymus"/>). Once in the thymus, the immature T lymphocytes are referred to as <term class="no-emphasis">thymocytes</term>.</para>
+<para id="fs-id1167662705980">The maturation of thymocytes within the thymus can be divided into three critical steps of positive and negative selection, collectively referred to as <term>thymic selection</term>. The first step of thymic selection occurs in the cortex of the thymus and involves the development of a functional <term class="no-emphasis">T-cell receptor (TCR)</term> that is required for activation by APCs. Thymocytes with defective TCRs are removed by negative selection through the induction of <term>apoptosis</term> (programmed controlled cell death). The second step of thymic selection also occurs in the cortex and involves the positive selection of thymocytes that will interact appropriately with MHC molecules. Thymocytes that can interact appropriately with MHC molecules receive a positive stimulation that moves them further through the process of maturation, whereas thymocytes that do not interact appropriately are not stimulated and are eliminated by <term class="no-emphasis">apoptosis</term>. The third and final step of thymic selection occurs in both the cortex and medulla and involves <term class="no-emphasis">negative selection</term> to remove <term class="no-emphasis">self-reacting thymocytes</term>, those that react to self-antigens, by apoptosis. This final step is sometimes referred to as <term>central tolerance</term> because it prevents self-reacting T cells from reaching the bloodstream and potentially causing <term class="no-emphasis">autoimmune disease</term>, which occurs when the immune system attacks healthy “self” cells.</para>
+<para id="fs-id1167662615231">Despite central tolerance, some self-reactive T cells generally escape the thymus and enter the peripheral bloodstream. Therefore, a second line of defense called <term>peripheral tolerance</term> is needed to protect against autoimmune disease. Peripheral tolerance involves mechanisms of <term>anergy</term> and inhibition of self-reactive T cells by <term>regulatory T cells</term>. Anergy refers to a state of nonresponsiveness to antigen stimulation. In the case of self-reactive T cells that escape the thymus, lack of an essential <term class="no-emphasis">co-stimulatory signal</term> required for activation causes anergy and prevents autoimmune activation. Regulatory T cells participate in peripheral tolerance by inhibiting the activation and function of self-reactive T cells and by secreting anti-inflammatory cytokines.</para>
+<para id="fs-id1167658164388">It is not completely understood what events specifically direct maturation of thymocytes into regulatory T cells. Current theories suggest the critical events may occur during the third step of thymic selection, when most self-reactive T cells are eliminated. Regulatory T cells may receive a unique signal that is below the threshold required to target them for negative selection and apoptosis. Consequently, these cells continue to mature and then exit the thymus, armed to inhibit the activation of self-reactive T cells.</para>
+<para id="fs-id1167660340483">It has been estimated that the three steps of thymic selection eliminate 98% of thymocytes. The remaining 2% that exit the thymus migrate through the bloodstream and <term class="no-emphasis">lymphatic system</term> to sites of secondary lymphoid organs/tissues, such as the <term class="no-emphasis">lymph nodes</term>, <term class="no-emphasis">spleen</term>, and <term class="no-emphasis">tonsils</term> (<link target-id="OSC_Microbio_18_01_thymus"/>), where they await activation through the presentation of specific antigens by APCs. Until they are activated, they are known as <term>mature naïve T cells</term>.</para>
+<figure id="OSC_Microbio_18_01_marrow">
+<media id="fs-id1167660577099" alt="a) A drawing of a femur; a long bone with a round head. B) A cross section of the head of the femur.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_18_01_marrow.jpg"/>
+</media>
+<caption>(a) <term class="no-emphasis">Red bone marrow</term> can be found in the head of the femur (thighbone) and is also present in the flat bones of the body, such as the ilium and the scapula. (b) Red <term class="no-emphasis">bone marrow</term> is the site of production and differentiation of many formed elements of blood, including erythrocytes, leukocytes, and platelets. The yellow bone marrow is populated primarily with adipose cells.</caption>
+</figure>
+<figure id="OSC_Microbio_18_01_thymus">
+<media id="fs-id1167662427585" alt="A drawing of the thymus (a structure sitting on the surface of the heart); the spleen (a kidney shaped structure in the upper left abdomen; the right lymphatic duct entering vein (a tube in the neck); lymph nodes (enlarged regions of lymph ducts); and a tonsil in the cheek. A callout shows a micrograph of the thymus which has a surface layer labeled fibrous capsule, a central tissue labeled medulla, out tissue labeled cortex, and lighter branches in the cortex labeled trabeculae.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_18_01_thymus.jpg"/>
+</media>
+<caption>The thymus is a bi-lobed, H-shaped glandular organ that is located just above the heart. It is surrounded by a fibrous capsule of connective tissue. The darkly staining cortex and the lighter staining medulla of individual lobules are clearly visible in the light micrograph of the thymus of a newborn (top right, LM × 100). (credit micrograph: modification of micrograph provided by the Regents of University of Michigan Medical School © 2012)</caption>
+</figure>
+<note id="fs-id1167660178960" class="microbiology check-your-understanding">
+<list id="fs-id1167662404130" list-type="bulleted" bullet-style="bullet">
+<item>What anatomical sites are involved in T cell production and maturation?</item>
+<item>What are the three steps involved in thymic selection?</item>
+<item>Why are central tolerance and peripheral tolerance important? What do they prevent?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167662499921">
+<title>Classes of T Cells</title>
+<para id="fs-id1167662482791">T cells can be categorized into three distinct classes: <term class="no-emphasis">helper T cells</term>, regulatory T cells, and <term class="no-emphasis">cytotoxic T cells</term>. These classes are differentiated based on their expression of certain surface molecules, their mode of activation, and their functional roles in adaptive immunity (<link target-id="fs-id1167662906208"/>).</para>
+<para id="fs-id1167662375370">All T cells produce <term>cluster of differentiation (CD) molecules</term>, cell surface glycoproteins that can be used to identify and distinguish between the various types of white blood cells. Although T cells can produce a variety of CD molecules, <term class="no-emphasis">CD4</term> and <term class="no-emphasis">CD8</term> are the two most important used for differentiation of the classes. Helper T cells and regulatory T cells are characterized by the expression of CD4 on their surface, whereas cytotoxic T cells are characterized by the expression of CD8.</para>
+<para id="fs-id1167660262018">Classes of T cells can also be distinguished by the specific MHC molecules and APCs with which they interact for activation. Helper T cells and regulatory T cells can only be activated by APCs presenting antigens associated with <term class="no-emphasis">MHC II</term>. In contrast, cytotoxic T cells recognize antigens presented in association with <term class="no-emphasis">MHC I</term>, either by APCs or by nucleated cells infected with an intracellular pathogen.</para>
+<para id="fs-id1167662732142">The different classes of T cells also play different functional roles in the immune system. <term>Helper T cells</term> serve as the central orchestrators that help activate and direct functions of humoral and cellular immunity. In addition, helper T cells enhance the pathogen-killing functions of <term class="no-emphasis">macrophages</term> and <term class="no-emphasis">NK cells</term> of innate immunity. In contrast, the primary role of regulatory T cells is to prevent undesirable and potentially damaging immune responses. Their role in <term class="no-emphasis">peripheral tolerance</term>, for example, protects against <term class="no-emphasis">autoimmune disorders</term>, as discussed earlier. Finally, <term>cytotoxic T cells</term> are the primary effector cells for cellular immunity. They recognize and target cells that have been infected by <term class="no-emphasis">intracellular pathogens</term>, destroying infected cells along with the pathogens inside.</para>
+<table id="fs-id1167662906208" summary="Table titled: Classes of T Cells. Columns: Class; Surface CD Molecules; Activation; Functions. Helper T cells; CD4; APCs presenting antigens associated with MHC II; Orchestrate humoral and cellular immunity, Involved in the activation of macrophages and NK cells. Regulatory T cells; CD4; APCs presenting antigens associated with MHC II; Involved in peripheral tolerance and prevention of autoimmune responses. Cytotoxic T cells; CD8; APCs or infected nucleated cells presenting antigens associated with MHC I; Destroy cells infected with intracellular pathogens." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Classes of T Cells</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Class</entry>
+<entry valign="top" align="center">Surface CD Molecules</entry>
+<entry valign="top" align="center">Activation</entry>
+<entry valign="top" align="center">Functions</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="1">Helper T cells</entry>
+<entry valign="top" align="left" morerows="1">CD4</entry>
+<entry valign="top" align="left" morerows="1">APCs presenting antigens associated with MHC II</entry>
+<entry valign="top" align="left">Orchestrate humoral and cellular immunity</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Involved in the activation of macrophages and NK cells</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Regulatory T cells</entry>
+<entry valign="top" align="left">CD4</entry>
+<entry valign="top" align="left">APCs presenting antigens associated with MHC II</entry>
+<entry valign="top" align="left">Involved in peripheral tolerance and prevention of autoimmune responses</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Cytotoxic T cells</entry>
+<entry valign="top" align="left">CD8</entry>
+<entry valign="top" align="left">APCs or infected nucleated cells presenting antigens associated with MHC I</entry>
+<entry valign="top" align="left">Destroy cells infected with intracellular pathogens</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1167660378091" class="microbiology check-your-understanding">
+<list id="fs-id1167660290744" list-type="bulleted" bullet-style="bullet">
+<item>What are the unique functions of the three classes of T cells?</item>
+<item>Which T cells can be activated by antigens presented by cells other than APCs?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167662451007">
+<title>T-Cell Receptors</title>
+<para id="fs-id1167662393494">For both helper T cells and cytotoxic T cells, activation is a complex process that requires the interactions of multiple molecules and exposure to cytokines. The <term>T-cell receptor (TCR)</term> is involved in the first step of pathogen epitope recognition during the activation process.</para>
+<para id="fs-id1167662904880">The TCR comes from the same receptor family as the antibodies IgD and IgM, the antigen receptors on the B cell membrane surface, and thus shares common structural elements. Similar to antibodies, the TCR has a <term class="no-emphasis">variable region</term> and a <term class="no-emphasis">constant region</term>, and the variable region provides the antigen-binding site (<link target-id="OSC_Microbio_18_03_TCR"/>). However, the structure of TCR is smaller and less complex than the immunoglobulin molecules (<link document="m58884" target-id="OSC_Microbio_18_04_ABstruct"/>). Whereas immunoglobulins have four peptide chains and Y-shaped structures, the TCR consists of just two peptide chains (α and β chains), both of which span the cytoplasmic membrane of the T cell.</para>
+<para id="fs-id1167662418771">TCRs are epitope-specific, and it has been estimated that 25 million T cells with unique epitope-binding TCRs are required to protect an individual against a wide range of microbial pathogens. Because the human genome only contains about 25,000 genes, we know that each specific TCR cannot be encoded by its own set of genes. This raises the question of how such a vast population of T cells with millions of specific TCRs can be achieved. The answer is a process called <term class="no-emphasis">genetic rearrangement</term>, which occurs in the thymus during the first step of <term class="no-emphasis">thymic selection</term>.</para>
+<para id="fs-id1167660267713">The genes that code for the variable regions of the TCR are divided into distinct gene segments called <term class="no-emphasis">variable (V), diversity (D), and joining (J) segments</term>. The genes segments associated with the α chain of the TCR consist 70 or more different V<sub>α</sub> segments and 61 different J<sub>α</sub> segments. The gene segments associated with the β chain of the TCR consist of 52 different V<sub>β</sub> segments, two different D<sub>β</sub> segments, and 13 different J<sub>β</sub> segments. During the development of the functional TCR in the thymus, genetic rearrangement in a T cell brings together one V<sub>α</sub> segment and one J<sub>α</sub> segment to code for the variable region of the α chain. Similarly, genetic rearrangement brings one of the V<sub>β</sub> segments together with one of the D<sub>β</sub> segments and one of thetJ<sub>β</sub> segments to code for the variable region of the β chain. All the possible combinations of rearrangements between different segments of V, D, and J provide the genetic diversity required to produce millions of TCRs with unique epitope-specific variable regions.</para>
+<figure id="OSC_Microbio_18_03_TCR">
+<media id="fs-id1167662704380" alt="Drawing of a two bars spanning the T cell plasma membrane. On one side of the membrane is the intracellular domain. The transmembrane region spans the membrane. The constant region is outside the membrane; a disulfide bond holds these two bars together in the constant region. The variable region is at the top and contains the antigen binding sites.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_18_03_TCR.jpg"/>
+</media>
+<caption>A T-cell receptor spans the cytoplasmic membrane and projects variable binding regions into the extracellular space to bind processed antigens associated with MHC I or MHC II molecules.</caption>
+</figure>
+<note id="fs-id1167662505622" class="microbiology check-your-understanding">
+<list id="fs-id1167662600723" list-type="bulleted" bullet-style="bullet">
+<item>What are the similarities and differences between TCRs and immunoglobulins?</item>
+<item>What process is used to provide millions of unique TCR binding sites?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167662872804">
+<title>Activation and Differentiation of Helper T Cells</title>
+<para id="fs-id1167662878545">Helper T cells can only be activated by <term class="no-emphasis">APCs</term> presenting processed <term class="no-emphasis">foreign epitopes</term> in association with <term class="no-emphasis">MHC II</term>. The first step in the activation process is <term class="no-emphasis">TCR</term> recognition of the specific foreign epitope presented within the MHC II <term class="no-emphasis">antigen-binding cleft</term>. The second step involves the interaction of <term class="no-emphasis">CD4</term> on the helper T cell with a region of the MHC II molecule separate from the antigen-binding cleft. This second interaction anchors the MHC II-TCR complex and ensures that the helper T cell is recognizing both the foreign (“nonself”) epitope and “self” antigen of the APC; both recognitions are required for activation of the cell. In the third step, the APC and T cell secrete <term class="no-emphasis">cytokines</term> that activate the helper T cell. The activated helper T cell then proliferates, dividing by mitosis to produce clonal naïve helper T cells that differentiate into subtypes with different functions (<link target-id="OSC_Microbio_18_03_Tcellact"/>).</para>
+<figure id="OSC_Microbio_18_03_Tcellact">
+<media id="fs-id1167660273867" alt="A native helper T cells binds to an antigen extracted from a pathogen sitting on the MCH Class II protein of an antigen presenting cell (dendritic cell). The portion of the helper T cell that binds is the T cell receptor and is stabilized by CD4. After this binding the helper T cell is activated and can become TH1 cell; TH2 cell or memory helper T cell.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_18_03_Tcellact.jpg"/>
+</media>
+<caption>This illustration depicts the activation of a naïve (unactivated) helper T cell by an antigen-presenting cell and the subsequent proliferation and differentiation of the activated T cell into different subtypes.</caption>
+</figure>
+<para id="fs-id1167662750741">Activated helper T cells can differentiate into one of four distinct subtypes, summarized in <link target-id="fs-id1167658047912"/>. The differentiation process is directed by APC-secreted <term class="no-emphasis">cytokines</term>. Depending on which APC-secreted cytokines interact with an activated helper T cell, the cell may differentiate into a T helper 1 (T<sub>H</sub>1) cell, a T helper 2 (T<sub>H</sub>2) cell, or a memory helper T cell. The two types of helper T cells are relatively short-lived <term>effector cells</term>, meaning that they perform various functions of the immediate immune response. In contrast, <term>memory helper T cells</term> are relatively long lived; they are programmed to “remember” a specific antigen or epitope in order to mount a rapid, strong, <term class="no-emphasis">secondary response</term> to subsequent exposures.</para>
+<para id="fs-id1167660343920"><term>T<sub>H</sub>1 cells</term> secrete their own cytokines that are involved in stimulating and orchestrating other cells involved in adaptive and innate immunity. For example, they stimulate cytotoxic T cells, enhancing their killing of infected cells and promoting differentiation into <term class="no-emphasis">memory cytotoxic T cells</term>. T<sub>H</sub>1 cells also stimulate <term class="no-emphasis">macrophages</term> and <term class="no-emphasis">neutrophils</term> to become more effective in their killing of intracellular bacteria. They can also stimulate <term class="no-emphasis">NK cells</term> to become more effective at killing target cells.</para>
+<para id="fs-id1167660318784"><term>T<sub>H</sub>2 cells</term> play an important role in orchestrating the humoral immune response through their secretion of <term class="no-emphasis">cytokines</term> that activate <term class="no-emphasis">B cells</term> and direct B cell differentiation and <term class="no-emphasis">antibody production</term>. Various cytokines produced by T<sub>H</sub>2 cells orchestrate <term class="no-emphasis">antibody class switching</term>, which allows B cells to switch between the production of IgM, IgG, IgA, and IgE as needed to carry out specific antibody functions and to provide pathogen-specific humoral immune responses.</para>
+<para id="fs-id1167662505317">A third subtype of helper T cells called <term>T<sub>H</sub>17 cells</term> was discovered through observations that immunity to some infections is not associated with T<sub>H</sub>1 or T<sub>H</sub>2 cells. T<sub>H</sub>17 cells and the cytokines they produce appear to be specifically responsible for the body’s defense against chronic mucocutaneous infections. Patients who lack sufficient T<sub>H</sub>17 cells in the mucosa (e.g., HIV patients) may be more susceptible to bacteremia and gastrointestinal infections.<footnote id="fs-id1167662616369">Blaschitz C., Raffatellu M. “Th17 cytokines and the gut mucosal barrier.” J Clin Immunol. 2010 Mar; 30(2):196-203. doi: 10.1007/s10875-010-9368-7.</footnote></para>
+<table id="fs-id1167658047912" summary="Table titled: Subtypes of Helper T Cells. Columns: Subtype and Functions. TH1 cells: Stimulate cytotoxic T cells and produce memory cytotoxic T cells; Stimulate macrophages and neutrophils (PMNs) for more effective intracellular killing of pathogens; Stimulate NK cells to kill more effectively. TH2 cells: Stimulate B cell activation and differentiation into plasma cells and memory B cells; Direct antibody class switching in B cells. TH17 cells: Stimulate immunity to specific infections such as chronic mucocutaneous infections. Memory helper T cells: “Remember” a specific pathogen and mount a strong, rapid secondary response upon re-exposure." class="span-all">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Subtypes of Helper T Cells</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Subtype</entry>
+<entry valign="top" align="center">Functions</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="2">T<sub>H</sub>1 cells</entry>
+<entry valign="top" align="left">Stimulate cytotoxic T cells and produce memory cytotoxic T cells</entry></row>
+<row valign="top">
+<entry valign="top" align="left">Stimulate macrophages and neutrophils (PMNs) for more effective intracellular killing of pathogens</entry></row>
+<row valign="top">
+<entry valign="top" align="left">Stimulate NK cells to kill more effectively</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left" morerows="1">T<sub>H</sub>2 cells</entry>
+<entry valign="top" align="left">Stimulate B cell activation and differentiation into plasma cells and memory B cells</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Direct antibody class switching in B cells</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">T<sub>H</sub>17 cells</entry>
+<entry valign="top" align="left">Stimulate immunity to specific infections such as chronic mucocutaneous infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Memory helper T cells</entry>
+<entry valign="top" align="left">“Remember” a specific pathogen and mount a strong, rapid secondary response upon re-exposure</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<section id="fs-id1167662714209">
+<title>Activation and Differentiation of Cytotoxic T Cells</title>
+<para id="fs-id1167657961826">Cytotoxic T cells (also referred to as <term class="no-emphasis">cytotoxic T lymphocytes</term>, or CTLs) are activated by APCs in a three-step process similar to that of helper T cells. The key difference is that the <term class="no-emphasis">activation of cytotoxic T cells</term> involves recognition of an antigen presented with MHC I (as opposed to MHC II) and interaction of CD8 (as opposed to CD4) with the receptor complex. After the successful co-recognition of foreign epitope and self-antigen, the production of <term class="no-emphasis">cytokines</term> by the APC and the cytotoxic T cell activate <term class="no-emphasis">clonal proliferation</term> and differentiation. Activated cytotoxic T cells can differentiate into effector cytotoxic T cells that target pathogens for destruction or <term class="no-emphasis">memory cells</term> that are ready to respond to subsequent exposures.</para>
+<para id="fs-id1167662511460">As noted, proliferation and differentiation of cytotoxic T cells is also stimulated by cytokines secreted from T<sub>H</sub>1 cells activated by the same foreign epitope. The <term class="no-emphasis">co-stimulation</term> that comes from these T<sub>H</sub>1 cells is provided by secreted cytokines. Although it is possible for activation of cytotoxic T cells to occur without stimulation from T<sub>H</sub>1 cells, the activation is not as effective or long-lasting.</para>
+<para id="fs-id1167662389460">Once activated, cytotoxic T cells serve as the effector cells of cellular immunity, recognizing and kill cells infected with <term class="no-emphasis">intracellular pathogens</term> through a mechanism very similar to that of <term class="no-emphasis">NK cells</term>. However, whereas NK cells recognize nonspecific signals of cell stress or abnormality, cytotoxic T cells recognize infected cells through antigen presentation of pathogen-specific epitopes associated with <term class="no-emphasis">MHC I</term>. Once an infected cell is recognized, the TCR of the cytotoxic T cell binds to the epitope and releases <term class="no-emphasis">perforin</term> and <term class="no-emphasis">granzymes</term> that destroy the infected cell (<link target-id="OSC_Microbio_18_03_Tprolif"/>). Perforin is a protein that creates pores in the target cell, and <term>granzymes</term> are proteases that enter the pores and induce <term class="no-emphasis">apoptosis</term>. This mechanism of <term class="no-emphasis">programmed cell death</term> is a controlled and efficient means of destroying and removing infected cells without releasing the pathogens inside to infect neighboring cells, as might occur if the infected cells were simply lysed.</para>
+<figure id="OSC_Microbio_18_03_Tprolif">
+<media id="fs-id1167662461870" alt="AA naïve Cytotoxid T cell has a T cell receptor and CD8. The T cell receptor binds to antigen extracted from a pathogen on the MHC class I of an infected pathogen. The CD8 stabilizes this reaction. This causes the activated CTL to release granzymes and perforins which result in the contolled destruction of the infected cell through apoptosis.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_18_03_Tprolif.jpg"/>
+</media>
+<caption>This figure illustrates the activation of a naïve (unactivated) cytotoxic T cell (CTL) by an antigen-presenting MHC I molecule on an infected body cell. Once activated, the CTL releases perforin and granzymes that invade the infected cell and induce controlled cell death, or apoptosis.</caption>
+</figure>
+<note id="fs-id1167662551831" class="microbiology link-to-learning">
+
+<para id="fs-id1167662859026">In this <link url="https://www.openstax.org/l/22cytoTcellapop">video</link>, you can see a cytotoxic T cell inducing apoptosis in a target cell.</para>
+</note>
+<note id="fs-id1167662477879" class="microbiology check-your-understanding">
+<list id="fs-id1167662362983" list-type="bulleted" bullet-style="bullet">
+<item>Compare and contrast the activation of helper T cells and cytotoxic T cells.</item>
+<item>What are the different functions of helper T cell subtypes?</item>
+<item>What is the mechanism of CTL-mediated destruction of infected cells?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167662504926">
+<title>Superantigens and Unregulated Activation of T Cells</title>
+<para id="fs-id1167660216351">When T cell activation is controlled and regulated, the result is a protective response that is effective in combating infections. However, if T cell activation is unregulated and excessive, the result can be life-threatening. Certain bacterial and viral pathogens produce toxins known as <term class="no-emphasis">superantigens</term> (see <link document="m58868">Virulence Factors of Bacterial and Viral Pathogens</link>) that can trigger such an unregulated response. Known bacterial superantigens include <term class="no-emphasis">toxic shock syndrome toxin (TSST)</term>, <term class="no-emphasis">staphylococcal enterotoxins</term>, <term class="no-emphasis">streptococcal pyrogenic toxins</term>, <term class="no-emphasis">streptococcal superantigen</term>, and the <term class="no-emphasis">streptococcal mitogenic exotoxin</term>. Viruses known to produce superantigens include <term class="no-emphasis">Epstein-Barr virus</term> (human herpesvirus 4), <term class="no-emphasis">cytomegalovirus</term> (human herpesvirus 5), and others.</para>
+<para id="fs-id1167662506529">The mechanism of T cell activation by superantigens involves their simultaneous binding to <term class="no-emphasis">MHC II</term> molecules of APCs and the variable region of the <term class="no-emphasis">TCR</term> β chain. This binding occurs outside of the antigen-binding cleft of MHC II, so the superantigen will bridge together and activate MHC II and TCR without specific foreign epitope recognition (<link target-id="OSC_Microbio_18_03_SuperAntig"/>). The result is an excessive, uncontrolled release of cytokines, often called a <term>cytokine storm</term>, which stimulates an excessive inflammatory response. This can lead to a dangerous decrease in blood pressure, shock, multi-organ failure, and potentially, death.</para>
+<figure id="OSC_Microbio_18_03_SuperAntig">
+<media id="fs-id1167662697383" alt="a) the T cell receptor on the T cell recognizes the epitope on the MHC II on the macrophage and binds. B) The T cell receptor binds even though it does not recognize the epitope because the superantigen is bound. Many dots labeled cytokines are present.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_18_03_SuperAntig.jpg"/>
+</media>
+<caption>(a) The macrophage in this figure is presenting a foreign epitope that does not match the TCR of the T cell. Because the T cell does not recognize the epitope, it is not activated. (b) The macrophage in this figure is presenting a superantigen that is not recognized by the TCR of the T cell, yet the superantigen still is able to bridge and bind the MHC II and TCR molecules. This nonspecific, uncontrolled activation of the T cell results in an excessive release of cytokines that activate other T cells and cause excessive inflammation. (credit: modification of work by “Microbiotic”/YouTube)</caption>
+</figure>
+<note id="fs-id1167662423986" class="microbiology check-your-understanding">
+<list id="fs-id1167660269288" list-type="bulleted" bullet-style="bullet">
+<item>What are examples of superantigens?</item>
+<item>How does a superantigen activate a helper T cell?</item>
+<item>What effect does a superantigen have on a T cell?</item>
+</list>
+</note>
+<note id="fs-id1167662556095" class="microbiology case-in-point">
+<title>Superantigens</title>
+<para id="fs-id1167662644579">Melissa, an otherwise healthy 22-year-old woman, is brought to the emergency room by her concerned boyfriend. She complains of a sudden onset of high fever, vomiting, diarrhea, and muscle aches. In her initial interview, she tells the attending physician that she is on hormonal birth control and also is two days into the menstruation portion of her cycle. She is on no other medications and is not abusing any drugs or alcohol. She is not a smoker. She is not diabetic and does not currently have an infection of any kind to her knowledge.</para>
+<para id="fs-id1167660132476">While waiting in the emergency room, Melissa’s blood pressure begins to drop dramatically and her mental state deteriorates to general confusion. The physician believes she is likely suffering from <term class="no-emphasis">toxic shock syndrome (TSS)</term>. TSS is caused by the toxin TSST-1, a superantigen associated with <emphasis effect="italics">Staphylococcus aureus</emphasis>, and improper tampon use is a common cause of infections leading to TSS. The superantigen inappropriately stimulates widespread T cell activation and excessive cytokine release, resulting in a massive and systemic inflammatory response that can be fatal.</para>
+<para id="fs-id1167662870972">Vaginal or cervical swabs may be taken to confirm the presence of the microbe, but these tests are not critical to perform based on Melissa’s symptoms and medical history. The physician prescribes rehydration, supportive therapy, and antibiotics to stem the bacterial infection. She also prescribes drugs to increase Melissa’s blood pressure. Melissa spends three days in the hospital undergoing treatment; in addition, her kidney function is monitored because of the high risk of kidney failure associated with TSS. After 72 hours, Melissa is well enough to be discharged to continue her recovery at home.</para>
+<list id="fs-id1167662914801" list-type="bulleted" bullet-style="bullet">
+<item>In what way would antibiotic therapy help to combat a superantigen?</item>
+</list>
+</note>
+<note id="fs-id1167662393469" class="microbiology clinical-focus">
+<title>Part 2</title>
+<para id="fs-id1167662499430">Olivia’s swollen lymph nodes, abdomen, and spleen suggest a strong immune response to a systemic infection in progress. In addition, little Olivia is reluctant to turn her head and appears to be experiencing severe neck pain. The physician orders a complete blood count, blood culture, and lumbar puncture. The cerebrospinal fluid (CSF) obtained appears cloudy and is further evaluated by Gram stain assessment and culturing for potential bacterial pathogens. The complete blood count indicates elevated numbers of white blood cells in Olivia’s bloodstream. The white blood cell increases are recorded at 28.5 K/µL (normal range: 6.0–17.5 K/µL). The neutrophil percentage was recorded as 60% (normal range: 23–45%). Glucose levels in the CSF were registered at 30 mg/100 mL (normal range: 50–80 mg/100 mL). The WBC count in the CSF was 1,163/mm<sup>3</sup> (normal range: 5–20/mm<sup>3</sup>).</para>
+<list id="fs-id1167660576374" list-type="bulleted" bullet-style="bullet">
+<item>Based on these results, do you have a preliminary diagnosis?</item>
+<item>What is a recommended treatment based on this preliminary diagnosis?</item>
+</list>
+<para id="fs-id1167662401997"><emphasis effect="italics">Jump to the <link document="m58888" target-id="fs-id1167660620086">next</link> Clinical Focus box. Go back to the <link document="m58884" target-id="fs-id1167662738250">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+<section id="fs-id1167660190044" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167660327304" list-type="bulleted" bullet-style="bullet">
+<item>Immature T lymphocytes are produced in the red bone marrow and travel to the thymus for maturation.</item>
+<item><emphasis effect="bold">Thymic selection</emphasis> is a three-step process of negative and positive selection that determines which T cells will mature and exit the thymus into the peripheral bloodstream.</item>
+<item><emphasis effect="bold">Central tolerance</emphasis> involves negative selection of self-reactive T cells in the thymus, and <emphasis effect="bold">peripheral tolerance</emphasis> involves <emphasis effect="bold">anergy</emphasis> and <emphasis effect="bold">regulatory T cells</emphasis> that prevent self-reactive immune responses and autoimmunity.</item>
+<item>The <emphasis effect="bold">TCR</emphasis> is similar in structure to immunoglobulins, but less complex. Millions of unique epitope-binding TCRs are encoded through a process of genetic rearrangement of V, D, and J gene segments.</item>
+<item>T cells can be divided into three classes—<emphasis effect="bold">helper T cells, cytotoxic T cells,</emphasis> and <emphasis effect="bold">regulatory T cells—</emphasis>based on their expression of CD4 or CD8, the MHC molecules with which they interact for activation, and their respective functions.</item>
+<item>Activated helper T cells differentiate into <emphasis effect="bold">T<sub>H</sub>1, T<sub>H</sub>2, T<sub>H</sub>17</emphasis>, or <emphasis effect="bold">memory T cell subtypes</emphasis>. Differentiation is directed by the specific cytokines to which they are exposed. T<sub>H</sub>1, T<sub>H</sub>2, and T<sub>H</sub>17 perform different functions related to stimulation of adaptive and innate immune defenses. Memory T cells are long-lived cells that can respond quickly to secondary exposures.</item>
+<item>Once activated, cytotoxic T cells target and kill cells infected with intracellular pathogens. Killing requires recognition of specific pathogen epitopes presented on the cell surface using MHC I molecules. Killing is mediated by <emphasis effect="bold">perforin</emphasis> and <emphasis effect="bold">granzymes</emphasis> that induce apoptosis.</item>
+<item><emphasis effect="bold">Superantigens</emphasis> are bacterial or viral proteins that cause a nonspecific activation of helper T cells, leading to an excessive release of cytokines (<emphasis effect="bold">cytokine storm</emphasis>) and a systemic, potentially fatal inflammatory response.</item>
+</list>
+</section>
+<section id="fs-id1167662704439" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167660389042">
+<problem id="fs-id1167662419400">
+<para id="fs-id1167656782034">What is a superantigen?</para>
+<list id="fs-id1167662837007" list-type="enumerated" number-style="lower-alpha">
+<item>a protein that is highly efficient at stimulating a single type of productive and specific T cell response</item>
+<item>a protein produced by antigen-presenting cells to enhance their presentation capabilities</item>
+<item>a protein produced by T cells as a way of increasing the antigen activation they receive from antigen-presenting cells</item>
+<item>a protein that activates T cells in a nonspecific and uncontrolled manner</item>
+</list>
+</problem>
+<solution id="fs-id1167662780134">
+<para id="fs-id1167660231137">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662849721">
+<problem id="fs-id1167658386147">
+<para id="fs-id1167662797372">To what does the TCR of a helper T cell bind?</para>
+<list id="fs-id1167660249573" list-type="enumerated" number-style="lower-alpha">
+<item>antigens presented with MHC I molecules</item>
+<item>antigens presented with MHC II molecules</item>
+<item>free antigen in a soluble form</item>
+<item>haptens only</item>
+</list>
+</problem>
+<solution id="fs-id1167662859782">
+<para id="fs-id1167662559551">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662684321">
+<problem id="fs-id1167662463917">
+<para id="fs-id1167662636962">Cytotoxic T cells will bind with their TCR to which of the following?</para>
+<list id="fs-id1167662889090" list-type="enumerated" number-style="lower-alpha">
+<item>antigens presented with MHC I molecules</item>
+<item>antigens presented with MHC II molecules</item>
+<item>free antigen in a soluble form</item>
+<item>haptens only</item>
+</list>
+</problem>
+<solution id="fs-id1167662862333">
+<para id="fs-id1167662548874">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660257688">
+<problem id="fs-id1167662779479">
+<para id="fs-id1167662567099">A ________ molecule is a glycoprotein used to identify and distinguish white blood cells.</para>
+<list id="fs-id1167662632319" list-type="enumerated" number-style="lower-alpha">
+<item>T-cell receptor</item>
+<item>B-cell receptor</item>
+<item>MHC I</item>
+<item>cluster of differentiation</item>
+</list>
+</problem>
+<solution id="fs-id1167658178445">
+<para id="fs-id1167662795144">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662795181">
+<problem id="fs-id1167662488454">
+<para id="fs-id1167662854702">Name the T helper cell subset involved in antibody production.</para>
+<list id="fs-id1167662614954" list-type="enumerated" number-style="lower-alpha">
+<item>T<sub>H</sub>1</item>
+<item>T<sub>H</sub>2</item>
+<item>T<sub>H</sub>17</item>
+<item>CTL</item>
+</list>
+</problem>
+<solution id="fs-id1167660256507">
+<para id="fs-id1167658070820">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167660155131" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167660320036">
+<problem id="fs-id1167660596758">
+<para id="fs-id1167660319662">A ________ T cell will become activated by presentation of foreign antigen associated with an MHC I molecule.</para>
+</problem>
+<solution id="fs-id1167660583547">
+<para id="fs-id1167662732057">cytotoxic</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662484621">
+<problem id="fs-id1167662872159">
+<para id="fs-id1167660258076">A ________ T cell will become activated by presentation of foreign antigen in association with an MHC II molecule.</para>
+</problem>
+<solution id="fs-id1167662674539">
+<para id="fs-id1167657962752">helper</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660341840">
+<problem id="fs-id1167660270119">
+<para id="fs-id1167660308178">A TCR is a protein dimer embedded in the plasma membrane of a T cell. The ________ region of each of the two protein chains is what gives it the capability to bind to a presented antigen.</para>
+</problem>
+<solution id="fs-id1167660397594">
+<para id="fs-id1167658344950">variable</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662489665">
+<problem id="fs-id1167662406461">
+<para id="fs-id1167662484988">Peripheral tolerance mechanisms function on T cells after they mature and exit the ________.</para>
+</problem>
+<solution id="fs-id1167662496102">
+<para id="fs-id1167662418543">thymus</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660187342">
+<problem id="fs-id1167660313326">
+<para id="fs-id1167662373804">Both ________ and effector T cells are produced during differentiation of activated T cells.</para>
+</problem>
+<solution id="fs-id1167662519067">
+<para id="fs-id1167662490480">memory</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167658047497" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167662700486">
+<problem id="fs-id1167662748183">
+<para id="fs-id1167662877294">What is the basic difference in effector function between helper and cytotoxic T cells?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167662481603">
+<problem id="fs-id1167657962746">
+<para id="fs-id1167660195572">What necessary interactions are required for activation of helper T cells and activation/effector function of cytotoxic T cells?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+
+</document>

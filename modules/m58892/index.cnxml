@@ -1,0 +1,601 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Hypersensitivities</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58892</md:content-id>
+  <md:title>Hypersensitivities</md:title>
+  <md:abstract/>
+  <md:uuid>f3c76f55-f6b6-431f-b376-cfb367ed03e3</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167663893620" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167663622396">
+<item>Identify and compare the distinguishing characteristics, mechanisms, and major examples of type I, II, III, and IV hypersensitivities</item>
+</list>
+</section>
+<note id="fs-id1167663611300" class="microbiology clinical-focus">
+<title>Part 1</title>
+<para id="fs-id1167663495414">Kerry, a 40-year-old airline pilot, has made an appointment with her primary care physician to discuss a rash that develops whenever she spends time in the sun. As she explains to her physician, it does not seem like sunburn. She is careful not to spend too much time in the sun and she uses sunscreen. Despite these precautions, the rash still appears, manifesting as red, raised patches that get slightly scaly. The rash persists for 7 to 10 days each time, and it seems to largely go away on its own. Lately, the rashes have also begun to appear on her cheeks and above her eyes on either side of her forehead.</para>
+<list id="fs-id1167663590470" list-type="bulleted" bullet-style="bullet">
+<item>Is Kerry right to be concerned, or should she simply be more careful about sun exposure?</item>
+<item>Are there conditions that might be brought on by sun exposure that Kerry’s physician should be considering?</item>
+</list>
+<para id="fs-id1167661436702"><emphasis effect="italics">Jump to the <link target-id="fs-id1167661552166">next</link> Clinical Focus box.</emphasis></para>
+</note>
+<para id="fs-id1167663900544">In <link document="m58883">Adaptive Specific Host Defenses</link>, we discussed the mechanisms by which adaptive immune defenses, both humoral and cellular, protect us from infectious diseases. However, these same protective immune defenses can also be responsible for undesirable reactions called <term>hypersensitivity</term> reactions. Hypersensitivity reactions are classified by their immune mechanism.</para>
+<list id="fs-id1167661277691" list-type="bulleted" bullet-style="bullet">
+<item>Type I hypersensitivity reactions involve immunoglobulin E (IgE) antibody against soluble antigen, triggering mast cell degranulation.</item>
+<item>Type II hypersensitivity reactions involve IgG and IgM antibodies directed against cellular antigens, leading to cell damage mediated by other immune system effectors.</item>
+<item>Type III hypersensitivity reactions involve the interactions of IgG, IgM, and, occasionally, IgA<footnote id="fs-id1167661505913">D.S. Strayer et al (eds). <emphasis effect="italics">Rubin’s Pathology: Clinicopathologic Foundations of Medicine</emphasis>. 7th ed. 2Philadelphia, PA: Lippincott, Williams &amp; Wilkins, 2014.</footnote> antibodies with antigen to form immune complexes. Accumulation of immune complexes in tissue leads to tissue damage mediated by other immune system effectors.</item>
+<item>Type IV hypersensitivity reactions are T-cell–mediated reactions that can involve tissue damage mediated by activated macrophages and cytotoxic T cells.</item>
+</list>
+<section id="fs-id1167661346359">
+<title>Type I Hypersensitivities</title>
+<para id="fs-id1167661539952">When a presensitized individual is exposed to an <term>allergen</term>, it can lead to a rapid immune response that occurs almost immediately. Such a response is called an <term>allergy</term> and is classified as a <term>type I hypersensitivity</term>. Allergens may be seemingly harmless substances such as animal dander, molds, or pollen. Allergens may also be substances considered innately more hazardous, such as insect venom or therapeutic drugs. Food intolerances can also yield allergic reactions as individuals become sensitized to foods such as peanuts or shellfish (<link target-id="OSC_Microbio_19_01_Allergen"/>). Regardless of the allergen, the first exposure activates a primary IgE antibody response that sensitizes an individual to type I hypersensitivity reaction upon subsequent exposure.</para>
+<figure id="OSC_Microbio_19_01_Allergen">
+<media id="fs-id1167663657981" alt="A) micrograph of pollen granules in different shapes and with different surface features. B) photo of a rash on a person’s back. C) Photo of peanuts.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_19_01_Allergen.jpg"/>
+</media>
+<caption>(a) Allergens in plant pollen, shown here in a colorized electron micrograph, may trigger allergic rhinitis or hay fever in sensitive individuals. (b) Skin rashes are often associated with allergic reactions. (c) Peanuts can be eaten safely by most people but can provoke severe allergic reactions in sensitive individuals.</caption>
+</figure>
+<para id="fs-id1167661443022">For susceptible individuals, a first exposure to an allergen activates a strong T<sub>H</sub>2 cell response (<link target-id="OSC_Microbio_19_01_Degran"/>). Cytokines interleukin (IL)-4 and IL-13 from the T<sub>H</sub>2 cells activate B cells specific to the same allergen, resulting in clonal proliferation, differentiation into plasma cells, and antibody-class switch from production of IgM to production of <term class="no-emphasis">IgE</term>. The fragment crystallizable (Fc) regions of the IgE antibodies bind to specific receptors on the surface of <term class="no-emphasis">mast cells</term> throughout the body. It is estimated that each mast cell can bind up to 500,000 IgE molecules, with each IgE molecule having two allergen-specific fragment antigen-binding (Fab) sites available for binding allergen on subsequent exposures. By the time this occurs, the allergen is often no longer present and there is no allergic reaction, but the mast cells are primed for a subsequent exposure and the individual is sensitized to the allergen.</para>
+<para id="fs-id1167663638265">On subsequent exposure, allergens bind to multiple IgE molecules on mast cells, cross-linking the IgE molecules. Within minutes, this cross-linking of IgE activates the mast cells and triggers <term>degranulation</term>, a reaction in which the contents of the granules in the mast cell are released into the extracellular environment. Preformed components that are released from <term class="no-emphasis">granules</term> include <term class="no-emphasis">histamine</term>, <term class="no-emphasis">serotonin</term>, and <term class="no-emphasis">bradykinin</term> (<link target-id="fs-id1167661746560"/>). The activated mast cells also release newly formed lipid mediators (<term class="no-emphasis">leukotrienes</term> and <term class="no-emphasis">prostaglandins</term> from membrane <term class="no-emphasis">arachadonic acid</term> metabolism) and <term class="no-emphasis">cytokines</term> such as <term class="no-emphasis">tumor necrosis factor</term> (<link target-id="fs-id1167661455904"/>).</para>
+<para id="fs-id1167661591010">The chemical mediators released by mast cells collectively cause the inflammation and signs and symptoms associated with type I hypersensitivity reactions. Histamine stimulates mucus secretion in nasal passages and tear formation from lacrimal glands, promoting the runny nose and watery eyes of allergies. Interaction of histamine with nerve endings causes itching and sneezing. The vasodilation caused by several of the mediators can result in hives, headaches, <term class="no-emphasis">angioedema</term> (swelling that often affects the lips, throat, and tongue), and <term class="no-emphasis">hypotension</term> (low blood pressure). Bronchiole constriction caused by some of the chemical mediators leads to wheezing, <term class="no-emphasis">dyspnea</term> (difficulty breathing), coughing, and, in more severe cases, <term class="no-emphasis">cyanosis</term> (bluish color to the skin or mucous membranes). Vomiting can result from stimulation of the vomiting center in the cerebellum by histamine and serotonin. Histamine can also cause relaxation of intestinal smooth muscles and diarrhea.</para>
+<table id="fs-id1167661746560" summary="Table titled: Selected Preformed Components  of Mast Cell Granules. Columns: Granule Component and Activity. Heparin: Stimulates the generation of bradykinin, which causes increased vascular permeability, vasodilation, bronchiole constriction, and increased mucus secretion. Histamine: Causes smooth-muscle contraction, increases vascular permeability, increases mucus and tear formation. Serotonin: Increases vascular permeability, causes vasodilation and smooth-muscle contraction." class="span-all">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c2">Selected Preformed Components of Mast Cell Granules</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Granule Component</entry>
+<entry valign="top" align="left">Activity</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Heparin</entry>
+<entry valign="top" align="left">Stimulates the generation of bradykinin, which causes increased vascular permeability, vasodilation, bronchiole constriction, and increased mucus secretion</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Histamine</entry>
+<entry valign="top" align="left">Causes smooth-muscle contraction, increases vascular permeability, increases mucus and tear formation</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Serotonin</entry>
+<entry valign="top" align="left">Increases vascular permeability, causes vasodilation and smooth-muscle contraction</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table id="fs-id1167661455904" summary="Table titled: Selected Newly Formed Chemical Mediators of Inflammation and Allergic Response. Columns: Chemical Mediator and Activity. Leukotriene: Causes smooth-muscle contraction and mucus secretion, increases vascular permeability. Prostaglandin: Causes smooth-muscle contraction and vasodilation. TNF-α (cytokine): Causes inflammation and stimulates cytokine production by other cell types." class="span-all">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c2">Selected Newly Formed Chemical Mediators of Inflammation and Allergic Response</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Chemical Mediator</entry>
+<entry valign="top" align="left">Activity</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Leukotriene</entry>
+<entry valign="top" align="left">Causes smooth-muscle contraction and mucus secretion, increases vascular permeability</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Prostaglandin</entry>
+<entry valign="top" align="left">Causes smooth-muscle contraction and vasodilation</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">TNF-α (cytokine)</entry>
+<entry valign="top" align="left">Causes inflammation and stimulates cytokine production by other cell types</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<figure id="OSC_Microbio_19_01_Degran">
+<media id="fs-id1167663662488" alt="Drawing of TH2 cell response. 1: Upon first exposure to allergen, antigen presenting cell processes antigen and presents it to TH2 Cell. A large antigen presenting cell is shown engulfing an antigen which is attached to a Class II MHC inside the cell. This class II MHC is then placed on the surface with the antigen on the end of the MHC. The TH2 cell has a receptor that binds to the antigen on the MHC. 2: TH2 cell releases IL-4 and IL-13 which activates B cell. The TH2 cell has unbound from the Antigen presenting cell and binds to a B cell with the antigen on it’s MHC and antibodies. The TH2 cell then releases small dots. 3: B cells proliferate and differentiate into plasma cells that synthesize and secrete IgE antibody. B cell is shown dividing. These cells tehn become plasma cells which are larger and are producing many IgE 4: IgE binds to mast cells by Fc region, sensitizing the mast cells. Mast cell is shown with IgE bound to it. 5: Upon subsequent exposure to allergen, mast cells with IgE bind to antigen and release inflammatory molecules, resulting in allergy symptoms. Antigen is shown bound to mast cell and the mast cell is releasing little dots labeled inflammatory molecules.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_19_01_Degran.jpg"/>
+</media>
+<caption>On first exposure to an allergen in a susceptible individual, antigen-presenting cells process and present allergen epitopes with major histocompatibility complex (MHC) II to T helper cells. B cells also process and present the same allergen epitope to T<sub>H</sub>2 cells, which release cytokines IL-4 and IL-13 to stimulate proliferation and differentiation into IgE-secreting plasma cells. The IgE molecules bind to mast cells with their Fc region, sensitizing the mast cells for activation with subsequent exposure to the allergen. With each subsequent exposure, the allergen cross-links IgE molecules on the mast cells, activating the mast cells and causing the release of preformed chemical mediators from granules (<term class="no-emphasis">degranulation</term>), as well as newly formed chemical mediators that collectively cause the signs and symptoms of type I hypersensitivity reactions.</caption>
+</figure>
+<para id="fs-id1167663638079">Type I hypersensitivity reactions can be either localized or systemic. Localized type I hypersensitivity reactions include <term class="no-emphasis">hay fever</term> <term class="no-emphasis">rhinitis</term>, hives, and <term class="no-emphasis">asthma</term> (<link target-id="fs-id1167661288820"/>). Systemic type I hypersensitivity reactions are referred to as <term>anaphylaxis</term> or <term>anaphylactic shock</term>. Although anaphylaxis shares many symptoms common with the localized type I hypersensitivity reactions, the swelling of the tongue and trachea, blockage of airways, dangerous drop in blood pressure, and development of shock can make anaphylaxis especially severe and life-threatening. In fact, death can occur within minutes of onset of signs and symptoms.</para>
+<para id="fs-id1167663507996">Late-phase reactions in type I hypersensitivities may develop 4–12 hours after the early phase and are mediated by <term class="no-emphasis">eosinophil</term>s, <term class="no-emphasis">neutrophil</term>s, and <term class="no-emphasis">lymphocytes</term> that have been recruited by chemotactic factors released from <term class="no-emphasis">mast cells</term>. Activation of these recruited cells leads to the release of more chemical mediators that cause tissue damage and late-phase symptoms of swelling and redness of the skin, coughing, wheezing, and nasal discharge.</para>
+<para id="fs-id1167661367595">Individuals who possess genes for maladaptive traits, such as intense type I hypersensitivity reactions to otherwise harmless components of the environment, would be expected to suffer reduced reproductive success. With this kind of evolutionary selective pressure, such traits would not be expected to persist in a population. This suggests that type I hypersensitivities may have an adaptive function. There is evidence that the IgE produced during type I hypersensitivity reactions is actually meant to counter <term class="no-emphasis">helminth infections</term><footnote id="fs-id1167663899624">C.M. Fitzsimmons et al. “Helminth Allergens, Parasite-Specific IgE, and Its Protective Role in Human Immunity.” <emphasis effect="italics">Frontier in Immunology</emphasis> 5 (2015):47.</footnote>. Helminths are one of few organisms that possess proteins that are targeted by IgE. In addition, there is evidence that helminth infections at a young age reduce the likelihood of type I hypersensitivities to innocuous substances later in life. Thus it may be that allergies are an unfortunate consequence of strong selection in the mammalian lineage or earlier for a defense against <term class="no-emphasis">parasitic worms</term>.</para>
+<table id="fs-id1167661288820" summary="Table titled: Type I Hypersensitivities. Columns: Common Name, Cause, Signs and Symptoms.  Allergy-induced asthma: Inhalation of allergens; Constriction of bronchi, labored breathing, coughing, chills, body aches. Anaphylaxis: Systemic reaction to allergens; Hives, itching, swelling of tongue and throat, nausea, vomiting, low blood pressure, shock. Hay fever: Inhalation of mold or pollen; Runny nose, watery eyes, sneezing. Hives (urticaria): Food or drug allergens, insect stings; Raised, bumpy skin rash with itching; bumps may converge into large raised areas." class="span-all">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c1"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c3">Type I Hypersensitivities</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Common Name</entry>
+<entry valign="top" align="left">Cause</entry>
+<entry valign="top" align="left">Signs and Symptoms</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Allergy-induced asthma</entry>
+<entry valign="top" align="left">Inhalation of allergens</entry>
+<entry valign="top" align="left">Constriction of bronchi, labored breathing, coughing, chills, body aches</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Anaphylaxis</entry>
+<entry valign="top" align="left">Systemic reaction to allergens</entry>
+<entry valign="top" align="left">Hives, itching, swelling of tongue and throat, nausea, vomiting, low blood pressure, shock</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Hay fever</entry>
+<entry valign="top" align="left">Inhalation of mold or pollen</entry>
+<entry valign="top" align="left">Runny nose, watery eyes, sneezing</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Hives (urticaria)</entry>
+<entry valign="top" align="left">Food or drug allergens, insect stings</entry>
+<entry valign="top" align="left">Raised, bumpy skin rash with itching; bumps may converge into large raised areas</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1167661736934" class="microbiology check-your-understanding">
+<list id="fs-id1167661566225" list-type="bulleted" bullet-style="bullet">
+<item>What are the cells that cause a type I hypersensitivity reaction?</item>
+<item>Describe the differences between immediate and late-phase type I hypersensitivity reactions.</item>
+<item>List the signs and symptoms of anaphylaxis.</item>
+</list>
+</note>
+<note id="fs-id1167663494542" class="microbiology micro-connection">
+<title>The Hygiene Hypothesis</title>
+<para id="fs-id1167661506566">In most modern societies, good hygiene is associated with regular bathing, and good health with cleanliness. But some recent studies suggest that the association between health and clean living may be a faulty one. Some go so far as to suggest that children should be encouraged to play in the dirt—or even eat dirt<footnote id="fs-id1167663478470">S.T. Weiss. “Eat Dirt—The Hygiene Hypothesis and Allergic Diseases.” <emphasis effect="italics">New England Journal of Medicine</emphasis> 347 no. 12 (2002):930–931.</footnote>—for the benefit of their health. This recommendation is based on the so-called <term class="no-emphasis">hygiene hypothesis</term>, which proposes that childhood exposure to antigens from a diverse range of microbes leads to a better-functioning immune system later in life.</para>
+<para id="fs-id1167661291443">The hygiene hypothesis was first suggested in 1989 by David Strachan<footnote id="fs-id1167663714938">D.P. Strachan “Hay Fever, Hygiene, and Household Size.” <emphasis effect="italics">British Medical Journal</emphasis> 299 no. 6710 (1989):1259.</footnote>, who observed an inverse relationship between the number of older children in a family and the incidence of hay fever. Although hay fever in children had increased dramatically during the mid-20th century, incidence was significantly lower in families with more children. Strachan proposed that the lower incidence of allergies in large families could be linked to infections acquired from older siblings, suggesting that these infections made children less susceptible to allergies. Strachan also argued that trends toward smaller families and a greater emphasis on cleanliness in the 20th century had decreased exposure to pathogens and thus led to higher overall rates of allergies, asthma, and other immune disorders.</para>
+<para id="fs-id1167663606118">Other researchers have observed an inverse relationship between the incidence of immune disorders and infectious diseases that are now rare in industrialized countries but still common in less industrialized countries.<footnote id="fs-id1167663663406">H. Okada et al. “The ‘Hygiene Hypothesis’ for Autoimmune and Allergic Diseases: An Update.” <emphasis effect="italics">Clinical &amp; Experimental Immunology</emphasis> 160 no. 1 (2010):1–9.</footnote> In developed nations, children under the age of 5 years are not exposed to many of the microbes, molecules, and antigens they almost certainly would have encountered a century ago. The lack of early challenges to the immune system by organisms with which humans and their ancestors evolved may result in failures in immune system functioning later in life.</para>
+</note>
+</section>
+<section id="fs-id1167663742279">
+<title>Type II (Cytotoxic) Hypersensitivities</title>
+<para id="fs-id1167663591942">Immune reactions categorized as <term>type II hypersensitivities</term>, or <term class="no-emphasis">cytotoxic hypersensitivities</term>, are mediated by IgG and IgM antibodies binding to cell-surface antigens or matrix-associated antigens on basement membranes. These antibodies can either activate <term class="no-emphasis">complement</term>, resulting in an inflammatory response and lysis of the targeted cells, or they can be involved in <term class="no-emphasis">antibody-dependent cell-mediated cytotoxicity (ADCC)</term> with <term class="no-emphasis">cytotoxic T cell</term>s.</para>
+<para id="fs-id1167663963072">In some cases, the antigen may be a self-antigen, in which case the reaction would also be described as an <term class="no-emphasis">autoimmune disease</term>. (Autoimmune diseases are described in <link document="m58893">Autoimmune Disorders</link>). In other cases, antibodies may bind to naturally occurring, but exogenous, cell-surface molecules such as antigens associated with blood typing found on <term class="no-emphasis">red blood cells</term> (RBCs). This leads to the coating of the RBCs by antibodies, activation of the complement cascade, and complement-mediated lysis of RBCs, as well as <term class="no-emphasis">opsonization</term> of RBCs for phagocytosis. Two examples of type II hypersensitivity reactions involving RBCs are <term class="no-emphasis">hemolytic transfusion reaction (HTR)</term> and <term class="no-emphasis">hemolytic disease of the newborn (HDN)</term>. These type II hypersensitivity reactions, which will be discussed in greater detail, are summarized in <link target-id="fs-id1167663635547"/>.</para>
+<para id="fs-id1167661288619">Immunohematology is the study of blood and blood-forming tissue in relation to the immune response. Antibody-initiated responses against blood cells are type II hypersensitivities, thus falling into the field of <term class="no-emphasis">immunohematology</term>. For students first learning about immunohematology, understanding the immunological mechanisms involved is made even more challenging by the complex nomenclature system used to identify different <term class="no-emphasis">blood-group antigens</term>, often called <term class="no-emphasis">blood types</term>. The first blood-group antigens either used alphabetical names or were named for the first person known to produce antibodies to the red blood cell antigen (e.g., Kell, Duffy, or Diego). However, in 1980, the International Society of Blood Transfusion (ISBT) Working Party on Terminology created a standard for blood-group terminology in an attempt to more consistently identify newly discovered blood group antigens. New antigens are now given a number and assigned to a blood-group system, collection, or series. However, even with this effort, blood-group nomenclature is still inconsistent.</para>
+<table id="fs-id1167663635547" summary="Table titled: Common Type II Hypersensitivities. Columns: Common Name; Cause; Signs and Symptoms. Hemolytic disease of the newborn (HDN): IgG from mother crosses the placenta, targeting the fetus’ RBCs for destruction; Anemia, edema, enlarged liver or spleen, hydrops (fluid in body cavity), leading to death of newborn in severe cases. Hemolytic transfusion reactions (HTR): IgG and IgM bind to antigens on transfused RBCs, targeting donor RBCs for destruction; Fever, jaundice, hypotension, disseminated intravascular coagulation, possibly leading to kidney failure and death." class="span-all">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c3">Common Type II Hypersensitivities</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Common Name</entry>
+<entry valign="top" align="left">Cause</entry>
+<entry valign="top" align="left">Signs and Symptoms</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Hemolytic disease of the newborn (HDN)</entry>
+<entry valign="top" align="left">IgG from mother crosses the placenta, targeting the fetus’ RBCs for destruction</entry>
+<entry valign="top" align="left">Anemia, edema, enlarged liver or spleen, hydrops (fluid in body cavity), leading to death of newborn in severe cases</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Hemolytic transfusion reactions (HTR)</entry>
+<entry valign="top" align="left">IgG and IgM bind to antigens on transfused RBCs, targeting donor RBCs for destruction</entry>
+<entry valign="top" align="left">Fever, jaundice, hypotension, disseminated intravascular coagulation, possibly leading to kidney failure and death</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<section id="fs-id1167663630570">
+<title>ABO Blood Group Incompatibility</title>
+<para id="fs-id1167663643700">The recognition that individuals have different blood types was first described by Karl <term class="no-emphasis">Landsteiner</term> (1868–1943) in the early 1900s, based on his observation that serum from one person could cause a clumping of RBCs from another. These studies led Landsteiner to the identification of four distinct blood types. Subsequent research by other scientists determined that the four blood types were based on the presence or absence of surface carbohydrates “A” and “B,” and this provided the foundation for the <term>ABO blood group system</term> that is still in use today (<link target-id="OSC_Microbio_19_01_ABO"/>). The functions of these antigens are unknown, but some have been associated with normal biochemical functions of the cell. Furthermore, ABO blood types are inherited as alleles (one from each parent), and they display patterns of dominant and codominant inheritance. The alleles for A and B blood types are codominant to each other, and both are dominant over blood type O. Therefore, individuals with genotypes of AA or AO have type A blood and express the A carbohydrate antigen on the surface of their RBCs. People with genotypes of BB or BO have type B blood and express the B carbohydrate antigen on the surface of their RBCs. Those with a genotype of AB have type AB blood and express both A and B carbohydrate antigens on the surface of their RBCs. Finally, individuals with a genotype of OO have type O blood and lack A and B carbohydrate on the surface of their RBCs.</para><para id="fs-id1167663528210">It is important to note that the RBCs of all four ABO blood types share a common protein receptor molecule, and it is the addition of specific carbohydrates to the protein receptors that determines A, B, and AB blood types. The genes that are inherited for the A, B, and AB blood types encode enzymes that add the carbohydrate component to the protein receptor. Individuals with O blood type still have the protein receptor but lack the enzymes that would add carbohydrates that would make their red blood cell type A, B, or AB.</para>
+<para id="fs-id1167663698077">IgM antibodies in plasma that cross-react with blood group antigens not present on an individual’s own RBCs are called <term>isohemagglutinin</term>s (<link target-id="OSC_Microbio_19_01_ABO"/>). Isohemagglutinins are produced within the first few weeks after birth and persist throughout life. These antibodies are produced in response to exposure to environmental antigens from food and microorganisms. A person with type A blood has A antigens on the surface of their RBCs and will produce anti-B antibodies to environmental antigens that resemble the carbohydrate component of B antigens. A person with type B blood has B antigens on the surface of their RBCs and will produce anti-A antibodies to environmental antigens that are similar to the carbohydrate component of A antigens. People with blood type O lack both A and B antigens on their RBCs and, therefore, produce both anti-A and anti-B antibodies. Conversely, people with AB blood type have both A and B antigens on their RBCs and, therefore, lack anti-A and anti-B antibodies.</para>
+<figure id="OSC_Microbio_19_01_ABO">
+<media id="fs-id1167663609488" alt="Table of Blood Types. Type A blood has red blood cells with A antigens as surface markers. It produces anti-B isohemagglutinins. Type B blood has red blood cells with B antigens as surface markers. It produces anti-A isohemagglutinins. Type AB blood has red blood cells with both A and B antigens as surface markers. It produces neither isohemagglutinins. Type O blood has red blood cells with neither A nor B antigens as surface markers. It produces both anti-A and anti-B isohemagglutinins.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_19_01_ABO.jpg"/>
+</media>
+</figure>
+<para id="fs-id1167661346302">A patient may require a <term class="no-emphasis">blood transfusion</term> because they lack sufficient RBCs (<term class="no-emphasis">anemia</term>) or because they have experienced significant loss of blood volume through trauma or disease. Although the blood transfusion is given to help the patient, it is essential that the patient receive a transfusion with matching ABO blood type. A transfusion with an incompatible ABO blood type may lead to a strong, potentially lethal type II hypersensitivity cytotoxic response called <term>hemolytic transfusion reaction (HTR)</term> (<link target-id="OSC_Microbio_19_01_HTR"/>).</para>
+<para id="fs-id1167663991051">For instance, if a person with type B blood receives a transfusion of type A blood, their anti-A antibodies will bind to and <term class="no-emphasis">agglutinate</term> the transfused RBCs. In addition, activation of the <term class="no-emphasis">classical complement cascade</term> will lead to a strong inflammatory response, and the complement <term class="no-emphasis">membrane attack complex (MAC)</term> will mediate massive <term class="no-emphasis">hemolysis</term> of the transfused RBCs. The debris from damaged and destroyed RBCs can occlude blood vessels in the alveoli of the lungs and the glomeruli of the kidneys. Within 1 to 24 hours of an incompatible transfusion, the patient experiences fever, chills, pruritus (itching), urticaria (hives), dyspnea, hemoglobinuria (hemoglobin in the urine), and hypotension (low blood pressure). In the most serious reactions, dangerously low blood pressure can lead to shock, multi-organ failure, and death of the patient.</para>
+<para id="fs-id1167661539417">Hospitals, medical centers, and associated clinical laboratories typically use <term class="no-emphasis">hemovigilance systems</term> to minimize the risk of HTRs due to clerical error. Hemovigilance systems are procedures that track transfusion information from the donor source and blood products obtained to the follow-up of recipient patients. Hemovigilance systems used in many countries identify HTRs and their outcomes through mandatory reporting (e.g., to the Food and Drug Administration in the United States), and this information is valuable to help prevent such occurrences in the future. For example, if an HTR is found to be the result of laboratory or clerical error, additional blood products collected from the donor at that time can be located and labeled correctly to avoid additional HTRs. As a result of these measures, HTR-associated deaths in the United States occur in about one per 2 million transfused units.<footnote id="fs-id1167661351736">E.C. Vamvakas, M.A. Blajchman. “Transfusion-Related Mortality: The Ongoing Risks of Allogeneic Blood Transfusion and the Available Strategies for Their Prevention.” <emphasis effect="italics">Blood</emphasis> 113 no. 15 (2009):3406–3417.</footnote></para>
+<figure id="OSC_Microbio_19_01_HTR">
+<media id="fs-id1167663585937" alt="Diagram of a Type A donor giving blood to a Type B recipient. 1: Donated type A blook with type A antigens enters bloodstream of type B recipient. Red blood cells with Type A antigens and red blood cells with Type B antigens are shown; anti-A antibody is also present. 2: Anti-A antibodies in plasma of Type B recipient bind to donated type A red blood cells. 3: Bound anti-A antibodies activate complement cascade, releasing hemoglobulin and destroying red blood cells. Small dots are shown destroying type A cells.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_19_01_HTR.jpg"/>
+</media>
+<caption>A type II hypersensitivity hemolytic transfusion reaction (HTR) leading to hemolytic anemia. Blood from a type A donor is administered to a patient with type B blood. The anti-A isohemagglutinin IgM antibodies in the recipient bind to and agglutinate the incoming donor type A red blood cells. The bound anti-A antibodies activate the classical complement cascade, resulting in destruction of the donor red blood cells.</caption>
+</figure>
+</section>
+<section id="fs-id1167661274044">
+<title>Rh Factors</title>
+<para id="fs-id1167664003826">Many different types of <term class="no-emphasis">erythrocyte antigen</term>s have been discovered since the description of the ABO red cell antigens. The second most frequently described RBC antigens are <term>Rh factor</term>s, named after the rhesus macaque (<emphasis effect="italics">Macaca mulatta</emphasis>) factors identified by Karl <term class="no-emphasis">Landsteiner</term> and Alexander <term class="no-emphasis">Weiner</term> in 1940. The Rh system of RBC antigens is the most complex and immunogenic blood group system, with more than 50 specificities identified to date. Of all the Rh antigens, the one designated Rho (Weiner) or D (Fisher-Race) is the most immunogenic. Cells are classified as Rh positive (Rh+) if the <term class="no-emphasis">Rho/D antigen</term> is present or as Rh negative (Rh−) if the Rho/D antigen is absent. In contrast to the carbohydrate molecules that distinguish the ABO blood groups and are the targets of IgM isohemagglutinins in HTRs, the Rh factor antigens are proteins. As discussed in <link document="m58887">B Lymphocytes and Humoral Immunity</link>, protein antigens activate B cells and antibody production through a T-cell–dependent mechanism, and the T<sub>H</sub>2 cells stimulate class switching from IgM to other antibody classes. In the case of Rh factor antigens, T<sub>H</sub>2 cells stimulate class switching to IgG, and this has important implications for the mechanism of HDN.</para>
+<para id="fs-id1167661291951">Like ABO incompatibilities, <term class="no-emphasis">blood transfusion</term>s from a donor with the wrong Rh factor antigens can cause a type II hypersensitivity HTR. However, in contrast to the IgM isohemagglutinins produced early in life through exposure to environmental antigens, production of <term class="no-emphasis">anti-Rh factor antibodies</term> requires the exposure of an individual with Rh− blood to Rh+ positive RBCs and activation of a primary antibody response. Although this primary antibody response can cause an HTR in the transfusion patient, the <term class="no-emphasis">hemolytic reaction</term> would be delayed up to 2 weeks during the extended <term class="no-emphasis">lag period</term> of a <term class="no-emphasis">primary antibody response</term> (<link document="m58887">B Lymphocytes and Humoral Immunity</link>). However, if the patient receives a subsequent transfusion with Rh+ RBCs, a more rapid HTR would occur with anti-Rh factor antibody already present in the blood. Furthermore, the rapid <term class="no-emphasis">secondary antibody response</term> would provide even more anti-Rh factor antibodies for the HTR.</para>
+<para id="fs-id1167661561891">Rh factor incompatibility between mother and fetus can also cause a type II hypersensitivity hemolytic reaction, referred to as <term>hemolytic disease of the newborn (HDN)</term> (<link target-id="OSC_Microbio_19_01_HDN"/>). If an Rh− woman carries an Rh+ baby to term, the mother’s immune system can be exposed to <term class="no-emphasis">Rh+ fetal red blood cells</term>. This exposure will usually occur during the last trimester of pregnancy and during the delivery process. If this exposure occurs, the Rh+ fetal RBCs will activate a primary adaptive immune response in the mother, and anti-Rh factor IgG antibodies will be produced. IgG antibodies are the only class of antibody that can cross the placenta from mother to fetus; however, in most cases, the first Rh+ baby is unaffected by these antibodies because the first exposure typically occurs late enough in the pregnancy that the mother does not have time to mount a sufficient primary antibody response before the baby is born.</para>
+<para id="fs-id1167661366157">If a subsequent <term class="no-emphasis">pregnancy</term> with an Rh+ fetus occurs, however, the mother’s second exposure to the Rh factor antigens causes a strong secondary antibody response that produces larger quantities of anti-Rh factor IgG. These antibodies can cross the placenta from mother to fetus and cause HDN, a potentially lethal condition for the baby (<link target-id="OSC_Microbio_19_01_HDN"/>).</para>
+<para id="fs-id1167663986895">Prior to the development of techniques for diagnosis and prevention, Rh factor incompatibility was the most common cause of HDN, resulting in thousands of infant deaths each year worldwide.<footnote id="fs-id1167663714620">G. Reali. “Forty Years of Anti-D Immunoprophylaxis.” <emphasis effect="italics">Blood Transfusion</emphasis> 5 no. 1 (2007):3–6.</footnote> For this reason, the Rh factors of prospective parents are regularly screened, and treatments have been developed to prevent HDN caused by Rh incompatibility. To prevent Rh factor-mediated HDN, <term class="no-emphasis">human Rho(D) immune globulin</term> (e.g., <term class="no-emphasis">RhoGAM</term>) is injected intravenously or intramuscularly into the mother during the 28th week of pregnancy and within 72 hours after delivery. Additional doses may be administered after events that may result in transplacental hemorrhage (e.g., umbilical blood sampling, chorionic villus sampling, abdominal trauma, amniocentesis). This treatment is initiated during the first pregnancy with an Rh+ fetus. The anti-Rh antibodies in Rho(D) immune globulin will bind to the Rh factor of any fetal RBCs that gain access to the mother’s bloodstream, preventing these Rh+ cells from activating the mother’s primary antibody response. Without a primary anti-Rh factor antibody response, the next pregnancy with an Rh+ will have minimal risk of HDN. However, the mother will need to be retreated with Rho(D) immune globulin during that pregnancy to prevent a primary anti-Rh antibody response that could threaten subsequent pregnancies.</para>
+<figure id="OSC_Microbio_19_01_HDN">
+<media id="fs-id1167663733869" alt="a) First pregnancy with Rh+ fetus resulting in healthy newborn. The diagram shows an Rh- mother and an Rh+ fetus. Rh+ red blood cells cross the placenta into mother’s circulation. This causes anti-Rh antibodies to be produced in the mother upon exposure to fetal Rh antigens. The second pregnancy with Rh+ fetus results in hemolytic newborn. The diagram shows an Rh- mother with an Rh+ fetus. Anti-Rh antibodies remain in mother’s circulation from the first pregnancy and cross the placenta. Maternal anti-Rh antibodies attack and destroy fetal Rh+ red blood cells. B) First pregnancy with Rh+ fetus and anti-Rh antibody treatment resulting in healthy newborn The diagram shows an Rh- mother and an Rh+ fetus. Rh+ red blood cells fromt eh fetus clross placenta into mother’s circulation. Anti-Rh antibodies (Rhogam) bind and inactivate fetal Rh antigens before they stimulate immune response in mother.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_19_01_HDN.jpg"/>
+</media>
+<caption>(a) When an Rh− mother has an Rh+ fetus, fetal erythrocytes are introduced into the mother’s circulatory system before or during birth, leading to production of anti-Rh IgG antibodies. These antibodies remain in the mother and, if she becomes pregnant with a second Rh+ baby, they can cross the placenta and attach to fetal Rh+ erythrocytes. Complement-mediated hemolysis of fetal erythrocytes results in a lack of sufficient cells for proper oxygenation of the fetus. (b) HDN can be prevented by administering Rho(D) immune globulin during and after each pregnancy with an Rh+ fetus. The immune globulin binds fetal Rh+ RBCs that gain access to the mother’s bloodstream, preventing activation of her primary immune response.</caption>
+</figure>
+<note id="fs-id1167661449815" class="microbiology link-to-learning">
+
+<para id="fs-id1167663620768">Use this interactive <link url="https://openstax.org/l/22actbloodtyping">Blood Typing Game</link> to reinforce your knowledge of blood typing.</para>
+</note>
+<note id="fs-id1167663571406" class="microbiology check-your-understanding">
+<list id="fs-id1167663652662" list-type="bulleted" bullet-style="bullet">
+<item>What happens to cells that possess incompatible antigens in a type II hypersensitivity reaction?</item>
+<item>Describe hemolytic disease of the newborn and explain how it can be prevented.</item>
+</list>
+</note>
+<note id="fs-id1167661552166" class="microbiology clinical-focus">
+<title>Part 2</title>
+<para id="fs-id1167661429481">Kerry’s primary care physician is not sure why Kerry seems to develop rashes after spending time in the sun, so she orders a urinalysis and basic blood tests. The results reveal that Kerry has proteinuria (abnormal protein levels in the urine), hemoglobinuria (excess hemoglobin in the urine), and a low hematocrit (RBC count). These tests suggest that Kerry is suffering from a mild bout of hemolytic anemia. The physician suspects that the problem might be autoimmune, so she refers Kerry to a rheumatologist for additional testing and diagnosis.</para>
+<list id="fs-id1167663592836" list-type="bulleted" bullet-style="bullet">
+<item>Rheumatologists specialize in musculoskeletal diseases such as arthritis, osteoporosis, and joint pain. Why might Kerry’s physician refer her to this particular type of specialist even though she is exhibiting none of these symptoms?</item>
+</list>
+<para id="fs-id1167661550602"><emphasis effect="italics">Jump to the <link target-id="fs-id1167663642144">next</link> Clinical Focus box. Go back to the <link target-id="fs-id1167663611300">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+</section>
+<section id="fs-id1167661369355">
+<title>Type III Hypersensitivities</title>
+<para id="fs-id1167663900526">Type III hypersensitivities are immune-complex reactions that were first characterized by Nicolas Maurice Arthus (1862–1945) in 1903. To produce antibodies for experimental procedures, Arthus immunized rabbits by injecting them with serum from horses. However, while immunizing rabbits repeatedly with horse serum, Arthus noticed a previously unreported and unexpected localized subcutaneous hemorrhage with edema at the site of injection. This reaction developed within 3 to10 hours after injection. This localized reaction to non-self serum proteins was called an <term>Arthus reaction</term>. An Arthus reaction occurs when soluble antigens bind with IgG in a ratio that results in the accumulation of antigen-antibody aggregates called <term>immune complex</term>es.</para>
+<para id="fs-id1167663902567">A unique characteristic of <term>type III hypersensitivity</term> is antibody excess (primarily IgG), coupled with a relatively low concentration of antigen, resulting in the formation of small immune complexes that deposit on the surface of the epithelial cells lining the inner lumen of small blood vessels or on the surfaces of tissues (<link target-id="OSC_Microbio_19_01_Type3"/>). This immune complex accumulation leads to a cascade of inflammatory events that include the following:</para>
+<list id="fs-id1167661626863" list-type="enumerated" number-style="arabic" mark-suffix=")">
+<item>IgG binding to antibody receptors on localized mast cells, resulting in mast-cell degranulation</item>
+<item>Complement activation with production of pro-inflammatory C3a and C5a (see <link document="m58878">Chemical Defenses</link>)</item>
+<item>Increased blood-vessel permeability with chemotactic recruitment of neutrophils and macrophages</item>
+</list>
+<para id="fs-id1167661289380">Because these immune complexes are not an optimal size and are deposited on cell surfaces, they cannot be phagocytosed in the usual way by neutrophils and macrophages, which, in turn, are often described as “frustrated.” Although phagocytosis does not occur, neutrophil degranulation results in the release of lysosomal enzymes that cause extracellular destruction of the immune complex, damaging localized cells in the process. Activation of coagulation pathways also occurs, resulting in thrombi (blood clots) that occlude blood vessels and cause ischemia that can lead to vascular necrosis and localized hemorrhage.</para>
+<para id="fs-id1167661641102">Systemic type III hypersensitivity (<term>serum sickness</term>) occurs when immune complexes deposit in various body sites, resulting in a more generalized systemic inflammatory response. These immune complexes involve non-self proteins such as antibodies produced in animals for <term class="no-emphasis">artificial passive immunity</term> (see <link document="m58888">Vaccines</link>), certain drugs, or microbial antigens that are continuously released over time during chronic infections (e.g., subacute bacterial <term class="no-emphasis">endocarditis</term>, chronic viral <term class="no-emphasis">hepatitis</term>). The mechanisms of serum sickness are similar to those described in localized type III hypersensitivity but involve widespread activation of mast cells, complement, neutrophils, and macrophages, which causes tissue destruction in areas such as the kidneys, joints, and blood vessels. As a result of tissue destruction, symptoms of serum sickness include chills, fever, rash, vasculitis, and <term class="no-emphasis">arthritis</term>. Development of <term class="no-emphasis">glomerulonephritis</term> or hepatitis is also possible.</para>
+<para id="fs-id1167661353742">Autoimmune diseases such as <term class="no-emphasis">systemic lupus erythematosus (SLE)</term> and <term class="no-emphasis">rheumatoid arthritis</term> can also involve damaging type III hypersensitivity reactions when auto-antibodies form immune complexes with self antigens. These conditions are discussed in <link document="m58893">Autoimmune Disorders</link>.</para>
+<figure id="OSC_Microbio_19_01_Type3">
+<media id="fs-id1167663603670" alt="IgG binds to antigens and forms an immune complex made of multiple IgG and antigens. Immune complex deposition in tissues, activation of complement and inflammation. Image shows Immune complex binding to tissues, binding to C1, C3b and C5a binding to tissues. And IgG binding to neutrophils. Tissue damage is shown. B) Person on a dialysis machine.">
+<image mime-type="image/png" src="../../media/OSC_Microbio_19_01_Type3.png"/>
+</media>
+<caption>Type III hypersensitivities and the systems they affect. (a) Immune complexes form and deposit in tissue. Complement activation, stimulation of an inflammatory response, and recruitment and activation of neutrophils result in damage to blood vessels, heart tissue, joints, skin, and/or kidneys. (b) If the kidneys are damaged by a type III hypersensitivity reaction, dialysis may be required. (Credit b: Tech. Sgt. Bennie J. Davis III / US Air Force; Public Domain)</caption>
+</figure>
+<note id="fs-id1167663949132" class="microbiology check-your-understanding">
+<list id="fs-id1167663732295" list-type="bulleted" bullet-style="bullet">
+<item>Why is antibody excess important in type III hypersensitivity?</item>
+<item>Describe the differences between the Arthus reaction and serum sickness.</item>
+</list>
+</note>
+<note id="fs-id1167663661930" class="microbiology micro-connection">
+<title>Diphtheria Antitoxin</title>
+<para id="fs-id1167661641578">Antibacterial sera are much less commonly used now than in the past, having been replaced by toxoid vaccines. However, a diphtheria antitoxin produced in horses is one example of such a treatment that is still used in some parts of the world. Although it is not licensed by the FDA for use in the United States, diphtheria antitoxin can be used to treat cases of diphtheria, which are caused by the bacterium <emphasis effect="italics">Corynebacterium diphtheriae</emphasis>.<footnote id="fs-id1167661501215">Centers for Disease Control and Prevention. “Diphtheria Antitoxin.” http://www.cdc.gov/diphtheria/dat.html. Accessed March 25, 2016.</footnote> The treatment is not without risks, however. Serum sickness can occur when the patient develops an immune response to non-self horse proteins. Immune complexes are formed between the horse proteins and circulating antibodies when the two exist in certain proportions. These immune complexes can deposit in organs, causing damage such as arthritis, nephritis, rash, and fever. Serum sickness is usually transient with no permanent damage unless the patient is chronically exposed to the antigen, which can then result in irreversible damage to body sites such as joints and kidneys. Over time, phagocytic cells such as macrophages are able to clear the horse serum antigens, which results in improvement of the patient’s condition and a decrease in symptoms as the immune response dissipates.</para>
+</note>
+<note id="fs-id1167663642144" class="microbiology clinical-focus">
+<title>Part 3</title>
+<para id="fs-id1167663740607">Kerry does not make it to the rheumatologist. She has a seizure as she is leaving her primary care physician’s office. She is quickly rushed to the emergency department, where her primary care physician relates her medical history and recent test results. The emergency department physician calls in the rheumatologist on staff at the hospital for consultation. Based on the symptoms and test results, the rheumatologist suspects that Kerry has lupus and orders a pair of blood tests: an antinuclear antibody test (ANA) to look for antibodies that bind to DNA and another test that looks for antibodies that bind to a self-antigen called the Smith antigen (Sm).</para>
+<list id="fs-id1167661565187" list-type="bulleted" bullet-style="bullet">
+<item>Based on the blood tests ordered, what type of reaction does the rheumatologist suspect is causing Kerry’s seizure?</item>
+</list>
+<para id="fs-id1167663620693"><emphasis effect="italics">Jump to the <link target-id="fs-id1167661506571" document="m58894">next</link> Clinical Focus box. Go back to the <link target-id="fs-id1167661552166">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+<section id="fs-id1167661752182">
+<title>Type IV Hypersensitivities</title>
+<para id="fs-id1167663623631">Type IV hypersensitivities are not mediated by antibodies like the other three types of hypersensitivities. Rather, <term>type IV hypersensitivities</term> are regulated by T cells and involve the action of effector cells. These types of hypersensitivities can be organized into three subcategories based on T-cell subtype, type of antigen, and the resulting effector mechanism (<link target-id="fs-id1167663524314"/>).</para>
+<para id="fs-id1167663949166">In the first type IV subcategory, CD4 T<sub>H</sub>1-mediated reactions are described as <term class="no-emphasis">delayed-type hypersensitivities (DTH)</term>. The <term class="no-emphasis">sensitization</term> step involves the introduction of antigen into the skin and phagocytosis by local <term class="no-emphasis">antigen presenting cells (APCs)</term>. The APCs activate helper T cells, stimulating clonal proliferation and differentiation into memory T<sub>H</sub>1 cells. Upon subsequent exposure to the antigen, these sensitized memory T<sub>H</sub>1 cells release cytokines that activate macrophages, and <term class="no-emphasis">activated macrophages</term> are responsible for much of the tissue damage. Examples of this T<sub>H</sub>1-mediated hypersensitivity are observed in <term class="no-emphasis">tuberculin</term> the <term class="no-emphasis">Mantoux skin test</term> and <term>contact dermatitis</term>, such as occurs in <term class="no-emphasis">latex allergy</term> reactions.</para>
+<para id="fs-id1167661438668">In the second type IV subcategory, CD4 T<sub>H</sub>2-mediated reactions result in chronic <term class="no-emphasis">asthma</term> or chronic <term class="no-emphasis">allergic rhinitis</term>. In these cases, the soluble antigen is first inhaled, resulting in <term class="no-emphasis">eosinophil</term> recruitment and activation with the release of cytokines and inflammatory mediators.</para>
+<para id="fs-id1167663994063">In the third type IV subcategory, CD8 <term class="no-emphasis">cytotoxic T lymphocyte</term> (CTL)-mediated reactions are associated with <term class="no-emphasis">tissue transplant rejection</term> and <term class="no-emphasis">contact dermatitis</term> (<link target-id="OSC_Microbio_19_01_Type4"/>). For this form of cell-mediated hypersensitivity, APCs process and present the antigen with MHC I to naïve CD8 T cells. When these naïve CD8 T cells are activated, they proliferate and differentiate into CTLs. Activated T<sub>H</sub>1 cells can also enhance the activation of the CTLs. The activated CTLs then target and induce <term class="no-emphasis">granzyme</term>-mediated <term class="no-emphasis">apoptosis</term> in cells presenting the same antigen with MHC I. These target cells could be “self” cells that have absorbed the foreign antigen (such as with contact dermatitis due to poison ivy), or they could be transplanted tissue cells displaying foreign antigen from the donor.</para>
+<figure id="OSC_Microbio_19_01_Type4">
+<media id="fs-id1167661280209" alt="a) Sensitization. Antigens from poison ivy enter dendritic cells in skin. The dendritic cell activates a T-cell which becomes a memory helper T cell. b) Immune response. Macrophages, memory helper T cells, and cytotoxic T cells produce a large lesion on the skin due to dytikine activation.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_19_01_Type4.jpg"/>
+</media>
+<caption>Exposure to hapten antigens in poison ivy can cause contact dermatitis, a type IV hypersensitivity. (a) The first exposure to poison ivy does not result in a reaction. However, sensitization stimulates helper T cells, leading to production of memory helper T cells that can become reactivated on future exposures. (b) Upon secondary exposure, the memory helper T cells become reactivated, producing inflammatory cytokines that stimulate macrophages and cytotoxic T cells to induce an inflammatory lesion at the exposed site. This lesion, which will persist until the allergen is removed, can inflict significant tissue damage if it continues long enough.</caption>
+</figure>
+<table id="fs-id1167663524314" summary="Table Titled: Type IV Hypersensitivities. Columns: Subcategory; Antigen; Effector Mechanism; Examples. 1: Soluble antigen; Activated macrophages damage tissue and promote inflammatory response; Contact dermatitis (e.g., exposure to latex) and delayed-type hypersensitivity (e.g., tuberculin reaction). 2: Soluble antigen; Eosinophil recruitment and activation release cytokines and pro-inflammatory chemicals; Chronic asthma and chronic allergic rhinitis. 3: Cell-associated antigen; CTL-mediated cytotoxicity; Contact dermatitis (e.g., contact with poison ivy) and tissue-transplant rejection." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="left" namest="c1" nameend="c4">Type IV Hypersensitivities</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Subcategory</entry>
+<entry valign="top" align="left">Antigen</entry>
+<entry valign="top" align="left">Effector Mechanism</entry>
+<entry valign="top" align="left">Examples</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">1</entry>
+<entry valign="top" align="left">Soluble antigen</entry>
+<entry valign="top" align="left">Activated macrophages damage tissue and promote inflammatory response</entry>
+<entry valign="top" align="left">Contact dermatitis (e.g., exposure to latex) and delayed-type hypersensitivity (e.g., tuberculin reaction)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">2</entry>
+<entry valign="top" align="left">Soluble antigen</entry>
+<entry valign="top" align="left">Eosinophil recruitment and activation release cytokines and pro-inflammatory chemicals</entry>
+<entry valign="top" align="left">Chronic asthma and chronic allergic rhinitis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">3</entry>
+<entry valign="top" align="left">Cell-associated antigen</entry>
+<entry valign="top" align="left">CTL-mediated cytotoxicity</entry>
+<entry valign="top" align="left">Contact dermatitis (e.g., contact with poison ivy) and tissue-transplant rejection</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1167663648709" class="microbiology check-your-understanding">
+<list id="fs-id1167663894023" list-type="bulleted" bullet-style="bullet">
+<item>Describe the three subtypes of type IV hypersensitivity.</item>
+<item>Explain how T cells contribute to tissue damage in type IV hypersensitivity.</item>
+</list>
+</note>
+<note id="fs-id1167661591296" class="microbiology micro-connection">
+<title>Using Delayed Hypersensitivity to Test for TB</title>
+<para id="fs-id1167661566000">Austrian pediatrician Clemans von <term class="no-emphasis">Pirquet</term> (1874–1929) first described allergy mechanisms, including type III serum sickness.<footnote id="fs-id1167661441404">B. Huber “100 Jahre Allergie: Clemens von Pirquet–sein Allergiebegriff und das ihm zugrunde liegende Krankheitsverständnis.” <emphasis effect="italics">Wiener Klinische Wochenschrift</emphasis> 118 no. 19–20 (2006):573–579.</footnote> His interest led to the development of a test for <term class="no-emphasis">tuberculosis</term> (TB), using the tuberculin antigen, based on earlier work identifying the TB pathogen performed by Robert Koch. Pirquet’s method involved scarification, which results in simultaneous multiple punctures, using a device with an array of needles to break the skin numerous times in a small area. The device Pirquet used was similar to the <term class="no-emphasis">tine test</term> device with four needles seen in <link target-id="OSC_Microbio_19_01_Tine_img"/>.</para>
+<para id="fs-id1167663631094">The tips of all the needles in the array are coated with tuberculin, a protein extract of TB bacteria, effectively introducing the tuberculin into the skin. One to 3 days later, the area can be examined for a delayed hypersensitivity reaction, signs of which include swelling and redness.</para>
+<para id="fs-id1167663972827">As you can imagine, scarification was not a pleasant experience,<footnote id="fs-id1167663642001">C.A. Stewart. “The Pirquet Test: Comparison of the Scarification and the Puncture Methods of Application.” <emphasis effect="italics">Archives of Pediatrics &amp; Adolescent Medicine</emphasis> 35 no. 3 (1928):388–391.</footnote> and the numerous skin punctures put the patient at risk of developing bacterial infection of the skin. Mantoux modified Pirquet’s test to use a single subcutaneous injection of purified tuberculin material. A positive test, which is indicated by a delayed localized swelling at the injection site, does not necessarily mean that the patient is currently infected with active TB. Because type IV (delayed-type) hypersensitivity is mediated by reactivation of memory T cells, such cells may have been created recently (due to an active current infection) or years prior (if a patient had TB and had spontaneously cleared it, or if it had gone into latency). However, the test can be used to confirm infection in cases in which symptoms in the patient or findings on a radiograph suggest its presence.</para>
+<figure id="OSC_Microbio_19_01_Tine_img">
+<media id="fs-id1167661462433" alt="Photo of an object shaped like a bike handle with sharp projections on one end.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_19_01_Tine_img.jpg"/>
+</media>
+<caption>The modern version of Pirquet’s scarification is the tine test, which uses devices like this to administer tuberculin antigen into the skin, usually on the inside of the forearm. The tine test is considered less reliable than the Mantoux test. (credit: modification of work by the Centers for Disease Control and Prevention)</caption>
+</figure>
+</note>
+</section>
+<section id="fs-id1167661562505">
+<title>Hypersensitivity Pneumonitis</title>
+<para id="fs-id1167661424632">Some disease caused by hypersensitivities are not caused exclusively by one type. For example, <term>hypersensitivity pneumonitis (HP)</term>, which is often an occupational or environmental disease, occurs when the lungs become inflamed due to an allergic reaction to inhaled dust, endospores, bird feathers, bird droppings, molds, or chemicals. HP goes by many different names associated with various forms of exposure (<link target-id="OSC_Microbio_19_01_OccDis"/>). HP associated with bird droppings is sometimes called <term class="no-emphasis">pigeon fancier’s lung</term> or <term class="no-emphasis">poultry worker’s lung</term>—both common in bird breeders and handlers. <term class="no-emphasis">Cheese handler’s disease</term>, <term class="no-emphasis">farmer’s lung</term>, <term class="no-emphasis">sauna takers' disease</term>, and <term class="no-emphasis">hot-tub lung</term> are other names for HP associated with exposure to molds in various environments.</para>
+<para id="fs-id1167661267276">Pathology associated with HP can be due to both type III (mediated by immune complexes) and type IV (mediated by T<sub>H</sub>1 cells and macrophages) hypersensitivities. Repeated exposure to allergens can cause alveolitis due to the formation of immune complexes in the alveolar wall of the lung accompanied by fluid accumulation, and the formation of <term class="no-emphasis">granuloma</term>s and other lesions in the lung as a result of T<sub>H</sub>1-mediated macrophage activation. Alveolitis with fluid and granuloma formation results in poor oxygen perfusion in the alveoli, which, in turn, can cause symptoms such as coughing, dyspnea, chills, fever, sweating, myalgias, headache, and nausea. Symptoms may occur as quickly as 2 hours after exposure and can persist for weeks if left untreated.</para>
+<figure id="OSC_Microbio_19_01_OccDis">
+<media id="fs-id1167663737354" alt="A) Photo of chickens in a coop. b) Photo of a worker in a warehouse.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_19_01_OccDis.jpg"/>
+</media>
+<caption>Occupational exposure to dust, mold, and other allergens can result in hypersensitivity pneumonitis. (a) People exposed daily to large numbers of birds may be susceptible to poultry worker’s lung. (b) Workers in a cheese factory may become sensitized to different types of molds and develop cheese handler’s disease. (credit a: modification of work by The Global Orphan Project)</caption>
+</figure>
+<note id="fs-id1167661456513" class="microbiology check-your-understanding">
+<list id="fs-id1167663742129" list-type="bulleted" bullet-style="bullet">
+<item>Explain why hypersensitivity <term class="no-emphasis">pneumonitis</term> is considered an occupational disease.</item>
+</list>
+</note>
+<para id="fs-id1167661439868"><link target-id="OSC_Microbio_19_01_Types"/> summarizes the mechanisms and effects of each type of hypersensitivity discussed in this section.</para>
+<figure id="OSC_Microbio_19_01_Types">
+<media id="fs-id1167661327277" alt="Table summarizing four types of hypersensitivities. Type I uses immune reactant IgE and a soluble antigen. The mechanism of activation is: Allergen-specific IgE antibodies bind to mast cells via their Fc receptor. When the specific allergen binds to the IgE, cross-linking of IgE induces degranulation of mast cells. Examples of hypersensitive reactions include: Local and systemic anaphylaxis, seasonal hay fever, food allergies, and drug allergies. Type II uses immune reactant IgG or IgM and a cell-bound antigen. The mechanism of activation is: IgG or IgM antibody binds to cellular antigen, leading to complement activation and cell lysis. IgG can also mediate ADCC with cytotoxic T cells, natural killer cells, macrophages, and neutrophils. Examples of hypersensitive reactions include: Red blood cell destruction after transfusion with mismatched blood types or during hemolytic disease of the newborn. Type III uses immune reactant IgG or IgM and a soluble antigen. The mechanism of activation is: Antigen-antibody complexes are deposited in tissues. Complement activation provides inflammatory mediators and recruits neutrophils. Enzymes released from neutrophils damage tissue. Examples of hypersensitive reactions include: Local and systemic Post-streptococcal glomerulonephritis, rheumatoid arthritis, and systemic lupus erythematosus. Type IV uses immune reactant T cells and a soluble or cell-bound antigen. The mechanism of activation is: TH1 cells secreete cytokines, which activate macrophages and cytotoxic T cells.. Examples of hypersensitive reactions include: Contact dermatitis, type I diabetes mellitus, and multiple sclerosis.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_19_01_Types.jpg"/>
+</media>
+<caption>Components of the immune system cause four types of hypersensitivities. Notice that types I–III are B-cell/antibody-mediated hypersensitivities, whereas type IV hypersensitivity is exclusively a T-cell phenomenon.</caption>
+</figure>
+</section>
+<section id="fs-id1167661293508">
+<title>Diagnosis of Hypersensitivities</title>
+<para id="fs-id1167661560504">Diagnosis of type I hypersensitivities is a complex process requiring several diagnostic tests in addition to a well-documented patient history. Serum IgE levels can be measured, but elevated IgE alone does not confirm allergic disease. As part of the process to identify the antigens responsible for a type I reaction allergy, testing through a <term class="no-emphasis">prick puncture skin test (PPST)</term> or an <term class="no-emphasis">intradermal</term> test can be performed. PPST is carried out with the introduction of allergens in a series of superficial skin pricks on the patient’s back or arms (<link target-id="OSC_Microbio_19_01_SkinTest"/>). PPSTs are considered to be the most convenient and least expensive way to diagnose allergies, according to the US Joint Council of Allergy and the European Academy of Allergy and Immunology. The second type of testing, the intradermal test, requires injection into the dermis with a small needle. This needle, also known as a tuberculin needle, is attached to a syringe containing a small amount of allergen. Both the PPST and the intradermal tests are observed for 15–20 minutes for a <term>wheal-flare reaction</term> to the allergens. Measurement of any wheal (a raised, itchy bump) and flare (redness) within minutes indicates a type I hypersensitivity, and the larger the wheal-flare reaction, the greater the patient’s sensitivity to the allergen.</para>
+<para id="fs-id1167661367509">Type III hypersensitivities can often be misdiagnosed because of their nonspecific inflammatory nature. The symptoms are easily visible, but they may be associated with any of a number of other diseases. A strong, comprehensive patient history is crucial to proper and accurate diagnosis. Tests used to establish the diagnosis of <term class="no-emphasis">hypersensitivity pneumonitis</term> (resulting from type III hypersensitivity) include <term class="no-emphasis">bronchoalveolar lavage</term> (BAL), pulmonary function tests, and <term class="no-emphasis">high-resolution computed tomography (HRCT)</term>.</para>
+<figure id="OSC_Microbio_19_01_SkinTest">
+<media id="fs-id1167661280388" alt="Photo of a person with many dots in a row on their skin. The dots are numbered and marks are next to those that are swollen.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_19_01_SkinTest.jpg"/>
+</media>
+<caption>Results of an allergy skin-prick test to test for type I hypersensitivity to a group of potential allergens. A positive result is indicated by a raised area (wheal) and surrounding redness (flare). (credit: modification of work by “OakleyOriginals”/Flickr)</caption>
+</figure>
+<note id="fs-id1167663957925" class="microbiology check-your-understanding">
+<list id="fs-id1167663635533" list-type="bulleted" bullet-style="bullet">
+<item>Describe the prick puncture skin test.</item>
+<item>Explain why type III hypersensitivities can be difficult to diagnose.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167663621349">
+<title>Treatments of Hypersensitivities</title>
+<para id="fs-id1167663923057">Allergic reactions can be treated in various ways. Prevention of allergic reactions can be achieved by <term>desensitization</term> (<term class="no-emphasis">hyposensitization</term>) therapy, which can be used to reduce the hypersensitivity reaction through repeated injections of allergens. Extremely dilute concentrations of known allergens (determined from the allergen tests) are injected into the patient at prescribed intervals (e.g., weekly). The quantity of allergen delivered by the shots is slowly increased over a buildup period until an effective dose is determined and that dose is maintained for the duration of treatment, which can last years. Patients are usually encouraged to remain in the doctor’s office for 30 minutes after receiving the injection in case the allergens administered cause a severe systemic reaction. Doctors’ offices that administer desensitization therapy must be prepared to provide resuscitation and drug treatment in the case of such an event.</para>
+<para id="fs-id1167661745244">Desensitization therapy is used for insect sting allergies and environmental allergies. The allergy shots elicit the production of different interleukins and IgG antibody responses instead of IgE. When excess allergen-specific IgG antibodies are produced and bind to the allergen, they can act as <term>blocking antibodies</term> to neutralize the allergen before it can bind IgE on mast cells. There are early studies using <term class="no-emphasis">oral therapy for desensitization</term> of food allergies that are promising.<footnote id="fs-id1167661649375">C.L. Schneider et al. “A Pilot Study of Omalizumab to Facilitate Rapid Oral Desensitization in High-Risk Peanut-Allergic Patients.” <emphasis effect="italics">Journal of Allergy and Clinical Immunology</emphasis> 132 no. 6 (2013):1368–1374.</footnote><footnote id="fs-id1167661365850">P. Varshney et al. “A Randomized Controlled Study of Peanut Oral Immunotherapy: Clinical Desensitization and Modulation of the Allergic Response.” <emphasis effect="italics">Journal of Allergy and Clinical Immunology</emphasis> 127 no. 3 (2011):654–660.</footnote> These studies involve feeding children who have allergies tiny amounts of the allergen (e.g., peanut flour) or related proteins over time. Many of the subjects show reduced severity of reaction to the food allergen after the therapy.</para>
+<para id="fs-id1167661736133">There are also therapies designed to treat severe allergic reactions. Emergency systemic <term class="no-emphasis">anaphylaxis</term> is treated initially with an <term class="no-emphasis">epinephrine</term> injection, which can counteract the drop in blood pressure. Individuals with known severe allergies often carry a self-administering auto-injector that can be used in case of exposure to the allergen (e.g., an insect sting or accidental ingestion of a food that causes a severe reaction). By self-administering an epinephrine shot (or sometimes two), the patient can stem the reaction long enough to seek medical attention. Follow-up treatment generally involves giving the patient <term class="no-emphasis">antihistamine</term>s and slow-acting <term class="no-emphasis">corticosteroid</term>s for several days after the reaction to prevent potential late-phase reactions. However, the effects of antihistamine and corticosteroid treatment are not well studied and are used based on theoretical considerations.</para>
+<para id="fs-id1167661353576">Treatment of milder allergic reactions typically involves antihistamines and other anti-inflammatory drugs. A variety of antihistamine drugs are available, in both prescription and over-the-counter strengths. There are also antileukotriene and antiprostaglandin drugs that can be used in tandem with antihistamine drugs in a combined (and more effective) therapy regime.</para>
+<para id="fs-id1167663730286">Treatments of type III hypersensitivities include preventing further exposure to the antigen and the use of anti-inflammatory drugs. Some conditions can be resolved when exposure to the antigen is prevented. Anti-inflammatory corticosteroid inhalers can also be used to diminish inflammation to allow lung lesions to heal. Systemic corticosteroid treatment, oral or intravenous, is also common for type III hypersensitivities affecting body systems. Treatment of <term class="no-emphasis">hypersensitivity pneumonitis</term> includes avoiding the allergen, along with the possible addition of prescription steroids such as <term class="no-emphasis">prednisone</term> to reduce inflammation.</para>
+<para id="fs-id1167661533142">Treatment of type IV hypersensitivities includes antihistamines, anti-inflammatory drugs, analgesics, and, if possible, eliminating further exposure to the antigen.</para>
+<note id="fs-id1167661472464" class="microbiology check-your-understanding">
+<list id="fs-id1167663620361" list-type="bulleted" bullet-style="bullet">
+<item>Describe desensitization therapy.</item>
+<item>Explain the role of epinephrine in treatment of hypersensitivity reactions.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167661324078" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167661334717" list-type="bulleted" bullet-style="bullet">
+<item>An <emphasis effect="bold">allergy</emphasis> is an adaptive immune response, sometimes life-threatening, to an <emphasis effect="bold">allergen</emphasis>.</item>
+<item><emphasis effect="bold">Type I hypersensitivity</emphasis> requires sensitization of mast cells with IgE, involving an initial IgE antibody response and IgE attachment to mast cells. On second exposure to an allergen, cross-linking of IgE molecules on mast cells triggers degranulation and release of preformed and newly formed chemical mediators of inflammation. Type I hypersensitivity may be localized and relatively minor (hives and hay fever) or system-wide and dangerous (systemic <emphasis effect="bold">anaphylaxis</emphasis>).</item>
+<item><emphasis effect="bold">Type II hypersensitivities</emphasis> result from antibodies binding to antigens on cells and initiating cytotoxic responses. Examples include <emphasis effect="bold">hemolytic transfusion reaction</emphasis> and <emphasis effect="bold">hemolytic disease of the newborn</emphasis>.</item>
+<item><emphasis effect="bold">Type III hypersensitivities</emphasis> result from formation and accumulation of <emphasis effect="bold">immune complexes</emphasis> in tissues, stimulating damaging inflammatory responses.</item>
+<item><emphasis effect="bold">Type IV hypersensitivities</emphasis> are not mediated by antibodies, but by helper T-cell activation of macrophages, eosinophils, and cytotoxic T cells.</item>
+</list>
+</section>
+<section id="fs-id1167663971620" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167661287580">
+<problem id="fs-id1167661287582">
+<para id="fs-id1167661353144">Which of the following is the type of cell largely responsible for type I hypersensitivity responses?</para>
+<list id="fs-id1167661433521" list-type="enumerated" number-style="upper-alpha">
+<item>erythrocyte</item>
+<item>mast cell</item>
+<item>T lymphocyte</item>
+<item>antibody</item>
+</list>
+</problem>
+<solution id="fs-id1167664004338">
+<para id="fs-id1167661645025">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167661322545">
+<problem id="fs-id1167661618587">
+<para id="fs-id1167661307729">Type I hypersensitivities require which of the following initial priming events to occur?</para>
+<list id="fs-id1167661256984" list-type="enumerated" number-style="upper-alpha">
+<item>sensitization</item>
+<item>secondary immune response</item>
+<item>cellular trauma</item>
+<item>degranulation</item>
+</list>
+</problem>
+<solution id="fs-id1167663632832">
+<para id="fs-id1167663632834">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167661484321">
+<problem id="fs-id1167663612522">
+<para id="fs-id1167663612524">Which of the following are the main mediators/initiators of type II hypersensitivity reactions?</para>
+<list id="fs-id1167663646467" list-type="enumerated" number-style="upper-alpha">
+<item>antibodies</item>
+<item>mast cells</item>
+<item>erythrocytes</item>
+<item>histamines</item>
+</list>
+</problem>
+<solution id="fs-id1167663592922">
+<para id="fs-id1167661758262">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663994798">
+<problem id="fs-id1167663994800">
+<para id="fs-id1167663629340">Inflammatory molecules are released by mast cells in type I hypersensitivities; type II hypersensitivities, however, are characterized by which of the following?</para>
+<list id="fs-id1167661347304" list-type="enumerated" number-style="upper-alpha">
+<item>cell lysis (cytotoxicity)</item>
+<item>strong antibody reactions against antigens</item>
+<item>leukotriene release upon stimulation</item>
+<item>localized tissue reactions, such as hives</item>
+</list>
+</problem>
+<solution id="fs-id1167663742147">
+<para id="fs-id1167663622689">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663966837">
+<problem id="fs-id1167663966839">
+<para id="fs-id1167661252860">An immune complex is an aggregate of which of the following?</para>
+<list id="fs-id1167661304308" list-type="enumerated" number-style="upper-alpha">
+<item>antibody molecules</item>
+<item>antigen molecules</item>
+<item>antibody and antigen molecules</item>
+<item>histamine molecules</item>
+</list>
+</problem>
+<solution id="fs-id1167661643699">
+<para id="fs-id1167661643702">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663972786">
+<problem id="fs-id1167663536522">
+<para id="fs-id1167663536525">Which of the following is a common treatment for type III hypersensitivity reactions?</para>
+<list id="fs-id1167661560501" list-type="enumerated" number-style="upper-alpha">
+<item>anti-inflammatory steroid treatments</item>
+<item>antihistamine treatments</item>
+<item>hyposensitization injections of allergens</item>
+<item>RhoGAM injections</item>
+</list>
+</problem>
+<solution id="fs-id1167663570376">
+<para id="fs-id1167661310553">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167661509076">
+<problem id="fs-id1167663651727">
+<para id="fs-id1167663607763">Which of the following induces a type III hypersensitivity?</para>
+<list id="fs-id1167661423502" list-type="enumerated" number-style="upper-alpha">
+<item>release of inflammatory molecules from mast cells</item>
+<item>accumulation of immune complexes in tissues and small blood vessels</item>
+<item>destruction of cells bound by antigens</item>
+<item>destruction of cells bound by antibodies</item>
+</list>
+</problem>
+<solution id="fs-id1167661464194">
+<para id="fs-id1167663721951">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663992333">
+<problem id="fs-id1167663992335">
+<para id="fs-id1167663714319">Which one of the following is not an example of a type IV hypersensitivity?</para>
+<list id="fs-id1167663649874" list-type="enumerated" number-style="upper-alpha">
+<item>latex allergy</item>
+<item>Contact dermatitis (e.g., contact with poison ivy)</item>
+<item>a positive tuberculin skin test</item>
+<item>hemolytic disease of the newborn</item>
+</list>
+</problem>
+<solution id="fs-id1167661731169">
+<para id="fs-id1167661731171">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167663809660" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167661733448">
+<problem id="fs-id1167661733450">
+<para id="fs-id1167661364356">Antibodies involved in type I hypersensitivities are of the ________ class.</para>
+</problem>
+<solution id="fs-id1167661640619">
+<para id="fs-id1167661277869">IgE</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167661627243">
+<problem id="fs-id1167661627246">
+<para id="fs-id1167661304162">Allergy shots work by shifting antibody responses to produce ________ antibodies.</para>
+</problem>
+<solution id="fs-id1167661440340">
+<para id="fs-id1167661562261">IgG</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167661329347">
+<problem id="fs-id1167661329350">
+<para id="fs-id1167661428775">A person who is blood type A would have IgM hemagglutinin antibodies against type ________ red blood cells in their plasma.</para>
+</problem>
+<solution id="fs-id1167661609286">
+<para id="fs-id1167661609288">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663907297">
+<problem id="fs-id1167661369585">
+<para id="fs-id1167661369587">The itchy and blistering rash that develops with contact to poison ivy is caused by a type ________ hypersensitivity reaction.</para>
+</problem>
+<solution id="fs-id1167663636903">
+<para id="fs-id1167663712608">IV</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167661302063" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167661729037">
+<problem id="fs-id1167661268249">
+<para id="fs-id1167661268251">Although both type I and type II hypersensitivities involve antibodies as immune effectors, different mechanisms are involved with these different hypersensitivities. Differentiate the two.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167663984242">
+<problem id="fs-id1167663984245">
+<para id="fs-id1167661518335">What types of antibodies are most common in type III hypersensitivities, and why?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167663994599" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167661296027">
+<problem id="fs-id1167661562267">
+<para id="fs-id1167661562269">Patients are frequently given instructions to avoid allergy medications for a period of time prior to allergy testing. Why would this be important?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167661730304">
+<problem id="fs-id1167663989574">
+<para id="fs-id1167663989577">In some areas of the world, a tuberculosis vaccine known as bacillus Calmette-Guérin (BCG) is used. It is not used in the United States. Every person who has received this vaccine and mounted a protective response will have a positive reaction in a tuberculin skin test. Why? What does this mean for the usefulness of this skin test in those countries where this vaccine is used?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

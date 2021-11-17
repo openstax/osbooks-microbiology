@@ -1,0 +1,216 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="appendix">
+
+<title>Fundamentals of Physics and Chemistry Important to Microbiology</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58946</md:content-id>
+  <md:title>Fundamentals of Physics and Chemistry Important to Microbiology</md:title>
+  <md:abstract/>
+  <md:uuid>e2a50cd7-7740-4392-b342-8c6725f006ba</md:uuid>
+</metadata>
+
+<content class="appendix">
+<para id="fs-id1167662572742">Like all other matter, the matter that comprises microorganisms is governed by the laws of chemistry and physics. The chemical and physical properties of microbial pathogens—both cellular and acellular—dictate their habitat, control their metabolic processes, and determine how they interact with the human body. This appendix provides a review of some of the fundamental principles of chemistry and physics that are essential to an understanding of microbiology. Many of the chapters in this text—especially <link document="m58812">Microbial Biochemistry</link> and <link document="m58818">Microbial Metabolism</link>—assume that the reader already has an understanding of the concepts reviewed here.</para>
+<section id="fs-id1167660582809">
+<title>Atomic Structure</title>
+<para id="fs-id1167662910057">Life is made up of matter. Matter occupies space and has mass. All matter is composed of <emphasis effect="bold">atoms</emphasis>. All atoms contain <emphasis effect="bold">protons</emphasis>, <emphasis effect="bold">electrons</emphasis>, and <emphasis effect="bold">neutrons</emphasis> (<link target-id="OSC_Microbio_00_AA_atom"/>). The only exception is hydrogen (H), which is made of one proton and one electron. A proton is a positively charged particle that resides in the nucleus (the core of the atom) of an atom and has a mass of 1 atomic mass unit (amu) and a charge of +1. An electron is a negatively charged particle that travels in the space around the nucleus. Electrons are distributed in different energy levels called electron shells. Electrons have a negligible mass and a charge of –1. Neutrons, like protons, reside in the nucleus of an atom. They have a mass of 1 amu and no charge (neutral). The positive (proton) and negative (electron) charges balance each other in a neutral atom, which has a net zero charge. Because protons and neutrons each have a mass of 1 amu, the mass of an atom is equal to the number of protons and neutrons of that atom. The number of electrons does not factor into the overall mass because electron mass is so small.</para>
+<figure id="OSC_Microbio_00_AA_atom">
+<media id="fs-id1167662559886" alt="An atom has two neutral neutrons and two positive protons in its nucleus. It’s outer shell contains two negative electrons.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_00_AA_atom.jpg"/>
+</media>
+<caption>Atoms are made up of protons and neutrons located within the nucleus and electrons surrounding the nucleus.</caption>
+</figure>
+</section>
+<section id="fs-id1167660600048">
+<title>Chemical Elements</title>
+<para id="fs-id1167657962872">All matter is composed of atoms of <emphasis effect="bold">elements</emphasis>. Elements have unique physical and chemical properties and are substances that cannot easily be transformed either physically or chemically into other substances. Each element has been given a name, usually derived from Latin or English. The elements also have one- or two-letter symbols representing the name; for example, sodium (Na), gold (Au), and silver (Ag) have abbreviations derived from their original Latin names <emphasis effect="italics">natrium</emphasis>, <emphasis effect="italics">aurum,</emphasis> and <emphasis effect="italics">argentum</emphasis>, respectively. Examples with English abbreviations are carbon (C), hydrogen (H), oxygen (O), and nitrogen (N). A total of 118 different elements (92 of which occur naturally) have been identified and organized into the periodic table of elements. Of the naturally occurring elements, fewer than 30 are found in organisms on Earth, and four of those (C, H, O, and N) make up approximately 96% of the mass of an organism.<footnote id="fs-id1167660587066">Schrijver, Karel, and Iris Schrijver. <emphasis effect="italics">Living with the Stars: How the Human Body Is Connected to the Life Cycles of the Earth, the Planets, and the Stars</emphasis>. Oxford University Press, USA, 2015.</footnote></para>
+<para id="fs-id1167662775759">Each unique element is identified by the number of protons in its atomic nucleus. In addition to protons, each element's atomic nucleus contains an equal or greater number of neutrons (with the exception of hydrogen, which has only one proton). The total number of protons per element is described as the <emphasis effect="bold">atomic number</emphasis>, and the combined mass of protons and neutrons is called the atomic mass or <emphasis effect="bold">mass number</emphasis>. Therefore, it is possible to determine the number of neutrons by subtracting the atomic number from the mass number.</para>
+<para id="fs-id1167660460557"><emphasis effect="bold">Isotopes</emphasis> are different forms of the same element that have the same number of protons, but a different number of neutrons. Many elements have several isotopes with one or two commonly occurring isotopes in nature. For example, carbon-12 (<sup>12</sup>C), the most common isotope of carbon (98.6% of all C found on Earth),<footnote id="fs-id1167662510918">National Oceanic and Atmospheric Administration, “Stable and Radiocarbon Isotopes of Carbon Dioxide.” Web page. Accessed Feb 19, 2016 [http://www.esrl.noaa.gov/gmd/outreach/isotopes/chemistry.html]</footnote> contains six protons and six neutrons. Therefore, it has a mass number of 12 (6 protons + 6 neutrons) and an atomic number of 6.</para>
+<para id="fs-id1167660459878">There are two additional types of isotopes in nature: heavy isotopes, and radioisotopes. Heavy isotopes have one or more extra neutrons while still maintaining a stable atomic nucleus. An example of a heavy isotope is carbon-13 (<sup>13</sup>C) (1.1% of all carbon).<footnote id="fs-id1167662906861">ibid.</footnote> <sup>13</sup>C has a mass number of 13 (6 protons + 7 neutrons). Since the atomic number of <sup>13</sup>C is 6, it is still the element carbon; however, it has more mass than the more common form of the element, <sup>12</sup>C, because of the extra neutron in the nucleus. Carbon-14 (<sup>14</sup>C) (0.0001% of all carbon)<footnote id="fs-id1167660358957">ibid.</footnote> is an example of a radioisotope. <sup>14</sup>C has a mass number of 14 (6 protons + 8 neutrons); however, the extra neutrons in <sup>14</sup>C result in an unstable nucleus. This instability leads to the process of radioactive decay. Radioactive decay involves the loss of one or more neutrons and the release of energy in the form of gamma rays, alpha particles, or beta particles (depending on the isotope).</para>
+<para id="fs-id1167660585737">Heavy isotopes and radioisotopes of carbon and other elements have proven to be useful in research, industry, and medicine.</para>
+</section>
+<section id="fs-id1167660173179">
+<title>Chemical Bonds</title>
+<para id="fs-id1167662682656">There are three types of chemical bonds that are important when describing the interaction of atoms both within and between molecules in microbiology: (1) covalent bonds, which can be either polar or non-polar, (2) ionic bonds, and (3) hydrogen bonds. There are other types of interactions such as <emphasis effect="italics">London</emphasis> dispersion forces and <emphasis effect="italics">van der Waals</emphasis> forces that could also be discussed when describing the physical and chemical properties of the intermolecular interactions of atoms, but we will not include descriptions of these forces here.</para>
+<para id="fs-id1167660358732">Chemical bonding is determined by the outermost shell of electrons, called the valence electrons (VE), of an atom. The number of VE is important when determining the number and type of chemical bonds an atom will form.</para>
+<section id="fs-id1167660277386">
+<title>Covalent Bonds</title>
+<para id="fs-id1167660323667">The strongest chemical bond between two or more atoms is a <emphasis effect="bold">covalent bond</emphasis>. These bonds form when an electron is shared between two atoms, and these are the most common form of chemical bond in living organisms. Covalent bonds form between the atoms of elements that make up the biological molecules in our cells. An example of a simple molecule formed with covalent bonds is water, H<sub>2</sub>O, with one VE per H atom and 6 VE per O atom. Because of the VE configuration, each H atom is able to accept one additional VE and each O atom is able to accept two additional VE. When sharing electrons, the hydrogen and oxygen atoms that combine to form water molecules become bonded together by covalent bonds (<link target-id="OSC_Microbio_00_AA_bonds"/>). The electron from the hydrogen atom divides its time between the outer electron shell of the hydrogen atom and the outermost electron shell of the oxygen atom. To completely fill the outer shell of an oxygen atom, two electrons from two hydrogen atoms are needed, hence the subscript “2” indicating two atoms of H in a molecule of H<sub>2</sub>O. This sharing is a lower energy state for all of the atoms involved than if they existed without their outer shells filled.</para>
+<para id="fs-id1167662358802">There are two types of covalent bonds: polar and nonpolar. <emphasis effect="bold">Nonpolar covalent</emphasis> bonds form between two atoms of the same or different elements that share the electrons equally (<link target-id="OSC_Microbio_00_AA_bonds"/>). In a <emphasis effect="bold">polar covalent bond</emphasis>, the electrons shared by the atoms spend more time closer to one nucleus than to the other nucleus. Because of the unequal distribution of electrons between the different nuclei, a slightly positive (δ+) or slightly negative (δ–) charge develops. Water is an example of a molecule formed with <emphasis effect="bold">polar covalent bonds</emphasis> (<link target-id="OSC_Microbio_00_AA_bonds"/>).</para>
+<figure id="OSC_Microbio_00_AA_bonds">
+<media id="fs-id1167660274825" alt="A water molecule is labeled “polar covalent bond”; it consists of a central oxygen atom with 8 electrons in its outermost shell, 4 of which are shared (2 each) with 2 hydrogen atoms; the hydrogen atoms have a slightly positive charge and the oxygen atom has a slightly negative charge. A methane molecule is labeled “nonpolar covalent bond”; it consists of a central carbon atom with 8 electrons in its outermost shell, all of which are shared (2 each) with 4 hydrogen atoms; the molecule is neutral. The formation of sodium chloride is shown, with the sodium atom giving the only electron in its outermost shell to the chlorine atom, resulting in a sodium atom with no electrons in its outermost shell and a net positive charge, and a chlorine atom with 8 electrons in its outermost shell and a net negative charge.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_00_AA_bonds.jpg"/>
+</media>
+<caption>The water molecule (top left) depicts a polar bond with a slightly positive charge on the hydrogen atoms and a slightly negative charge on the oxygen. Methane (top right) is an example of a nonpolar covalent bond. Sodium chloride (bottom) is a substance formed from ionic bonds between sodium and chlorine.</caption>
+</figure>
+</section>
+
+<section id="fs-id1167660364802">
+<title>Ions and Ionic Bonds</title>
+<para id="fs-id1167662419745">When an atom does not contain equal numbers of protons and electrons, it is called an <emphasis effect="bold">ion</emphasis>. Because the number of electrons does not equal the number of protons, each ion has a net charge. Positive ions are formed by losing electrons and are called <emphasis effect="bold">cations</emphasis>. Negative ions are formed by gaining electrons and are called <emphasis effect="bold">anions</emphasis>.</para>
+<para id="fs-id1167662423479">For example, a sodium atom has only has one electron in its outermost shell. It takes less energy for the sodium atom to donate that one electron than it does to accept seven more electrons, which it would need to fill its outer shell. If the sodium atom loses an electron, it now has 11 protons and only 10 electrons, leaving it with an overall charge of +1. It is now called a sodium ion (Na<sup>+</sup>).</para>
+<para id="fs-id1167662491951">A chlorine atom has seven electrons in its outer shell. Again, it is more energy efficient for the chlorine atom to gain one electron than to lose seven. Therefore, it will more likely gain an electron to form an ion with 17 protons and 18 electrons, giving it a net negative (–1) charge. It is now called a chloride ion (Cl<sup>–</sup>). This movement of electrons from one atom to another is referred to as electron transfer. Because positive and negative charges attract, these ions stay together and form an <emphasis effect="bold">ionic bond</emphasis>, or a bond between ions. When Na<sup>+</sup> and Cl<sup>–</sup> ions combine to produce NaCl, an electron from a sodium atom stays with the other seven from the chlorine atom, and the sodium and chloride ions attract each other in a lattice of ions with a net zero charge (<link target-id="OSC_Microbio_00_AA_bonds"/>).</para>
+<para id="fs-id1167660308669"><emphasis effect="bold">Polyatomic ions</emphasis> consist of multiple atoms joined by covalent bonds; but unlike a molecule, a polyatomic ion has a positive or negative charge. It behaves as a cation or anion and can therefore form ionic bonds with other ions to form ionic compounds. The atoms in a polyatomic ion may be from the same element or different elements.</para>
+<para id="fs-id1167660672437"><link target-id="fs-id1167662548952"/> lists some cations and anions that commonly occur in microbiology. Note that this table includes monoatomic as well as polyatomic ions.</para>
+<table id="fs-id1167662548952" summary="A table is titled “Some Common Ions in Microbiology.” These cations and their formulas are listed: sodium (N A superscript +), hydrogen (H superscript +), potassium (K superscript +), ammonium (N H subscript 4 superscript +), copper one (C U superscript +), copper two (C U superscript 2 +), iron two (F E superscript 2 +), and iron three (F E superscript 3 +). These anions and their formulas are listed: chloride (C L superscript –), bicarbonate (H C O subscript 3 superscript –), carbonate (C O subscript 3 superscript 2 –), hydrogen sulfate (H subscript 2 S O subscript 4 superscript 2 –), hydrogen sulfide (H S superscript –), hydroxide (O H superscript –), hypochlorite (C L O superscript –), nitrite (N O subscript 2 superscript –), nitrate (N O subscript 3 superscript –), peroxide (O subscript 2 superscript 2 –), phosphate (P O subscript 4 superscript 3 –), pyrophosphate (P subscript 2 O subscript 7 superscript 4 –), sulfite S O subscript 3 superscript 2 –), thiosulfate (S subscript 2 O subscript 3 superscript 2–)." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Some Common Ions in Microbiology</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Cations</entry>
+<entry valign="top" align="center" namest="c3" nameend="c4">Anions</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="center">sodium</entry>
+<entry valign="top" align="center">Na<sup>+</sup></entry>
+<entry valign="top" align="center">chloride</entry>
+<entry valign="top" align="center">Cl<sup>–</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">hydrogen</entry>
+<entry valign="top" align="center">H<sup>+</sup></entry>
+<entry valign="top" align="center">bicarbonate</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:msub><m:mrow><m:mtext>HCO</m:mtext></m:mrow><m:mtext>3</m:mtext></m:msub><m:msup><m:mrow/><m:mo>−</m:mo></m:msup></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">potassium</entry>
+<entry valign="top" align="center">K<sup>+</sup></entry>
+<entry valign="top" align="center">carbonate</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mtext>3</m:mtext></m:msub><m:msup><m:mrow><m:msup><m:mrow/><m:mtext>2</m:mtext></m:msup></m:mrow><m:mo>−</m:mo></m:msup></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">ammonium</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:msub><m:mrow><m:mtext>NH</m:mtext></m:mrow><m:mtext>4</m:mtext></m:msub><m:msup><m:mrow/><m:mo>+</m:mo></m:msup></m:mrow></m:math></entry>
+<entry valign="top" align="center">hydrogen sulfate</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mtext>2</m:mtext></m:msub><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mtext>4</m:mtext></m:msub><m:msup><m:mrow><m:msup><m:mrow/><m:mtext>2</m:mtext></m:msup></m:mrow><m:mo>−</m:mo></m:msup></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">copper (I)</entry>
+<entry valign="top" align="center">Cu<sup>+</sup></entry>
+<entry valign="top" align="center">hydrogen sulfide</entry>
+<entry valign="top" align="center">HS<sup>–</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">copper (II)</entry>
+<entry valign="top" align="center">Cu<sup>2+</sup></entry>
+<entry valign="top" align="center">hydroxide</entry>
+<entry valign="top" align="center">OH<sup>–</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">iron (II)</entry>
+<entry valign="top" align="center">Fe<sup>2+</sup></entry>
+<entry valign="top" align="center">hypochlorite</entry>
+<entry valign="top" align="center">ClO<sup>–</sup></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">iron (III)</entry>
+<entry valign="top" align="center">Fe<sup>3+</sup></entry>
+<entry valign="top" align="center">nitrite</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mtext>2</m:mtext></m:msub><m:msup><m:mrow/><m:mo>−</m:mo></m:msup></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry/>
+<entry/>
+<entry valign="top" align="center">nitrate</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mtext>3</m:mtext></m:msub><m:msup><m:mrow/><m:mo>−</m:mo></m:msup></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry/>
+<entry/>
+<entry valign="top" align="center">peroxide</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:msub><m:mtext>O</m:mtext><m:mtext>2</m:mtext></m:msub><m:msup><m:mrow><m:msup><m:mrow/><m:mtext>2</m:mtext></m:msup></m:mrow><m:mo>−</m:mo></m:msup></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry/>
+<entry/>
+<entry valign="top" align="center">phosphate</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:msub><m:mrow><m:mtext>PO</m:mtext></m:mrow><m:mtext>4</m:mtext></m:msub><m:msup><m:mrow><m:msup><m:mrow/><m:mtext>3</m:mtext></m:msup></m:mrow><m:mo>−</m:mo></m:msup></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry/>
+<entry/>
+<entry valign="top" align="center">pyrophosphate</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:msub><m:mtext>P</m:mtext><m:mtext>2</m:mtext></m:msub><m:msub><m:mtext>O</m:mtext><m:mtext>7</m:mtext></m:msub><m:msup><m:mrow><m:msup><m:mrow/><m:mtext>4</m:mtext></m:msup></m:mrow><m:mo>−</m:mo></m:msup></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry/>
+<entry/>
+<entry valign="top" align="center">sulfite</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:msub><m:mrow><m:mtext>SO</m:mtext></m:mrow><m:mtext>3</m:mtext></m:msub><m:msup><m:mrow><m:msup><m:mrow/><m:mtext>2</m:mtext></m:msup></m:mrow><m:mo>−</m:mo></m:msup></m:mrow></m:math></entry>
+</row>
+<row valign="top">
+<entry/>
+<entry/>
+<entry valign="top" align="center">thiosulfate</entry>
+<entry valign="top" align="center"><m:math><m:mrow><m:msub><m:mtext>S</m:mtext><m:mtext>2</m:mtext></m:msub><m:msub><m:mtext>O</m:mtext><m:mtext>3</m:mtext></m:msub><m:msup><m:mrow><m:msup><m:mrow/><m:mtext>2</m:mtext></m:msup></m:mrow><m:mo>−</m:mo></m:msup></m:mrow></m:math></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+</section>
+<section id="fs-id1167662497058">
+<title>Molecular Formula, Molecular Mass, and the Mole</title>
+<para id="fs-id1167662448942">For molecules formed by covalent bonds, the molecular formula represents the number and types of elemental atoms that compose the molecule. As an example, consider a molecule of glucose, which has the molecular formula C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>. This molecular formula indicates that a single molecule of glucose is formed from six carbon atoms, twelve hydrogen atoms, and six oxygen atoms.</para>
+<para id="fs-id1167660267229">The <emphasis effect="bold">molecular mass</emphasis> of a molecule can be calculated using the molecular formula and the atomic mass of each element in the molecule. The number of each type of atom is multiplied by the atomic mass; then the products are added to get the molecular mass. For example the molecular mass of glucose, C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> (<link target-id="OSC_Microbio_00_AA_glucose"/>), is calculated as:</para>
+<equation id="fs-id1167662497310" class="unnumbered"><label/><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mtext>mass of carbon</m:mtext></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>12</m:mn><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>amu</m:mtext></m:mrow><m:mrow><m:mtext>atom</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>6</m:mn><m:mspace width="0.2em"/><m:mtext>atoms</m:mtext><m:mo>=</m:mo><m:mn>72</m:mn><m:mspace width="0.2em"/><m:mtext>amu</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>mass of hydrogen</m:mtext></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>amu</m:mtext></m:mrow><m:mrow><m:mtext>atom</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>12</m:mn><m:mspace width="0.2em"/><m:mtext>atoms</m:mtext><m:mo>=</m:mo><m:mn>12</m:mn><m:mspace width="0.2em"/><m:mtext>amu</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>mass of oxygen</m:mtext></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>16</m:mn><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>amu</m:mtext></m:mrow><m:mrow><m:mtext>atom</m:mtext></m:mrow></m:mfrac><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>6</m:mn><m:mspace width="0.2em"/><m:mtext>atoms</m:mtext><m:mo>=</m:mo><m:mn>96</m:mn><m:mspace width="0.2em"/><m:mtext>amu</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>molecular mass of glucose</m:mtext></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>72</m:mn><m:mspace width="0.2em"/><m:mtext>amu</m:mtext><m:mo>+</m:mo><m:mn>12</m:mn><m:mspace width="0.2em"/><m:mtext>amu</m:mtext><m:mo>+</m:mo><m:mn>96</m:mn><m:mspace width="0.2em"/><m:mtext>amu</m:mtext><m:mo>=</m:mo><m:mn>180</m:mn><m:mspace width="0.2em"/><m:mtext>amu</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
+<figure id="OSC_Microbio_00_AA_glucose">
+<media id="fs-id1167660149284" alt="The chemical structure of glucose.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_00_AA_glucose.jpg"/>
+</media>
+<caption>The molecular structure of glucose showing the numbers of carbon, oxygen, and hydrogen atoms. Glucose has a molecular mass of 180 amu.</caption>
+</figure>
+<para id="fs-id1167662404488">The number of entities composing a mole has been experimentally determined to be 6.022 × 10<sup>23</sup>, a fundamental constant named <emphasis effect="bold">Avogadro’s number</emphasis> (NA) or the Avogadro constant. This constant is properly reported with an explicit unit of “per mole.”</para>
+</section>
+<section id="fs-id1167660226313">
+<title>Energy</title>
+<para id="fs-id1167658029870">Thermodynamics refers to the study of energy and energy transfer involving physical matter.</para>
+<para id="fs-id1167660253867">Matter participating in a particular case of energy transfer is called a system, and everything outside of that matter is called the surroundings. There are two types of systems: open and closed. In an <emphasis effect="bold">open system</emphasis>, energy can be exchanged with its surroundings. A <emphasis effect="bold">closed system</emphasis> cannot exchange energy with its surroundings. Biological organisms are open systems. Energy is exchanged between them and their surroundings as they use energy from the sun to perform photosynthesis or consume energy-storing molecules and release energy to the environment by doing work and releasing heat. Like all things in the physical world, energy is subject to physical laws. In general, energy is defined as the ability to do work, or to create some kind of change. Energy exists in different forms. For example, electrical energy, light energy, and heat energy are all different types of energy. 	The <emphasis effect="bold">first law of thermodynamics,</emphasis> often referred to as the law of conservation of energy, states that the total amount of energy in the universe is constant and conserved. Energy exists in many different forms. According to the first law of thermodynamics, energy may be transferred from place to place or transformed into different forms, but it cannot be created or destroyed.</para>
+<para id="fs-id1167660359147">The challenge for all living organisms is to obtain energy from their surroundings in forms that they can transfer or transform into usable energy to do work. Microorganisms have evolved to meet this challenge. Chemical energy stored within organic molecules such as sugars and fats is transferred and transformed through a series of cellular chemical reactions into energy within molecules of ATP. Energy in ATP molecules is easily accessible to do work. Examples of the types of work that cells need to do include building complex molecules, transporting materials, powering the motion of cilia or flagella, and contracting muscle fibers to create movement.</para>
+<para id="fs-id1167660148671">A microorganism’s primary tasks of obtaining, transforming, and using energy to do work may seem simple. However, the <emphasis effect="bold">second law of thermodynamics</emphasis> explains why these tasks are more difficult than they appear. All energy transfers and transformations are never completely efficient. In every energy transfer, some amount of energy is lost in a form that is unusable. In most cases, this form is <emphasis effect="bold">heat energy</emphasis>. Thermodynamically, heat energy is defined as the energy transferred from one system to another that is not work. For example, some energy is lost as heat energy during cellular metabolic reactions.</para>
+<para id="fs-id1167662784938">The more energy that is lost by a system to its surroundings, the less ordered and more random the system is. Scientists refer to the measure of randomness or disorder within a system as <emphasis effect="bold">entropy</emphasis>. High entropy means high disorder and low energy. Molecules and chemical reactions have varying entropy as well. For example, entropy increases as molecules at a high concentration in one place diffuse and spread out. The second law of thermodynamics says that energy will always be lost as heat in energy transfers or transformations. Microorganisms are highly ordered, requiring constant energy input to be maintained in a state of low entropy.</para>
+</section>
+<section id="fs-id1167662491625">
+<title>Chemical Reactions</title>
+<para id="fs-id1167662552533"><emphasis effect="bold">Chemical reactions</emphasis> occur when two or more atoms bond together to form molecules or when bonded atoms are broken apart. The substances used in a chemical reaction are called the <emphasis effect="bold">reactants</emphasis> (usually found on the left side of a chemical equation), and the substances produced by the reaction are known as the <emphasis effect="bold">products</emphasis> (usually found on the right side of a chemical equation). An arrow is typically drawn between the reactants and products to indicate the direction of the chemical reaction; this direction is not always a “one-way street.”</para>
+<para id="fs-id1167662478534">An example of a simple chemical reaction is the breaking down of hydrogen peroxide molecules, each of which consists of two hydrogen atoms bonded to two oxygen atoms (H<sub>2</sub>O<sub>2</sub>). The reactant hydrogen peroxide is broken down into water, containing one oxygen atom bound to two hydrogen atoms (H<sub>2</sub>O), and oxygen, which consists of two bonded oxygen atoms (O<sub>2</sub>). In the equation below, the reaction includes two hydrogen peroxide molecules and two water molecules. This is an example of a balanced chemical equation, wherein the number of atoms of each element is the same on each side of the equation. According to the law of conservation of matter, the number of atoms before and after a chemical reaction should be equal, such that no atoms are, under normal circumstances, created or destroyed.</para>
+<equation id="fs-id1167662517272" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>hydrogen peroxide</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>2H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>water</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>O</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>oxygen</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></equation>
+<para id="fs-id1167662500674">Some chemical reactions, such as the one shown above, can proceed in one direction until the reactants are all used up. Equations that describe these reactions contain a unidirectional arrow and are irreversible. <emphasis effect="bold">Reversible reactions</emphasis> are those that can go in either direction. In reversible reactions, reactants are turned into products, but when the concentration of product rises above a certain threshold (characteristic of the particular reaction), some of these products will be converted back into reactants; at this point, the designations of products and reactants are reversed. The changes in concentration continue until a certain relative balance in concentration between reactants and products occurs—a state called <emphasis effect="bold">chemical equilibrium</emphasis>. At this point, both the forward and reverse reactions continue to occur, but they do so at the same rate, so the concentrations of reactants and products do not change. These situations of reversible reactions are often denoted by a chemical equation with a double-headed arrow pointing towards both the reactants and products. For example, when carbon dioxide dissolves in water, it can do so as a gas dissolved in water <emphasis effect="italics">or</emphasis> by reacting with water to produce carbonic acid. In the cells of some microorganisms, the rate of carbonic acid production is accelerated by the enzyme carbonic anhydrase, as indicated in the following equation:</para>
+<equation id="fs-id1167662418339" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mrow><m:mtext>H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mover><m:mrow><m:mo>⇌</m:mo></m:mrow><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mtext>carbonic</m:mtext></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mtext>anhydrase</m:mtext></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:mover><m:msub><m:mrow><m:mtext>H</m:mtext></m:mrow><m:mn>2</m:mn></m:msub><m:msub><m:mrow><m:mtext>CO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub><m:mo stretchy="false">⇌</m:mo><m:msup><m:mrow><m:mtext>H</m:mtext></m:mrow><m:mrow><m:mo>+</m:mo></m:mrow></m:msup><m:mo>+</m:mo><m:msup><m:mrow><m:msub><m:mrow><m:mtext>HCO</m:mtext></m:mrow><m:mrow><m:mn>3</m:mn></m:mrow></m:msub></m:mrow><m:mrow><m:mo>−</m:mo></m:mrow></m:msup></m:mrow></m:math></equation>
+</section>
+<section id="fs-id1167662488941">
+<title>Properties of Water and Solutions</title>
+<para id="fs-id1167662874709">The hydrogen and oxygen atoms within water molecules form polar covalent bonds. There is no overall charge to a water molecule, but there is one ∂<sup>+</sup> on each hydrogen atom and two ∂<sup>–</sup> on the oxygen atom. Each water molecule attracts other water molecules because of the positive and negative charges in the different parts of the molecule (<link target-id="OSC_Microbio_00_AA_polar"/>). Water also attracts other polar molecules (such as sugars), forming hydrogen bonds. When a substance readily forms hydrogen bonds with water, it can dissolve in water and is referred to as <emphasis effect="bold">hydrophilic</emphasis> (“water-loving”). Hydrogen bonds are not readily formed with nonpolar substances like oils and fats. These nonpolar compounds are <emphasis effect="bold">hydrophobic</emphasis> (“water-fearing”) and will orient away from and avoid water.</para>
+<figure id="OSC_Microbio_00_AA_polar"><media id="fs-id1167660290563" alt="Three water molecules are shown. The atoms of each water molecule (hydrogen and oxygen) are connected by a covalent bond. The water molecules are connected by hydrogen bonds.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_00_AA_polar.jpg"/></media>
+<caption>Hydrogen bonds form between slightly positive (∂+) and slightly negative (∂–) charges of polar covalent molecules such as water.</caption>
+</figure>
+<para id="fs-id1167662876658">The hydrogen bonds in water allow it to absorb and release heat energy more slowly than many other substances. This means that water moderates temperature changes within organisms and in their environments. As energy input continues, the balance between hydrogen-bond formation and breaking swings toward fewer hydrogen bonds: more bonds are broken than are formed. This process results in the release of individual water molecules at the surface of the liquid (such as a body of water, the leaves of a plant, or the skin of an organism) in a process called <emphasis effect="bold">evaporation</emphasis>.</para>
+<para id="fs-id1167662874715">Conversely, as molecular motion decreases and temperatures drop, less energy is present to break the hydrogen bonds between water molecules. These bonds remain intact and begin to form a rigid, lattice-like structure (e.g., ice). When frozen, ice is less dense (the molecules are farther apart) than liquid water. This means that ice floats on the surface of a body of water. In lakes, ponds, and oceans, ice will form on the surface of the water, creating an insulating barrier to protect the animal and plant life beneath from freezing in the water. If this did not happen, plants and animals living in water would freeze in a block of ice and could not move freely, making life in cold temperatures difficult or impossible.</para>
+<para id="fs-id1167660218689">Because water is polar, with slight positive and negative charges, ionic compounds and polar molecules can readily dissolve in it. Water is, therefore, what is referred to as a solvent—a substance capable of dissolving another substance. The charged particles will form hydrogen bonds with a surrounding layer of water molecules. This is referred to as a <emphasis effect="bold">sphere of hydration</emphasis> and serves to keep the ions separated or dispersed in the water (<link target-id="OSC_Microbio_00_AA_hydration"/>). These spheres of hydration are also referred to as hydration shells. The polarity of the water molecule makes it an effective solvent and is important in its many roles in living systems.</para>
+<figure id="OSC_Microbio_00_AA_hydration"><media id="fs-id1167660398376" alt="A water molecule is shown with positive charges on the hydrogen atoms and a negative charge on the oxygen atom; it is labeled “a single water molecule with partial charges.” A chlorine ion and a sodium ion are shown surrounded by water molecules. The hydrogen atoms of the water molecules are attracted to the chlorine ion, while the oxygen atoms of the water molecules are attracted to the sodium ions.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_00_AA_hydration.jpg"/></media>
+<caption>When table salt (NaCl) is mixed in water, spheres of hydration form around the ions.</caption>
+</figure>
+<para id="fs-id1167662603345">The ability of insects to float on and skate across pond water results from the property of <emphasis effect="bold">cohesion</emphasis>. In cohesion, water molecules are attracted to each other (because of hydrogen bonding), keeping the molecules together at the liquid-air (gas) interface. Cohesion gives rise to surface tension, the capacity of a substance to withstand rupture when placed under tension or stress.</para>
+<para id="fs-id1167657961791">These cohesive forces are also related to water’s property of <emphasis effect="bold">adhesion</emphasis>, or the attraction between water molecules and other molecules. This is observed when water “climbs” up a straw placed in a glass of water. You will notice that the water appears to be higher on the sides of the straw than in the middle. This is because the water molecules are attracted to the straw and therefore adhere to it.</para>
+<para id="fs-id1167660199195">Cohesion and adhesion are also factors in bacterial colonies and biofilm formation. Cohesion keeps the colony intact (helps it “stick” to a surface), while adhesion keeps the cells adhered to each other. Cohesive and adhesive forces are important for sustaining life. For example, because of these forces, water in natural surroundings provides the conditions necessary to allow bacterial and archaeal cells to adhere and accumulate on surfaces.</para>
+</section>
+<section id="fs-id1167662470295">
+<title>Acids and Bases</title>
+<para id="fs-id1167660388933">The <emphasis effect="bold">pH</emphasis> of a solution is a measure of hydrogen ion (H<sup>+</sup>) and hydroxide ion (OH<sup>–</sup>) concentrations and is described as <emphasis effect="bold">acidity</emphasis> or <emphasis effect="bold">alkalinity,</emphasis> respectively. Acidity and alkalinity (also referred to as basicity) can be measured and calculated. pH can be simply represented by the mathematic equation, <m:math><m:mrow><m:mtext>pH</m:mtext><m:mo>=</m:mo><m:msub><m:mrow><m:mtext>−log</m:mtext></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:mrow><m:mo>[</m:mo><m:msup><m:mrow><m:mtext>H</m:mtext></m:mrow><m:mrow><m:mo>+</m:mo></m:mrow></m:msup><m:mo>]</m:mo><m:mo>.</m:mo></m:mrow></m:mrow></m:math> On the left side of the equation, the "p" means "the negative logarithm of " and the H represents the [H<sup>+</sup>]. On the right side of the equation, [H<sup>+</sup>] is the concentration of H<sup>+</sup> in moles/L . What is not represented in this simple equation is the contribution of the OH<sup>–</sup>, <sup/>which also participates in acidity or alkalinity. Calculation of pH results in a number range of 0 to 14 called the pH scale (<link target-id="OSC_Microbio_00_AA_ph"/>). A pH value between 0 and 6.9 indicates an acid. It is also referred to as a low pH, due to a high [H<sup>+</sup>] and low [OH<sup>–</sup>] concentration. A pH value between 7.1 and 14 indicates an alkali or base. It is also referred to as a high pH, due to a low [H<sup>+</sup>] and high [OH<sup>–</sup>] concentration. A pH of 7 is described as a neutral pH and occurs when [H<sup>+</sup>] equals [OH<sup>–</sup>].</para>
+<figure id="OSC_Microbio_00_AA_ph"><media id="fs-id1167660277918" alt="A pH scale is numbered from 0 to 14, with examples of liquids for numbers 1 through 13: 1 is gastric acid, 2 is lemon juice, 3 is orange juice, 4 is tomato juice, 5 is black coffee, 6 is urine, 7 is distilled water, 8 is seawater, 9 is baking soda, 10 is milk of magnesia, 11 is ammonia solution, 12 is soapy water, and 13 is bleach.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_00_AA_ph.jpg"/></media>
+<caption>The pH scale measures the concentration of hydrogen ions [H<sup>+</sup>] and [OH<sup>–</sup>] in a substance. (credit: modification of work by Edward Stevens)</caption>
+</figure>
+<para id="fs-id1167660277045">A change of one unit on the pH scale represents a change in the [H<sup>+</sup>] by a factor of 10, a change in two units represents a change in the [H<sup>+</sup>] by a factor of 100. Thus, small changes in pH represent large changes in [H<sup>+</sup>].</para>
+</section>
+ </content>
+</document>

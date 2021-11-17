@@ -1,0 +1,273 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Structure and Function of RNA</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58837</md:content-id>
+  <md:title>Structure and Function of RNA</md:title>
+  <md:abstract/>
+  <md:uuid>851b8db6-cd69-497b-8565-a6055fe2235e</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1172100633116" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1172098775955">
+<item>Describe the biochemical structure of ribonucleotides</item>
+<item>Describe the similarities and differences between RNA and DNA</item>
+<item>Describe the functions of the three main types of RNA used in protein synthesis</item>
+<item>Explain how RNA can serve as hereditary information</item>
+</list>
+</section>
+<para id="fs-id1172098404258">Structurally speaking, <term>ribonucleic acid (RNA)</term>, is quite similar to DNA. However, whereas DNA molecules are typically long and double stranded, RNA molecules are much shorter and are typically single stranded. RNA molecules perform a variety of roles in the cell but are mainly involved in the process of <term class="no-emphasis">protein synthesis</term> (<term class="no-emphasis">translation</term>) and its regulation.</para>
+<section id="fs-id1172098278093">
+<title>RNA Structure</title>
+<para id="fs-id1172096034254">RNA is typically single stranded and is made of <term>ribonucleotides</term> that are linked by phosphodiester bonds. A ribonucleotide in the RNA chain contains ribose (the pentose sugar), one of the four nitrogenous bases (A, U, G, and C), and a phosphate group. The subtle structural difference between the sugars gives DNA added stability, making DNA more suitable for storage of genetic information, whereas the relative instability of RNA makes it more suitable for its more short-term functions. The RNA-specific pyrimidine <term>uracil</term> forms a complementary base pair with adenine and is used instead of the thymine used in DNA. Even though RNA is single stranded, most types of RNA molecules show extensive intramolecular base pairing between complementary sequences within the RNA strand, creating a predictable three-dimensional structure essential for their function (<link target-id="OSC_Microbio_10_03_RNAStruct"/> and <link target-id="OSC_Microbio_10_03_RNAStruct2"/>).</para>
+<figure id="OSC_Microbio_10_03_RNAStruct">
+<media id="fs-id1172100585248" alt="a) diagrams of ribose (in RNA) and deoxyribose (in DNA). Both have a pentagon shape with Oxygen at the top point of the pentagon. Both have an OH at carbon 1 and 3 and a CH2OH at carbon 4 (this last carbon is carbon 5). The difference is that ribose has an OH at carbon 2 and deoxyribose has an H at carbon 2. B) diagrams of thymine (T in DNA) and Uracil (U in RNA). Both have a single hexagon ring containing carbons and nitrogens. Both have a double bound O at the top carbon, and the bottom left carbon. The difference is that the top right carbon has an H in uracil and a CH3 in thymine.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_10_03_RNAStruct.jpg"/>
+</media>
+<caption>(a) Ribonucleotides contain the pentose sugar ribose instead of the deoxyribose found in deoxyribonucleotides. (b) RNA contains the pyrimidine uracil in place of thymine found in DNA.</caption>
+</figure>
+<figure id="OSC_Microbio_10_03_RNAStruct2">
+<media id="fs-id1172096316416" alt="a) A diagram of DNA and RNA. DNA has the double helix shape with the helix of sugar-phosphates on the outside and the base pairs on the inside. RNA has a single helix of sugar-phosphates with nitrogenous bases along the length of the helix. B) A diagram showing RNA folding upon itself. The bases attached to the sugar-phosphate backbone can form hydrogen bonds if there are stretches of complimentary bases at some distance from each other on the long strand. Other regions do not have these hydrogen bonds.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_10_03_RNAStruct2.jpg"/>
+</media>
+<caption>(a) DNA is typically double stranded, whereas RNA is typically single stranded. (b) Although it is single stranded, RNA can fold upon itself, with the folds stabilized by short areas of complementary base pairing within the molecule, forming a three-dimensional structure.</caption>
+</figure>
+<note id="fs-id1172096214586" class="microbiology check-your-understanding">
+<list id="fs-id1172098353352" list-type="bulleted" bullet-style="bullet">
+<item>How does the structure of RNA differ from the structure of DNA?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172100901947">
+<title>Functions of RNA in Protein Synthesis</title>
+<para id="fs-id1172096188404">Cells access the information stored in DNA by creating RNA to direct the synthesis of proteins through the process of <term class="no-emphasis">translation</term>. Proteins within a cell have many functions, including building cellular structures and serving as enzyme catalysts for cellular chemical reactions that give cells their specific characteristics. The three main types of RNA directly involved in protein synthesis are <term>messenger RNA (mRNA)</term>, <term>ribosomal RNA (rRNA)</term>, and <term>transfer RNA (tRNA)</term>.</para>
+<para id="fs-id1172096313315">In 1961, French scientists François <term class="no-emphasis">Jacob</term> and Jacques <term class="no-emphasis">Monod</term> hypothesized the existence of an intermediary between DNA and its protein products, which they called messenger RNA.<footnote id="fs-id1172098617833">A. Rich. “The Era of RNA Awakening: Structural Biology of RNA in the Early Years.” <emphasis effect="italics">Quarterly Reviews of Biophysics</emphasis> 42 no. 2 (2009):117–137.</footnote> Evidence supporting their hypothesis was gathered soon afterwards showing that information from DNA is transmitted to the ribosome for protein synthesis using mRNA. If DNA serves as the complete library of cellular information, mRNA serves as a photocopy of specific information needed at a particular point in time that serves as the instructions to make a protein.</para>
+<para id="fs-id1172098617483">The mRNA carries the message from the DNA, which controls all of the cellular activities in a cell. If a cell requires a certain protein to be synthesized, the gene for this product is “turned on” and the mRNA is synthesized through the process of <term class="no-emphasis">transcription</term> (see <link document="m58842">RNA Transcription</link>). The mRNA then interacts with <term class="no-emphasis">ribosomes</term> and other cellular machinery (<link target-id="OSC_Microbio_10_03_RNAFunct"/>) to direct the synthesis of the protein it encodes during the process of <term class="no-emphasis">translation</term> (see <link document="m58843">Protein Synthesis</link>). mRNA is relatively unstable and short-lived in the cell, especially in prokaryotic cells, ensuring that proteins are only made when needed.</para>
+<figure id="OSC_Microbio_10_03_RNAFunct">
+<media id="fs-id1172098527247" alt="A diagram showing mRNA as a long strand with sets of 3 letters grouped; the left of the mRNA is labeled 3-prime, the right is labeled 5-prime. An oval labeled ribosome small subunit sits under the mRNA and spans 3 of the 3-letter groups. A larger dome (labeled ribosome large subunit) sits on top of the mRNA at this same region. The large subunit has 3 gaps where rectangles labeled tRNA sit. These rectangles each sit on a group of 3-letters on the mRNA at one end and contain an amino acid on the other end. The tRNA on the left has a single amino acid. The tRNA in the middle has a growing pepetide chain of many amino acids. The tRNA on the right as no amino acids and is leaving the ribosome.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_10_03_RNAFunct.jpg"/>
+</media>
+<caption>A generalized illustration of how mRNA and tRNA are used in protein synthesis within a cell.</caption>
+</figure>
+<para id="fs-id1172100831672">rRNA and tRNA are stable types of RNA. In prokaryotes and eukaryotes, tRNA and rRNA are encoded in the DNA, then copied into long RNA molecules that are cut to release smaller fragments containing the individual mature RNA species. In eukaryotes, synthesis, cutting, and assembly of rRNA into ribosomes takes place in the nucleolus region of the nucleus, but these activities occur in the cytoplasm of prokaryotes. Neither of these types of RNA carries instructions to direct the synthesis of a polypeptide, but they play other important roles in protein synthesis.</para>
+<para id="fs-id1172101032507">Ribosomes are composed of rRNA and protein. As its name suggests, rRNA is a major constituent of <term class="no-emphasis">ribosomes</term>, composing up to about 60% of the ribosome by mass and providing the location where the mRNA binds. The rRNA ensures the proper alignment of the mRNA, tRNA, and the ribosomes; the rRNA of the ribosome also has an enzymatic activity (<term class="no-emphasis">peptidyl transferase</term>) and catalyzes the formation of the peptide bonds between two aligned amino acids during protein synthesis. Although rRNA had long been thought to serve primarily a structural role, its catalytic role within the ribosome was proven in 2000.<footnote id="fs-id1172100621304">P. Nissen et al. “The Structural Basis of Ribosome Activity in Peptide Bond Synthesis.” <emphasis effect="italics">Science</emphasis> 289 no. 5481 (2000):920–930.</footnote> Scientists in the laboratories of Thomas <term class="no-emphasis">Steitz</term> (1940–) and Peter <term class="no-emphasis">Moore</term> (1939–) at Yale University were able to crystallize the ribosome structure from <emphasis effect="italics">Haloarcula marismortui</emphasis>, a halophilic archaeon isolated from the Dead Sea. Because of the importance of this work, Steitz shared the 2009 Nobel Prize in Chemistry with other scientists who made significant contributions to the understanding of ribosome structure.</para>
+<para id="fs-id1172100922281">Transfer RNA is the third main type of RNA and one of the smallest, usually only 70–90 nucleotides long. It carries the correct amino acid to the site of protein synthesis in the ribosome. It is the base pairing between the tRNA and mRNA that allows for the correct amino acid to be inserted in the polypeptide chain being synthesized (<link target-id="OSC_Microbio_10_03_tRNA"/>). Any mutations in the tRNA or rRNA can result in global problems for the cell because both are necessary for proper protein synthesis (<link target-id="fs-id1172100972832"/>).</para>
+<figure id="OSC_Microbio_10_03_tRNA">
+<media id="fs-id1172098678477" alt="A diagram of the 2-dimentional tRNA which is a single long strand of RNA folded into a plus shape with loops on the sides and bottom. The regions where the tRNA is folded so that there are 2 parts of the strand forming the linear portions of the plus are held together by hydrogen bonds labeled intramolecular pairing. The loop at the bottom has a set of 3 letters that are complimentary to 3 letters on the mRNA. The top part of the plus has a single stranded end at the 3-prime end; this is attached to an amino acid. B) The 3-dimentional structure looks like single strand folded into a double stranded structure with a bend in the middle.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_10_03_tRNA.jpg"/>
+</media>
+<caption>A tRNA molecule is a single-stranded molecule that exhibits significant intracellular base pairing, giving it its characteristic three-dimensional shape.</caption>
+</figure>
+<table id="fs-id1172100972832" summary="Table labeled structure and function of RNA. mRNA is short, unstable, singl-stranded RNA corresponding to a gene encoded within DNA. mRNA serves as an intermediary between DNA and proteins, it is used by ribosomes to direct the synthesis of protein it encodes. rRNA is a longer, stable RNA molecules composing 60% of ribosome’s mass. rRNA ensures the proper alignment of mRNA, tRNA, and ribosome during protein synthesis; catalyzes peptide bond formation between amino acids. tRNA is short (70-90 nucleotides), stable RNA with extensive intramolecular base pairing; contains an amino acid binding site and an mRNA binding site. tRNA carries the correct amino acid to the site of protein synthesis in the ribosome.">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c4">Structure and Function of RNA</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"/>
+<entry valign="top" align="center">mRNA</entry>
+<entry valign="top" align="center">rRNA</entry>
+<entry valign="top" align="center">tRNA</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Structure</entry>
+<entry valign="top" align="left">Short, unstable, single-stranded <term class="no-emphasis">RNA</term> corresponding to a gene encoded within DNA</entry>
+<entry valign="top" align="left">Longer, stable RNA molecules composing 60% of ribosome’s mass</entry>
+<entry valign="top" align="left">Short (70-90 nucleotides), stable RNA with extensive intramolecular base pairing; contains an amino acid binding site and an mRNA binding site</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Function</entry>
+<entry valign="top" align="left">Serves as intermediary between <term class="no-emphasis">DNA</term> and protein; used by ribosome to direct synthesis of protein it encodes</entry>
+<entry valign="top" align="left">Ensures the proper alignment of mRNA, tRNA, and ribosome during protein synthesis; catalyzes <term class="no-emphasis">peptide bond</term> formation between amino acids</entry>
+<entry valign="top" align="left">Carries the correct amino acid to the site of protein synthesis in the ribosome</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1172098311924" class="microbiology check-your-understanding">
+<list id="fs-id1167586053268" list-type="bulleted" bullet-style="bullet">
+<item>What are the functions of the three major types of RNA molecules involved in protein synthesis?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172098255658">
+<title>RNA as Hereditary Information</title>
+<para id="fs-id1172098408229">Although <term class="no-emphasis">RNA</term> does not serve as the hereditary information in most cells, RNA does hold this function for many viruses that do not contain <term class="no-emphasis">DNA</term>. Thus, RNA clearly does have the additional capacity to serve as genetic information. Although RNA is typically single stranded within cells, there is significant diversity in viruses. Rhinoviruses, which cause the common cold; influenza viruses; and the Ebola virus are single-stranded RNA viruses. Rotaviruses, which cause severe gastroenteritis in children and other immunocompromised individuals, are examples of <term class="no-emphasis">double-stranded RNA</term> viruses. Because double-stranded RNA is uncommon in eukaryotic cells, its presence serves as an indicator of viral infection. The implications for a virus having an RNA genome instead of a DNA genome are discussed in more detail in <link document="m58808">Viruses</link>.</para>
+</section>
+<section id="fs-id1172100827314" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1172100643944" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Ribonucleic acid (RNA)</emphasis> is typically single stranded and contains ribose as its pentose sugar and the pyrimidine uracil instead of thymine. An RNA strand can undergo significant intramolecular base pairing to take on a three-dimensional structure.</item>
+<item>There are three main types of RNA, all involved in protein synthesis.</item>
+<item>Messenger RNA (<emphasis effect="bold">mRNA</emphasis>) serves as the intermediary between DNA and the synthesis of protein products during translation.</item>
+<item>Ribosomal RNA (<emphasis effect="bold">rRNA</emphasis>) is a type of stable RNA that is a major constituent of ribosomes. It ensures the proper alignment of the mRNA and the ribosomes during protein synthesis and catalyzes the formation of the peptide bonds between two aligned amino acids during protein synthesis.</item>
+<item>Transfer RNA (<emphasis effect="bold">tRNA</emphasis>) is a small type of stable RNA that carries an amino acid to the corresponding site of protein synthesis in the ribosome. It is the base pairing between the tRNA and mRNA that allows for the correct amino acid to be inserted in the polypeptide chain being synthesized.</item>
+<item>Although RNA is not used for long-term genetic information in cells, many viruses do use RNA as their genetic material.</item>
+</list>
+</section>
+<section id="fs-id1172098440917" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1172098766701">
+<problem id="fs-id1172098706105">
+<para id="fs-id1172098267633">Which of the following types of RNA codes for a protein?</para>
+<list id="fs-id1172098527190" list-type="enumerated" number-style="lower-alpha">
+<item>dsRNA</item>
+<item>mRNA</item>
+<item>rRNA</item>
+<item>tRNA</item>
+</list>
+</problem>
+<solution id="fs-id1172100996370">
+<para id="fs-id1172098591044">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098478657">
+<problem id="fs-id1172098380359">
+<para id="fs-id1172096072467">A nucleic acid is purified from a mixture. The molecules are relatively small, contain uracil, and most are covalently bound to an amino acid. Which of the following was purified?</para>
+<list id="fs-id1172096090112" list-type="enumerated" number-style="upper-alpha">
+<item>DNA</item>
+<item>mRNA</item>
+<item>rRNA</item>
+<item>tRNA</item>
+</list>
+</problem>
+<solution id="fs-id1172098421367">
+<para id="fs-id1172098588238">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100626304">
+<problem id="fs-id1172100728838">
+<para id="fs-id1172098321612">Which of the following types of RNA is known for its catalytic abilities?</para>
+<list id="fs-id1172101038506" list-type="enumerated" number-style="upper-alpha">
+<item>dsRNA</item>
+<item>mRNA</item>
+<item>rRNA</item>
+<item>tRNA</item>
+</list>
+</problem>
+<solution id="fs-id1172101030009">
+<para id="fs-id1172098581889">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098756700"><problem id="fs-id1172098378897">
+<para id="fs-id1172096017981">Ribosomes are composed of rRNA and what other component?</para>
+<list id="fs-id1172100555675" list-type="enumerated" number-style="upper-alpha"><item>protein</item>
+<item>carbohydrates</item>
+<item>DNA</item>
+<item>mRNA</item>
+</list>
+
+</problem>
+<solution id="eip-idm218252384"><para id="eip-idm465511344">A</para></solution></exercise><exercise id="fs-id1172100983896">
+<problem id="fs-id1172100981775">
+<para id="fs-id1172100558806">Which of the following may use RNA as its genome?</para>
+<list id="fs-id1172100836491" list-type="enumerated" number-style="upper-alpha">
+<item>a bacterium</item>
+<item>an archaeon</item>
+<item>a virus</item>
+<item>a eukaryote</item>
+</list>
+</problem>
+<solution id="fs-id1172098550265">
+<para id="fs-id1172100786316">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167585761264" class="matching">
+<title>Matching</title>
+<exercise id="fs-id1172098715682">
+<problem id="fs-id1172100668047">
+<para id="fs-id1172098591757">Match the correct molecule with its description:</para>
+<table id="fs-id1172100538503" summary="No Summary" class="unnumbered unstyled">
+<label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">___tRNA<newline/>___rRNA<newline/>___mRNA</entry>
+<entry valign="top" align="left">A. is a major component of ribosome<newline/>B. is a copy of the information in a gene<newline/>C. carries an amino acid to the ribosome</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+<solution id="fs-id1172100647692">
+<para id="fs-id1172098269642">C, A, B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167586036585" class="true-false">
+<title>True/False</title>
+<exercise id="fs-id1172100492390">
+<problem id="fs-id1172100529982">
+<para id="fs-id1172098750150">Ribosomes are composed mostly of RNA.</para>
+</problem>
+<solution id="fs-id1172100668111">
+<para id="fs-id1172100893773">True</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098432354">
+<problem id="fs-id1172100665645">
+<para id="fs-id1172098694012">Double-stranded RNA is commonly found inside cells.</para>
+</problem>
+<solution id="fs-id1172100971991">
+<para id="fs-id1172098475762">False</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172096204078" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1172100644776">
+<problem id="fs-id1172100922415">
+<para id="fs-id1172100496722">What are the differences between DNA nucleotides and RNA nucleotides?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172098516087">
+<problem id="fs-id1172098436217">
+<para id="fs-id1172100919412">How is the information stored within the base sequence of DNA used to determine a cell’s properties?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172098460427">
+<problem id="fs-id1172100926041">
+<para id="fs-id1172100922793">How do complementary base pairs contribute to intramolecular base pairing within an RNA molecule?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172100980820">
+<problem id="fs-id1172098452994">
+<para id="fs-id1172096196820">If an antisense RNA has the sequence 5ʹAUUCGAAUGC3ʹ, what is the sequence of the mRNA to which it will bind? Be sure to label the 5ʹ and 3ʹ ends of the molecule you draw.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172098578167">
+<problem id="fs-id1172100634884">
+<para id="fs-id1172098391477">Why does double-stranded RNA (dsRNA) stimulate RNA interference?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1172098657152" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1172100743582">
+<problem id="fs-id1172098759659">
+<para id="fs-id1172100551686">Identify the location of mRNA, rRNA, and tRNA in the figure.</para>
+<media id="fs-id1172098636712" alt="A long strand is labeled ii. A small oval is attached to the bottom of this strand; and a large dome to the top. These two structures together are labeled iii. Smaller rectangles sit inside the large dome and are attached to small segments of the long strand. These rectangles are labeled i.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_10_03_RNA_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-id1172096055563">
+<problem id="fs-id1172101005591">
+<para id="fs-id1172100837488">Why does it make sense that tRNA and rRNA molecules are more stable than mRNA molecules?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

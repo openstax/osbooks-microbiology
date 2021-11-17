@@ -1,0 +1,360 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Types of Microorganisms</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58783</md:content-id>
+  <md:title>Types of Microorganisms</md:title>
+  <md:abstract/>
+  <md:uuid>78e67f03-ac9e-4a80-96fa-d9a51338a2f2</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1171360528008" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1171360520117">
+<item>List the various types of microorganisms and describe their defining characteristics</item>
+<item>Give examples of different types of cellular and viral microorganisms and infectious agents</item>
+<item>Describe the similarities and differences between archaea and bacteria</item>
+<item>Provide an overview of the field of microbiology</item>
+</list>
+</section>
+<para id="fs-id1171360197623">Most microbes are unicellular and small enough that they require artificial magnification to be seen. However, there are some unicellular microbes that are visible to the naked eye, and some multicellular organisms that are microscopic. An object must measure about 100 micrometers (µm) to be visible without a microscope, but most microorganisms are many times smaller than that. For some perspective, consider that a typical animal cell measures roughly 10 µm across but is still microscopic. Bacterial cells are typically about 1 µm, and viruses can be 10 times smaller than bacteria (<link target-id="OSC_Microbio_01_03_sizes"/>). See <link target-id="fs-id1171359070853"/> for units of length used in microbiology.</para>
+<figure id="OSC_Microbio_01_03_sizes">
+<media id="fs-id1171360611407" alt="A bar along the bottom indicates size of various objects. At the far right is a from egg at approximately 1 mm. To the left are a human egg and a pollen grain at approximately 0.1 mm. Next are a standard plant and animal cell which range from 10 – 100 µm. Next is a red blood cell at just under 10 µm. Next are a mitochondrion and bacterial cell at approximately 1 µm. Next is a smallpox virus at approximately 500 nm. Next is a flu virus at approximately 100 nm. Next is a polio virus at approximately 50 nm. Next are proteins which range from 5-10 nm. Next are lipids which range from 2-5 nm. Next is C60 (fullerene molecule) which is approximately 1 nm. Finally, atoms are approximately 0.1 nm. Light microscopes can be used to view items larger than 100 nm (the size of a flu virus). Electron microscopes are useful for materials from 1.5 nm (larger than an atom) to 1 µm (the size of many bacteria).">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_03_sizes.jpg"/>
+</media>
+<caption>The relative sizes of various microscopic and nonmicroscopic objects. Note that a typical virus measures about 100 nm, 10 times smaller than a typical bacterium (~1 µm), which is at least 10 times smaller than a typical plant or animal cell (~10–100 µm). An object must measure about 100 µm to be visible without a microscope.</caption>
+</figure>
+<table id="fs-id1171359070853" summary="This table is titled Units of Length Commonly Used in Microbiology. It has three columns and seven rows. The first row is a header and has the labels: Metric Unit, Meaning of Prefix, and Metric Equivalent. The next row is for the metric unit meter (m) with has a dash in the “meaning of prefix” column. The metric equivalent shows 1 m = 10 superscript 0 m. The next row is for the metric unit decimeter (dm); the prefix deci means 1/10; the metric equivalent is: 1 dm = 0.1 m = 10 superscript -1 m. The next row is for the metric unit centimeter (cm); the prefix centi means 1/100; the metric equivalent is: 1 cm = 0.01 m = 10 superscript -2 m. The next row is for the metric unit millimeter (mm); the prefix milli means 1/1000; the metric equivalent is: 1 mm = 0.001 m = 10 superscript -3 m. The next row is for the metric unit micrometer (µm); the prefix micro means 1/1,000,000; the metric equivalent is: 1 µm = 0.000001 m = 10 superscript -6 m. The last row is for the metric unit nanometer (nm); the prefix nano means 1/1,000,000,000; the metric equivalent is: 1 nm = 0.000000001 m = 10 superscript -9 m." class="span-all">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c3">Units of Length Commonly Used in Microbiology</entry>
+</row>
+<row valign="top">
+<entry align="left">Metric Unit</entry>
+<entry align="left">Meaning of Prefix</entry>
+<entry align="left">Metric Equivalent</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry align="left">meter (m)</entry>
+<entry align="left">—</entry>
+<entry align="left">1 m = 10<sup>0</sup> m</entry>
+</row>
+<row valign="top">
+<entry align="left">decimeter (dm)</entry>
+<entry align="left">1/10</entry>
+<entry align="left">1 dm = 0.1 m = 10<sup>−1</sup> m</entry>
+</row>
+<row valign="top">
+<entry align="left">centimeter (cm)</entry>
+<entry align="left">1/100</entry>
+<entry align="left">1 cm = 0.01 m = 10<sup>−2</sup> m</entry>
+</row>
+<row valign="top">
+<entry align="left">millimeter (mm)</entry>
+<entry align="left">1/1000</entry>
+<entry align="left">1 mm = 0.001 m = 10<sup>−3</sup> m</entry>
+</row>
+<row valign="top">
+<entry align="left">micrometer (μm)</entry>
+<entry align="left">1/1,000,000</entry>
+<entry align="left">1 μm = 0.000001 m = 10<sup>−6</sup> m</entry>
+</row>
+<row valign="top">
+<entry align="left">nanometer (nm)</entry>
+<entry align="left">1/1,000,000,000</entry>
+<entry align="left">1 nm = 0.000000001 m = 10<sup>−9</sup> m</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1171360345056">Microorganisms differ from each other not only in size, but also in structure, habitat, metabolism, and many other characteristics. While we typically think of microorganisms as being unicellular, there are also many multicellular organisms that are too small to be seen without a microscope. Some microbes, such as viruses, are even <term>acellular</term> (not composed of cells).</para>
+<para id="fs-id1171359177206">Microorganisms are found in each of the three domains of life: Archaea, Bacteria, and Eukarya. Microbes within the domains Bacteria and Archaea are all prokaryotes (their cells lack a nucleus), whereas microbes in the domain Eukarya are eukaryotes (their cells have a nucleus). Some microorganisms, such as viruses, do not fall within any of the three domains of life. In this section, we will briefly introduce each of the broad groups of microbes. Later chapters will go into greater depth about the diverse species within each group.</para>
+<note id="fs-id1171360194724" class="microbiology link-to-learning">
+
+<para id="fs-id1171359092242">How big is a bacterium or a virus compared to other objects? Check out this <link url="https://www.openstax.org/l/22relsizes">interactive website</link> to get a feel for the scale of different microorganisms.</para>
+</note>
+<section id="fs-id1171360217277">
+<title>Prokaryotic Microorganisms</title>
+<para id="fs-id1171358938267"><term>Bacteria</term> are found in nearly every habitat on earth, including within and on humans. Most bacteria are harmless or helpful, but some are <term>pathogen</term><emphasis effect="bold">s</emphasis>, causing disease in humans and other animals. Bacteria are prokaryotic because their genetic material (DNA) is not housed within a true nucleus. Most bacteria have cell walls that contain peptidoglycan.</para>
+<para id="fs-id1171360444448">Bacteria are often described in terms of their general shape. Common shapes include spherical (coccus), rod-shaped (bacillus), or curved (spirillum, spirochete, or vibrio). <link target-id="OSC_Microbio_01_03_bacteria"/> shows examples of these shapes.</para>
+<figure id="OSC_Microbio_01_03_bacteria">
+<media id="fs-id1171360096175" alt="Each shape designation includes a drawing and a micrograph. Coccus is a spherical shape. Bacillus is a rod shape. Vibrio is the shape of a comma. Coccobacillus is an elongated oval. Spirillum is a rigid spiral. Spirochete is a flexible spiral.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_03_bacteria.jpg"/>
+</media>
+<caption>Common bacterial shapes. Note how coccobacillus is a combination of spherical (coccus) and rod-shaped (bacillus). (credit “Coccus”: modification of work by Janice Haney Carr, Centers for Disease Control and Prevention; credit “Coccobacillus”: modification of work by Janice Carr, Centers for Disease Control and Prevention; credit “Spirochete”: Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1171360210742">They have a wide range of metabolic capabilities and can grow in a variety of environments, using different combinations of nutrients. Some bacteria are photosynthetic, such as oxygenic <term class="no-emphasis">cyanobacteria</term> and anoxygenic green sulfur and green nonsulfur bacteria; these bacteria use energy derived from sunlight, and fix carbon dioxide for growth. Other types of bacteria are nonphotosynthetic, obtaining their energy from organic or inorganic compounds in their environment.</para>
+<para id="fs-id1171360194334"><term>Archaea</term> are also unicellular prokaryotic organisms. Archaea and bacteria have different evolutionary histories, as well as significant differences in genetics, metabolic pathways, and the composition of their cell walls and membranes. Unlike most bacteria, archaeal cell walls do not contain peptidoglycan, but their cell walls are often composed of a similar substance called pseudopeptidoglycan. Like bacteria, archaea are found in nearly every habitat on earth, even extreme environments that are very cold, very hot, very basic, or very acidic (<link target-id="OSC_Microbio_01_03_archaea"/>). Some archaea live in the human body, but none have been shown to be human pathogens.</para>
+<figure id="OSC_Microbio_01_03_archaea">
+<media id="fs-id1171360066214" alt="A photograph of a pool of water that changes in color from orange on the edges to blue in the center.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_03_archaea.jpg"/>
+</media>
+<caption>Some archaea live in extreme environments, such as the Morning Glory pool, a hot spring in Yellowstone National Park. The color differences in the pool result from the different communities of microbes that are able to thrive at various water temperatures.</caption>
+</figure>
+<note id="fs-id1171359175069" class="microbiology check-your-understanding">
+<list id="fs-id1171359181616" list-type="bulleted" bullet-style="bullet">
+<item>What are the two main types of prokaryotic organisms?</item>
+<item>Name some of the defining characteristics of each type.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1171360565126">
+<title>Eukaryotic Microorganisms</title>
+<para id="fs-id1171360246272">The domain Eukarya contains all eukaryotes, including uni- or multicellular eukaryotes such as protists, fungi, plants, and animals. The major defining characteristic of eukaryotes is that their cells contain a nucleus.</para>
+<section id="fs-id1171359027514">
+<title>Protists</title>
+<para id="fs-id1171360232747"><term>Protist</term><emphasis effect="bold">s</emphasis> are an informal grouping of eukaryotes that are not plants, animals, or fungi. Some algae are protists and others are bacteria; all protozoa are examples of protists.</para><para id="fs-id1171359011343"><term>Algae</term> (singular: alga) are  mostly made up of protists that can be either unicellular or multicellular and vary widely in size, appearance, and habitat (<link target-id="OSC_Microbio_01_03_algae"/>). Algal protists are surrounded by cell walls made of cellulose, a type of carbohydrate. Algae are photosynthetic organisms that extract energy from the sun and release oxygen and carbohydrates into their environment. Cyanobacteria, a type of bacteria, is also considered an algae, but these organisms are bacterial prokaryotes and therefore have a peptidoglycan-based cell wall, unlike the cellulose-based cell wall of the algal protists. Because other organisms can use the waste products of all algae for energy, algae are important parts of many ecosystems. Many consumer products contain ingredients derived from algae, such as carrageenan or alginic acid, which are found in some brands of ice cream, salad dressing, beverages, lipstick, and toothpaste. A derivative of algae also plays a prominent role in the microbiology laboratory. Agar, a gel derived from algae, can be mixed with various nutrients and used to grow microorganisms in a Petri dish. Algae are also being developed as a possible source for biofuels.</para><figure id="OSC_Microbio_01_03_algae">
+<media id="fs-id1171360290899" alt="A light micrograph with a black background and glowing cells. The cells have many different shapes ranging from circular to stacks of rectangles to almond shaped. A scale bar indicates how much space 100 microns takes up in this figure.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_03_algae.jpg"/>
+</media>
+<caption>Assorted diatoms, a kind of algae, live in annual sea ice in McMurdo Sound, Antarctica. Diatoms range in size from 2 μm to 200 μm and are visualized here using light microscopy. (credit: modification of work by National Oceanic and Atmospheric Administration)</caption>
+</figure>
+<para id="fs-id1171359051325"><term>Protozoa</term> (singular: protozoan) are protists that make up the backbone of many food webs by providing nutrients for other organisms. Protozoa are very diverse. Some protozoa move with help from hair-like structures called cilia or whip-like structures called flagella. Others extend part of their cell membrane and cytoplasm to propel themselves forward. These cytoplasmic extensions are called pseudopods (“false feet”). Some protozoa are photosynthetic; others feed on organic material. Some are free-living, whereas others are parasitic, only able to survive by extracting nutrients from a host organism. Most protozoa are harmless, but some are pathogens that can cause disease in animals or humans (<link target-id="OSC_Microbio_01_03_giardia"/>).</para>
+<figure id="OSC_Microbio_01_03_giardia">
+<media id="fs-id1171360245960" alt="An SEM micrograph showing a triangular cell with three long, thin projections; one from the end and two from the middle of the cell. The cell is approximately 3 x 8 µm in size.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_03_giardia.jpg"/>
+</media>
+<caption><emphasis effect="italics">Giardia lamblia</emphasis>, an intestinal protozoan parasite that infects humans and other mammals, causing severe diarrhea. (credit: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+</section>
+<section id="fs-id1171360077484">
+<title>Fungi</title>
+<para id="fs-id1171359043555"><term>Fungi</term> (singular: fungus) are also eukaryotes. Some multicellular fungi, such as mushrooms, resemble plants, but they are actually quite different. Fungi are not photosynthetic, and their cell walls are usually made out of chitin rather than cellulose.</para>
+<para id="fs-id1171360065495">Unicellular fungi—yeasts—are included within the study of microbiology. There are more than 1000 known species. Yeasts are found in many different environments, from the deep sea to the human navel. Some yeasts have beneficial uses, such as causing bread to rise and beverages to ferment; but yeasts can also cause food to spoil. Some even cause diseases, such as vaginal yeast infections and oral thrush (<link target-id="OSC_Microbio_01_03_yeast"/>).</para>
+<figure id="OSC_Microbio_01_03_yeast">
+<media id="fs-id1171360176187" alt="A light micrograph with a clear background and blue cells. A long row of cells forms a central strand. Attached to this are clusters of many spherical cells. Each cell is approximately 5 µm in size and contains a nucleus.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_03_yeast.jpg"/>
+</media>
+<caption><emphasis effect="italics">Candida albicans</emphasis> is a unicellular fungus, or yeast. It is the causative agent of vaginal yeast infections as well as oral thrush, a yeast infection of the mouth that commonly afflicts infants. <emphasis effect="italics">C. albicans</emphasis> has a morphology similar to that of coccus bacteria; however, yeast is a eukaryotic organism (note the nuclei) and is much larger. (credit: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1171360345678">Other fungi of interest to microbiologists are multicellular organisms called <term>mold</term><emphasis effect="bold">s</emphasis>. Molds are made up of long filaments that form visible colonies (<link target-id="OSC_Microbio_01_03_mold"/>). Molds are found in many different environments, from soil to rotting food to dank bathroom corners. Molds play a critical role in the decomposition of dead plants and animals. Some molds can cause allergies, and others produce disease-causing metabolites called mycotoxins. Molds have been used to make pharmaceuticals, including penicillin, which is one of the most commonly prescribed antibiotics, and cyclosporine, used to prevent organ rejection following a transplant.</para>
+<figure id="OSC_Microbio_01_03_mold">
+<media id="fs-id1171359042505" alt="A photograph of a box of moldy oranges.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_03_mold.jpg"/>
+</media>
+<caption>Large colonies of microscopic fungi can often be observed with the naked eye, as seen on the surface of these moldy oranges.</caption>
+</figure>
+<note id="fs-id1171360210324" class="microbiology check-your-understanding">
+<list id="fs-id1171360586897" list-type="bulleted" bullet-style="bullet">
+<item>Name two types of protists and two types of fungi.</item>
+<item>Name some of the defining characteristics of each type.</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1171360222749">
+<title>Helminths</title>
+<para id="fs-id1171358993574">Multicellular parasitic worms called <term>helminth</term><emphasis effect="bold">s</emphasis> are not technically microorganisms, as most are large enough to see without a microscope. However, these worms fall within the field of microbiology because diseases caused by helminths involve microscopic eggs and larvae. One example of a helminth is the <term class="no-emphasis">guinea worm</term>, or <emphasis effect="italics">Dracunculus medinensis</emphasis>, which causes dizziness, vomiting, diarrhea, and painful ulcers on the legs and feet when the worm works its way out of the skin (<link target-id="OSC_Microbio_01_03_worms"/>). Infection typically occurs after a person drinks water containing water fleas infected by guinea-worm larvae. In the mid-1980s, there were an estimated 3.5 million cases of guinea-worm disease, but the disease has been largely eradicated. In 2014, there were only 126 cases reported, thanks to the coordinated efforts of the World Health Organization (WHO) and other groups committed to improvements in drinking water sanitation.<footnote id="fs-id1171361233164">C. Greenaway “Dracunculiasis (Guinea Worm Disease).” <emphasis effect="italics">Canadian Medical Association Journal</emphasis> 170 no. 4 (2004):495–500.</footnote><footnote id="fs-id1171361218843">World Health Organization. “Dracunculiasis (Guinea-Worm Disease).” <emphasis effect="italics">WHO</emphasis>. 2015. http://www.who.int/mediacentre/factsheets/fs359/en/. Accessed October 2, 2015.</footnote></para>
+<figure id="OSC_Microbio_01_03_worms">
+<media id="fs-id1171360401785" alt="Figure a is a photograph of a long, flat, white worm folded back and forth on a black background. Figure b shows a lesion on a patient. A worm is being pulled out of the lesion and being wrapped around a matchstick">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_03_worms.jpg"/>
+</media>
+<caption>(a) The beef tapeworm, <emphasis effect="italics">Taenia saginata</emphasis>, infects both cattle and humans. <emphasis effect="italics">T. saginata</emphasis> eggs are microscopic (around 50 µm), but adult worms like the one shown here can reach 4–10 m, taking up residence in the digestive system. (b) An adult guinea worm, <emphasis effect="italics">Dracunculus medinensis</emphasis>, is removed through a lesion in the patient’s skin by winding it around a matchstick. (credit a, b: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+</section>
+<section id="fs-id1171359088591">
+<title>Viruses</title>
+<para id="fs-id1171360156604"><term>Virus</term><emphasis effect="bold">es</emphasis> are <term>acellular</term> microorganisms, which means they are not composed of cells. Essentially, a virus consists of proteins and genetic material—either DNA or RNA, but never both—that are inert outside of a host organism. However, by incorporating themselves into a host cell, viruses are able to co-opt the host’s cellular mechanisms to multiply and infect other hosts.</para>
+<para id="fs-id1171360087053">Viruses can infect all types of cells, from human cells to the cells of other microorganisms. In humans, viruses are responsible for numerous diseases, from the common cold to deadly Ebola (<link target-id="OSC_Microbio_01_03_virus"/>). However, many viruses do not cause disease.</para>
+<figure id="OSC_Microbio_01_03_virus">
+<media id="fs-id1171360370559" alt="Figure A is a TEM micrograph showing large circles with many small projections protruding outwards from the edge of the circles. A scale bar shows how large 50 nanometers is relative to this micrograph. Figure B is a TEM micrograph showing long red strands forming a knot-like structure.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_03_virus.jpg"/>
+</media>
+<caption>(a) Members of the Coronavirus family can cause respiratory infections like the common cold, severe acute respiratory syndrome (SARS), and Middle East respiratory syndrome (MERS). Here they are viewed under a transmission electron microscope (TEM). (b) Ebolavirus, a member of the Filovirus family, as visualized using a TEM. (credit a: modification of work by Centers for Disease Control and Prevention; credit b: modification of work by Thomas W. Geisbert)</caption>
+</figure>
+<note id="fs-id1171360481357" class="microbiology check-your-understanding">
+<list id="fs-id1171360211011" list-type="bulleted" bullet-style="bullet">
+<item>Are helminths microorganisms? Explain why or why not.</item>
+<item>How are viruses different from other microorganisms?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1171360384608">
+<title>Microbiology as a Field of Study</title>
+<para id="fs-id1171360227018"><term>Microbiology</term> is a broad term that encompasses the study of all different types of microorganisms. But in practice, microbiologists tend to specialize in one of several subfields. For example, <term>bacteriology</term> is the study of bacteria; <term>mycology</term> is the study of fungi; <term>protozoology</term> is the study of protozoa; <term>parasitology</term> is the study of helminths and other parasites; and <term>virology</term> is the study of viruses (<link target-id="OSC_Microbio_01_03_atwork"/>). <term>Immunology</term>, the study of the immune system, is often included in the study of microbiology because host–pathogen interactions are central to our understanding of infectious disease processes. Microbiologists can also specialize in certain areas of microbiology, such as clinical microbiology, environmental microbiology, applied microbiology, or food microbiology.</para>
+<para id="fs-id1171359172344">In this textbook, we are primarily concerned with clinical applications of microbiology, but since the various subfields of microbiology are highly interrelated, we will often discuss applications that are not strictly clinical.</para>
+<figure id="OSC_Microbio_01_03_atwork">
+<media id="fs-id1171360439856" alt="(a) A person in a field measuring an egg. (b) A person prepares an assay with a centerfuge. ">
+<image mime-type="image/png" src="../../media/OSC_Microbio_01_03_atwork.png"/>
+</media>
+<caption>(a) A virologist samples eggs from this nest to be tested for the influenza A virus, which causes avian flu in birds. (b) A biologist performs a procedure to identify an organism that causes ulcerations in humans (credit a: U.S. Fish and Wildlife Service; credit b: James Gathany / CDC; Public Domain)</caption>
+</figure>
+<note id="fs-id1171360084353" class="microbiology eye-on-ethics">
+<title>Bioethics in Microbiology</title>
+<para id="fs-id1171360216644">In the 1940s, the U.S. government was looking for a solution to a medical problem: the prevalence of sexually transmitted diseases (STDs) among soldiers. Several now-infamous government-funded studies used human subjects to research common STDs and treatments. In one such study, American researchers intentionally exposed more than 1300 human subjects in Guatemala to syphilis, gonorrhea, and chancroid to determine the ability of penicillin and other antibiotics to combat these diseases. Subjects of the study included Guatemalan soldiers, prisoners, prostitutes, and psychiatric patients—none of whom were informed that they were taking part in the study. Researchers exposed subjects to STDs by various methods, from facilitating intercourse with infected prostitutes to inoculating subjects with the bacteria known to cause the diseases. This latter method involved making a small wound on the subject’s genitals or elsewhere on the body, and then putting bacteria directly into the wound.<footnote id="fs-id1171361488852">Kara Rogers. “Guatemala Syphilis Experiment: American Medical Research Project”. <emphasis effect="italics">Encylopaedia Britannica</emphasis>. http://www.britannica.com/event/Guatemala-syphilis-experiment. Accessed June 24, 2015.</footnote> In 2011, a U.S. government commission tasked with investigating the experiment revealed that only some of the subjects were treated with penicillin, and 83 subjects died by 1953, likely as a result of the study.<footnote id="fs-id1171361483496">Susan Donaldson James. “Syphilis Experiments Shock, But So Do Third-World Drug Trials.” <emphasis effect="italics">ABC World News</emphasis>. August 30, 2011. http://abcnews.go.com/Health/guatemala-syphilis-experiments-shock-us-drug-trials-exploit/story?id=14414902. Accessed June 24, 2015.</footnote></para>
+<para id="fs-id1171359056517">Unfortunately, this is one of many horrific examples of microbiology experiments that have violated basic ethical standards. Even if this study had led to a life-saving medical breakthrough (it did not), few would argue that its methods were ethically sound or morally justifiable. But not every case is so clear cut. Professionals working in clinical settings are frequently confronted with ethical dilemmas, such as working with patients who decline a vaccine or life-saving blood transfusion. These are just two examples of life-and-death decisions that may intersect with the religious and philosophical beliefs of both the patient and the health-care professional.</para>
+<para id="fs-id1171360420373">No matter how noble the goal, microbiology studies and clinical practice must be guided by a certain set of ethical principles. Studies must be done with integrity. Patients and research subjects provide informed consent (not only agreeing to be treated or studied but demonstrating an understanding of the purpose of the study and any risks involved). Patients’ rights must be respected. Procedures must be approved by an institutional review board. When working with patients, accurate record-keeping, honest communication, and confidentiality are paramount. Animals used for research must be treated humanely, and all protocols must be approved by an institutional animal care and use committee. These are just a few of the ethical principles explored in the <emphasis effect="italics">Eye on Ethics</emphasis> boxes throughout this book.</para>
+</note>
+<note id="fs-id1171360265556" class="microbiology clinical-focus">
+<title>Resolution</title>
+<para id="fs-id1171360608173">Cora’s CSF samples show no signs of inflammation or infection, as would be expected with a viral infection. However, there is a high concentration of a particular protein, 14-3-3 protein, in her CSF. An electroencephalogram (EEG) of her brain function is also abnormal. The EEG resembles that of a patient with a neurodegenerative disease like Alzheimer’s or Huntington’s, but Cora’s rapid cognitive decline is not consistent with either of these. Instead, her doctor concludes that Cora has <term class="no-emphasis">Creutzfeldt-Jakob disease (CJD)</term>, a type of transmissible spongiform encephalopathy (TSE).</para>
+<para id="fs-id1171358950012"><term class="no-emphasis">CJD</term> is an extremely rare disease, with only about 300 cases in the United States each year. It is not caused by a bacterium, fungus, or virus, but rather by <term class="no-emphasis">prions</term>—which do not fit neatly into any particular category of microbe. Like viruses, prions are not found on the tree of life because they are acellular. Prions are extremely small, about one-tenth the size of a typical virus. They contain no genetic material and are composed solely of a type of abnormal protein.</para>
+<para id="fs-id1171360353195">CJD can have several different causes. It can be acquired through exposure to the brain or nervous-system tissue of an infected person or animal. Consuming meat from an infected animal is one way such exposure can occur. There have also been rare cases of exposure to CJD through contact with contaminated surgical equipment<footnote id="fs-id1171361466520">Greg Botelho. “Case of Creutzfeldt-Jakob Disease Confirmed in New Hampshire.” <emphasis effect="italics">CNN</emphasis>. 2013. http://www.cnn.com/2013/09/20/health/creutzfeldt-jakob-brain-disease/.</footnote> and from cornea and growth-hormone donors who unknowingly had CJD.<footnote id="fs-id1171361403658">P. Rudge et al. “Iatrogenic CJD Due to Pituitary-Derived Growth Hormone With Genetically Determined Incubation Times of Up to 40 Years.” <emphasis effect="italics">Brain</emphasis> 138 no. 11 (2015): 3386–3399.</footnote><footnote id="fs-id1171361398516">J.G. Heckmann et al. “Transmission of Creutzfeldt-Jakob Disease via a Corneal Transplant.” <emphasis effect="italics">Journal of Neurology, Neurosurgery &amp; Psychiatry</emphasis> 63 no. 3 (1997): 388–390.</footnote> In rare cases, the disease results from a specific genetic mutation that can sometimes be hereditary. However, in approximately 85% of patients with CJD, the cause of the disease is spontaneous (or sporadic) and has no identifiable cause.<footnote id="fs-id1171361307929">National Institute of Neurological Disorders and Stroke. “Creutzfeldt-Jakob Disease Fact Sheet.” <emphasis effect="italics">NIH</emphasis>. 2015. http://www.ninds.nih.gov/disorders/cjd/detail_cjd.htm#288133058.</footnote> Based on her symptoms and their rapid progression, Cora is diagnosed with sporadic CJD.</para>
+<para id="fs-id1171360064120">Unfortunately for Cora, CJD is a fatal disease for which there is no approved treatment. Approximately 90% of patients die within 1 year of diagnosis.<footnote id="fs-id1171361380791">National Institute of Neurological Disorders and Stroke. “Creutzfeldt-Jakob Disease Fact Sheet.” <emphasis effect="italics">NIH</emphasis>. 2015. http://www.ninds.nih.gov/disorders/cjd/detail_cjd.htm#288133058. Accessed June 22, 2015.</footnote> Her doctors focus on limiting her pain and cognitive symptoms as her disease progresses. Eight months later, Cora dies. Her CJD diagnosis is confirmed with a brain autopsy.</para>
+<para id="fs-id1171360196459"><emphasis effect="italics">Go back to the <link target-id="fs-id1171360143675" document="m58782">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+<section id="fs-id1171360213918" class="summary">
+<list id="fs-id1171360261336" list-type="bulleted" bullet-style="bullet">
+<item>Microorganisms are very diverse and are found in all three domains of life: Archaea, Bacteria, and Eukarya.</item>
+<item><emphasis effect="bold">Archaea</emphasis> and <emphasis effect="bold">bacteria</emphasis> are classified as prokaryotes because they lack a cellular nucleus. Archaea differ from bacteria in evolutionary history, genetics, metabolic pathways, and cell wall and membrane composition.</item>
+<item>Archaea inhabit nearly every environment on earth, but no archaea have been identified as human pathogens.</item>
+<item><emphasis effect="bold">Eukaryotes</emphasis> studied in microbiology include algae, protozoa, fungi, and helminths.</item>
+<item><emphasis effect="bold">Algae</emphasis> are plant-like organisms that can be either unicellular or multicellular, and derive energy via photosynthesis.</item>
+<item><emphasis effect="bold">Protozoa</emphasis> are unicellular organisms with complex cell structures; most are motile.</item>
+<item>Microscopic <emphasis effect="bold">fungi</emphasis> include <emphasis effect="bold">molds</emphasis> and <emphasis effect="bold">yeasts</emphasis>.</item>
+<item><emphasis effect="bold">Helminths</emphasis> are multicellular parasitic worms. They are included in the field of microbiology because their eggs and larvae are often microscopic.</item>
+<item><emphasis effect="bold">Viruses</emphasis> are acellular microorganisms that require a host to reproduce.</item>
+<item>The field of microbiology is extremely broad. Microbiologists typically specialize in one of many subfields, but all health professionals need a solid foundation in clinical microbiology.</item>
+</list>
+</section>
+<section id="fs-id1171360298510" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1171360143106">
+<problem id="fs-id1171360530404">
+<para id="fs-id1171359160472">Which of the following types of microorganisms is photosynthetic?</para>
+<list id="fs-id1171360191594" list-type="enumerated" number-style="upper-alpha">
+<item>yeast</item>
+<item>virus</item>
+<item>helminth</item>
+<item>alga</item>
+</list>
+</problem>
+<solution id="fs-id1172102106524">
+<para id="fs-id1172099611851">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1171360369592">
+<problem id="fs-id1171360351802">
+<para id="fs-id1171360338504">Which of the following is a prokaryotic microorganism?</para>
+<list id="fs-id1171360590890" list-type="enumerated" number-style="upper-alpha">
+<item>helminth</item>
+<item>protozoan</item>
+<item>cyanobacterium</item>
+<item>mold</item>
+</list>
+</problem>
+<solution id="fs-id1171360159391">
+<para id="fs-id1171360445878">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1171360401236">
+<problem id="fs-id1171360270763">
+<para id="fs-id1171360230788">Which of the following is acellular?</para>
+<list id="fs-id1171359051307" list-type="enumerated" number-style="upper-alpha">
+<item>virus</item>
+<item>bacterium</item>
+<item>fungus</item>
+<item>protozoan</item>
+</list>
+</problem>
+<solution id="fs-id1172099386697">
+<para id="fs-id1172101716342">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1171360258301">
+<problem id="fs-id1171360354399">
+<para id="fs-id1171360611559">Which of the following is a type of fungal microorganism?</para>
+<list id="fs-id1171359019301" list-type="enumerated" number-style="upper-alpha">
+<item>bacterium</item>
+<item>protozoan</item>
+<item>alga</item>
+<item>yeast</item>
+</list>
+</problem>
+<solution id="fs-id1171360278346">
+<para id="fs-id1171360198668">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1171360528335">
+<problem id="fs-id1171358993525">
+<para id="fs-id1171359092197">Which of the following is not a subfield of microbiology?</para>
+<list id="fs-id1171359127397" list-type="enumerated" number-style="upper-alpha">
+<item>bacteriology</item>
+<item>botany</item>
+<item>clinical microbiology</item>
+<item>virology</item>
+</list>
+</problem>
+<solution id="fs-id1172102055038">
+<para id="fs-id1172102066577">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1171360222234" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1171359011116">
+<problem id="fs-id1171360345891">
+<para id="fs-id1171358968772">A ________ is a disease-causing microorganism.</para>
+</problem>
+<solution id="fs-id1172099505318">
+<para id="fs-id1172099575555">pathogen</para>
+</solution>
+</exercise>
+<exercise id="fs-id1171360137019">
+<problem id="fs-id1171360581792">
+<para id="fs-id1171360086331">Multicellular parasitic worms studied by microbiologists are called ___________.</para>
+</problem>
+<solution id="fs-id1166168408362">
+<para id="fs-id1166168466153">helminths</para>
+</solution>
+</exercise>
+<exercise id="fs-id1171360529910">
+<problem id="fs-id1171359113985">
+<para id="fs-id1171360196066">The study of viruses is ___________.</para>
+</problem>
+<solution id="fs-id1172099477855">
+<para id="fs-id1172102072086">virology</para>
+</solution>
+</exercise>
+<exercise id="fs-id1171360265509">
+<problem id="fs-id1171360119958">
+<para id="fs-id1171359176525">The cells of prokaryotic organisms lack a _______.</para>
+</problem>
+<solution id="fs-id1166168190136">
+<para id="fs-id1166168160032">nucleus</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1171359070975" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1171360202786">
+<problem id="fs-id1171360113767">
+<para id="fs-id1171360185054">Describe the differences between bacteria and archaea.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1171360061770">
+<problem id="fs-id1171360276050">
+<para id="fs-id1171359077435">Name three structures that various protozoa use for locomotion.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1171360234778">
+<problem id="fs-id1171360520233">
+<para id="fs-id1171360569260">Describe the actual and relative sizes of a virus, a bacterium, and a plant or animal cell.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1171360403956" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1171360161140">
+<problem id="fs-id1171359070868">
+<para id="fs-id1171360231286">Contrast the behavior of a virus outside versus inside a cell.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1171360151637">
+<problem id="fs-id1171360185462">
+<para id="fs-id1171360243113">Where would a virus, bacterium, animal cell, and a prion belong on this chart?</para>
+<media id="fs-id1171359071052" alt="A bar along the bottom indicates size of various objects. At the far right is a from egg at approximately 1 mm. To the left are a human egg and a pollen grain at approximately 0.1 mm. Next is a red blood cell at just under 10 µm. Next is a mitochondrion at approximately 1 µm. Next are proteins which range from 5-10 nm. Next are lipids which range from 2-5 nm. Next is C60 (fullerene molecule) which is approximately 1 nm. Finally, atoms are approximately 0.1 nm.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_03_ArtConnect_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

@@ -1,0 +1,203 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Lipids</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58815</md:content-id>
+  <md:title>Lipids</md:title>
+  <md:abstract/>
+  <md:uuid>4024a114-d88c-40ae-a513-a28344b5db7e</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167662401149" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167662419939">
+<item>Describe the chemical composition of lipids</item>
+<item>Describe the unique characteristics and diverse structures of lipids</item>
+<item>Compare and contrast triacylglycerides (triglycerides) and phospholipids.</item>
+<item>Describe how phospholipids are used to construct biological membranes.</item>
+</list>
+</section>
+<para id="fs-id1167662475090">Although they are composed primarily of carbon and hydrogen, <term>lipid</term> molecules may also contain oxygen, nitrogen, sulfur, and phosphorous. Lipids serve numerous and diverse purposes in the structure and functions of organisms. They can be a source of nutrients, a storage form for carbon, energy-storage molecules, or structural components of membranes and hormones. Lipids comprise a broad class of many chemically distinct compounds, the most common of which are discussed in this section.</para>
+<section id="fs-id1167662577822">
+<title>Fatty Acids and Triacylglycerides</title>
+<para id="fs-id1167662652565">The <term>fatty acid</term>s are lipids that contain long-chain hydrocarbons terminated with a carboxylic acid functional group. Because the long <term class="no-emphasis">hydrocarbon chain</term>, fatty acids are <term>hydrophobic</term> (“water fearing”) or <term class="no-emphasis">nonpolar</term>. Fatty acids with hydrocarbon chains that contain only single bonds are called <term>saturated fatty acid</term>s because they have the greatest number of hydrogen atoms possible and are, therefore, “saturated” with hydrogen. Fatty acids with hydrocarbon chains containing at least one double bond are called <term>unsaturated fatty acid</term>s because they have fewer hydrogen atoms. Saturated fatty acids have a straight, flexible carbon backbone, whereas unsaturated fatty acids have “kinks” in their <term class="no-emphasis">carbon skeleton</term> because each double bond causes a rigid bend of the carbon skeleton. These differences in saturated versus unsaturated fatty acid structure result in different properties for the corresponding lipids in which the fatty acids are incorporated. For example, lipids containing saturated fatty acids are solids at room temperature, whereas lipids containing unsaturated fatty acids are liquids.</para>
+<para id="fs-id1167662519739">A <term>triacylglycerol</term>, or <term>triglyceride</term>, is formed when three fatty acids are chemically linked to a glycerol molecule (<link target-id="OSC_Microbio_07_03_trygly"/>). Triglycerides are the primary components of <term class="no-emphasis">adipose tissue</term> (body fat), and are major constituents of <term class="no-emphasis">sebum</term> (skin oils). They play an important metabolic role, serving as efficient energy-storage molecules that can provide more than double the caloric content of both <term class="no-emphasis">carbohydrates</term> and <term class="no-emphasis">proteins</term>.</para>
+<figure id="OSC_Microbio_07_03_trygly">
+<media id="fs-id1167662614515" alt="A diagram showing a triglyceride is made of a glycerol and three fatty acids. Glycerol is a 3 carbon chain with an OH on each carbon. The H on each OH is highlighted. Fatty acids are long carbon chains with a C that has an OH and a double bonded O at the end. The OH of this C is highlighted. Three fatty acids are shown. Each fatty acid binds to one of the O’s from the OH groups on each Carbon on glycerol. The result is a triglyceride (or neutral fat) and 3 water molecules.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_07_03_trygly.jpg"/>
+</media>
+<caption>Triglycerides are composed of a glycerol molecule attached to three fatty acids by a dehydration synthesis reaction.</caption>
+</figure>
+<note id="fs-id1167662483653" class="microbiology check-your-understanding">
+<list id="fs-id1167660216752" list-type="bulleted" bullet-style="bullet">
+<item>Explain why fatty acids with hydrocarbon chains that contain only single bonds are called saturated fatty acids.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167662514925">
+<title>Phospholipids and Biological Membranes</title>
+<para id="fs-id1167662667990">Triglycerides are classified as simple lipids because they are formed from just two types of compounds: <term class="no-emphasis">glycerol</term> and <term class="no-emphasis">fatty acids</term>. In contrast, complex lipids contain at least one additional component, for example, a phosphate group (<term>phospholipid</term><emphasis effect="bold">s</emphasis>) or a carbohydrate moiety (<term>glycolipid</term><emphasis effect="bold">s</emphasis>). <link target-id="OSC_Microbio_07_03_phospholip"/> depicts a typical phospholipid composed of two fatty acids linked to glycerol (a <term class="no-emphasis">diglyceride</term>). The two fatty acid carbon chains may be both saturated, both unsaturated, or one of each. Instead of another fatty acid molecule (as for triglycerides), the third binding position on the glycerol molecule is occupied by a modified phosphate group.</para>
+<figure id="OSC_Microbio_07_03_phospholip">
+<media id="fs-id1167662615737" alt="A drawing of a phospholipid as a large circle with 2 rectangles projecting from the bottom. The circle is labeled hydrophilic head and contains glycerol (which contains 3 carbons). Attached ot one of these carbons is a phosphate (which is a phosphorus attached to 4 oxygen atoms). The rectangles at the bottom are both long carbon chains labeled as hydrophobic tails. One of the chains is a straight zig-zag line and is labeled saturated fatty acid. The other has a double bond that creates a bend in the line; this is labeled unsaturated fatty acid.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_07_03_phospholip.jpg"/>
+</media>
+<caption>This illustration shows a phospholipid with two different fatty acids, one saturated and one unsaturated, bonded to the glycerol molecule. The unsaturated fatty acid has a slight kink in its structure due to the double bond.</caption>
+</figure>
+<para id="fs-id1167662690143">The molecular structure of lipids results in unique behavior in aqueous environments. <link target-id="OSC_Microbio_07_03_trygly"/> depicts the structure of a <term class="no-emphasis">triglyceride</term>. Because all three substituents on the glycerol backbone are long hydrocarbon chains, these compounds are nonpolar and not significantly attracted to polar water molecules—they are hydrophobic. Conversely, <term class="no-emphasis">phospholipid</term>s such as the one shown in <link target-id="OSC_Microbio_07_03_phospholip"/> have a negatively charged phosphate group. Because the phosphate is charged, it is capable of strong attraction to water molecules and thus is <term>hydrophilic</term>, or “water loving.” The hydrophilic portion of the phospholipid is often referred to as a polar “head,” and the long hydrocarbon chains as nonpolar “tails.” A molecule presenting a hydrophobic portion and a hydrophilic moiety is said to be <term>amphipathic</term>. Notice the “R” designation within the hydrophilic head depicted in <link target-id="OSC_Microbio_07_03_phospholip"/>, indicating that a <term class="no-emphasis">polar head group</term> can be more complex than a simple phosphate moiety. Glycolipids are examples in which carbohydrates are bonded to the lipids’ head groups.</para>
+<para id="fs-id1167662450197">The amphipathic nature of phospholipids enables them to form uniquely functional structures in aqueous environments. As mentioned, the polar heads of these molecules are strongly attracted to water molecules, and the nonpolar tails are not. Because of their considerable lengths, these tails are, in fact, strongly attracted to one another. As a result, energetically stable, large-scale assemblies of phospholipid molecules are formed in which the hydrophobic tails congregate within enclosed regions, shielded from contact with water by the polar heads (<link target-id="OSC_Microbio_07_03_micelle"/>). The simplest of these structures are <term>micelle</term><emphasis effect="bold">s</emphasis>, spherical assemblies containing a hydrophobic interior of phospholipid tails and an outer surface of polar head groups. Larger and more complex structures are created from <term>lipid-bilayer</term> sheets, or <term>unit membranes</term>, which are large, two-dimensional assemblies of <term class="no-emphasis">phospholipid</term>s congregated tail to tail. The cell membranes of nearly all organisms are made from lipid-bilayer sheets, as are the membranes of many intracellular components. These sheets may also form lipid-bilayer spheres that are the structural basis of <term class="no-emphasis">vesicle</term>s and <term class="no-emphasis">liposome</term>s, subcellular components that play a role in numerous physiological functions.</para>
+<figure id="OSC_Microbio_07_03_micelle">
+<media id="fs-id1167662406507" alt="A lipid bilayer sheet is when there are 2 rows of phospholipids across each other forming a flat surface. The polar heads of all phospholipids are towards the outside of the sheet, and the nonpolar tails are towards the inside. This lipid-bilyaer can also form a sphere. The lipid-bilayer forms the surface of the sphere; the  polar heads are on the outside of the sphere and lining the inside space of the sphere.  Lipids can also form a single-layer sphere where the outside of the sphere is the polar heads and the nonpolar tails fill the center of the sphere.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_07_03_micelle.jpg"/>
+</media>
+<caption>Phospholipids tend to arrange themselves in aqueous solution forming liposomes, micelles, or lipid bilayer sheets. (credit: modification of work by Mariana Ruiz Villarreal)</caption>
+</figure>
+<note id="fs-id1167662487861" class="microbiology check-your-understanding">
+<list id="fs-id1167662864466" list-type="bulleted" bullet-style="bullet">
+<item>How is the amphipathic nature of phospholipids significant?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167662616038">
+<title>Isoprenoids and Sterols</title>
+<para id="fs-id1167662685607">The <term>isoprenoids</term> are branched lipids, also referred to as <term class="no-emphasis">terpenoids</term>, that are formed by chemical modifications of the <term class="no-emphasis">isoprene</term> molecule (<link target-id="OSC_Microbio_07_03_isoprene"/>). These lipids play a wide variety of physiological roles in plants and animals, with many technological uses as pharmaceuticals (capsaicin), pigments (e.g., orange beta carotene, xanthophylls), and fragrances (e.g., menthol, camphor, limonene [lemon fragrance], and pinene [pine fragrance]). Long-chain isoprenoids are also found in <term class="no-emphasis">hydrophobic</term> oils and <term class="no-emphasis">waxes</term>. Waxes are typically water resistant and hard at room temperature, but they soften when heated and liquefy if warmed adequately. In humans, the main wax production occurs within the sebaceous glands of hair follicles in the skin, resulting in a secreted material called sebum, which consists mainly of triacylglycerol, wax esters, and the hydrocarbon squalene. There are many bacteria in the microbiota on the skin that feed on these lipids. One of the most prominent bacteria that feed on lipids is <emphasis effect="italics">Propionibacterium acnes</emphasis>, which uses the skin’s lipids to generate short-chain fatty acids and is involved in the production of acne.</para>
+<figure id="OSC_Microbio_07_03_isoprene">
+<media id="fs-id1167662489293" alt="Alpha-pinene is a carbon ring with added carbon projections. Camphor is a carbon ring with added carbon projections and a double bonded oxygen on one carbon. Isophrene is a 4 carbon chain with another carbon attached to carbon 2. Limonene is a carbon ring with a carbon attached to on one end and another carbon attached to the other end; this carbon has 2 carbons attached to it. Menthol i s a carbon ring with a carbon attached to on one end and another carbon attached to the other end; this carbon has 2 carbons attached to it. One more carbon corner has an OH group. Beta-carotene is two carbon rings attached by a long carbon chain.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_07_03_isoprene.jpg"/>
+</media>
+<caption>Five-carbon isoprene molecules are chemically modified in various ways to yield isoprenoids.</caption>
+</figure>
+<para id="fs-id1167662474631">Another type of lipids are <term>steroid</term><emphasis effect="bold">s</emphasis>, complex, ringed structures that are found in cell membranes; some function as hormones. The most common types of steroids are <term>sterol</term><emphasis effect="bold">s</emphasis>, which are steroids containing an OH group. These are mainly <term class="no-emphasis">hydrophobic</term> molecules, but also have hydrophilic <term class="no-emphasis">hydroxyl group</term>s. The most common sterol found in animal tissues is <term class="no-emphasis">cholesterol</term>. Its structure consists of four rings with a double bond in one of the rings, and a hydroxyl group at the sterol-defining position. The function of cholesterol is to strengthen cell membranes in eukaryotes and in bacteria without cell walls, such as <emphasis effect="italics">Mycoplasma</emphasis>. Prokaryotes generally do not produce cholesterol, although bacteria produce similar compounds called <term class="no-emphasis">hopanoids</term>, which are also multiringed structures that strengthen bacterial membranes (<link target-id="OSC_Microbio_07_03_sterols"/>). Fungi and some protozoa produce a similar compound called <term class="no-emphasis">ergosterol</term>, which strengthens the cell membranes of these organisms.</para>
+<figure id="OSC_Microbio_07_03_sterols">
+<media id="fs-id1167662491684" alt="Cholesterol is made of 3 hexagons attached along their edges. The third hexagon has a pentagon attached along an edge. The pentagon has a carbon chain attached to it. Hopene is made of 4 hexagons attached along their edges. The last hexagon has a pentagon. The pentagon has a short carbon chain.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_07_03_sterols.jpg"/>
+</media>
+<caption>Cholesterol and hopene (a hopanoid compound) are molecules that reinforce the structure of the cell membranes in eukaryotes and prokaryotes, respectively.</caption>
+</figure>
+<note id="fs-id1167662385161" class="microbiology link-to-learning">
+<title>Liposomes</title>
+
+<para id="fs-id1167662556044">This <link url="https://openstax.org/l/22liposomes">video</link> provides additional information about phospholipids and liposomes.</para>
+</note>
+<note id="fs-id1167662484771" class="microbiology check-your-understanding">
+<list id="fs-id1167662435660" list-type="bulleted" bullet-style="bullet">
+<item>How are isoprenoids used in technology?</item>
+</list>
+</note>
+<note id="fs-id1167662559579" class="microbiology clinical-focus">
+<title>Part 2</title>
+<para id="fs-id1167662421368">The moisturizing cream prescribed by Penny’s doctor was a topical corticosteroid cream containing hydrocortisone. Hydrocortisone is a synthetic form of cortisol, a corticosteroid hormone produced in the adrenal glands, from cholesterol. When applied directly to the skin, it can reduce inflammation and temporarily relieve minor skin irritations, itching, and rashes by reducing the secretion of histamine, a compound produced by cells of the immune system in response to the presence of pathogens or other foreign substances. Because histamine triggers the body’s inflammatory response, the ability of hydrocortisone to reduce the local production of histamine in the skin effectively suppresses the immune system and helps limit inflammation and accompanying symptoms such as pruritus (itching) and rashes.</para>
+<list id="fs-id1167662495605" list-type="bulleted" bullet-style="bullet">
+<item>Does the corticosteroid cream treat the cause of Penny’s rash, or just the symptoms?</item>
+</list>
+<para id="fs-id1167662402010"><emphasis effect="italics">Jump to the <link target-id="fs-id1167663881207" document="m58817">next</link> Clinical Focus box. Go back to the <link target-id="fs-id1167663895068" document="m58813">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+
+</section>
+<section id="fs-id1167662507447" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167662514982" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Lipids</emphasis> are composed mainly of carbon and hydrogen, but they can also contain oxygen, nitrogen, sulfur, and phosphorous. They provide nutrients for organisms, store carbon and energy, play structural roles in membranes, and function as hormones, pharmaceuticals, fragrances, and pigments.</item>
+<item>Fatty acids are long-chain hydrocarbons with a carboxylic acid functional group. Their relatively long nonpolar hydrocarbon chains make them <emphasis effect="bold">hydrophobic</emphasis>. Fatty acids with no double bonds are <emphasis effect="bold">saturated</emphasis>; those with double bonds are <emphasis effect="bold">unsaturated</emphasis>.</item>
+<item>Fatty acids chemically bond to glycerol to form structurally essential lipids such as <emphasis effect="bold">triglycerides</emphasis> and <emphasis effect="bold">phospholipids.</emphasis> Triglycerides comprise three fatty acids bonded to glycerol, yielding a hydrophobic molecule. Phospholipids contain both hydrophobic hydrocarbon chains and polar head groups, making them <emphasis effect="bold">amphipathic</emphasis> and capable of forming uniquely functional large scale structures.</item>
+<item>Biological membranes are large-scale structures based on phospholipid bilayers that provide hydrophilic exterior and interior surfaces suitable for aqueous environments, separated by an intervening hydrophobic layer. These bilayers are the structural basis for cell membranes in most organisms, as well as subcellular components such as vesicles.</item>
+<item><emphasis effect="bold">Isoprenoids</emphasis> are lipids derived from isoprene molecules that have many physiological roles and a variety of commercial applications.</item>
+<item>A wax is a long-chain isoprenoid that is typically water resistant; an example of a wax-containing substance is sebum, produced by sebaceous glands in the skin. <emphasis effect="bold">Steroids</emphasis> are lipids with complex, ringed structures that function as structural components of cell membranes and as hormones. <emphasis effect="bold">Sterols</emphasis> are a subclass of steroids containing a hydroxyl group at a specific location on one of the molecule’s rings; one example is cholesterol.</item>
+<item>Bacteria produce hopanoids, structurally similar to cholesterol, to strengthen bacterial membranes. Fungi and protozoa produce a strengthening agent called ergosterol.</item>
+</list>
+</section>
+<section id="fs-id1167662371081" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167662451034">
+<problem id="fs-id1167662547951">
+<para id="fs-id1167662467674">Which of the following describes lipids?</para>
+<list id="fs-id1167662505192" list-type="enumerated" number-style="upper-alpha">
+<item>a source of nutrients for organisms</item>
+<item>energy-storage molecules</item>
+<item>molecules having structural role in membranes</item>
+<item>molecules that are part of hormones and pigments</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-id1167662483445">
+<para id="fs-id1167662490347">E</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662552733">
+<problem id="fs-id1167662375271">
+<para id="fs-id1167662608240">Molecules bearing both polar and nonpolar groups are said to be which of the following?</para>
+<list id="fs-id1167662697498" list-type="enumerated" number-style="upper-alpha">
+<item>hydrophilic</item>
+<item>amphipathic</item>
+<item>hydrophobic</item>
+<item>polyfunctional</item>
+</list>
+</problem>
+<solution id="fs-id1167662549926">
+<para id="fs-id1167662549928">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167662683973" class="true-false">
+<title>True/False</title>
+<exercise id="fs-id1167662673590">
+<problem id="fs-id1167662673592">
+<para id="fs-id1167662622570">Lipids are a naturally occurring group of substances that are not soluble in water but are freely soluble in organic solvents.</para>
+</problem>
+<solution id="fs-id1167662682079">
+<para id="fs-id1167662682082">True</para></solution>
+</exercise>
+<exercise id="fs-id1167662685391">
+<problem id="fs-id1167662685393">
+<para id="fs-id1167662608156">Fatty acids having no double bonds are called “unsaturated.”</para>
+</problem>
+<solution id="fs-id1167662684624">
+<para id="fs-id1167662684626">False</para></solution>
+</exercise>
+<exercise id="fs-id1167662684840">
+<problem id="fs-id1167662684842">
+<para id="fs-id1167662608192">A triglyceride is formed by joining three glycerol molecules to a fatty acid backbone in a dehydration reaction.</para>
+</problem>
+<solution id="fs-id1167662614809">
+<para id="fs-id1167662614811">False</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167662703503" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167662747221">
+<problem id="fs-id1167662747223">
+<para id="fs-id1167662747225">Waxes contain esters formed from long-chain __________ and saturated __________, and they may also contain substituted hydrocarbons.</para>
+</problem>
+<solution id="fs-id1167662682776">
+<para id="fs-id1167662607761">alcohols; fatty acids</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662630481">
+<problem id="fs-id1167662630483">
+<para id="fs-id1167662651264">Cholesterol is the most common member of the __________ group, found in animal tissues; it has a tetracyclic carbon ring system with a __________ bond in one of the rings and one free __________group.</para>
+</problem>
+<solution id="fs-id1167662703558">
+<para id="fs-id1167662703560">steroid; double; hydroxyl</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167662696273" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167662684139">
+<problem id="fs-id1167662601468">
+<para id="fs-id1167662601470">Microorganisms can thrive under many different conditions, including high-temperature environments such as hot springs. To function properly, cell membranes have to be in a fluid state. How do you expect the fatty acid content (saturated versus unsaturated) of bacteria living in high-temperature environments might compare with that of bacteria living in more moderate temperatures?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167662703476" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167662746652">
+<problem id="fs-id1167662746654">
+<para id="fs-id1167662746657">Describe the structure of a typical phospholipid. Are these molecules polar or nonpolar?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+
+</document>

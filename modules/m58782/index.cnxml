@@ -1,0 +1,266 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>A Systematic Approach</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58782</md:content-id>
+  <md:title>A Systematic Approach</md:title>
+  <md:abstract/>
+  <md:uuid>d32c4114-9822-4ca0-8aee-033d39da217c</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1171359018648" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1171360169554">
+<item>Describe how microorganisms are classified and distinguished as unique species</item>
+<item>Compare historical and current systems of taxonomy used to classify microorganisms</item>
+</list>
+</section>
+<para id="fs-id1171359092729">Once microbes became visible to humans with the help of microscopes, scientists began to realize their enormous diversity. Microorganisms vary in all sorts of ways, including their size, their appearance, and their rates of reproduction. To study this incredibly diverse new array of organisms, researchers needed a way to systematically organize them.</para>
+<section id="fs-id1171359070856">
+<title>The Science of Taxonomy</title>
+<para id="fs-id1171359041036"><term>Taxonomy</term> is the classification, description, identification, and naming of living organisms. Classification is the practice of organizing organisms into different groups based on their shared characteristics. The most famous early taxonomist was a Swedish botanist, zoologist, and physician named Carolus <term class="no-emphasis">Linnaeus</term> (1701–1778). In 1735, Linnaeus published <emphasis effect="italics">Systema Naturae</emphasis>, an 11-page booklet in which he proposed the <term class="no-emphasis">Linnaean taxonomy</term>, a system of categorizing and naming organisms using a standard format so scientists could discuss organisms using consistent terminology. He continued to revise and add to the book, which grew into multiple volumes (<link target-id="OSC_Microbio_01_02_Linnaeus"/>).</para>
+<figure id="OSC_Microbio_01_02_Linnaeus">
+<media id="fs-id1171359021000" alt="A painting of Carolus Linnaeus holding a flower.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_02_Linnaeus.jpg"/>
+</media>
+<caption>Swedish botanist, zoologist, and physician Carolus Linnaeus developed a new system for categorizing plants and animals. In this 1853 portrait by Hendrik Hollander, Linnaeus is holding a twinflower, named <emphasis effect="italics">Linnaea borealis</emphasis> in his honor.</caption>
+</figure>
+<para id="fs-id1171360122119">In his taxonomy, Linnaeus divided the natural world into three kingdoms: animal, plant, and mineral (the mineral kingdom was later abandoned). Within the animal and plant kingdoms, he grouped organisms using a hierarchy of increasingly specific levels and sublevels based on their similarities. The names of the levels in Linnaeus’s original taxonomy were kingdom, class, order, family, genus (plural: genera), and species. Species was, and continues to be, the most specific and basic taxonomic unit.</para>
+<section id="fs-id1171358953517">
+<title>Evolving Trees of Life (Phylogenies)</title>
+<para id="fs-id1171360368874">With advances in technology, other scientists gradually made refinements to the Linnaean system and eventually created new systems for classifying organisms. In the 1800s, there was a growing interest in developing taxonomies that took into account the evolutionary relationships, or <term>phylogenies</term>, of all different species of organisms on earth. One way to depict these relationships is via a diagram called a phylogenetic tree (or tree of life). In these diagrams, groups of organisms are arranged by how closely related they are thought to be. In early phylogenetic trees, the relatedness of organisms was inferred by their visible similarities, such as the presence or absence of hair or the number of limbs. Now, the analysis is more complicated. Today, phylogenic analyses include genetic, biochemical, and embryological comparisons, as will be discussed later in this chapter.</para>
+<para id="fs-id1171360604206">Linnaeus’s tree of life contained just two main branches for all living things: the animal and plant kingdoms. In 1866, Ernst <term class="no-emphasis">Haeckel</term>, a German biologist, philosopher, and physician, proposed another kingdom, Protista, for unicellular organisms (<link target-id="OSC_Microbio_01_02_Haeckel"/>). He later proposed a fourth kingdom, Monera, for unicellular organisms whose cells lack nuclei, like bacteria.</para>
+<figure id="OSC_Microbio_01_02_Haeckel">
+<media id="fs-id1171360136883" alt="A drawing of a tree. The base of the tree reads: Radix Monera. This branches into three branches labeled Plantae, Protista, and Animalia. Each of these branches branch further; each new branch Is labeled in small text and clusters of branches are identified. For example, clusters of branches in the protista include: Diatomase, flagellate, protoplasta, and spongae.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_02_Haeckel.jpg"/>
+</media>
+<caption>Ernst Haeckel’s rendering of the tree of life, from his 1866 book <emphasis effect="italics">General Morphology of Organisms</emphasis>, contained three kingdoms: Plantae, Protista, and Animalia. He later added a fourth kingdom, Monera, for unicellular organisms lacking a nucleus.</caption>
+</figure>
+<para id="fs-id1171359044741">Nearly 100 years later, in 1969, American ecologist Robert <term class="no-emphasis">Whittaker</term> (1920–1980) proposed adding another kingdom—Fungi—in his tree of life. Whittaker’s tree also contained a level of categorization above the kingdom level—the empire or superkingdom level—to distinguish between organisms that have membrane-bound nuclei in their cells (<term>eukaryote</term><emphasis effect="bold">s</emphasis>) and those that do not (<term>prokaryote</term><emphasis effect="bold">s</emphasis>). Empire Prokaryota contained just the Kingdom Monera. The Empire Eukaryota contained the other four kingdoms: Fungi, Protista, Plantae, and Animalia. Whittaker’s five-kingdom tree was considered the standard phylogeny for many years.</para>
+<para id="fs-id1171360121355"><link target-id="OSC_Microbio_01_02_TreesTIME"/> shows how the tree of life has changed over time. Note that viruses are not found in any of these trees. That is because they are not made up of cells and thus it is difficult to determine where they would fit into a tree of life.</para>
+<figure id="OSC_Microbio_01_02_TreesTIME">
+<media id="fs-id1171360190302" alt="This timeline begins with Carolus Linnaeus who developed a new way to categorize plants and animals in 1758. The image above Linnaeus shows a forked line with one branch labeled plants and the other labeled animals. In 1866, Ernst Haeckel wrote General Morphology of Organisms, proposing four kingdoms. The image above Haeckel shows a central line with Monera branching off the bottom, protists branching off next, then plants and finally animals. In 1969 Robert Whittaker proposed adding a fifth kingdom – fungi – to the tree of life. The image above Whittaker is the same as the one above Haeckel but includes an additional branch labeled fungi between plants and animals.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_02_TreesTIME.jpg"/>
+</media>
+<caption>This timeline shows how the shape of the tree of life has changed over the centuries. Even today, the taxonomy of living organisms is continually being reevaluated and refined with advances in technology.</caption>
+</figure>
+<note id="fs-id1171360064729" class="microbiology check-your-understanding">
+<list id="fs-id1171360602556" list-type="bulleted" bullet-style="bullet">
+<item>Briefly summarize how our evolving understanding of microorganisms has contributed to changes in the way that organisms are classified.</item>
+</list>
+</note>
+<note id="fs-id1171360143675" class="microbiology clinical-focus">
+<title>Part 2</title>
+<para id="fs-id1171360140171">Antibiotic drugs are specifically designed to kill or inhibit the growth of bacteria. But after a couple of days on antibiotics, Cora shows no signs of improvement. Also, her CSF cultures came back from the lab negative. Since bacteria or fungi were not isolated from Cora’s CSF sample, her doctor rules out bacterial and fungal meningitis. Viral meningitis is still a possibility.</para>
+<para id="fs-id1171360446018">However, Cora now reports some troubling new symptoms. She is starting to have difficulty walking. Her muscle stiffness has spread from her neck to the rest of her body, and her limbs sometimes jerk involuntarily. In addition, Cora’s cognitive symptoms are worsening. At this point, Cora’s doctor becomes very concerned and orders more tests on the CSF samples.</para>
+<list id="fs-id1171360504430" list-type="bulleted" bullet-style="bullet">
+<item>What types of microorganisms could be causing Cora’s symptoms?</item>
+</list>
+<para id="fs-id1171360197320"><emphasis effect="italics">Jump to the <link target-id="fs-id1171360265556" document="m58783">next</link> Clinical Focus box. Go back to the <link target-id="fs-id1171360313936" document="m58781">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+<section id="fs-id1171360061757">
+<title>The Role of Genetics in Modern Taxonomy</title>
+<para id="fs-id1171360437698">Haeckel’s and Whittaker’s trees presented hypotheses about the phylogeny of different organisms based on readily observable characteristics. But the advent of molecular genetics in the late 20th century revealed other ways to organize phylogenetic trees. Genetic methods allow for a standardized way to compare all living organisms without relying on observable characteristics that can often be subjective. Modern taxonomy relies heavily on comparing the nucleic acids (deoxyribonucleic acid [DNA] or ribonucleic acid [RNA]) or proteins from different organisms. The more similar the nucleic acids and proteins are between two organisms, the more closely related they are considered to be.</para>
+<para id="fs-id1171360545720">In the 1970s, American microbiologist Carl <term class="no-emphasis">Woese</term> discovered what appeared to be a “living record” of the evolution of organisms. He and his collaborator George <term class="no-emphasis">Fox</term> created a genetics-based tree of life based on similarities and differences they observed in the gene sequences coding for small subunit ribosomal RNA (rRNA) of different organisms. In the process, they discovered that a certain type of <term class="no-emphasis">bacteria</term>, called archaebacteria (now known simply as <term class="no-emphasis">archaea</term>), were significantly different from other bacteria and eukaryotes in terms of their small subunit rRNA gene sequences. To accommodate this difference, they created a tree with three Domains above the level of Kingdom: Archaea, Bacteria, and Eukarya (<link target-id="OSC_Microbio_01_02_Woese"/>). Analysis of small subunit rRNA gene sequences suggests archaea, bacteria, and eukaryotes all evolved from a common ancestral cell type. The tree is skewed to show a closer evolutionary relationship between Archaea and Eukarya than they have to Bacteria.</para><figure id="OSC_Microbio_01_02_Woese">
+<media id="fs-id1171360389436" alt="The phylogenetic Tree of Life. A drawing of branching lines. The central line at the bottom branches into two main branches. On the left branch is the bacterial group. The branch to the right subdivides to the Archaea and Eukarya groups. Additional branches on the Eukarya group from bottom to top are: Diplomonads, Microsporidia, Trichomonads, Flagellates, Entamoebae, Smile molds, Ciliates, Plants, Fungi and Animals (which has a star labeled “you are here). Brances along the Archaea group from bottom to top are: Pyrodicticu, Thermoproteus, T. celer, Methanococcus, Methanobacterium, Methanosarcina, and Halophiles. Branches in the Bacterial group from bottom to top are: Aquifex, Thermotoga, Green filamentous bacteria, Bacteroides Cytophaga, Gram positives, Planctomyces, Cyanobacteria, Proteobacteria, and Spirocheres.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_02_Woese.jpg"/>
+</media>
+<caption>Woese and Fox’s phylogenetic tree contains three domains: Bacteria, Archaea, and Eukarya. Domains Archaea and Bacteria contain all prokaryotic organisms, and Eukarya contains all eukaryotic organisms. (credit: modification of work by Eric Gaba)</caption>
+</figure>
+<para id="fs-id1171360219115">Scientists continue to use analysis of RNA, DNA, and proteins to determine how organisms are related. One interesting, and complicating, discovery is that of horizontal gene transfer—when a gene of one species is absorbed into another organism’s genome. Horizontal gene transfer is especially common in microorganisms and can make it difficult to determine how organisms are evolutionarily related. Consequently, some scientists now think in terms of “webs of life” rather than “trees of life.”</para>
+<note id="fs-id1171360236294" class="microbiology check-your-understanding">
+<list id="fs-id1171359011758">
+<item>In modern taxonomy, how do scientists determine how closely two organisms are related?</item>
+<item>Explain why the branches on the “tree of life” all originate from a single “trunk.”</item>
+</list>
+</note>
+</section>
+<section id="fs-id1171360058084">
+<title>Naming Microbes</title>
+<para id="fs-id1171358972969">In developing his taxonomy, Linnaeus used a system of <term>binomial nomenclature</term>, a two-word naming system for identifying organisms by genus and specific epithet. For example, modern humans are in the genus <emphasis effect="italics">Homo</emphasis> and have the specific epithet name <emphasis effect="italics">sapiens</emphasis>, so their scientific name in binomial nomenclature is <emphasis effect="italics">Homo sapiens</emphasis>. In binomial nomenclature, the genus part of the name is always capitalized; it is followed by the specific epithet name, which is not capitalized. Both names are italicized. When referring to the species of humans, the binomial nomenclature would be <emphasis effect="italics">Homo sapiens</emphasis>.</para><para id="fs-id1171358982476">Taxonomic names in the 18th through 20th centuries were typically derived from Latin, since that was the common language used by scientists when taxonomic systems were first created. Today, newly discovered organisms can be given names derived from Latin, Greek, or English. Sometimes these names reflect some distinctive trait of the organism; in other cases, microorganisms are named after the scientists who discovered them. The archaeon <emphasis effect="italics">Haloquadratum walsbyi</emphasis> is an example of both of these naming schemes. The genus, <emphasis effect="italics">Haloquadratum</emphasis>, describes the microorganism’s saltwater habitat (<emphasis effect="italics">halo</emphasis> is derived from the Greek word for “salt”) as well as the arrangement of its square cells, which are arranged in square clusters of four cells (<emphasis effect="italics">quadratum</emphasis> is Latin for “foursquare”). The species, <emphasis effect="italics">walsbyi</emphasis>, is named after Anthony Edward Walsby, the microbiologist who discovered <emphasis effect="italics">Haloquadratum walsbyi</emphasis> in in 1980. While it might seem easier to give an organism a common descriptive name—like a red-headed woodpecker—we can imagine how that could become problematic. What happens when another species of woodpecker with red head coloring is discovered? The systematic nomenclature scientists use eliminates this potential problem by assigning each organism a single, unique two-word name that is recognized by scientists all over the world.</para>
+<para id="fs-id1171360589985">In this text, we will typically abbreviate an organism’s genus and species after its first mention. The abbreviated form is simply the first initial of the genus, followed by a period and the full name of the species. For example, the bacterium <emphasis effect="italics">Escherichia coli</emphasis> is shortened to <emphasis effect="italics">E. coli</emphasis> in its abbreviated form. You will encounter this same convention in other scientific texts as well.</para>
+</section>
+<section id="fs-id1171360404117">
+<title>Bergey’s Manuals</title>
+<para id="fs-id1171360346467">Whether in a tree or a web, microbes can be difficult to identify and classify. Without easily observable macroscopic features like feathers, feet, or fur, scientists must capture, grow, and devise ways to study their biochemical properties to differentiate and classify microbes. Despite these hurdles, a group of microbiologists created and updated a set of manuals for identifying and classifying microorganisms. First published in 1923 and since updated many times, <term class="no-emphasis"><emphasis effect="italics">Bergey’s Manual</emphasis></term> <emphasis effect="italics">of Determinative Bacteriology</emphasis> and <emphasis effect="italics">Bergey’s Manual of Systematic Bacteriology</emphasis> are the standard references for identifying and classifying different prokaryotes. (<link document="m58949">Appendix D</link> of this textbook is partly based on Bergey’s manuals; it shows how the organisms that appear in this textbook are classified.) Because so many bacteria look identical, methods based on nonvisual characteristics must be used to identify them. For example, biochemical tests can be used to identify chemicals unique to certain species. Likewise, serological tests can be used to identify specific antibodies that will react against the proteins found in certain species. Ultimately, DNA and rRNA sequencing can be used both for identifying a particular bacterial species and for classifying newly discovered species.</para>
+<note id="fs-id1171359199455" class="microbiology check-your-understanding">
+<list id="fs-id1171360357431" list-type="bulleted" bullet-style="bullet">
+<item>What is binomial nomenclature and why is it a useful tool for naming organisms?</item>
+<item>Explain why a resource like one of Bergey’s manuals would be helpful in identifying a microorganism in a sample.</item>
+</list>
+</note>
+<note id="fs-id1171359020558" class="microbiology micro-connection">
+<title>Same Name, Different Strain</title>
+<para id="fs-id1171360611198">Within one species of microorganism, there can be several subtypes called strains. While different strains may be nearly identical genetically, they can have very different attributes. The bacterium <emphasis effect="italics">Escherichia coli</emphasis> is infamous for causing food poisoning and traveler’s diarrhea. However, there are actually many different strains of <emphasis effect="italics">E. coli</emphasis>, and they vary in their ability to cause disease.</para>
+<para id="fs-id1171360613244">One pathogenic (disease-causing) <emphasis effect="italics">E. coli</emphasis> strain that you may have heard of is <emphasis effect="italics">E. coli</emphasis> O157:H7. In humans, infection from <emphasis effect="italics">E. coli</emphasis> O157:H7 can cause abdominal cramps and diarrhea. Infection usually originates from contaminated water or food, particularly raw vegetables and undercooked meat. In the 1990s, there were several large outbreaks of <emphasis effect="italics">E. coli</emphasis> O157:H7 thought to have originated in undercooked hamburgers.</para>
+<para id="fs-id1171360266354">While <emphasis effect="italics">E. coli</emphasis> O157:H7 and some other strains have given <emphasis effect="italics">E. coli</emphasis> a bad name, most <emphasis effect="italics">E. coli</emphasis> strains do not cause disease. In fact, some can be helpful. Different strains of <emphasis effect="italics">E. coli</emphasis> found naturally in our gut help us digest our food, provide us with some needed chemicals, and fight against pathogenic microbes.</para>
+</note>
+<note id="fs-id1171360278154" class="microbiology link-to-learning">
+
+<para id="fs-id1171360338844">Learn more about phylogenetic trees by exploring the Wellcome Trust’s interactive Tree of Life. The <link url="https://www.openstax.org/l/22wellcome">website</link> contains information, photos, and animations about many different organisms. Select two organisms to see how they are evolutionarily related.</para>
+</note>
+</section>
+</section>
+<section id="fs-id1171360215893" class="summary">
+<list id="fs-id1171360065495" list-type="bulleted" bullet-style="bullet">
+<item>Carolus Linnaeus developed a taxonomic system for categorizing organisms into related groups.</item>
+<item><emphasis effect="bold">Binomial nomenclature</emphasis> assigns organisms Latinized scientific names with a genus and species designation.</item>
+<item>A <emphasis effect="bold">phylogenetic tree</emphasis> is a way of showing how different organisms are thought to be related to one another from an evolutionary standpoint.</item>
+<item>The first phylogenetic tree contained kingdoms for plants and animals; Ernst Haeckel proposed adding kingdom for protists.</item>
+<item>Robert Whittaker’s tree contained five kingdoms: Animalia, Plantae, Protista, Fungi, and Monera.</item>
+<item>Carl Woese used small subunit ribosomal RNA to create a phylogenetic tree that groups organisms into three domains based on their genetic similarity.</item>
+<item>Bergey’s manuals of determinative and systemic bacteriology are the standard references for identifying and classifying bacteria, respectively.</item>
+<item>Bacteria can be identified through biochemical tests, DNA/RNA analysis, and serological testing methods.</item>
+</list>
+</section>
+<section id="fs-id1171360247027" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1171360344461">
+<problem id="fs-id1171360199260">
+<para id="fs-id1171359079175">Which of the following was NOT a kingdom in Linnaeus’s taxonomy?</para>
+<list id="fs-id1171359176665" list-type="enumerated" number-style="upper-alpha">
+<item>animal</item>
+<item>mineral</item>
+<item>protist</item>
+<item>plant</item>
+</list>
+</problem>
+<solution id="fs-id1171360087053">
+<para id="fs-id1171360129010">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1171360530144">
+<problem id="fs-id1171360351463">
+<para id="fs-id1171360369648">Which of the following is a correct usage of binomial nomenclature?</para>
+<list id="fs-id1171360481550" list-type="enumerated" number-style="upper-alpha">
+<item>Homo Sapiens</item>
+<item><emphasis effect="italics">homo sapiens</emphasis></item>
+<item><emphasis effect="italics">Homo sapiens</emphasis></item>
+<item><emphasis effect="italics">Homo Sapiens</emphasis></item>
+</list>
+</problem>
+<solution id="fs-id1172100619808">
+<para id="fs-id1172098391252">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1171360274356">
+<problem id="fs-id1171360250237">
+<para id="fs-id1171360207131">Which scientist proposed adding a kingdom for protists?</para>
+<list id="fs-id1171359042239" list-type="enumerated" number-style="upper-alpha">
+<item>Carolus Linnaeus</item>
+<item>Carl Woese</item>
+<item>Robert Whittaker</item>
+<item>Ernst Haeckel</item>
+</list>
+</problem>
+<solution id="fs-id1171358940488">
+<para id="fs-id1171360530170">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1171360367608">
+<problem id="fs-id1171360346519">
+<para id="fs-id1171360497365">Which of the following is NOT a domain in Woese and Fox’s phylogenetic tree?</para>
+<list id="fs-id1171360135856" list-type="enumerated" number-style="upper-alpha">
+<item>Plantae</item>
+<item>Bacteria</item>
+<item>Archaea</item>
+<item>Eukarya</item>
+</list>
+</problem>
+<solution id="fs-id1172098564463">
+<para id="fs-id1172100496994">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1171360353040">
+<problem id="fs-id1171360566924">
+<para id="fs-id1171360215231">Which of the following is the standard resource for identifying bacteria?</para>
+<list id="fs-id1171359072418" list-type="enumerated" number-style="upper-alpha">
+<item><emphasis effect="italics">Systema Naturae</emphasis></item>
+<item>Bergey’s <emphasis effect="italics">Manual of Determinative Bacteriology</emphasis></item>
+<item>Woese and Fox’s phylogenetic tree</item>
+<item>Haeckel’s <emphasis effect="italics">General Morphology of Organisms</emphasis></item>
+</list>
+</problem>
+<solution id="fs-id1171360559769">
+<para id="fs-id1171360122207">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1171360608062" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1171360225534">
+<problem id="fs-id1171360121703">
+<para id="fs-id1171360186862">In binomial nomenclature, an organism’s scientific name includes its ________ and __________.</para>
+</problem>
+<solution id="fs-id1172100922195">
+<para id="fs-id1172100527126">genus, species</para>
+</solution>
+</exercise>
+<exercise id="fs-id1171360233291">
+<problem id="fs-id1171360205735">
+<para id="fs-id1171359127221">Whittaker proposed adding the kingdoms ________ and ________ to his phylogenetic tree.</para>
+</problem>
+<solution id="fs-id1171358997601">
+<para id="fs-id1171359109936">Protista and Monera</para>
+</solution>
+</exercise>
+<exercise id="fs-id1171359056517">
+<problem id="fs-id1171359178156">
+<para id="fs-id1171360280926">__________ are organisms without membrane-bound nuclei.</para>
+</problem>
+<solution id="fs-id1172100754713">
+<para id="fs-id1172100618834">Prokaryotes</para>
+</solution>
+</exercise>
+<exercise id="fs-id1171360209140">
+<problem id="fs-id1171360207719">
+<para id="fs-id1171360275092">______ are microorganisms that are not included in phylogenetic trees because they are acellular.</para>
+</problem>
+<solution id="fs-id1171360201179">
+<para id="fs-id1171360420373">Viruses</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1171360221404" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1171360226474">
+<problem id="fs-id1171360192028">
+<para id="fs-id1171360424953">What is a phylogenetic tree?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1171360563959">
+<problem id="fs-id1171360307848">
+<para id="fs-id1171360191594">Which of the five kingdoms in Whittaker’s phylogenetic tree are prokaryotic, and which are eukaryotic?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1171359085770">
+<problem id="fs-id1171359021200">
+<para id="fs-id1171360445878">What molecule did Woese and Fox use to construct their phylogenetic tree?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1171360187080">
+<problem id="fs-id1171360291220">
+<para id="fs-id1171360143106">Name some techniques that can be used to identify and differentiate species of bacteria.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1171360439856" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1171360345718">
+<problem id="fs-id1171360139166">
+<para id="fs-id1171360251805">Why is using binomial nomenclature more useful than using common names?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1171360295712">
+<problem id="fs-id1171360209839">
+<para id="fs-id1171360170363">Label the three Domains found on modern phylogenetic trees.</para>
+<media id="fs-id1171359124754" alt="The phylogenetic Tree of Life. A drawing of branching lines. The central line at the bottom branches into two main branches. On the left branch is a purple branch that contains the following sub-branches: Green filamentous bacteria, Gram positives, Cyanobacteria, Proteobacteria, and Spirocheres. The branch to the right subdivides into a red and a brown branch. The brown branch contains the following sub-branches: Smile molds, Plants, Fungi and Animals. The red branch contains the following sub-branches: Thermoproteus, Methanococcus, Methanobacterium, and Halophiles.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_02_TreeArtCon_img.jpg"/>
+</media>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

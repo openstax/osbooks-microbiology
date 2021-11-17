@@ -1,0 +1,181 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Carbohydrates</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58814</md:content-id>
+  <md:title>Carbohydrates</md:title>
+  <md:abstract/>
+  <md:uuid>0da3ffbb-c208-4bef-a896-3568ade05f73</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167663873276" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167663738074">
+<item>Give examples of monosaccharides and polysaccharides</item>
+<item>Describe the function of monosaccharides and polysaccharides within a cell</item>
+</list>
+</section>
+<para id="fs-id1167663737351">The most abundant biomolecules on earth are <term>carbohydrate</term><emphasis effect="bold">s</emphasis>. From a chemical viewpoint, carbohydrates are primarily a combination of carbon and water, and many of them have the empirical formula (CH<sub>2</sub>O)<sub>n</sub>, where <emphasis effect="italics">n</emphasis> is the number of repeated units. This view represents these molecules simply as “hydrated” carbon atom chains in which water molecules attach to each carbon atom, leading to the term “carbohydrates.” Although all carbohydrates contain carbon, hydrogen, and oxygen, there are some that also contain nitrogen, phosphorus, and/or sulfur. Carbohydrates have myriad different functions. They are abundant in terrestrial ecosystems, many forms of which we use as food sources. These molecules are also vital parts of macromolecular structures that store and transmit genetic information (i.e., DNA and RNA). They are the basis of biological polymers that impart strength to various structural components of organisms (e.g., cellulose and chitin), and they are the primary source of energy storage in the form of starch and glycogen.</para>
+<section id="fs-id1167663621375">
+<title>Monosaccharides: The Sweet Ones</title>
+<para id="fs-id1167663728456">In biochemistry, carbohydrates are often called <term>saccharide</term><emphasis effect="bold">s</emphasis>, from the Greek <emphasis effect="italics">sakcharon</emphasis>, meaning sugar, although not all the saccharides are sweet. The simplest carbohydrates are called <term>monosaccharide</term><emphasis effect="bold">s</emphasis>, or simple sugars. They are the building blocks (monomers) for the synthesis of polymers or complex carbohydrates, as will be discussed further in this section. Monosaccharides are classified based on the number of carbons in the molecule. General categories are identified using a prefix that indicates the number of carbons and the suffix –<emphasis effect="italics">ose</emphasis>, which indicates a saccharide; for example, triose (three carbons), tetrose (four carbons), pentose (five carbons), and hexose (six carbons) (<link target-id="OSC_Microbio_07_02_monosacch"/>). The hexose D-glucose is the most abundant monosaccharide in nature. Other very common and abundant hexose monosaccharides are <term class="no-emphasis">galactose</term>, used to make the disaccharide milk sugar <term class="no-emphasis">lactose</term>, and the fruit sugar <term class="no-emphasis">fructose</term>.</para>
+<figure id="OSC_Microbio_07_02_monosacch">
+<media id="fs-id1167663658129" alt="Diagrams of various monosaccharides. Glyceraldehyde is an aldose because it has a double bonded O attached to an end carbon. Dihydroxyacetone is a ketose because it has a double bonded O attached in the center of the chain. Glyceraldehyde is a triose because it has 3 carbons. Ribose is a pentose because it has 5 carbons. Glucose is a hexose because it has 6 carbons.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_07_02_monosacch.jpg"/>
+</media>
+<caption>Monosaccharides are classified based on the position of the carbonyl group and the number of carbons in the backbone.</caption>
+</figure>
+<para id="fs-id1167663737853">Monosaccharides of four or more carbon atoms are typically more stable when they adopt cyclic, or ring, structures. These ring structures result from a chemical reaction between functional groups on opposite ends of the sugar’s flexible carbon chain, namely the carbonyl group and a relatively distant hydroxyl group. Glucose, for example, forms a six-membered ring (<link target-id="OSC_Microbio_07_02_cyclicMon"/>).</para>
+<figure id="OSC_Microbio_07_02_cyclicMon">
+<media id="fs-id1167663645158" alt="a) a diagram showing how a linear carbohydrate forms a ring. Glucose has 6 carbons; Carbon 1 has a double bonded O. Carbon 5 has an OH group. After the ring forms, Carbon 1 is attached to the O with a single bond and this O is now also attached to carbon 5. B) shows the final structure which is a hexagon shape. The top right corner is an O, the next 5 corners are Cs and the C at the top left is attached to another C that projects upward from the ring.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_07_02_cyclicMon.jpg"/>
+</media>
+<caption>(a) A linear monosaccharide (glucose in this case) forms a cyclic structure. (b) This illustration shows a more realistic depiction of the cyclic monosaccharide structure. Note in these cyclic structural diagrams, the carbon atoms composing the ring are not explicitly shown.</caption>
+</figure>
+<note id="fs-id1167663586801" class="microbiology check-your-understanding">
+<list id="fs-id1167662759144" list-type="bulleted" bullet-style="bullet">
+<item>Why do monosaccharides form ring structures?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167663632573">
+<title>Disaccharides</title>
+<para id="fs-id1167663888402">Two monosaccharide molecules may chemically bond to form a <term>disaccharide</term>. The name given to the covalent bond between the two monosaccharides is a <term>glycosidic bond</term>. Glycosidic bonds form between hydroxyl groups of the two <term class="no-emphasis">saccharide</term> molecules, an example of the <term class="no-emphasis">dehydration synthesis</term> described in the previous section of this chapter:</para>
+<equation id="fs-id1167663742118" class="unnumbered"><label/><m:math><m:mrow><m:mtext>monosaccharide—OH</m:mtext><m:mo>+</m:mo><m:mtext>HO—monosaccharide</m:mtext><m:mspace width="0.2em"/><m:mo stretchy="false">⟶</m:mo><m:mspace width="0.2em"/><m:munder><m:munder><m:mrow><m:mtext>monosaccharide—O—monosaccharide</m:mtext></m:mrow><m:mo stretchy="true">⎵</m:mo></m:munder><m:mrow><m:mtext>disaccharide</m:mtext></m:mrow></m:munder></m:mrow></m:math></equation>
+<para id="fs-id1167663626787">Common disaccharides are the grain sugar <term class="no-emphasis">maltose</term>, made of two glucose molecules; the milk sugar <term class="no-emphasis">lactose</term>, made of a <term class="no-emphasis">galactose</term> and a <term class="no-emphasis">glucose</term> molecule; and the table sugar <term class="no-emphasis">sucrose</term>, made of a glucose and a fructose molecule (<link target-id="OSC_Microbio_07_02_disacchar"/>).</para>
+<figure id="OSC_Microbio_07_02_disacchar">
+<media id="fs-id1167663603935" alt="Maltose is made of 2 glucose molecules linked with O from Carbon 4 of one glucose to carbon 1 of the other. Lactose is made of a glucose linked to a galactose. Carbon 4 of glucose is linked to carbon 1 of galactose. Sucrose is made of a glucose and a fructose. Carbon 1 of glucose is bound to carbon 2 of fructose.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_07_02_disacchar.jpg"/>
+</media>
+<caption>Common disaccharides include maltose, lactose, and sucrose.</caption>
+</figure>
+</section>
+<section id="fs-id1167663509351">
+<title>Polysaccharides</title>
+<para id="fs-id1167663731408">Polysaccharides, also called <term class="no-emphasis">glycans</term>, are large polymers composed of hundreds of monosaccharide monomers. Unlike mono- and disaccharides, <term>polysaccharides</term> are not sweet and, in general, they are not soluble in water. Like disaccharides, the monomeric units of polysaccharides are linked together by <term class="no-emphasis">glycosidic bond</term>s.</para>
+<para id="fs-id1167663602935">Polysaccharides are very diverse in their structure. Three of the most biologically important polysaccharides—<term>starch</term>, <term>glycogen</term>, and <term>cellulose</term>—are all composed of repetitive glucose units, although they differ in their structure (<link target-id="OSC_Microbio_07_02_polysacch"/>). Cellulose consists of a linear chain of glucose molecules and is a common structural component of cell walls in plants and other organisms. Glycogen and starch are branched polymers; glycogen is the primary energy-storage molecule in animals and bacteria, whereas plants primarily store energy in starch. The orientation of the <term class="no-emphasis">glycosidic linkage</term>s in these three polymers is different as well and, as a consequence, linear and branched macromolecules have different properties.</para>
+<para id="fs-id1167663634888">Modified <term class="no-emphasis">glucose</term> molecules can be fundamental components of other structural <term class="no-emphasis">polysaccharide</term>s. Examples of these types of structural polysaccharides are N-acetyl glucosamine (NAG) and N-acetyl muramic acid (NAM) found in bacterial cell wall peptidoglycan. Polymers of NAG form <term class="no-emphasis">chitin</term>, which is found in fungal cell walls and in the exoskeleton of insects.</para>
+<figure id="OSC_Microbio_07_02_polysacch">
+<media id="fs-id1167663861576" alt="Amylose is a chain of hexagons. Starch is a branching chain of hexagons. Glycogen is a highly branching chain of hexagons. Cellulose (fiber) is many rows of hexagons attached into a flat square. Micrographs of starch look like water bubbles, glycogen look like ovals, and cellulose look like long strands.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_07_02_polysacch.jpg"/>
+</media>
+<caption>Starch, glycogen, and cellulose are three of the most important polysaccharides. In the top row, hexagons represent individual glucose molecules. Micrographs (bottom row) show wheat starch granules stained with iodine (left), glycogen granules (G) inside the cell of a cyanobacterium (middle), and bacterial cellulose fibers (right). (credit “iodine granules”: modification of work by Kiselov Yuri; credit “glycogen granules”: modification of work by Stöckel J, Elvitigala TR, Liberton M, Pakrasi HB; credit “cellulose”: modification of work by American Society for Microbiology)</caption>
+</figure>
+<note id="fs-id1167663557950" class="microbiology check-your-understanding">
+<list id="fs-id1167662897319" list-type="bulleted" bullet-style="bullet">
+<item>What are the most biologically important polysaccharides and why are they important?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167663881207" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167663734566" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Carbohydrates</emphasis>, the most abundant biomolecules on earth, are widely used by organisms for structural and energy-storage purposes.</item>
+<item>Carbohydrates include individual sugar molecules (<emphasis effect="bold">monosaccharides</emphasis>) as well as two or more molecules chemically linked by <emphasis effect="bold">glycosidic bonds</emphasis>. <emphasis effect="bold">Monosaccharides</emphasis> are classified based on the number of carbons the molecule as trioses (3 C), tetroses (4 C), pentoses (5 C), and hexoses (6 C). They are the building blocks for the synthesis of polymers or complex carbohydrates.</item>
+<item><emphasis effect="bold">Disaccharides</emphasis> such as sucrose, lactose, and maltose are molecules composed of two monosaccharides linked together by a glycosidic bond.</item>
+<item><emphasis effect="bold">Polysaccharides</emphasis>, or <emphasis effect="bold">glycans</emphasis>, are polymers composed of hundreds of monosaccharide monomers linked together by glycosidic bonds. The energy-storage polymers <emphasis effect="bold">starch</emphasis> and <emphasis effect="bold">glycogen</emphasis> are examples of polysaccharides and are all composed of branched chains of glucose molecules.</item>
+<item>The polysaccharide <emphasis effect="bold">cellulose</emphasis> is a common structural component of the cell walls of organisms. Other structural polysaccharides, such as N-acetyl glucosamine (NAG) and N-acetyl muramic acid (NAM), incorporate modified glucose molecules and are used in the construction of peptidoglycan or chitin.</item>
+</list>
+</section>
+<section id="fs-id1167663533751" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167663732757">
+<problem id="fs-id1167663633913">
+<para id="fs-id1167663734151">By definition, carbohydrates contain which elements?</para>
+<list id="fs-id1167663589443" list-type="enumerated" number-style="upper-alpha">
+<item>carbon and hydrogen</item>
+<item>carbon, hydrogen, and nitrogen</item>
+<item>carbon, hydrogen, and oxygen</item>
+<item>carbon and oxygen</item>
+</list>
+</problem>
+<solution id="fs-id1167663656637">
+<para id="fs-id1167663887016">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663611699">
+<problem id="fs-id1167663612572">
+<para id="fs-id1167663602871">Monosaccharides may link together to form polysaccharides by forming which type of bond?</para>
+<list id="fs-id1167663638394" list-type="enumerated" number-style="upper-alpha">
+<item>hydrogen</item>
+<item>peptide</item>
+<item>ionic</item>
+<item>glycosidic</item>
+</list>
+</problem>
+<solution id="fs-id1167663630445">
+<para id="fs-id1167663911618">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167663810320" class="matching">
+<title>Matching</title>
+<exercise id="fs-id1167663588560">
+<problem id="fs-id1167663618719">
+<para id="fs-id1167663623502">Match each polysaccharide with its description.</para>
+<table id="fs-id1167662776047" summary="No Summary" class="unnumbered unstyled">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">___chitin</entry>
+<entry valign="top" align="left">A. energy storage polymer in plants</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___glycogen</entry>
+<entry valign="top" align="left">B. structural polymer found in plants</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___starch</entry>
+<entry valign="top" align="left">C. structural polymer found in cell walls of fungi and exoskeletons of some animals</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">___cellulose</entry>
+<entry valign="top" align="left">D. energy storage polymer found in animal cells and bacteria</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+<solution id="fs-id1167663697589">
+<para id="fs-id1167663723312">C, D, A, B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167663629336" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167663640118">
+<problem id="fs-id1167663737159">
+<para id="fs-id1167663661446">What are monosaccharides, disaccharides, and polysaccharides?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167663869598" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167663656759">
+<problem id="fs-id1167663742745">
+<para id="fs-id1167663630296">The figure depicts the structural formulas of glucose, galactose, and fructose. (a) Circle the functional groups that classify the sugars either an aldose or a ketose, and identify each sugar as one or the other. (b) The chemical formula of these compounds is the same, although the structural formula is different. What are such compounds called?</para>
+<media id="fs-id1167663558426" alt="Galactose has 6 carbons with a double bonded O at carbon 1; all other carbons have one OH. The difference between glucose and galactose is the direction of the OH groups. Fructose has 6 carbons with a double bonded O at carbon 2; all other carbons have one OH.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_07_02_artCon1_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-id1167663733917">
+<problem id="fs-id1167663919970">
+<para id="fs-id1167663618028">Structural diagrams for the linear and cyclic forms of a monosaccharide are shown. (a) What is the molecular formula for this monosaccharide? (Count the C, H and O atoms in each to confirm that these two molecules have the same formula, and report this formula.) (b) Identify which hydroxyl group in the linear structure undergoes the ring-forming reaction with the carbonyl group.</para>
+<media id="fs-id1167663810337" alt="A chain of 5 Carbons. Carbon 1 has a double bonded O and an H. Carbons 2, 3, and 4, each have an OH above the chain and an H below. Carbon 5 has an OH and 2 Hs. The second image is a pentagon. The top point is an O. Moving clockwise, each of the next 3 points are attached to an OH and an H. The last point is attached to an H and a  CH2OH.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_07_02_artCon4_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-id1167663886105">
+<problem id="fs-id1167663591716">
+<para id="fs-id1167663585712">The term “dextrose” is commonly used in medical settings when referring to the biologically relevant isomer of the monosaccharide glucose. Explain the logic of this alternative name.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+
+</document>

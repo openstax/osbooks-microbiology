@@ -1,0 +1,381 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Bacterial Infections of the Skin and Eyes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58907</md:content-id>
+  <md:title>Bacterial Infections of the Skin and Eyes</md:title>
+  <md:abstract/>
+  <md:uuid>06d68102-a156-4967-9fa9-1f0e1c51d984</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167663994168" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167663634206">
+<item>Identify the most common bacterial pathogens that cause infections of the skin and eyes</item>
+<item>Compare the major characteristics of specific bacterial diseases affecting the skin and eyes</item>
+</list>
+</section>
+<para id="fs-id1167663714252">Despite the skin’s protective functions, infections are common. Gram-positive <emphasis effect="italics">Staphylococcus</emphasis> spp. and <emphasis effect="italics">Streptococcus</emphasis> spp. are responsible for many of the most common skin infections. However, many skin conditions are not strictly associated with a single pathogen. Opportunistic pathogens of many types may infect skin wounds, and individual cases with identical symptoms may result from different pathogens or combinations of pathogens.</para>
+<para id="fs-id1167663972329">In this section, we will examine some of the most important bacterial infections of the skin and eyes and discuss how biofilms can contribute to and exacerbate such infections. Key features of bacterial skin and eye infections are also summarized in the Disease Profile boxes throughout this section.</para>
+<section id="fs-id1167663897127">
+<title>Staphylococcal Infections of the Skin</title>
+<para id="fs-id1167661483387"><emphasis effect="italics">Staphylococcus</emphasis> species are commonly found on the skin, with <emphasis effect="italics">S. epidermidis</emphasis> and <emphasis effect="italics">S. hominis</emphasis> being prevalent in the normal microbiota. <emphasis effect="italics">S. aureus</emphasis> is also commonly found in the nasal passages and on healthy skin, but pathogenic strains are often the cause of a broad range of infections of the skin and other body systems.</para>
+<para id="fs-id1167661364634"><emphasis effect="italics">S. aureus</emphasis> is quite contagious. It is spread easily through skin-to-skin contact, and because many people are chronic nasal carriers (asymptomatic individuals who carry <emphasis effect="italics">S. aureus</emphasis> in their nares), the bacteria can easily be transferred from the nose to the hands and then to fomites or other individuals. Because it is so contagious, <emphasis effect="italics">S. aureus</emphasis> is prevalent in most community settings. This prevalence is particularly problematic in hospitals, where antibiotic-resistant strains of the bacteria may be present, and where immunocompromised patients may be more susceptible to infection. Resistant strains include methicillin-resistant <emphasis effect="italics">S. aureus</emphasis> (MRSA), which can be acquired through health-care settings (<term class="no-emphasis">hospital-acquired MRSA</term>, or <term class="no-emphasis">HA-MRSA</term>) or in the community (<term class="no-emphasis">community-acquired MRSA</term>, or <term class="no-emphasis">CA-MRSA</term>). Hospital patients often arrive at health-care facilities already colonized with antibiotic-resistant strains of <emphasis effect="italics">S. aureus</emphasis> that can be transferred to health-care providers and other patients. Some hospitals have attempted to detect these individuals in order to institute prophylactic measures, but they have had mixed success (see <link target-id="fs-id1167663637498">Eye on Ethics: Screening Patients for MRSA</link>).</para>
+<para id="fs-id1167663971832">When a staphylococcal infection develops, choice of medication is important. As discussed above, many staphylococci (such as MRSA) are resistant to some or many antibiotics. Thus, antibiotic sensitivity is measured to identify the most suitable antibiotic. However, even before receiving the results of sensitivity analysis, suspected <emphasis effect="italics">S. aureus</emphasis> infections are often initially treated with drugs known to be effective against MRSA, such as <term class="no-emphasis">trimethoprim-sulfamethoxazole</term> (<term class="no-emphasis">TMP/SMZ</term>), <term class="no-emphasis">clindamycin</term>, a <term class="no-emphasis">tetracycline</term> (<term class="no-emphasis">doxycycline</term> or <term class="no-emphasis">minocycline</term>), or <term class="no-emphasis">linezolid</term>.</para>
+<para id="fs-id1167663741005">The pathogenicity of staphylococcal infections is often enhanced by characteristic chemicals secreted by some strains. Staphylococcal virulence factors include <term class="no-emphasis">hemolysins</term> called <term>staphylolysins</term>, which are cytotoxic for many types of cells, including skin cells and white blood cells. Virulent strains of <emphasis effect="italics">S. aureus</emphasis> are also coagulase-positive, meaning they produce <term class="no-emphasis">coagulase</term>, a plasma-clotting protein that is involved in abscess formation. They may also produce <term class="no-emphasis">leukocidins</term>, which kill white blood cells and can contribute to the production of pus and Protein A, which inhibits phagocytosis by binding to the constant region of antibodies. Some virulent strains of <emphasis effect="italics">S. aureus</emphasis> also produce other toxins, such as <term class="no-emphasis">toxic shock syndrome toxin-1</term> (see <link document="m58868">Virulence Factors of Bacterial and Viral Pathogens</link>).</para>
+<para id="fs-id1167663732834">To confirm the causative agent of a suspected staphylococcal skin infection, samples from the wound are cultured. Under the microscope, gram-positive <emphasis effect="italics">Staphylococcus</emphasis> species have cellular arrangements that form grapelike clusters; when grown on blood agar, colonies have a unique pigmentation ranging from opaque white to cream. A <term class="no-emphasis">catalase test</term> is used to distinguish <emphasis effect="italics">Staphylococcus</emphasis> from <term class="no-emphasis"><emphasis effect="italics">Streptococcus</emphasis></term>, which is also a genus of gram-positive cocci and a common cause of skin infections. <term class="no-emphasis"><emphasis effect="italics">Staphylococcus</emphasis></term> species are catalase-positive while <emphasis effect="italics">Streptococcus</emphasis> species are catalase-negative.</para>
+<para id="fs-id1167663517356">Other tests are performed on samples from the wound in order to distinguish coagulase-positive species of <emphasis effect="italics">Staphylococcus</emphasis> (CoPS) such as <emphasis effect="italics">S. aureus</emphasis> from common coagulase-negative species (CoNS) such as <emphasis effect="italics">S. epidermidis</emphasis>. Although CoNS are less likely than CoPS to cause human disease, they can cause infections when they enter the body, as can sometimes occur via catheters, indwelling medical devices, and wounds. Passive agglutination testing can be used to distinguish CoPS from CoNS. If the sample is coagulase-positive, the sample is generally presumed to contain <emphasis effect="italics">S. aureus</emphasis>. Additional genetic testing would be necessary to identify the particular strain of <emphasis effect="italics">S. aureus.</emphasis></para>
+<para id="fs-id1167661439890">Another way to distinguish CoPS from CoNS is by culturing the sample on <term class="no-emphasis">mannitol salt agar (MSA)</term>. <emphasis effect="italics">Staphylococcus</emphasis> species readily grow on this medium because they are tolerant of the high concentration of sodium chloride (7.5% NaCl). However, CoPS such as <emphasis effect="italics">S. aureus</emphasis> ferment mannitol (which will be evident on a MSA plate), whereas CoNS such as <emphasis effect="italics">S. epidermidis</emphasis> do not ferment mannitol but can be distinguished by the fermentation of other sugars such as lactose, malonate, and raffinose (<link target-id="OSC_Microbio_21_02_mannitol"/>).</para>
+<figure id="OSC_Microbio_21_02_mannitol">
+<media id="fs-id1167661274654" alt="a) An agar plate with 2 regions of growth. One region has a yellow background, the other has a pink background. B) A micrograph of clusters of round cells. Each cell is just under 1 µm in diameter.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_21_02_mannitol.jpg"/>
+</media>
+<caption>(a) A mannitol salt agar plate is used to distinguish different species of staphylococci. In this plate, <emphasis effect="italics">S. aureus</emphasis> is on the left and <emphasis effect="italics">S. epidermidis</emphasis> is in the right. Because <emphasis effect="italics">S. aureus</emphasis> is capable of fermenting mannitol, it produces acids that cause the color to change to yellow. (b) This scanning electron micrograph shows the characteristic grapelike clusters of <emphasis effect="italics">S. aureus</emphasis>. (credit a: modification of work by “ScienceProfOnline”/YouTube; credit b: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<note id="fs-id1167663637498" class="microbiology eye-on-ethics">
+<title>Screening Patients for MRSA</title>
+<para id="fs-id1167663589138">According to the CDC, 86% of invasive <term class="no-emphasis">MRSA</term> infections are associated in some way with healthcare, as opposed to being community-acquired. In hospitals and clinics, asymptomatic patients who harbor MRSA may spread the bacteria to individuals who are more susceptible to serious illness.</para>
+<para id="fs-id1167663652025">In an attempt to control the spread of MRSA, hospitals have tried screening patients for MRSA. If patients test positive following a nasal swab test, they can undergo decolonization using chlorhexidine washes or intranasal mupirocin. Some studies have reported substantial reductions in MRSA disease following implementation of these protocols, while others have not. This is partly because there is no standard protocol for these procedures. Several different MRSA identification tests may be used, some involving slower culturing techniques and others rapid testing. Other factors, such as the effectiveness of general hand-washing protocols, may also play a role in helping to prevent MRSA transmission. There are still other questions that need to be addressed: How frequently should patients be screened? Which individuals should be tested? From where on the body should samples be collected? Will increased resistance develop from the decolonization procedures?</para>
+<para id="fs-id1167663737665">Even if identification and decolonization procedures are perfected, ethical questions will remain. Should patients have the right to decline testing? Should a patient who tests positive for MRSA have the right to decline the decolonization procedure, and if so, should hospitals have the right to refuse treatment to the patient? How do we balance the individual’s right to receive care with the rights of other patients who could be exposed to disease as a result?</para>
+</note>
+<section id="fs-id1167663668984">
+<title>Superficial Staphylococcal Infections</title>
+<para id="fs-id1167661330454"><emphasis effect="italics">S. aureus</emphasis> is often associated with <term>pyoderma</term>, skin infections that are <term>purulent</term>. Pus formation occurs because many strains of <emphasis effect="italics">S. aureus</emphasis> produce <term class="no-emphasis">leukocidins</term>, which kill white blood cells. These purulent skin infections may initially manifest as <term>folliculitis</term>, but can lead to <term>furuncle</term><emphasis effect="bold">s</emphasis> or deeper abscesses called <term>carbuncle</term><emphasis effect="bold">s</emphasis>.</para>
+<para id="fs-id1167663585713">Folliculitis generally presents as bumps and <term class="no-emphasis">pimples</term> that may be itchy, red, and/or pus-filled. In some cases, folliculitis is self-limiting, but if it continues for more than a few days, worsens, or returns repeatedly, it may require medical treatment. Sweat, skin injuries, ingrown hairs, tight clothing, irritation from shaving, and skin conditions can all contribute to folliculitis. Avoidance of tight clothing and skin irritation can help to prevent infection, but topical antibiotics (and sometimes other treatments) may also help. Folliculitis can be identified by skin inspection; treatment is generally started without first culturing and identifying the causative agent.</para>
+<para id="fs-id1167663643743">In contrast, <term class="no-emphasis">furuncles</term> (boils) are deeper infections (<link target-id="OSC_Microbio_21_02_boil"/>). They are most common in those individuals (especially young adults and teenagers) who play contact sports, share athletic equipment, have poor nutrition, live in close quarters, or have weakened immune systems. Good hygiene and skin care can often help to prevent furuncles from becoming more infective, and they generally resolve on their own. However, if furuncles spread, increase in number or size, or lead to systemic symptoms such as fever and chills, then medical care is needed. They may sometimes need to be drained (at which time the pathogens can be cultured) and treated with antibiotics.</para>
+<para id="fs-id1167663811714">When multiple boils develop into a deeper lesion, it is called a carbuncle (<link target-id="OSC_Microbio_21_02_boil"/>). Because <term class="no-emphasis">carbuncles</term> are deeper, they are more commonly associated with systemic symptoms and a general feeling of illness. Larger, recurrent, or worsening carbuncles require medical treatment, as do those associated with signs of illness such as fever. Carbuncles generally need to be drained and treated with antibiotics. While carbuncles are relatively easy to identify visually, culturing and laboratory analysis of the wound may be recommended for some infections because antibiotic resistance is relatively common.</para>
+<para id="fs-id1167663985506">Proper hygiene is important to prevent these types of skin infections or to prevent the progression of existing infections.</para>
+<figure id="OSC_Microbio_21_02_boil">
+<media id="fs-id1167663729555" alt="a) a photo of a small inflamed region with a white center. b) A large lesion with white and red.">
+<image mime-type="image/png" src="../../media/OSC_Microbio_21_02_boil.png"/>
+</media>
+<caption>Furuncles (boils) and carbuncles are infections of the skin often caused by <emphasis effect="italics">Staphylococcus</emphasis> bacteria. (a) A furuncle contains pus and exhibits swelling. (b) A carbuncle is a pus-filled lesion that is typically deeper than the furuncle. It often forms from multiple furuncles. (Credit a: Public Health Image Library / CDC; Public Domain; credit b: modification of work by “Drvgaikwad”/Wikimedia Commons)</caption>
+</figure>
+<para id="fs-id1167663588058"><term class="no-emphasis">Staphylococcal scalded skin syndrome (SSSS)</term> is another superficial infection caused by <emphasis effect="italics">S. aureus</emphasis> that is most commonly seen in young children, especially infants. Bacterial exotoxins first produce <term>erythema</term> (redness of the skin) and then severe peeling of the skin, as might occur after scalding (<link target-id="OSC_Microbio_21_02_SSSS"/>). SSSS is diagnosed by examining characteristics of the skin (which may rub off easily), using blood tests to check for elevated white blood cell counts, culturing, and other methods. Intravenous antibiotics and fluid therapy are used as treatment.</para>
+<figure id="OSC_Microbio_21_02_SSSS">
+<media id="fs-id1167663636115" alt="Skin peeling off a hand.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_21_02_SSSS.jpg"/>
+</media>
+<caption>A newborn with staphylococcal scalded skin syndrome (SSSS), which results in large regions of peeling, dead skin. (credit: modification of work by D Jeyakumari, R Gopal, M Eswaran, and C MaheshKumar)</caption>
+</figure>
+</section>
+<section id="fs-id1167663652702">
+<title>Impetigo</title>
+<para id="fs-id1167663536370">The skin infection <term>impetigo</term> causes the formation of vesicles, <term class="no-emphasis">pustules</term>, and possibly <term class="no-emphasis">bullae</term>, often around the nose and mouth. Bullae are large, fluid-filled blisters that measure at least 5 mm in diameter. Impetigo can be diagnosed as either nonbullous or bullous. In nonbullous impetigo, vesicles and pustules rupture and become encrusted sores. Typically the crust is yellowish, often with exudate draining from the base of the lesion. In bullous impetigo, the bullae fill and rupture, resulting in larger, draining, encrusted lesions (<link target-id="OSC_Microbio_21_02_impetigo"/>).</para>
+<para id="fs-id1167663649748">Especially common in children, impetigo is particularly concerning because it is highly contagious. Impetigo can be caused by <emphasis effect="italics">S. aureus</emphasis> alone, by <term class="no-emphasis"><emphasis effect="italics">Streptococcus</emphasis></term> <emphasis effect="italics">pyogenes</emphasis> alone, or by coinfection of <emphasis effect="italics">S. aureus</emphasis> and <emphasis effect="italics">S. pyogenes</emphasis>. Impetigo is often diagnosed through observation of its characteristic appearance, although culture and susceptibility testing may also be used.</para>
+<para id="fs-id1167661441370">Topical or oral antibiotic treatment is typically effective in treating most cases of impetigo. However, cases caused by <emphasis effect="italics">S. pyogenes</emphasis> can lead to serious sequelae (pathological conditions resulting from infection, disease, injury, therapy, or other trauma) such as <term class="no-emphasis">acute glomerulonephritis</term> (<term class="no-emphasis">AGN</term>), which is severe inflammation in the kidneys.</para>
+<figure id="OSC_Microbio_21_02_impetigo">
+<media id="fs-id1167663524430" alt="Red bumps on the upper region of the mouth.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_21_02_impetigo.jpg"/>
+</media>
+<caption>Impetigo is characterized by vesicles, pustules, or bullae that rupture, producing encrusted sores. (credit: modification of work by FDA)</caption>
+</figure>
+</section>
+<section id="fs-id1167661342191">
+<title>Nosocomial <emphasis effect="italics">S. epidermidis</emphasis> Infections</title>
+<para id="fs-id1167663630970">Though not as virulent as <emphasis effect="italics">S. aureus</emphasis>, the staphylococcus <emphasis effect="italics">S. epidermidis</emphasis> can cause serious opportunistic infections. Such infections usually occur only in hospital settings. <emphasis effect="italics">S. epidermidis</emphasis> is usually a harmless resident of the normal skin microbiota. However, health-care workers can inadvertently transfer <emphasis effect="italics">S. epidermidis</emphasis> to medical devices that are inserted into the body, such as catheters, prostheses, and indwelling medical devices. Once it has bypassed the skin barrier, <emphasis effect="italics">S. epidermidis</emphasis> can cause infections inside the body that can be difficult to treat. Like <emphasis effect="italics">S. aureus</emphasis>, <emphasis effect="italics">S. epidermidis</emphasis> is resistant to many antibiotics, and localized infections can become systemic if not treated quickly. To reduce the risk of nosocomial (hospital-acquired) <emphasis effect="italics">S. epidermidis</emphasis>, health-care workers must follow strict procedures for handling and sterilizing medical devices before and during surgical procedures.</para>
+<note id="fs-id1167661338782" class="microbiology check-your-understanding">
+<list id="fs-id1167661257201" list-type="bulleted" bullet-style="bullet">
+<item>Why are <emphasis effect="italics">Staphylococcus aureus</emphasis> infections often purulent?</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1167661369550">
+<title>Streptococcal Infections of the Skin</title>
+<para id="fs-id1167661289157"><emphasis effect="italics">Streptococcus</emphasis> are gram-positive cocci with a microscopic morphology that resembles chains of bacteria. Colonies are typically small (1–2 mm in diameter), translucent, entire edge, with a slightly raised elevation that can be either nonhemolytic, alpha-hemolytic, or beta-hemolytic when grown on blood agar (<link target-id="OSC_Microbio_21_02_spyogenes"/>). Additionally, they are facultative anaerobes that are catalase-negative.</para>
+<figure id="OSC_Microbio_21_02_spyogenes">
+<media id="fs-id1167663627756" alt="A micrograph of streptococcus pyogenes is shown.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_21_02_Spyogenes.jpg"/>
+</media>
+<caption><emphasis effect="italics">Streptococcus pyogenes</emphasis> forms chains of cocci. (credit: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1167663530518">The genus <emphasis effect="italics">Streptococcus</emphasis> includes important pathogens that are categorized in serological <term class="no-emphasis">Lancefield groups</term> based on the distinguishing characteristics of their surface carbohydrates. The most clinically important streptococcal species in humans is <emphasis effect="italics">S. pyogenes</emphasis>, also known as <term class="no-emphasis">group A streptococcus (GAS)</term>. <emphasis effect="italics">S. pyogenes</emphasis> produces a variety of extracellular enzymes, including <term class="no-emphasis">streptolysins</term> O and S, <term class="no-emphasis">hyaluronidase</term>, and <term class="no-emphasis">streptokinase</term>. These enzymes can aid in transmission and contribute to the inflammatory response.<footnote id="fs-id1167663971289">Starr, C.R. and Engelberg N.C. “Role of Hyaluronidase in Subcutaneous Spread and Growth of Group A Streptococcus.” <emphasis effect="italics">Infection and Immunity</emphasis> 2006(7:1): 40–48. doi:  10.1128/IAI.74.1.40-48.2006.</footnote> <emphasis effect="italics">S. pyogenes</emphasis> also produces a capsule and <term>M protein</term>, a streptococcal cell wall protein. These virulence factors help the bacteria to avoid <term class="no-emphasis">phagocytosis</term> while provoking a substantial immune response that contributes to symptoms associated with streptococcal infections.</para>
+<para id="fs-id1167661440242"><emphasis effect="italics">S. pyogenes</emphasis> causes a wide variety of diseases not only in the skin, but in other organ systems as well. Examples of diseases elsewhere in the body include <term class="no-emphasis">pharyngitis</term> and <term class="no-emphasis">scarlet fever</term>, which will be covered in later chapters.</para>
+<section id="fs-id1167663727900">
+<title>Cellulitis, Erysipelas, and Erythema Nosodum</title>
+<para id="fs-id1167661737522">Common streptococcal conditions of the skin include cellulitis, erysipelas, and erythema nodosum. An infection that develops in the dermis or hypodermis can cause <term>cellulitis</term>, which presents as a reddened area of the skin that is warm to the touch and painful. The causative agent is often <emphasis effect="italics">S. pyogenes</emphasis>, which may breach the epidermis through a cut or abrasion, although cellulitis may also be caused by staphylococci. <emphasis effect="italics">S. pyogenes</emphasis> can also cause <term>erysipelas</term>, a condition that presents as a large, intensely inflamed patch of skin involving the dermis (often on the legs or face). These infections can be <term>suppurative</term>, which results in a bullous form of erysipelas. Streptococcal and other pathogens may also cause a condition called <term>erythema nodosum</term>, characterized by inflammation in the subcutaneous fat cells of the hypodermis. It sometimes results from a streptococcal infection, though other pathogens can also cause the condition. It is not suppurative, but leads to red nodules on the skin, most frequently on the shins (<link target-id="OSC_Microbio_21_02_erysipelas"/>).</para>
+<para id="fs-id1167663660975">In general, streptococcal infections are best treated through identification of the specific pathogen followed by treatment based upon that particular pathogen’s susceptibility to different antibiotics. Many immunological tests, including <term class="no-emphasis">agglutination reactions</term> and <term class="no-emphasis">ELISA</term>s, can be used to detect streptococci. Penicillin is commonly prescribed for treatment of cellulitis and erysipelas because resistance is not widespread in streptococci at this time. In most patients, erythema nodosum is self-limiting and is not treated with antimicrobial drugs. Recommended treatments may include nonsteroidal anti-inflammatory drugs (NSAIDs), cool wet compresses, elevation, and bed rest.</para>
+<figure id="OSC_Microbio_21_02_erysipelas">
+<media id="fs-id1167661291064" alt="a) a red rash. B) swollen, red regions on the cheeks and nose. C) red lumps on the skin.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_21_02_erysipelas.jpg"/>
+</media>
+<caption><emphasis effect="italics">S. pyogenes</emphasis> can cause a variety of skin conditions once it breaches the skin barrier through a cut or wound. (a) Cellulitis presents as a painful, red rash. (b) Erysipelas presents as a raised rash, usually with clear borders. (c) Erythema nodosum is characterized by red lumps or nodules, typically on the lower legs. (credit a: modification of work by “Bassukas ID, Gaitanis G, Zioga A, Boboyianni C, Stergiopoulou C; credit b: modification of work by Centers for Disease Control and Prevention; credit c: modification of work by Dean C, Crow WT)</caption>
+</figure>
+</section>
+<section id="fs-id1167661370879">
+<title>Necrotizing Fasciitis</title>
+<para id="fs-id1167661754482">Streptococcal infections that start in the skin can sometimes spread elsewhere, resulting in a rare but potentially life-threatening condition called <term>necrotizing fasciitis</term>, sometimes referred to as <term class="no-emphasis">flesh-eating bacterial syndrome</term>. <emphasis effect="italics">S. pyogenes</emphasis> is one of several species that can cause this rare but potentially-fatal condition; others include <term class="no-emphasis"><emphasis effect="italics">Klebsiella</emphasis></term>, <term class="no-emphasis"><emphasis effect="italics">Clostridium</emphasis></term>, <term class="no-emphasis"><emphasis effect="italics">Escherichia coli</emphasis></term>, <emphasis effect="italics">S.</emphasis> <emphasis effect="italics">aureus</emphasis>, and <term class="no-emphasis"><emphasis effect="italics">Aeromonas hydrophila</emphasis></term>.</para>
+<para id="fs-id1167663624247">Necrotizing fasciitis occurs when the fascia, a thin layer of connective tissue between the skin and muscle, becomes infected. Severe invasive necrotizing fasciitis due to <term class="no-emphasis"><emphasis effect="italics">Streptococcus pyogenes</emphasis></term> occurs when virulence factors that are responsible for adhesion and invasion overcome host defenses. <emphasis effect="italics">S. pyogenes</emphasis> invasins allow bacterial cells to adhere to tissues and establish infection. Bacterial proteases unique to <emphasis effect="italics">S. pyogenes</emphasis> aggressively infiltrate and destroy host tissues, inactivate complement, and prevent neutrophil migration to the site of infection. The infection and resulting tissue death can spread very rapidly, as large areas of skin become detached and die. <sup/>Treatment generally requires <term class="no-emphasis">debridement</term> (surgical removal of dead or infected tissue) or amputation of infected limbs to stop the spread of the infection; surgical treatment is supplemented with intravenous antibiotics and other therapies (<link target-id="OSC_Microbio_21_02_necrosis"/>).</para>
+<para id="fs-id1167663972777">Necrotizing fasciitis does not always originate from a skin infection; in some cases there is no known portal of entry. Some studies have suggested that experiencing a blunt force trauma can increase the risk of developing streptococcal necrotizing fasciitis.<footnote id="fs-id1167661425862">Nuwayhid, Z.B.,  Aronoff, D.M., and Mulla, Z.D.. “Blunt Trauma as a Risk Factor for Group A Streptococcal Necrotizing Fasciitis.” <emphasis effect="italics">Annals of Epidemiology</emphasis> (2007) 17:878–881.
+</footnote></para>
+<figure id="OSC_Microbio_21_02_necrosis">
+<media id="fs-id1167661295286" alt="a) skin with large black, grey and red regions. b) Cut skin in surgery.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_21_02_necrosis.jpg"/>
+</media>
+<caption>(a) The left leg of this patient shows the clinical features of necrotizing fasciitis. (b) The same patient’s leg is surgically debrided to remove the infection. (credit a, b: modification of work by Piotr Smuszkiewicz, Iwona Trojanowska, and Hanna Tomczak)</caption>
+</figure>
+<note id="fs-id1167661440523" class="microbiology check-your-understanding">
+<list id="fs-id1167663919672" list-type="bulleted" bullet-style="bullet">
+<item>How do staphylococcal infections differ in general presentation from streptococcal infections?</item>
+</list>
+</note>
+<note id="fs-id1167661367265" class="microbiology clinical-focus">
+<title>Part 2</title>
+<para id="fs-id1167661352617">Observing that Sam’s wound is purulent, the doctor tells him that he probably has a bacterial infection. She takes a sample from the lesion to send for laboratory analysis, but because it is Friday, she does not expect to receive the results until the following Monday. In the meantime, she prescribes an over-the-counter topical antibiotic ointment. She tells Sam to keep the wound clean and apply a new bandage with the ointment at least twice per day.</para>
+<list id="fs-id1167661327132" list-type="bulleted" bullet-style="bullet">
+<item>How would the lab technician determine if the infection is staphylococcal or streptococcal? Suggest several specific methods.</item>
+<item>What tests might the lab perform to determine the best course of antibiotic treatment?</item>
+</list>
+<para id="fs-id1167663628440"><emphasis effect="italics">Jump to the <link target-id="fs-id1167663540876">next</link> Clinical Focus box. Go back to the <link target-id="fs-id1167660163162" document="m58906">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+</section>
+<section id="fs-id1167661257094">
+<title><emphasis effect="italics">Pseudomonas</emphasis> Infections of the Skin</title>
+<para id="fs-id1167663902120">Another important skin pathogen is <term class="no-emphasis"><emphasis effect="italics">Pseudomonas aeruginosa</emphasis></term>, a gram-negative, oxidase-positive, aerobic bacillus that is commonly found in water and soil as well as on human skin. <emphasis effect="italics">P. aeruginosa</emphasis> is a common cause of opportunistic infections of wounds and burns. It can also cause <term class="no-emphasis">hot tub rash</term>, a condition characterized by folliculitis that frequently afflicts users of pools and hot tubs (recall the Clinical Focus case in <link target-id="fs-id1167663895068" document="m58813">Microbial Biochemistry</link>). <emphasis effect="italics">P. aeruginosa</emphasis> is also the cause of <term>otitis externa</term> (<term class="no-emphasis">swimmer’s ear</term>), an infection of the ear canal that causes itching, redness, and discomfort, and can progress to fever, pain, and swelling (<link target-id="OSC_Microbio_21_02_folliculit"/>).</para>
+<figure id="OSC_Microbio_21_02_folliculit">
+<media id="fs-id1167663988083" alt="a) photo of acne b) photo of swollen ear.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_21_02_folliculit.jpg"/>
+</media>
+<caption>(a) Hot tub folliculitis presents as an itchy red rash. It is typically caused by <emphasis effect="italics">P. aeruginosa</emphasis>, a bacterium that thrives in wet, warm environments such as hot tubs. (b) Otitis externa (swimmer’s ear) may also be caused by <emphasis effect="italics">P. aeruginosa</emphasis> or other bacteria commonly found in water. Inflammation of the outer ear and ear canal can lead to painful swelling. (credit b: modification of work by Klaus D. Peter)</caption>
+</figure>
+<para id="fs-id1167663919768">Wounds infected with <emphasis effect="italics">P. aeruginosa</emphasis> have a distinctive odor resembling grape soda or fresh corn tortillas. This odor is caused by the 2-aminoacetophenone that is used by <emphasis effect="italics">P. aeruginosa</emphasis> in quorum sensing and contributes to its pathogenicity. Wounds infected with certain strains of <emphasis effect="italics">P. aeruginosa</emphasis> also produce a blue-green pus due to the pigments <term>pyocyanin</term> and <term>pyoverdin</term>, which also contribute to its virulence. Pyocyanin and pyoverdin are <term class="no-emphasis">siderophores</term> that help <emphasis effect="italics">P. aeruginosa</emphasis> survive in low-iron environments by enhancing iron uptake. <emphasis effect="italics">P. aeruginosa</emphasis> also produces several other virulence factors, including <term class="no-emphasis">phospholipase C</term> (a hemolysin capable of breaking down red blood cells), <term class="no-emphasis">exoenzyme S</term> (involved in adherence to epithelial cells), and <term class="no-emphasis">exotoxin A</term> (capable of causing tissue necrosis). Other virulence factors include a slime that allows the bacterium to avoid being phagocytized, <term class="no-emphasis">fimbriae</term> for adherence, and proteases that cause tissue damage. <emphasis effect="italics">P. aeruginosa</emphasis> can be detected through the use of <term class="no-emphasis">cetrimide agar</term>, which is selective for <emphasis effect="italics">Pseudomonas</emphasis> species (<link target-id="OSC_Microbio_21_02_Pseudomona"/>).</para>
+<figure id="OSC_Microbio_21_02_Pseudomona">
+<media id="fs-id1167661268457" alt="a) A red plate with white colonies. B) A clear plate with green colonies; the green extends past the colony. C) a dark plate with glowing colonies.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_21_02_Pseudomona.jpg"/>
+</media>
+<caption>(a) These <emphasis effect="italics">P. aeruginosa</emphasis> colonies are growing on xylose lysine sodium deoxycholate (XLD) agar. (b) <emphasis effect="italics">Pseudomonas</emphasis> spp. can produce a variety of blue-green pigments. (c) <emphasis effect="italics">Pseudomonas</emphasis> spp. may produce fluorescein, which fluoresces green under ultraviolet light under the right conditions. (credit a: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1167661734789"><emphasis effect="italics">Pseudomonas</emphasis> spp. tend to be resistant to most antibiotics. They often produce <term class="no-emphasis">β-lactamases</term>, may have mutations affecting <term class="no-emphasis">porins</term> (small cell wall channels) that affect antibiotic uptake, and may pump some antibiotics out of the cell, contributing to this resistance. <term class="no-emphasis">Polymyxin B</term> and <term class="no-emphasis">gentamicin</term> are effective, as are some <term class="no-emphasis">fluoroquinolones</term>. Otitis externa is typically treated with ear drops containing acetic acid, antibacterials, and/or steroids to reduce inflammation; ear drops may also include antifungals because fungi can sometimes cause or contribute to otitis externa. Wound infections caused by <emphasis effect="italics">Pseudomonas</emphasis> spp. may be treated with topical antibiofilm agents that disrupt the formation of <term class="no-emphasis">biofilms</term>.</para>
+<note id="fs-id1167661427958" class="microbiology check-your-understanding">
+<list id="fs-id1167661292198" list-type="bulleted" bullet-style="bullet">
+<item>Name at least two types of skin infections commonly caused by <emphasis effect="italics">Pseudomonas</emphasis> spp.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167661426963">
+<title>Acne</title>
+<para id="fs-id1167663973108">One of the most ubiquitous skin conditions is <term>acne</term>. Acne afflicts nearly 80% of teenagers and young adults, but it can be found in individuals of all ages. Higher incidence among adolescents is due to hormonal changes that can result in overproduction of sebum.</para>
+<para id="fs-id1167661618568">Acne occurs when <term class="no-emphasis">hair follicles</term> become clogged by shed skin cells and <term class="no-emphasis">sebum</term>, causing non-inflammatory lesions called <term class="no-emphasis">comedones</term>. Comedones (singular “comedo”) can take the form of whitehead and blackhead <term class="no-emphasis">pimples</term>. Whiteheads are covered by skin, whereas blackhead pimples are not; the black color occurs when lipids in the clogged follicle become exposed to the air and oxidize (<link target-id="OSC_Microbio_21_02_acne"/>).</para>
+<figure id="OSC_Microbio_21_02_acne">
+<media id="fs-id1167663919342" alt="a) diagram of blackhead formation. A normal pore in the skin becomes filled with material forming a whitehed. Darker material forms a blackhead. B) blackheads on a nose.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_21_02_acne.jpg"/>
+</media>
+<caption>(a) Acne is characterized by whitehead and blackhead comedones that result from clogged hair follicles. (b) Blackheads, visible as black spots on the skin, have a dark appearance due to the oxidation of lipids in sebum via exposure to the air. (credit a: modification of work by Bruce Blaus)</caption>
+</figure>
+<para id="fs-id1167663645855">Often comedones lead to infection by <term class="no-emphasis"><emphasis effect="italics">Propionibacterium acnes</emphasis></term>, a gram-positive, non-spore-forming, aerotolerant anaerobic bacillus found on skin that consumes components of sebum. <emphasis effect="italics">P. acnes</emphasis> secretes enzymes that damage the hair follicle, causing inflammatory lesions that may include <term class="no-emphasis">papules</term>, <term class="no-emphasis">pustules</term>, <term class="no-emphasis">nodules</term>, or pseudocysts, depending on their size and severity.</para>
+<para id="fs-id1167663631909">Treatment of acne depends on the severity of the case. There are multiple ways to grade acne severity, but three levels are usually considered based on the number of comedones, the number of inflammatory lesions, and the types of lesions. Mild acne is treated with topical agents that may include <term class="no-emphasis">salicylic acid</term> (which helps to remove old skin cells) or <term class="no-emphasis">retinoids</term> (which have multiple mechanisms, including the reduction of inflammation). Moderate acne may be treated with antibiotics (<term class="no-emphasis">erythromycin</term>, <term class="no-emphasis">clindamycin</term>), acne creams (e.g., <term class="no-emphasis">benzoyl peroxide</term>), and hormones. Severe acne may require treatment using strong medications such as <term class="no-emphasis">isotretinoin</term> (a retinoid that reduces oil buildup, among other effects, but that also has serious side effects such as photosensitivity). Other treatments, such as phototherapy and laser therapy to kill bacteria and possibly reduce oil production, are also sometimes used.</para>
+<note id="fs-id1167663993656" class="microbiology check-your-understanding">
+<list id="fs-id1167663585929" list-type="bulleted" bullet-style="bullet">
+<item>What is the role of <emphasis effect="italics">Propionibacterium acnes</emphasis> in causing acne?</item>
+</list>
+</note>
+<note id="fs-id1167663540876" class="microbiology clinical-focus">
+<title>Resolution</title>
+<para id="fs-id1167661370497">Sam uses the topical antibiotic over the weekend to treat his wound, but he does not see any improvement. On Monday, the doctor calls to inform him that the results from his laboratory tests are in. The tests show evidence of both <emphasis effect="italics">Staphylococcus</emphasis> and <emphasis effect="italics">Streptococcus</emphasis> in his wound. The bacterial species were confirmed using several tests. A passive agglutination test confirmed the presence of <emphasis effect="italics">S. aureus</emphasis>. In this type of test, latex beads with antibodies cause agglutination when <emphasis effect="italics">S. aureus</emphasis> is present. <emphasis effect="italics">Streptococcus pyogenes</emphasis> was confirmed in the wound based on bacitracin (0.04 units) susceptibility as well as latex agglutination tests specific for <emphasis effect="italics">S. pyogenes</emphasis>.</para><para id="fs-id1167663985419">Because many strains of <emphasis effect="italics">S. aureus</emphasis> are resistant to antibiotics, the doctor had also requested an antimicrobial susceptibility test (AST) at the same time the specimen was submitted for identification. The results of the AST indicated no drug resistance for the <emphasis effect="italics">Streptococcus</emphasis> spp.; the <emphasis effect="italics">Staphylococcus</emphasis> spp. showed resistance to several common antibiotics, but were susceptible to cefoxitin and oxacillin. Once Sam began to use these new antibiotics, the infection resolved within a week and the lesion healed.</para>
+<para id="fs-id1167663481428"><emphasis effect="italics">Go back to the <link target-id="fs-id1167661367265">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+<section id="fs-id1167663642588">
+<title>Anthrax</title>
+<para id="fs-id1167663922302">The zoonotic disease <term>anthrax</term> is caused by <term class="no-emphasis"><emphasis effect="italics">Bacillus</emphasis> <emphasis effect="italics">anthracis</emphasis></term>, a gram-positive, endospore-forming, facultative anaerobe. Anthrax mainly affects animals such as sheep, goats, cattle, and deer, but can be found in humans as well. Sometimes called <term class="no-emphasis">wool sorter’s disease</term>, it is often transmitted to humans through contact with infected animals or animal products, such as wool or hides. However, exposure to <emphasis effect="italics">B.</emphasis> <emphasis effect="italics">anthracis</emphasis> can occur by other means, as the endospores are widespread in soils and can survive for long periods of time, sometimes for hundreds of years.</para>
+<para id="fs-id1167663984922">The vast majority of anthrax cases (95–99%) occur when anthrax endospores enter the body through abrasions of the skin.<footnote id="fs-id1167663604271">Shadomy, S.V., Traxler, R.M., and Marston, C.K. “Infectious Diseases Related to Travel: Anthrax” 2015. Centers for Disease Control and Prevention<emphasis effect="italics">.</emphasis> http://wwwnc.cdc.gov/travel/yellowbook/2016/infectious-diseases-related-to-travel/anthrax. Accessed Sept 14, 2016. </footnote> This form of the disease is called cutaneous anthrax. It is characterized by the formation of a nodule on the skin; the cells within the nodule die, forming a black <term>eschar</term>, a mass of dead skin tissue (<link target-id="OSC_Microbio_21_02_anthrax"/>). The localized infection can eventually lead to <term class="no-emphasis">bacteremia</term> and <term class="no-emphasis">septicemia</term>. If untreated, cutaneous anthrax can cause death in 20% of patients.<footnote id="fs-id1167661645535">US FDA<emphasis effect="italics">.</emphasis> “Anthrax.” 2015. http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ucm061751.htm. Accessed Sept 14, 2016.</footnote> Once in the skin tissues, <emphasis effect="italics">B. anthracis</emphasis> endospores germinate and produce a capsule, which prevents the bacteria from being phagocytized, and two binary exotoxins that cause edema and tissue damage. The first of the two exotoxins consists of a combination of protective antigen (PA) and an enzymatic lethal factor (LF), forming lethal toxin (LeTX). The second consists of protective antigen (PA) and an edema factor (EF), forming edema toxin (EdTX).</para>
+<figure id="OSC_Microbio_21_02_anthrax">
+<media id="fs-id1167661609261" alt="a) A black nodule on skin. b) A red plate with grey colonies.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_21_02_anthrax.jpg"/>
+</media>
+<caption>(a) Cutaneous anthrax is an infection of the skin by <emphasis effect="italics">B. anthracis</emphasis>, which produces tissue-damaging exotoxins. Dead tissues accumulating in this nodule have produced a small black eschar. (b) Colonies of <emphasis effect="italics">B. anthraci</emphasis>s grown on sheep’s blood agar. (credit a, b: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1167661441072">Less commonly, anthrax infections can be initiated through other portals of entry such as the digestive tract (<term class="no-emphasis">gastrointestinal anthrax</term>) or respiratory tract (<term class="no-emphasis">pulmonary anthrax</term> or <term class="no-emphasis">inhalation anthrax</term>). Typically, cases of <term class="no-emphasis">noncutaneous anthrax</term> are more difficult to treat than the cutaneous form. The mortality rate for gastrointestinal anthrax can be up to 40%, even with treatment. Inhalation anthrax, which occurs when anthrax spores are inhaled, initially causes influenza-like symptoms, but mortality rates are approximately 45% in treated individuals and 85% in those not treated. A relatively new form of the disease, <term class="no-emphasis">injection anthrax</term>, has been reported in Europe in intravenous drug users; it occurs when drugs are contaminated with <emphasis effect="italics">B. anthracis</emphasis>. Patients with injection anthrax show signs and symptoms of severe soft tissue infection that differ clinically from cutaneous anthrax. This often delays diagnosis and treatment, and leads to a high mortality rate.<footnote id="fs-id1167661642636">Berger, T., Kassirer, M., and Aran, A.A.. “Injectional Anthrax—New Presentation of an Old Disease.” <emphasis effect="italics">Euro Surveillance</emphasis> 19 (2014) 32. http://www.ncbi.nlm.nih.gov/pubmed/25139073. Accessed Sept 14, 2016.</footnote></para>
+<para id="fs-id1167661293072"><emphasis effect="italics">B. anthracis</emphasis> colonies on blood agar have a rough texture and serrated edges that eventually form an undulating band (<link target-id="OSC_Microbio_21_02_anthrax"/>). Broad spectrum antibiotics such as <term class="no-emphasis">penicillin</term>, <term class="no-emphasis">erythromycin</term>, and <term class="no-emphasis">tetracycline</term> are often effective treatments.</para>
+<para id="fs-id1167661342150">Unfortunately, <emphasis effect="italics">B. anthracis</emphasis> has been used as a biological weapon and remains on the United Nations’ list of potential agents of <term class="no-emphasis">bioterrorism</term>.<footnote id="fs-id1167661326482">United Nations Office at Geneva. “What Are Biological and Toxin Weapons?” http://www.unog.ch/80256EE600585943/%28httpPages%29/29B727532FECBE96C12571860035A6DB?. Accessed Sept 14, 2016.</footnote> Over a period of several months in 2001, a number of letters were mailed to members of the news media and the United States Congress. As a result, 11 individuals developed cutaneous anthrax and another 11 developed inhalation anthrax. Those infected included recipients of the letters, postal workers, and two other individuals. Five of those infected with pulmonary anthrax died. The anthrax spores had been carefully prepared to aerosolize, showing that the perpetrator had a high level of expertise in microbiology.<footnote id="fs-id1167661737490">Federal Bureau of Investigation. “Famous Cases and Criminals: Amerithrax or Anthrax Investigation.” https://www.fbi.gov/history/famous-cases/amerithrax-or-anthrax-investigation. Accessed Sept 14, 2016.</footnote></para>
+<para id="fs-id1167663733255">A vaccine is available to protect individuals from anthrax. However, unlike most routine vaccines, the current <term class="no-emphasis">anthrax vaccine</term> is unique in both its formulation and the protocols dictating who receives it.<footnote id="fs-id1167661271541">Centers for Disease Control and Prevention<emphasis effect="italics">.</emphasis> “Anthrax: Medical Care: Prevention: Antibiotics.” http://www.cdc.gov/anthrax/medical-care/prevention.html. Accessed Sept 14, 2016.</footnote> The vaccine is administered through five intramuscular injections over a period of 18 months, followed by annual boosters. The US Food and Drug Administration (FDA) has only approved administration of the vaccine prior to exposure for at-risk adults, such as individuals who work with anthrax in a laboratory, some individuals who handle animals or animal products (e.g., some veterinarians), and some members of the United States military. The vaccine protects against cutaneous and inhalation anthrax using cell-free filtrates of microaerophilic cultures of an avirulent, nonencapsulated strain of <emphasis effect="italics">B. anthracis</emphasis>.<footnote id="fs-id1167663989209">Emergent Biosolutions. AVA (BioThrax) vaccine package insert (Draft). Nov 2015. http://www.fda.gov/downloads/biologicsbloodvaccines/bloodbloodproducts/approvedproducts/licensedproductsblas/ucm074923.pdf.</footnote> The FDA has not approved the vaccine for routine use <emphasis effect="italics">after</emphasis> exposure to anthrax, but if there were ever an anthrax emergency in the United States, patients could be given anthrax vaccine after exposure to help prevent disease.</para>
+<note id="fs-id1167661437037" class="microbiology check-your-understanding">
+<list id="fs-id1167661290228" list-type="bulleted" bullet-style="bullet">
+<item>What is the characteristic feature of a cutaneous anthrax infection?</item>
+</list>
+</note>
+<note id="fs-id1167661335574" class="microbiology disease-profile">
+<title>Bacterial Infections of the Skin</title>
+<para id="fs-id1167663732107">Bacterial infections of the skin can cause a wide range of symptoms and syndromes, ranging from the superficial and relatively harmless to the severe and even fatal. Most bacterial skin infections can be diagnosed by culturing the bacteria and treated with antibiotics. Antimicrobial susceptibility testing is also often necessary because many strains of bacteria have developed antibiotic resistance. <link target-id="OSC_Microbio_21_02_DPSkinInfe"/> summarizes the characteristics of some common bacterial skin infections.</para>
+<figure id="OSC_Microbio_21_02_DPSkinInfe">
+<media id="fs-id1167661336084" alt="Table titled: Bacterial Infections of the Skin. Columns: Disease, Pathogen, Signs and Symptoms, Transmission, and Antimicrobial Drugs. Acne, Propionibacterium acnes, Comedones (whiteheads, blackheads); papules, pustules, nodules, or pseudocysts, Not transmissible; clogged pores become infected by normal skin microbiota (P. acnes), Erythromycin, clindamycin. Anthrax (cutaneous), Bacillus anthracis, Eschar at site of infection; may lead to septicemia and can be fatal, Entry of B. anthracis endospores through cut or abrasion, Penicillin, erythromycin, or tetracycline. Cellulitis, Streptococcus pyogenes, Localized inflammation of dermis and hypodermis; skin red, warm, and painful to the touch, Entry of S. pyogenes through cut or abrasion, Oral or intravenous antibiotics (e.g., penicillin). Erysipelas, S. pyogenes, Inflamed, swollen patch of skin, often on face; may be suppurative, Entry of S. pyogenes through cut or abrasion, Oral or intravenous antibiotics (e.g., penicillin). Erythema nodosum, S. pyogenes, Small red nodules, often on shins, Associated with other streptococcal infection, None or anti-inflammatory drugs for severe cases. Impetigo, Staphylococcus aureus, S. pyogenes, Vesicles, pustules, and sometimes bullae around nose and mouth, Highly contagious, especially via contact Topical or oral antibiotics. Necrotizing fasciitis, S. pyogenes, Klebsiella, Clostridium, others, Infection of fascia and rapidly spreading tissue death; can lead to septic shock and death, Entry of bacteria through cut or abrasion, Intravenous broad-spectrum antibiotics. Otitis externa, Pseudomonas aeruginosa, Itching, redness, discomfort of ear canal, progressing to fever, pain, swelling, P. aeruginosa enters ear canal via pool or other water, Acidic ear drops with antibiotics, antifungals, steroids. Staphylococcal scalded skin syndrome (SSSS), S. aureus, Erythema and severe peeling of skin Infection of skin and mucous membranes, especially in children, Intravenous antibiotics, fluid therapy. Wound infections, P. aeruginosa, others, Formation of biofilm in or on wound. Exposure of wound to microbes in environment; poor wound hygiene, Polymyxin B, gentamicin, fluoroquinolones, topical anti-biofilm agents.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_21_02_DPSkinInfe.jpg"/>
+</media>
+</figure>
+</note>
+</section>
+<section id="fs-id1167661280905">
+<title>Bacterial Conjunctivitis</title>
+<para id="fs-id1167663988059">Like the skin, the surface of the eye comes in contact with the outside world and is somewhat prone to infection by bacteria in the environment. Bacterial conjunctivitis (<term class="no-emphasis">pinkeye</term>) is a condition characterized by inflammation of the conjunctiva, often accompanied by a discharge of sticky fluid (described as acute purulent conjunctivitis) (<link target-id="OSC_Microbio_21_02_bactconj"/>). Conjunctivitis can affect one eye or both, and it usually does not affect vision permanently. Bacterial conjunctivitis is most commonly caused by <term class="no-emphasis"><emphasis effect="italics">Haemophilus</emphasis> <emphasis effect="italics">influenzae</emphasis></term>, but can also be caused by other species such as <term class="no-emphasis"><emphasis effect="italics">Moraxella catarrhalis</emphasis></term>, <emphasis effect="italics">S. pneumoniae,</emphasis> and <emphasis effect="italics">S. aureus</emphasis>. The causative agent may be identified using bacterial cultures, Gram stain, and diagnostic biochemical, antigenic, or nucleic acid profile tests of the isolated pathogen. Bacterial conjunctivitis is very contagious, being transmitted via secretions from infected individuals, but it is also self-limiting. Bacterial conjunctivitis usually resolves in a few days, but topical antibiotics are sometimes prescribed. Because this condition is so contagious, medical attention is recommended whenever it is suspected. Individuals who use contact lenses should discontinue their use when conjunctivitis is suspected. Certain symptoms, such as blurred vision, eye pain, and light sensitivity, can be associated with serious conditions and require medical attention.</para>
+<figure id="OSC_Microbio_21_02_bactconj">
+<media id="fs-id1167663929608" alt="Eye with yellow discharge.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_21_02_bactconj.jpg"/>
+</media>
+<caption>Acute, purulent, bacterial conjunctivitis causes swelling and redness in the conjunctiva, the membrane lining the whites of the eyes and the inner eyelids. It is often accompanied by a yellow, green, or white discharge, which can dry and become encrusted on the eyelashes. (credit: “Tanalai”/Wikimedia Commons)</caption>
+</figure>
+<section id="fs-id1167663620448">
+<title>Neonatal Conjunctivitis</title>
+<para id="fs-id1167663968489">Newborns whose mothers have certain sexually transmitted infections are at risk of contracting <term>ophthalmia neonatorum</term> or <term>inclusion conjunctivitis</term>, which are two forms of <term class="no-emphasis">neonatal conjunctivitis</term> contracted through exposure to pathogens during passage through the birth canal. Gonococcal ophthalmia neonatorum is caused by <term class="no-emphasis"><emphasis effect="italics">Neisseria gonorrhoeae</emphasis></term>, the bacterium that causes the STD <term class="no-emphasis">gonorrhea</term> (<link target-id="OSC_Microbio_21_02_neonatorum"/>). Inclusion (chlamydial) conjunctivitis is caused by <term class="no-emphasis"><emphasis effect="italics">Chlamydia trachomatis</emphasis></term>, the anaerobic, obligate, intracellular parasite that causes the STD <term class="no-emphasis">chlamydia</term>.</para>
+<para id="fs-id1167661353534">To prevent gonoccocal ophthalmia neonatorum, silver nitrate ointments were once routinely applied to all infants’ eyes shortly after birth; however, it is now more common to apply antibacterial creams or drops, such as <term class="no-emphasis">erythromycin</term>. Most hospitals are required by law to provide this preventative treatment to all infants, because conjunctivitis caused by <emphasis effect="italics">N. gonorrhoeae</emphasis>, <emphasis effect="italics">C. trachomatis,</emphasis> or other bacteria acquired during a vaginal delivery can have serious complications. If untreated, the infection can spread to the cornea, resulting in ulceration or perforation that can cause vision loss or even permanent blindness. As such, neonatal conjunctivitis is treated aggressively with oral or intravenous antibiotics to stop the spread of the infection. Causative agents of inclusion conjunctivitis may be identified using bacterial cultures, Gram stain, and diagnostic biochemical, antigenic, or nucleic acid profile tests.</para>
+<figure id="OSC_Microbio_21_02_neonatorum">
+<media id="fs-id1167663549527" alt="Swollen eyes with discharge.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_21_02_neonatorum.jpg"/>
+</media>
+<caption>A newborn suffering from gonoccocal opthalmia neonatorum. Left untreated, purulent discharge can scar the cornea, causing loss of vision or permanent blindness. (credit: Centers for Disease Control and Prevention)</caption>
+</figure>
+<note id="fs-id1167663971200" class="microbiology check-your-understanding">
+<list id="fs-id1167661365915" list-type="bulleted" bullet-style="bullet">
+<item>Compare and contrast bacterial conjunctivitis with neonatal conjunctivitis.</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1167661335562">
+<title>Trachoma</title>
+<para id="fs-id1167663651545"><term>Trachoma</term>, or <term class="no-emphasis">granular conjunctivitis</term>, is a common cause of preventable blindness that is rare in the United States but widespread in developing countries, especially in Africa and Asia. The condition is caused by the same species that causes neonatal inclusion conjunctivitis in infants, <term class="no-emphasis"><emphasis effect="italics">Chlamydia trachomatis</emphasis></term>. <emphasis effect="italics">C. trachomatis</emphasis> can be transmitted easily through fomites such as contaminated towels, bed linens, and clothing and also by direct contact with infected individuals. <emphasis effect="italics">C. trachomatis</emphasis> can also be spread by flies that transfer infected mucous containing <emphasis effect="italics">C. trachomatis</emphasis> from one human to another.</para>
+<para id="fs-id1167663528851">Infection by <emphasis effect="italics">C. trachomatis</emphasis> causes chronic <term class="no-emphasis">conjunctivitis</term>, which leads to the formation of necrotic follicles and scarring in the upper eyelid. The scars turn the eyelashes inward (a condition known as <term class="no-emphasis">trichiasis</term>) and mechanical abrasion of the cornea leads to blindness (<link target-id="OSC_Microbio_21_02_trachiasis"/>). Antibiotics such as <term class="no-emphasis">azithromycin</term> are effective in treating trachoma, and outcomes are good when the disease is treated promptly. In areas where this disease is common, large public health efforts are focused on reducing transmission by teaching people how to avoid the risks of the infection.</para>
+<figure id="OSC_Microbio_21_02_trachiasis">
+<media id="fs-id1167661746646" alt="a) eye with turned in eyelids. B) photo of eye surgery.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_21_02_trichiasis.jpg"/>
+</media>
+<caption>(a) If trachoma is not treated early with antibiotics, scarring on the eyelid can lead to trichiasis, a condition in which the eyelashes turn inward. (b) Trichiasis leads to blindness if not corrected by surgery, as shown here. (credit b: modification of work by Otis Historical Archives National Museum of Health &amp; Medicine)</caption>
+</figure>
+<note id="fs-id1167661734228" class="microbiology check-your-understanding">
+<list id="fs-id1167663919362" list-type="bulleted" bullet-style="bullet">
+<item>Why is trachoma rare in the United States?</item>
+</list>
+</note>
+<note id="fs-id1167661431494" class="microbiology micro-connection">
+<title>SAFE Eradication of Trachoma</title>
+<para id="fs-id1167661352776">Though uncommon in the United States and other developed nations, <term class="no-emphasis">trachoma</term> is the leading cause of preventable blindness worldwide, with more than 4 million people at immediate risk of blindness from trichiasis. The vast majority of those affected by trachoma live in Africa and the Middle East in isolated rural or desert communities with limited access to clean water and sanitation. These conditions provide an environment conducive to the growth and spread of <term class="no-emphasis"><emphasis effect="italics">Chlamydia trachomatis</emphasis></term>, the bacterium that causes trachoma, via wastewater and eye-seeking flies.</para>
+<para id="fs-id1167661354282">In response to this crisis, recent years have seen major public health efforts aimed at treating and preventing trachoma. The Alliance for Global Elimination of Trachoma by 2020 (GET 2020), coordinated by the World Health Organization (WHO), promotes an initiative dubbed “SAFE,” which stands for “Surgery, Antibiotics, Facial cleanliness, and Environmental improvement.” The <term class="no-emphasis">Carter Center</term>, a charitable, nongovernment organization led by former US President Jimmy Carter, has partnered with the WHO to promote the <term class="no-emphasis">SAFE initiative</term> in six of the most critically impacted nations in Africa. Through its Trachoma Control Program, the Carter Center trains and equips local surgeons to correct trichiasis and distributes antibiotics to treat trachoma. The program also promotes better personal hygiene through health education and improves sanitation by funding the construction of household latrines. This reduces the prevalence of open sewage, which provides breeding grounds for the flies that spread trachoma.</para>
+</note>
+</section>
+<section id="fs-id1167661282512">
+<title>Bacterial Keratitis</title>
+<para id="fs-id1167661288802">Keratitis can have many causes, but <term class="no-emphasis">bacterial keratitis</term> is most frequently caused by <term class="no-emphasis"><emphasis effect="italics">Staphylococcus epidermidis</emphasis></term> and/or <term class="no-emphasis"><emphasis effect="italics">Pseudomonas aeruginosa</emphasis></term>. Contact lens users are particularly at risk for such an infection because <emphasis effect="italics">S. epidermidis</emphasis> and <emphasis effect="italics">P. aeruginosa</emphasis> both adhere well to the surface of the lenses. Risk of infection can be greatly reduced by proper care of contact lenses and avoiding wearing lenses overnight. Because the infection can quickly lead to blindness, prompt and aggressive treatment with antibiotics is important. The causative agent may be identified using bacterial cultures, Gram stain, and diagnostic biochemical, antigenic, or nucleic acid profile tests of the isolated pathogen.</para>
+<note id="fs-id1167661645623" class="microbiology check-your-understanding">
+<list id="fs-id1167663734166" list-type="bulleted" bullet-style="bullet">
+<item>Why are contact lens wearers at greater risk for developing keratitis?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167661642615">
+<title>Biofilms and Infections of the Skin and Eyes</title>
+<para id="fs-id1167661323713">When treating bacterial infections of the skin and eyes, it is important to consider that few such infections can be attributed to a single pathogen. While <term class="no-emphasis">biofilms</term> may develop in other parts of the body, they are especially relevant to skin infections (such as those caused by <emphasis effect="italics">S. aureus</emphasis> or <emphasis effect="italics">P. aeruginosa</emphasis>) because of their prevalence in chronic skin wounds. Biofilms develop when bacteria (and sometimes fungi) attach to a surface and produce extracellular polymeric substances (EPS) in which cells of multiple organisms may be embedded. When a biofilm develops on a wound, it may interfere with the natural healing process as well as diagnosis and treatment.</para>
+<para id="fs-id1167661370553">Because biofilms vary in composition and are difficult to replicate in the lab, they are still not thoroughly understood. The extracellular matrix of a biofilm consists of polymers such as polysaccharides, extracellular DNA, proteins, and lipids, but the exact makeup varies. The organisms living within the extracellular matrix may include familiar pathogens as well as other bacteria that do not grow well in cultures (such as numerous obligate anaerobes). This presents challenges when culturing samples from infections that involve a biofilm. Because only some species grow <emphasis effect="italics">in vitro</emphasis>, the culture may contain only a subset of the bacterial species involved in the infection.</para>
+<para id="fs-id1167661268578">Biofilms confer many advantages to the resident bacteria. For example, biofilms can facilitate attachment to surfaces on or in the host organism (such as wounds), inhibit phagocytosis, prevent the invasion of neutrophils, and sequester host antibodies. Additionally, biofilms can provide a level of antibiotic resistance not found in the isolated cells and colonies that are typical of laboratory cultures. The extracellular matrix provides a physical barrier to antibiotics, shielding the target cells from exposure. Moreover, cells within a biofilm may differentiate to create subpopulations of dormant cells called persister cells. Nutrient limitations deep within a biofilm add another level of resistance, as stress responses can slow metabolism and increase drug resistance.</para>
+<note id="fs-id1167663735070" class="microbiology disease-profile">
+<title>Bacterial Infections of the Eyes</title>
+<para id="fs-id1167661307571">A number of bacteria are able to cause infection when introduced to the mucosa of the eye. In general, bacterial eye infections can lead to inflammation, irritation, and discharge, but they vary in severity. Some are typically short-lived, and others can become chronic and lead to permanent eye damage. Prevention requires limiting exposure to contagious pathogens. When infections do occur, prompt treatment with antibiotics can often limit or prevent permanent damage. <link target-id="OSC_Microbio_21_02_EyeInfec"/> summarizes the characteristics of some common bacterial infections of the eyes.</para>
+<figure id="OSC_Microbio_21_02_EyeInfec">
+<media id="fs-id1167661280401" alt="Table titled: Bacterial Infections of the Eyes. Columns: Disease, Pathogen, Signs and Symptoms, Transmission, and Antimicrobial Drugs. Acute bacterial conjunctivitis, Haemophilus influenza, Inflammation of conjunctiva with purulent discharge, Exposure to secretions from infected individuals, Broad-spectrum topical antibiotics. Bacterial keratitis, Staphylococcus epidermidis, Pseudomonas aeruginosa, Redness and irritation of eye, blurred vision, sensitivity to light; progressive corneal scarring, which can lead to blindness, Exposure to pathogens on contaminated contact lenses, Antibiotic eye drops (e.g., with fluoroquinolones). Neonatal conjunctivitis Chlamydia trachomatis, Neisseria gonorrhoeae, Inflammation of conjunctiva, purulent discharge, scarring and perforation of cornea; may lead to blindness, Neonate exposed to pathogens in birth canal of mother with chlamydia or gonorrhea Erythromycin. Trachoma (granular conjunctivitis), C. trachomatis, Chronic conjunctivitis, trichiasis, scarring, blindness, Contact with infected individuals or contaminated fomites; transmission by eye-seeking flies, Azithromycin.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_21_02_EyeInfec.jpg"/>
+</media>
+</figure>
+</note>
+</section>
+<section id="fs-id1167661292823" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167661759107" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="italics">Staphylococcus</emphasis> and <emphasis effect="italics">Streptococcus</emphasis> cause many different types of skin infections, many of which occur when bacteria breach the skin barrier through a cut or wound.</item>
+<item><emphasis effect="italics">S. aureus</emphasis> are frequently associated with purulent skin infections that manifest as <emphasis effect="bold">folliculitis</emphasis>, <emphasis effect="bold">furuncles</emphasis>, or <emphasis effect="bold">carbuncles</emphasis>. <emphasis effect="italics">S. aureus</emphasis> is also a leading cause of staphylococcal scalded skin syndrome (SSSS).</item>
+<item><emphasis effect="italics">S. aureus</emphasis> is generally drug resistant and current MRSA strains are resistant to a wide range of antibiotics.</item>
+<item>Community-acquired and hospital-acquired staphyloccocal infections are an ongoing problem because many people are asymptomatic carriers.</item>
+<item><emphasis effect="bold">Group A streptococci (GAS)</emphasis>, <emphasis effect="italics">S. pyogenes</emphasis>, is often responsible for cases of <emphasis effect="bold">cellulitis</emphasis>, <emphasis effect="bold">erysipelas</emphasis>, and <emphasis effect="bold">erythema nosodum</emphasis>. GAS are also one of many possible causes of <emphasis effect="bold">necrotizing fasciitis</emphasis>.</item>
+<item><emphasis effect="italics">P. aeruginosa</emphasis> is often responsible for infections of the skin and eyes, including wound and burn infections, <emphasis effect="bold">hot tub rash</emphasis>, <emphasis effect="bold">otitis externa</emphasis>, and bacterial <emphasis effect="bold">keratitis</emphasis>.</item>
+<item><emphasis effect="bold">Acne</emphasis> is a common skin condition that can become more inflammatory when <emphasis effect="italics">Propionibacterium acnes</emphasis> infects hair follicles and pores clogged with dead skin cells and sebum.</item>
+<item>Cutaneous <emphasis effect="bold">anthrax</emphasis> occurs when <emphasis effect="italics">Bacillus</emphasis> <emphasis effect="italics">anthracis</emphasis> breaches the skin barrier. The infection results in a localized black <emphasis effect="bold">eschar</emphasis> on skin. Anthrax can be fatal if <emphasis effect="italics">B.</emphasis> <emphasis effect="italics">anthracis</emphasis> spreads to the bloodstream.</item>
+<item>Common bacterial <emphasis effect="bold">conjunctivitis</emphasis> is often caused by <emphasis effect="italics">Haemophilus</emphasis> <emphasis effect="italics">influenzae</emphasis> and usually resolves on its own in a few days. More serious forms of conjunctivitis include gonococcal <emphasis effect="bold">ophthalmia neonatorum</emphasis>, <emphasis effect="bold">inclusion conjunctivitis</emphasis> (chlamydial), and <emphasis effect="bold">trachoma</emphasis>, all of which can lead to blindness if untreated.</item>
+<item><emphasis effect="bold">Keratitis</emphasis> is frequently caused by <emphasis effect="italics">Staphylococcus epidermidis</emphasis> and/or <emphasis effect="italics">Pseudomonas aeruginosa</emphasis>, especially among contact lens users, and can lead to blindness.</item>
+<item>Biofilms complicate the treatment of wound and eye infections because pathogens living in biofilms can be difficult to treat and eliminate.</item>
+</list>
+</section>
+<section id="fs-id1167663960486" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167661641169">
+<problem id="fs-id1167661351560">
+<para id="fs-id1167661257758"><emphasis effect="italics">Staphylococcus aureus</emphasis> is most often associated with being</para>
+<list id="fs-id1167663591430" list-type="enumerated" number-style="lower-alpha">
+<item>coagulase-positive.</item>
+<item>coagulase-negative.</item>
+<item>catalase-negative.</item>
+<item>gram-negative</item>
+</list>
+</problem>
+<solution id="fs-id1167661645388">
+<para id="fs-id1167663661415">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663646048">
+<problem id="fs-id1167663971860">
+<para id="fs-id1167663644915">M protein is produced by</para>
+<list id="fs-id1167661298747" list-type="enumerated" number-style="lower-alpha">
+<item><emphasis effect="italics">Pseudomonas aeruginosa</emphasis></item>
+<item><emphasis effect="italics">Staphylococcus aureus</emphasis></item>
+<item><emphasis effect="italics">Propionibacterium acnes</emphasis></item>
+<item><emphasis effect="italics">Streptococcus pyogenes</emphasis></item>
+</list>
+</problem>
+<solution id="fs-id1167663993770">
+<para id="fs-id1167661347212">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663921504">
+<problem id="fs-id1167663633653">
+<para id="fs-id1167663649138">___________ is a major cause of preventable blindness that can be reduced through improved sanitation.</para>
+<list id="fs-id1167663906902" list-type="enumerated" number-style="lower-alpha">
+<item>Ophthalmia neonatorum</item>
+<item>Keratitis</item>
+<item>Trachoma</item>
+<item>Cutaneous anthrax</item>
+</list>
+</problem>
+<solution id="fs-id1167663647909">
+<para id="fs-id1167661745466">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663644101">
+<problem id="fs-id1167661639108">
+<para id="fs-id1167663549426">Which species is frequently associated with nosocomial infections transmitted via medical devices inserted into the body?</para>
+<list id="fs-id1167661327414" list-type="enumerated" number-style="lower-alpha">
+<item><emphasis effect="italics">Staphylococcus epidermidis</emphasis></item>
+<item><emphasis effect="italics">Streptococcus pyogenes</emphasis></item>
+<item><emphasis effect="italics">Proproniobacterium acnes</emphasis></item>
+<item><emphasis effect="italics">Bacillus anthracis</emphasis></item>
+</list>
+</problem>
+<solution id="fs-id1167661433296">
+<para id="fs-id1167661307550">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167663956555" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167661539262">
+<problem id="fs-id1167663741985">
+<para id="fs-id1167663810715">A purulent wound produces ________.</para>
+</problem>
+<solution id="fs-id1167663610691">
+<para id="fs-id1167661432602">pus</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167663989941" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167661751196">
+<problem id="fs-id1167663483266">
+<para id="fs-id1167661518638">How are leukocidins associated with pus production?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167661640600">
+<problem id="fs-id1167663643752">
+<para id="fs-id1167661280333">What is a good first test to distinguish streptococcal infections from staphylococcal infections?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

@@ -1,0 +1,167 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Spontaneous Generation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58790</md:content-id>
+  <md:title>Spontaneous Generation</md:title>
+  <md:abstract/>
+  <md:uuid>9dd1042e-4061-4541-8bee-31e9490303f8</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1172100850965" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1172100972301">
+<item>Explain the theory of spontaneous generation and why people once accepted it as an explanation for the existence of certain types of organisms</item>
+<item>Explain how certain individuals (van Helmont, Redi, Needham, Spallanzani, and Pasteur) tried to prove or disprove spontaneous generation</item>
+</list>
+</section>
+<note id="fs-id1172100625585" class="microbiology clinical-focus">
+<title>Part 1</title>
+<para id="fs-id1172100576735">Barbara is a 19-year-old college student living in the dormitory. In January, she came down with a sore throat, headache, mild fever, chills, and a violent but unproductive (i.e., no mucus) cough. To treat these symptoms, Barbara began taking an over-the-counter cold medication, which did not seem to work. In fact, over the next few days, while some of Barbara’s symptoms began to resolve, her cough and fever persisted, and she felt very tired and weak.</para>
+<list id="fs-id1172100835578" list-type="bulleted" bullet-style="bullet">
+<item>What types of respiratory disease may be responsible?</item>
+</list>
+<para id="fs-id1172098431999"><emphasis effect="italics">Jump to the <link document="m58791" target-id="fs-id1172101038766">next</link> Clinical Focus box</emphasis></para>
+</note>
+<para id="fs-id1172098395833">Humans have been asking for millennia: Where does new life come from? Religion, philosophy, and science have all wrestled with this question. One of the oldest explanations was the theory of spontaneous generation, which can be traced back to the ancient Greeks and was widely accepted through the Middle Ages.</para>
+<section id="fs-id1172100546250">
+<title>The Theory of Spontaneous Generation</title>
+<para id="fs-id1172100905451">The Greek philosopher Aristotle (384–322 BC) was one of the earliest recorded scholars to articulate the theory of <term>spontaneous generation</term>, the notion that life can arise from nonliving matter. <term class="no-emphasis">Aristotle</term> proposed that life arose from nonliving material if the material contained <emphasis effect="italics">pneuma</emphasis> (“vital heat”). As evidence, he noted several instances of the appearance of animals from environments previously devoid of such animals, such as the seemingly sudden appearance of fish in a new puddle of water.<footnote id="fs-id1172098307786">K. Zwier. “Aristotle on Spontaneous Generation.” http://www.sju.edu/int/academics/cas/resources/gppc/pdf/Karen%20R.%20Zwier.pdf</footnote></para>
+<para id="fs-id1172100972868">This theory persisted into the 17th century, when scientists undertook additional experimentation to support or disprove it. By this time, the proponents of the theory cited how frogs simply seem to appear along the muddy banks of the Nile River in Egypt during the annual flooding. Others observed that mice simply appeared among grain stored in barns with thatched roofs. When the roof leaked and the grain molded, mice appeared. Jan Baptista <term class="no-emphasis">van Helmont</term>, a 17th century Flemish scientist, proposed that mice could arise from rags and wheat kernels left in an open container for 3 weeks. In reality, such habitats provided ideal food sources and shelter for mouse populations to flourish.</para>
+<para id="fs-id1172098647894">However, one of van Helmont’s contemporaries, Italian physician Francesco <term class="no-emphasis">Redi</term> (1626–1697), performed an experiment in 1668 that was one of the first to refute the idea that maggots (the larvae of flies) spontaneously generate on meat left out in the open air. He predicted that preventing flies from having direct contact with the meat would also prevent the appearance of maggots. Redi left meat in each of six containers (<link target-id="OSC_Microbio_03_01_Rediexpt"/>). Two were open to the air, two were covered with gauze, and two were tightly sealed. His hypothesis was supported when maggots developed in the uncovered jars, but no maggots appeared in either the gauze-covered or the tightly sealed jars. He concluded that maggots could only form when flies were allowed to lay eggs in the meat, and that the maggots were the offspring of flies, not the product of spontaneous generation.</para>
+<figure id="OSC_Microbio_03_01_Rediexpt">
+<media id="fs-id1172098459496" alt="An open container with meat has flies and the formation of maggots in meat. A cork-sealed container of meat has no flies and no formation of maggots in meat. A gauze covered container of meat has flies and maggots on the surface of the gauze but no maggots in the meat.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_03_01_Rediexpt.jpg"/>
+</media>
+<caption>Francesco Redi’s experimental setup consisted of an open container, a container sealed with a cork top, and a container covered in mesh that let in air but not flies. Maggots only appeared on the meat in the open container. However, maggots were also found on the gauze of the gauze-covered container.</caption>
+</figure>
+<para id="fs-id1172101033759">In 1745, John <term class="no-emphasis">Needham</term> (1713–1781) published a report of his own experiments, in which he briefly boiled broth infused with plant or animal matter, hoping to kill all preexisting microbes.<footnote id="fs-id1172100958059">E. Capanna. “Lazzaro Spallanzani: At the Roots of Modern Biology.” <emphasis effect="italics">Journal of Experimental Zoology</emphasis> 285 no. 3 (1999):178–196.</footnote> He then sealed the flasks. After a few days, Needham observed that the broth had become cloudy and a single drop contained numerous microscopic creatures. He argued that the new microbes must have arisen spontaneously. In reality, however, he likely did not boil the broth enough to kill all preexisting microbes.</para>
+<para id="fs-id1172100532060">Lazzaro <term class="no-emphasis">Spallanzani</term> (1729–1799) did not agree with Needham’s conclusions, however, and performed hundreds of carefully executed experiments using heated broth.<footnote id="fs-id1172100977156">R. Mancini, M. Nigro, G. Ippolito. “Lazzaro Spallanzani and His Refutation of the Theory of Spontaneous Generation.” <emphasis effect="italics">Le Infezioni in Medicina</emphasis> 15 no. 3 (2007):199–206.</footnote> As in Needham’s experiment, broth in sealed jars and unsealed jars was infused with plant and animal matter. Spallanzani’s results contradicted the findings of Needham: Heated but sealed flasks remained clear, without any signs of spontaneous growth, unless the flasks were subsequently opened to the air. This suggested that microbes were introduced into these flasks from the air. In response to Spallanzani’s findings, Needham argued that life originates from a “life force” that was destroyed during Spallanzani’s extended boiling. Any subsequent sealing of the flasks then prevented new life force from entering and causing spontaneous generation (<link target-id="OSC_Microbio_03_01_historsci"/>).</para>
+<figure id="OSC_Microbio_03_01_historsci">
+<media id="fs-id1172098261441" alt="a) drawing of Francesco Redi. B) drawing of John Needham c) drawing of Lazzaro Spallanzani.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_03_01_historsci.jpg"/>
+</media>
+<caption>(a) Francesco Redi, who demonstrated that maggots were the offspring of flies, not products of spontaneous generation. (b) John Needham, who argued that microbes arose spontaneously in broth from a “life force.” (c) Lazzaro Spallanzani, whose experiments with broth aimed to disprove those of Needham.</caption>
+</figure>
+<note id="fs-id1172100897344" class="microbiology check-your-understanding">
+<list id="fs-id1172101911317" list-type="bulleted" bullet-style="bullet">
+<item>Describe the theory of spontaneous generation and some of the arguments used to support it.</item>
+<item>Explain how the experiments of Redi and Spallanzani challenged the theory of spontaneous generation.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172100984112">
+<title>Disproving Spontaneous Generation</title>
+<para id="fs-id1172098460658">The debate over spontaneous generation continued well into the 19th century, with scientists serving as proponents of both sides. To settle the debate, the Paris Academy of Sciences offered a prize for resolution of the problem. Louis <term class="no-emphasis">Pasteur</term>, a prominent French chemist who had been studying microbial fermentation and the causes of wine spoilage, accepted the challenge. In 1858, Pasteur filtered air through a gun-cotton filter and, upon microscopic examination of the cotton, found it full of microorganisms, suggesting that the exposure of a broth to air was not introducing a “life force” to the broth but rather airborne microorganisms.</para>
+<para id="fs-id1172100911791">Later, Pasteur made a series of flasks with long, twisted necks (“swan-neck” flasks), in which he boiled broth to sterilize it (<link target-id="OSC_Microbio_03_01_Pasteur"/>). His design allowed air inside the flasks to be exchanged with air from the outside, but prevented the introduction of any airborne microorganisms, which would get caught in the twists and bends of the flasks’ necks. If a life force besides the airborne microorganisms were responsible for microbial growth within the sterilized flasks, it would have access to the broth, whereas the microorganisms would not. He correctly predicted that sterilized broth in his swan-neck flasks would remain sterile as long as the swan necks remained intact. However, should the necks be broken, microorganisms would be introduced, contaminating the flasks and allowing microbial growth within the broth.</para>
+<para id="fs-id1172100979964">Pasteur’s set of experiments irrefutably disproved the theory of spontaneous generation and earned him the prestigious Alhumbert Prize from the Paris Academy of Sciences in 1862. In a subsequent lecture in 1864, Pasteur articulated “<emphasis effect="italics">Omne vivum ex vivo</emphasis>” (“Life only comes from life”). In this lecture, Pasteur recounted his famous swan-neck flask experiment, stating that “…life is a germ and a germ is life. Never will the doctrine of spontaneous generation recover from the mortal blow of this simple experiment.”<footnote id="fs-id1172100623992">R. Vallery-Radot. <emphasis effect="italics">The Life of Pasteur</emphasis>, trans. R.L. Devonshire. New York: McClure, Phillips and Co, 1902, 1:142.</footnote> To Pasteur’s credit, it never has.</para>
+<figure id="OSC_Microbio_03_01_Pasteur">
+<media id="fs-id1172100989931" alt="a) Photo of Louis Pasteur b) Photo of Pasteur’s flask – a round flask that is only opened to the outside through a long S-shaped tube. c) A drawing of Pasteur’s experiment. The top diagram shows the swan-neck flask from (b) containing broth that is being boiled to kill microorganisms in the broth. Dust, particles, and bacteria settle in the bend of the flask. After the boiling process the cooled flask remains sterile because the curve of the bend of the flask prevents bacteria and particles in air from entering the main reservoir and contaminating the broth. So, no contamination occurs. The bottom diagram shows the same flask being boiled. Next, the swan-neck is removed and the flask is opened to the environment. When the neck of the flask is broken off, bacteria reach the sterile broth and organism growth occurs. This is seen as cloudiness in the broth.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_03_01_Pasteur.jpg"/>
+</media>
+<caption>(a) French scientist Louis Pasteur, who definitively refuted the long-disputed theory of spontaneous generation. (b) The unique swan-neck feature of the flasks used in Pasteur’s experiment allowed air to enter the flask but prevented the entry of bacterial and fungal spores. (c) Pasteur’s experiment consisted of two parts. In the first part, the broth in the flask was boiled to sterilize it. When this broth was cooled, it remained free of contamination. In the second part of the experiment, the flask was boiled and then the neck was broken off. The broth in this flask became contaminated. (credit b: modification of work by “Wellcome Images”/Wikimedia Commons)</caption>
+</figure>
+<note id="fs-id1172100967445" class="microbiology check-your-understanding">
+<list id="fs-id1172102121896" list-type="bulleted" bullet-style="bullet">
+<item>How did Pasteur’s experimental design allow air, but not microbes, to enter, and why was this important?</item>
+<item>What was the control group in Pasteur’s experiment and what did it show?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172100841988" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1172100574975" list-type="bulleted" bullet-style="bullet">
+<item>The theory of <emphasis effect="bold">spontaneous generation</emphasis> states that life arose from nonliving matter. It was a long-held belief dating back to Aristotle and the ancient Greeks.</item>
+<item>Experimentation by Francesco Redi in the 17th century presented the first significant evidence refuting spontaneous generation by showing that flies must have access to meat for maggots to develop on the meat. Prominent scientists designed experiments and argued both in support of (John Needham) and against (Lazzaro Spallanzani) spontaneous generation.</item>
+<item>Louis Pasteur is credited with conclusively disproving the theory of spontaneous generation with his famous swan-neck flask experiment. He subsequently proposed that “life only comes from life.”</item>
+</list>
+</section>
+<section id="fs-id1172098421119" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1172100666776">
+<problem id="fs-id1172100613614">
+<para id="fs-id1172100528714">Which of the following individuals argued in favor of the theory of spontaneous generation?</para>
+<list id="fs-id1172100636338" list-type="enumerated" number-style="upper-alpha">
+<item>Francesco Redi</item>
+<item>Louis Pasteur</item>
+<item>John Needham</item>
+<item>Lazzaro Spallanzani</item>
+</list>
+</problem>
+<solution id="fs-id1172100961683">
+<para id="fs-id1172101006642">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100494753">
+<problem id="fs-id1172100915940">
+<para id="fs-id1172098256372">Which of the following individuals is credited for definitively refuting the theory of spontaneous generation using broth in swan-neck flask?</para>
+<list id="fs-id1172098388388" list-type="enumerated" number-style="upper-alpha">
+<item>Aristotle</item>
+<item>Jan Baptista van Helmont</item>
+<item>John Needham</item>
+<item>Louis Pasteur</item>
+</list>
+</problem>
+<solution id="fs-id1172100622827">
+<para id="fs-id1172098525818">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100953578">
+<problem id="fs-id1172100744297">
+<para id="fs-id1172100611218">Which of the following scientists experimented with raw meat, maggots, and flies in an attempt to disprove the theory of spontaneous generation?</para><list id="fs-id1172098312655" list-type="enumerated" number-style="upper-alpha">
+<item>Aristotle</item>
+<item>Lazzaro Spallanzani</item>
+<item>Antonie van Leeuwenhoek</item>
+<item>Francesco Redi</item>
+</list>
+</problem>
+<solution id="fs-id1172101003091">
+<para id="fs-id1172100534848">D</para></solution>
+</exercise>
+</section>
+<section id="fs-id1172100981897" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1172100969739">
+<problem id="fs-id1172098644844">
+<para id="fs-id1172098500793">The assertion that “life only comes from life” was stated by Louis Pasteur in regard to his experiments that definitively refuted the theory of ___________.</para>
+</problem>
+<solution id="fs-id1172100575894">
+<para id="fs-id1172098267665">spontaneous generation</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172100629447" class="true-false">
+<title>True/False</title>
+<exercise id="fs-id1172100727210">
+<problem id="fs-id1172098393381">
+<para id="fs-id1172098687879">Exposure to air is necessary for microbial growth.</para>
+</problem>
+<solution id="fs-id1172100937529">
+<para id="fs-id1172100954183">False</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172100637143" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1172098435850">
+<problem id="fs-id1172100803701">
+<para id="fs-id1172100958968">Explain in your own words Pasteur’s swan-neck flask experiment.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172100617815">
+<problem id="fs-id1172100834352">
+<para id="fs-id1172098423667">Explain why the experiments of Needham and Spallanzani yielded in different results even though they used similar methodologies.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1172100530561" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1172098548728">
+<problem id="fs-id1172100650892">
+<para id="fs-id1172100715718">What would the results of Pasteur’s swan-neck flask experiment have looked like if they supported the theory of spontaneous generation?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

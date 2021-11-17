@@ -1,0 +1,190 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>B Lymphocytes and Humoral Immunity</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58887</md:content-id>
+  <md:title>B Lymphocytes and Humoral Immunity</md:title>
+  <md:abstract/>
+  <md:uuid>529dfb42-8408-4f7c-9d38-0f9e86974f60</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167661720789" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167663936727">
+<item>Describe the production and maturation of B cells</item>
+<item>Compare the structure of B-cell receptors and T-cell receptors</item>
+<item>Compare T-dependent and T-independent activation of B cells</item>
+<item>Compare the primary and secondary antibody responses</item>
+</list>
+</section>
+<para id="fs-id1167661397164">Humoral immunity refers to mechanisms of the adaptive immune defenses that are mediated by antibodies secreted by B lymphocytes, or B cells. This section will focus on B cells and discuss their production and maturation, receptors, and mechanisms of activation.</para>
+<section id="fs-id1167661409255">
+<title>B Cell Production and Maturation</title>
+<para id="fs-id1167663955901">Like T cells, B cells are formed from multipotent <term class="no-emphasis">hematopoietic stem cells</term> (HSCs) in the bone marrow and follow a pathway through lymphoid stem cell and lymphoblast (see <link document="m58879" target-id="OSC_Microbio_17_05_Hematopo"/>). Unlike T cells, however, lymphoblasts destined to become B cells do not leave the <term class="no-emphasis">bone marrow</term> and travel to the thymus for maturation. Rather, eventual B cells continue to mature in the bone marrow.</para>
+<para id="fs-id1167663901968">The first step of B cell maturation is an assessment of the functionality of their antigen-binding receptors. This occurs through <term class="no-emphasis">positive selection</term> for B cells with normal functional receptors. A mechanism of <term class="no-emphasis">negative selection</term> is then used to eliminate <term class="no-emphasis">self-reacting B cells</term> and minimize the risk of <term class="no-emphasis">autoimmunity</term>. Negative selection of self-reacting B cells can involve elimination by <term class="no-emphasis">apoptosis</term>, editing or modification of the receptors so they are no longer self-reactive, or induction of <term class="no-emphasis">anergy</term> in the B cell. Immature B cells that pass the selection in the bone marrow then travel to the <term class="no-emphasis">spleen</term> for their final stages of maturation. There they become <term>naïve mature B cells</term>, i.e., mature B cells that have not yet been activated.</para>
+<note id="fs-id1167661257496" class="microbiology check-your-understanding">
+<list id="fs-id1167661323598" list-type="bulleted" bullet-style="bullet">
+<item>Compare the maturation of B cells with the maturation of T cells.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167659393137">
+<title>B-Cell Receptors</title>
+<para id="fs-id1167661462672">Like T cells, B cells possess antigen-specific receptors with diverse specificities. Although they rely on T cells for optimum function, B cells can be activated without help from T cells. <term>B-cell receptors (BCRs)</term> for naïve mature B cells are membrane-bound monomeric forms of <term class="no-emphasis">IgD</term> and <term class="no-emphasis">IgM</term>. They have two identical <term class="no-emphasis">heavy chains</term> and two identical <term class="no-emphasis">light chains</term> connected by disulfide bonds into a basic “Y” shape (<link target-id="OSC_Microbio_18_04_BCR"/>). The trunk of the Y-shaped molecule, the constant region of the two heavy chains, spans the B cell membrane. The two <term class="no-emphasis">antigen-binding sites</term> exposed to the exterior of the B cell are involved in the binding of specific pathogen epitopes to initiate the activation process. It is estimated that each naïve mature B cell has upwards of 100,000 BCRs on its membrane, and each of these BCRs has an identical epitope-binding specificity.</para>
+<para id="fs-id1167664003850">In order to be prepared to react to a wide range of microbial epitopes, B cells, like T cells, use <term class="no-emphasis">genetic rearrangement</term> of hundreds of gene segments to provide the necessary diversity of receptor specificities. The variable region of the <term class="no-emphasis">BCR</term> heavy chain is made up of <term class="no-emphasis">V, D, and J segments</term>, similar to the β chain of the TCR. The variable region of the BCR light chain is made up of V and J segments, similar to the α chain of the TCR. Genetic rearrangement of all possible combinations of V-J-D (heavy chain) and V-J (light chain) provides for millions of unique antigen-binding sites for the BCR and for the antibodies secreted after activation.</para>
+<para id="fs-id1167661618645">One important difference between BCRs and TCRs is the way they can interact with antigenic epitopes. Whereas TCRs can only interact with antigenic epitopes that are presented within the antigen-binding cleft of <term class="no-emphasis">MHC I</term> or <term class="no-emphasis">MHC II</term>, BCRs do not require antigen presentation with MHC; they can interact with epitopes on free antigens or with <term class="no-emphasis">epitopes</term> displayed on the surface of intact pathogens. Another important difference is that TCRs only recognize protein epitopes, whereas BCRs can recognize epitopes associated with different molecular classes (e.g., proteins, polysaccharides, lipopolysaccharides).</para>
+<para id="fs-id1167661364633">Activation of B cells occurs through different mechanisms depending on the molecular class of the antigen. Activation of a B cell by a protein antigen requires the B cell to function as an APC, presenting the protein epitopes with MHC II to helper T cells. Because of their dependence on T cells for <term class="no-emphasis">activation of B cells</term>, protein antigens are classified as <term>T-dependent antigens</term>. In contrast, polysaccharides, lipopolysaccharides, and other nonprotein antigens are considered <term>T-independent antigens</term> because they can activate B cells without antigen processing and presentation to T cells.</para>
+<figure id="OSC_Microbio_18_04_BCR">
+<media id="fs-id1167661369816" alt="A B cell plasma membrane has two long rectangles spanning it; these form a Y shape. Two shorter rectangles sit on the outside of the upper portion of the Y. The region spanning the membrane and half-way through the bars of the Y is the constant region. The upper region is the variable region which has the antigen binding sites. The long rectangles are the heavy chain. The shorter rectangles are the light chains. Multiple disulfide bridges hold the constant region together.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_18_04_BCR.jpg"/>
+</media>
+<caption>B-cell receptors are embedded in the membranes of B cells. The variable regions of all of the receptors on a single cell bind the same specific antigen.</caption>
+</figure>
+<note id="fs-id1167659420519" class="microbiology check-your-understanding">
+<list id="fs-id1167663609872" list-type="bulleted" bullet-style="bullet">
+<item>What types of molecules serve as the BCR?</item>
+<item>What are the differences between TCRs and BCRs with respect to antigen recognition?</item>
+<item>Which molecule classes are T-dependent antigens and which are T-independent antigens?</item>
+</list>
+</note>
+<section id="fs-id1167661480870">
+<title>T Cell-Independent Activation of B cells</title>
+<para id="fs-id1167659203063">Activation of B cells without the cooperation of helper T cells is referred to as <term class="no-emphasis">T cell-independent activation</term> and occurs when BCRs interact with T-independent antigens. T-independent antigens (e.g., polysaccharide capsules, lipopolysaccharide) have <term class="no-emphasis">repetitive epitope units</term> within their structure, and this repetition allows for the <term class="no-emphasis">cross-linkage</term> of multiple BCRs, providing the first signal for activation (<link target-id="OSC_Microbio_18_04_indact"/>). Because T cells are not involved, the second signal has to come from other sources, such as interactions of <term class="no-emphasis">toll-like receptors</term> with <term class="no-emphasis">PAMPs</term> or interactions with factors from the <term class="no-emphasis">complement system</term>.</para>
+<para id="fs-id1167661550148">Once a B cell is activated, it undergoes <term class="no-emphasis">clonal proliferation</term> and daughter cells differentiate into plasma cells. <term>Plasma cells</term> are antibody factories that secrete large quantities of antibodies. After differentiation, the surface BCRs disappear and the plasma cell secretes <term class="no-emphasis">pentameric IgM</term> molecules that have the same antigen specificity as the BCRs (<link target-id="OSC_Microbio_18_04_indact"/>).</para>
+<para id="fs-id1167661664967">The T cell-independent response is short-lived and does not result in the production of <term class="no-emphasis">memory B cells</term>. Thus it will not result in a secondary response to subsequent exposures to T-independent antigens.</para>
+<figure id="OSC_Microbio_18_04_indact">
+<media id="fs-id1167661427526" alt="A circle with small chains of hexagons projecting from the surface is a pathogenic bacterial cell. The chains are polysaccharide antigens with repeating epitopes. Antibodies on the B cell bind to these epitopes. This causes the activation of the  B cell and secretion of pentameric IgM.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_18_04_indact.jpg"/>
+</media>
+<caption>T-independent antigens have repeating epitopes that can induce B cell recognition and activation without involvement from T cells. A second signal, such as interaction of TLRs with PAMPs (not shown), is also required for activation of the B cell. Once activated, the B cell proliferates and differentiates into antibody-secreting plasma cells.</caption>
+</figure>
+<note id="fs-id1167663741393" class="microbiology check-your-understanding">
+<list id="fs-id1167659189381" list-type="bulleted" bullet-style="bullet">
+<item>What are the two signals required for T cell-independent activation of B cells?</item>
+<item>What is the function of a plasma cell?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167661561383">
+<title>T Cell-Dependent Activation of B cells</title>
+<para id="fs-id1167663585424">T cell-dependent activation of B cells is more complex than T cell-independent activation, but the resulting immune response is stronger and develops memory. T cell-dependent activation can occur either in response to <term class="no-emphasis">free protein antigens</term> or to protein antigens associated with an intact pathogen. Interaction between the BCRs on a naïve mature B cell and a free protein antigen stimulate <term class="no-emphasis">internalization</term> of the antigen, whereas interaction with antigens associated with an intact pathogen initiates the extraction of the antigen from the pathogen before internalization. Once internalized inside the B cell, the protein antigen is processed and presented with <term class="no-emphasis">MHC II</term>. The presented antigen is then recognized by <term class="no-emphasis">helper T cells</term> specific to the same antigen. The TCR of the helper T cell recognizes the foreign antigen, and the T cell’s <term class="no-emphasis">CD4</term> molecule interacts with MHC II on the B cell. The coordination between B cells and helper T cells that are specific to the same antigen is referred to as <term>linked recognition</term>.</para>
+<para id="fs-id1167659439614">Once activated by linked recognition, <term class="no-emphasis">T<sub>H</sub>2 cells</term> produce and secrete <term class="no-emphasis">cytokines</term> that activate the B cell and cause proliferation into clonal daughter cells. After several rounds of proliferation, additional cytokines provided by the T<sub>H</sub>2 cells stimulate the differentiation of activated B cell clones into <term>memory B cells</term>, which will quickly respond to subsequent exposures to the same protein epitope, and plasma cells that lose their membrane BCRs and initially secrete pentameric IgM (<link target-id="OSC_Microbio_18_04_BCellact"/>).</para>
+<para id="fs-id1167659362162">After initial secretion of IgM, <term class="no-emphasis">cytokines</term> secreted by T<sub>H</sub>2 cells stimulate the plasma cells to switch from IgM production to production of <term class="no-emphasis">IgG</term>, <term class="no-emphasis">IgA</term>, or <term class="no-emphasis">IgE</term>. This process, called <term>class switching</term> or <term class="no-emphasis">isotype switching</term>, allows <term class="no-emphasis">plasma cells</term> cloned from the same activated B cell to produce a variety of antibody classes with the same epitope specificity. Class switching is accomplished by <term class="no-emphasis">genetic rearrangement</term> of gene segments encoding the <term class="no-emphasis">constant region</term>, which determines an antibody’s class. The <term class="no-emphasis">variable region</term> is not changed, so the new class of antibody retains the original epitope specificity.</para>
+<figure id="OSC_Microbio_18_04_BCellact">
+<media id="fs-id1167661619114" alt="1: BCR interaction with antigen on intact pathogen. An antigen on the surface of a bacterium binds to the B cell receptor on the B cell. s: Antigen processing and presentation with MHC II. The antigen is on the MHC II. 3: Antigen presentation and activation of helper T cell. T cell receptor of helper T cell binds to antigen on MHCII. This is stabilized by CD4. Helper T releases cytokines. 4: Cytokines stimulate clonal proliferation and differentiation into memory B cells and antibody-secreting plasma cells.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_18_04_BCellact.jpg"/>
+</media>
+<caption>In T cell-dependent activation of B cells, the B cell recognizes and internalizes an antigen and presents it to a helper T cell that is specific to the same antigen. The helper T cell interacts with the antigen presented by the B cell, which activates the T cell and stimulates the release of cytokines that then activate the B cell. Activation of the B cell triggers proliferation and differentiation into B cells and plasma cells.</caption>
+</figure>
+<note id="fs-id1167661424810" class="microbiology check-your-understanding">
+<list id="fs-id1167661745430" list-type="bulleted" bullet-style="bullet">
+<item>What steps are required for T cell-dependent activation of B cells?</item>
+<item>What is antibody class switching and why is it important?</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1167661506646">
+<title>Primary and Secondary Responses</title>
+<para id="fs-id1167661291167">T cell-dependent activation of B cells plays an important role in both the primary and secondary responses associated with adaptive immunity. With the first exposure to a protein antigen, a T cell-dependent <term class="no-emphasis">primary antibody response</term> occurs. The initial stage of the primary response is a <term>lag period</term>, or <term class="no-emphasis">latent period</term>, of approximately 10 days, during which no antibody can be detected in serum. This lag period is the time required for all of the steps of the primary response, including naïve mature B cell binding of antigen with BCRs, antigen processing and presentation, helper T cell activation, B cell activation, and clonal proliferation. The end of the lag period is characterized by a rise in IgM levels in the serum, as <term class="no-emphasis">T<sub>H</sub>2 cells</term> stimulate B cell differentiation into <term class="no-emphasis">plasma cells</term>. <term class="no-emphasis">IgM</term> levels reach their peak around 14 days after primary antigen exposure; at about this same time, T<sub>H</sub>2 stimulates antibody class switching, and IgM levels in serum begin to decline. Meanwhile, levels of IgG increase until they reach a peak about three weeks into the primary response (<link target-id="OSC_Microbio_18_04_PriSec"/>).</para>
+<para id="fs-id1167661508248">During the primary response, some of the cloned B cells are differentiated into <term class="no-emphasis">memory B cells</term> programmed to respond to subsequent exposures. This <term class="no-emphasis">secondary response</term> occurs more quickly and forcefully than the primary response. The lag period is decreased to only a few days and the production of IgG is significantly higher than observed for the primary response (<link target-id="OSC_Microbio_18_04_PriSec"/>). In addition, the antibodies produced during the secondary response are more effective and bind with higher affinity to the targeted epitopes. Plasma cells produced during secondary responses live longer than those produced during the primary response, so levels of specific antibody remain elevated for a longer period of time.</para>
+<figure id="OSC_Microbio_18_04_PriSec">
+<media id="fs-id1167659426519" alt="Update alt text to: A graph with time on the X axis and antibody concentration in serum. At first there is very little antibody (near 0). The lag period does not see a significant increase. In the primary response, IgM peaks for about 5 days and drops. At the same time IgG increases and then drops. This creates an increase in antibody count with a plateau of about 5 days as both antibody types are present. The secondary response sees a prolonged peak of IgG with a peak of IgM for about 1 to 2 days at about the same time as the peak of IgG. The total antibody is also higher but isn’t at its plateau for as long as it is in the primary response.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_18_04_PriSec.jpg"/>
+</media>
+<caption>Compared to the primary response, the secondary antibody response occurs more quickly and produces antibody levels that are higher and more sustained. The secondary response mostly involves IgG.</caption>
+</figure>
+<note id="fs-id1167661314628" class="microbiology check-your-understanding">
+<list id="fs-id1167664000616" list-type="bulleted" bullet-style="bullet">
+<item>What events occur during the lag period of the primary antibody response?</item>
+<item>Why do antibody levels remain elevated longer during the secondary antibody response?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167659403600" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167661484496" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">B lymphocytes</emphasis> or <emphasis effect="bold">B cells</emphasis> produce antibodies involved in humoral immunity. B cells are produced in the bone marrow, where the initial stages of maturation occur, and travel to the spleen for final steps of maturation into naïve mature B cells.</item>
+<item><emphasis effect="bold">B-cell receptors (BCRs)</emphasis> are membrane-bound monomeric forms of IgD and IgM that bind specific antigen epitopes with their Fab antigen-binding regions. Diversity of antigen binding specificity is created by genetic rearrangement of V, D, and J segments similar to the mechanism used for TCR diversity.</item>
+<item>Protein antigens are called <emphasis effect="bold">T-dependent antigens</emphasis> because they can only activate B cells with the cooperation of helper T cells. Other molecule classes do not require T cell cooperation and are called <emphasis effect="bold">T-independent antigens</emphasis>.</item>
+<item><emphasis effect="bold">T cell-independent activation</emphasis> of B cells involves cross-linkage of BCRs by repetitive nonprotein antigen epitopes. It is characterized by the production of IgM by <emphasis effect="bold">plasma cells</emphasis> and does not produce memory B cells.</item>
+<item><emphasis effect="bold">T cell-dependent activation</emphasis> of B cells involves processing and presentation of protein antigens to helper T cells, activation of the B cells by cytokines secreted from activated T<sub>H</sub>2 cells, and plasma cells that produce different classes of antibodies as a result of <emphasis effect="bold">class switching</emphasis>. <emphasis effect="bold">Memory B cells</emphasis> are also produced.</item>
+<item>Secondary exposures to T-dependent antigens result in a secondary antibody response initiated by memory B cells. The secondary response develops more quickly and produces higher and more sustained levels of antibody with higher affinity for the specific antigen.</item>
+</list>
+</section>
+<section id="fs-id1167663591374" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167663529755">
+<problem id="fs-id1167661431765">
+<para id="fs-id1167659061244">Which of the following would be a T-dependent antigen?</para>
+<list id="fs-id1167661566115" list-type="enumerated" number-style="lower-alpha">
+<item>lipopolysaccharide</item>
+<item>glycolipid</item>
+<item>protein</item>
+<item>carbohydrate</item>
+</list>
+</problem>
+<solution id="fs-id1167661325375">
+<para id="fs-id1167661370381">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167661419638">
+<problem id="fs-id1167659063118">
+<para id="fs-id1167659407264">Which of the following would be a BCR?</para>
+<list id="fs-id1167663966950" list-type="enumerated" number-style="lower-alpha">
+<item>CD4</item>
+<item>MHC II</item>
+<item>MHC I</item>
+<item>IgD</item>
+</list>
+</problem>
+<solution id="fs-id1167663985240">
+<para id="fs-id1167661643354">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167661409386">
+<problem id="fs-id1167659010599">
+<para id="fs-id1167661655797">Which of the following does not occur during the lag period of the primary antibody response?</para>
+<list id="fs-id1167659265675" list-type="enumerated" number-style="lower-alpha">
+<item>activation of helper T cells</item>
+<item>class switching to IgG</item>
+<item>presentation of antigen with MHC II</item>
+<item>binding of antigen to BCRs</item>
+</list>
+</problem>
+<solution id="fs-id1167661396391">
+<para id="fs-id1167661295440">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167661647942" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167661351066">
+<problem id="fs-id1167661464718">
+<para id="fs-id1167663743193">________ antigens can stimulate B cells to become activated but require cytokine assistance delivered by helper T cells.</para>
+</problem>
+<solution id="fs-id1167661364077">
+<para id="fs-id1167661762308">T-dependent</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167659189165">
+<problem id="fs-id1167659429320">
+<para id="fs-id1167661643684">T-independent antigens can stimulate B cells to become activated and secrete antibodies without assistance from helper T cells. These antigens possess ________ antigenic epitopes that cross-link BCRs.</para>
+</problem>
+<solution id="fs-id1167661527440">
+<para id="fs-id1167663586080">repetitive</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167661510247" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167659337122">
+<problem id="fs-id1167659400690">
+<para id="fs-id1167663734735">A patient lacks the ability to make functioning T cells because of a genetic disorder. Would this patient’s B cells be able to produce antibodies in response to an infection? Explain your answer.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+
+</document>

@@ -1,0 +1,87 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="appendix">
+
+<title>Metabolic Pathways</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58948</md:content-id>
+  <md:title>Metabolic Pathways</md:title>
+  <md:abstract/>
+  <md:uuid>cc0f6a69-3ffe-412a-a936-c9ba976713d6</md:uuid>
+</metadata>
+
+<content class="appendix">
+<section id="fs-id1167661290571">
+<title>Glycolysis</title>
+<figure id="OSC_Microbio_00_CC_glyc1">
+<media id="fs-id1167663872602" alt="Diagram of first half of glycolysis. Glucose is a 6 carbon sugar; it is a hexagon with an oxygen in one of the corners and the sixth carbon outside of the ring. Step 1: Hexokinase takes a phosphate from ATP and adds it to glucose to produce glucose-6-phosphate (a linear structure with a phosphate group at carbon 6). ADP is another product of this reaction. Step 2: Phosphoglucose isomerase converts glucose-6-phosphate to fructose-6-phosphate by moving the double bonded oxygen from carbon 1 to carbon 2. Step 3: phosphofrutokinase moves a phosphate from ATP to fructose-6-phosphate to produce fructose-1,6,-diphosphate. This is a fructose molecule with phosphate groups on carbons 1 and 6. ADTP is another product of this reaction. Step 4: Aldolase splits fructose-1,6-biphosphate in half to produce glyceraldehyde-3-phosphate (a 3 carbon molecule with a double bonded oxygen at carbon 1 and a phosphate at carbon 3) and dihydroxyacetone-phosphate (which has a phosphate group at carbon 1 and a double bonded oxygen at carbon 2). Step 5: Triose phosphate isomerase converts between dihydroxyacetone-phosphate and glyceraldehyde-3-phosphate.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_00_CC_glyc1.jpg"/>
+</media>
+<caption>The first half of glycolysis uses two ATP molecules in the phosphorylation of glucose, which is then split into two three-carbon molecules.</caption>
+</figure>
+<figure id="OSC_Microbio_00_CC_glyc2">
+<media id="fs-id1167659392444" alt="Diagram of the second half of glycolysis. All of the following steps happen twice. Step 6: Glyceraldehyde 3-phosphate dehydrogenase converts glyceraldehyde 3-phosphate (a 3 carbon molecule with a double bonded oxygen at carbon 1 and a phosphate at carbon 3) to 1,3-bisphosphoglycerate (a molecule with phopshates on carbons 1 and 3). The phosphate added is an inorganic phosphate (pi) and this process also requires the conversion of NAD+ to NADH and H+. Step 7: Phosphoglycerate kinase removes a phosphate from 1,3-bisphosphoglycerate and adds it to ADP to produce ATP and 3-phosphoglycerate (a molecule with a phosphate group at carbon 3 and a carboxyl group at carbon 1). Step 8: Phosphoglycerate mutase converts 3-phosphoglycerate to 2-phosphoglycerate which has a carboxyl on carbon 1, a phosphate group on carbon 2, and an OH on carbon 3. Step 9: Enolase converts 2-phosphoglycerate to phosphoenolpyruvate (PEP) by removing the oxygen from carbon 3 (and producing water). Step 10: Pyruvate kinase converts PEP to pyruvate by removing the phosphate group and adding it to ADP to produce ATP. Pyruvate is a 3 carbon molecule with a carboxyl on carbon 1 and a double bound oxygen on carbon 2.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_00_CC_glyc2.jpg"/>
+</media>
+<caption>The second half of glycolysis involves phosphorylation without ATP investment (step 6) and produces two NADH and four ATP molecules per glucose.</caption>
+</figure>
+</section>
+<section id="fs-id1167661412879">
+<title>Entner–Doudoroff Pathway</title>
+<figure id="OSC_Microbio_00_CC_ED">
+<media id="fs-id1167659333496" alt="D-glucose is a 6 carbon molecule with a hexagon ring that contains an oxygen at one corner; the sixth carbon is outside of the ring. ATP:D-glucose 6-phosphotransferase removes a phosphate group from ATP to produce beta-D-glucose-6P which has a phosphate group on carbon 6. ADP is another product of this reaction. Beta-D-glucose-6-phosphate: NADP+1-oxoreductase converts beta-D-glucose-6P to D-clucono-1,5,-lactone 6-phosphate. This molecule has an oxygen at carbon 1 rather than an OH group. This reaction also produces NADH+ + H+ from NADP. Lactonohydrolase converts D-glucono-1,5,-lactone 6-phosphate to 6-phsopho-D-gluconate (a linear form with the phosphate group at carbon 6 and a double bonded oxygen at carbon 1). 6-phospho-D-gluconate hydro-lyase converts 6-phsopho-D-gluconate to 2-dehydro-3-deoxy-D-gluconate-6P by adding a double bonded oxygen to carbon 2. P-2-keto-3-deoxygluconate aldolase splits 2-dehydro-3-deoxy-D-gluconate-6P into pyruvate (a 3 carbon molecule with double bonded oxygens at carbons 1 and 2) and glyceraldehyde-3-phosphate (a 3 carbon molecule with a double bonded oxygen at carbon 1 and a phosphate group on carbon 3). Glyceraldeyhyde-3-phosphate can be converted to pyruvate by removing the phosphate and adding it to ATP to produce ADP.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_00_CC_ED.jpg"/>
+</media>
+<caption>The Entner–Doudoroff Pathway is a metabolic pathway that converts glucose to ethanol and nets one ATP.</caption>
+</figure>
+</section>
+<section id="fs-id1167663856958">
+<title>The Pentose-Phosphate Pathway</title>
+<figure id="OSC_Microbio_00_CC_PP">
+<media id="fs-id1167661399231" alt="Step 1: Glucose-6-phosphate is a 6 carbon molecule in ring formation with a phosphate group at carbon 6. Step 2: Glucose 6-phosphate dehydrogenase converts glucose-6-phosphate to 6-P-gluconolactone thereby producing NADPH/H+ from NADP+. Step 3: Gluconolactonase converts 6-P-gluconolactone to 6-P-gluconate by hydrolysis. Step 4: 6-P-gluconate dehydrogenase converts 6-P-gluconate to ribulose 5-phosphate thereby producing NADPH/H+ from NADP+.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_00_CC_PP.jpg"/>
+</media>
+<caption>The pentose phosphate pathway, also called the phosphogluconate pathway and the hexose monophosphate shunt, is a metabolic pathway parallel to glycolysis that generates NADPH and five-carbon sugars as well as ribose 5-phosphate, a precursor for the synthesis of nucleotides from glucose.</caption>
+</figure>
+</section>
+<section id="fs-id1167663637622">
+<title>TCA Cycle</title>
+<figure id="OSC_Microbio_00_CC_ACA">
+<media id="fs-id1167661414604" alt="Step 1: A carboxyl group is removed from pyruvate, releasing carbon dioxide. Step 2: NAD+ is reduced to NADH. Step 3: An acetyl group is transferred to coenzyme A, resulting in acetyl CoA.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_00_CC_ACA.jpg"/>
+</media>
+<caption>In this transition reaction, a multi-enzyme complex converts pyruvate into one acetyl (2C) group plus one carbon dioxide (CO<sub>2</sub>). The acetyl group is attached to a Coenzyme A carrier that transports the acetyl group to the site of the Krebs cycle. In the process, one molecule of NADH is formed.</caption>
+</figure>
+<figure id="OSC_Microbio_00_CC_TCA">
+<media id="fs-id1167661750178" alt="Acetyl CoA is a 2 carbon molecule with an “S-CoA” attached to one of the carbons. This enters the cycle and is bound to oxaloacetate (a 4 carbon molecule) to form citrate (a 6 carbon molecule). This step also removes the SH=CoA and uses water. Citrate is then converted to isocitrate when an OH group is moved from carbon 3 to carbon 4. Isocitrate is then converted to alpha-ketoglutarate when one of the carbons is removed. This produces a CO2 and an NADH.H+ from NAD+. Alpha-ketoglutarate is then converted to succinyl-CoA by the addition of an S-CoA and the removal of a carbon. This process produces a CO2, and uses an SH-CoA. This process also produces an NADH/H+ from NAD+. Succinyl coA is then conveted to succinate by the removal of the SH-CoA. This process produces a GTP from GDP and Pi. Succinate is converted to fumarate by removing 2 hydrogens in double bonding the middle 2 carbons. This also produces FADH2 from FAD. The FADH2 can then be converted back to FAD,w hich produces QH2 from Q. Fumarate is converted to malate by the addition of water; this breaks the double bonds. Malate is converted to oxaloacetate by removing a hydrogen from the oxygen on carbon 2 and thereby forming a double bond between the oxygen and carbon. This also produces NADH/H+ from NAD+. This completes the cycle until another acetyl-CoA enters.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_00_CC_TCA.jpg"/>
+</media>
+<caption>In the citric acid cycle, the acetyl group from acetyl CoA is attached to a four-carbon oxaloacetate molecule to form a six-carbon citrate molecule. Through a series of steps, citrate is oxidized, releasing two carbon dioxide molecules for each acetyl group fed into the cycle. In the process, three NADH, one FADH2, and one ATP or GTP (depending on the cell type) is produced by substrate-level phosphorylation. Because the final product of the citric acid cycle is also the first reactant, the cycle runs continuously in the presence of sufficient reactants. (credit: modification of work by “Yikrazuul”/Wikimedia Commons)</caption>
+</figure>
+</section>
+<section id="fs-id1167659439427">
+<title>Beta Oxidation</title>
+<figure id="OSC_Microbio_00_CC_BO">
+<media id="fs-id1167661750967" alt="Starting with a fatty acid (a long carbon chain). Step 1: Converting a fatty acid to a fatty acyl carnitine allows transport through the mitochondrial membranes. The image shows the removal of the OH from the end of the fatty acid and the addition of a Co-A-S in its place. Step 2: Fatty acyl CoA is converted to beta-ketoacyl CoA, which is split into an acyl CoA and acetyl CoA. The Co-A-SH is removed. Hydrogens are removed from carbons 2 and 3 to form a double bond between these carbons. This also produces FADH2 form FAD+. Next the trans-enoyl CoA is converted by beta carbon oxidation and the addition of water. This produces L-3-hydroxyacyl CoA (a molecule where these double bonds are again broke). Next Beta-ketoacyl CoA is produced (which has an added double bonded oxygen to carbon 3). This process also produces NADH + H+ from NAD+. Next, beta-ketoacyl CoA is split to acetyl CoA (a 2 carbon chain) and acyl CoA (with a shortened carbon chain). Finally, Acetyl-CoA enters the Krebs cycle.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_00_CC_BO.jpg"/>
+</media>
+<caption>During fatty acid oxidation, triglycerides can be broken down into 2C acetyl groups that can enter the Krebs cycle and be used as a source of energy when glucose levels are low.</caption>
+</figure>
+</section>
+<section id="fs-id1167659439432">
+<title>Electron Transport Chain and Oxidative Phosphorylation</title><figure id="OSC_Microbio_00_CC_OP">
+<media id="fs-id1167661366377" alt="The inner membrane of the mitochondria is shown. On the membrane are a series of proteins in a row and a large protein off to one side. In the inner mitochondrial matrix is the overall equation showing 2 free hydrogen ions + 2 electrons exiting ETC + ½ of an O2 molecule produce water. This happens twice. The diagram shows 2 electrons on the first protein in the chain. These electrons come from the splitting of NADH to NAD+. The electrons are then moved to the next protein in the chain, and down the line of 5 proteins in the electron transport chain. Electrons can also be added to the chain on the second protein from the splitting of FADH2 into FAD+. As the electrons are passed through proteins 1, 3, and 5 protons (H+) are pumped across the membrane. These protons can then flow back to the mitochondrial matrix through ATP synthase. As they flow through ATP synthase, they allow for the production of ATP from ADP and PO4,3-.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_00_CC_OP.jpg"/>
+</media>
+<caption>The electron transport chain is a series of electron carriers and ion pumps that are used to pump H<sup>+</sup> ions across a membrane. H<sup>+</sup> then flow back through the membrane by way of ATP synthase, which catalyzes the formation of ATP. The location of the electron transport chain is the inner mitochondrial matrix in eukaryotic cells and cytoplasmic membrane in prokaryotic cells.</caption>
+</figure>
+</section>
+<section id="fs-id1167659004216">
+<title>Calvin-Benson Cycle</title>
+<figure id="OSC_Microbio_00_CC_CB">
+<media id="fs-id1167663611268" alt="Step 1: Carbon fixation. Three molecules of CO2 enter the cycle. Rubisco combines them with 3 molecules of RUBP (a 5 carbon molecule with a phosphate group on either end.  This produces 6 molecules of 3-PGA (a 3 carbon molecule with a phosphate at carbon 3. Step 2: reduction of 3-PGA. The 3-PGA molecules are converted to 6 molecules of GA3P by removing one of the oxygens on carbon 1. This process also uses 6 molecules of ATP (producing ADP) and 6 molecules of NADPH (producing NADP+ + H+). Step 3: Regeneration of RuBP. Five of the 6 molecules of GA3P are converted to 3 molecules of RuBP. The sixth Ga3P is converted to ½ molecule glucose (C6H12O6). The production of RuBP also uses 3 ATP (producing 2 ADP). This brings us back to the top of the cycle.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_00_CC_CB.jpg"/>
+</media>
+<caption>The Calvin-Benson cycle has three stages. In stage 1, the enzyme RuBisCO incorporates carbon dioxide into an organic molecule, 3-PGA. In stage 2, the organic molecule is reduced using electrons supplied by NADPH. In stage 3, RuBP, the molecule that starts the cycle, is regenerated so that the cycle can continue. Only one carbon dioxide molecule is incorporated at a time, so the cycle must be completed three times to produce a single three-carbon GA3P molecule, and six times to produce a six-carbon glucose molecule.</caption>
+</figure>
+</section>
+ </content>
+</document>

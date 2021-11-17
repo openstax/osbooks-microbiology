@@ -1,0 +1,322 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Energy, Matter, and Enzymes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58819</md:content-id>
+  <md:title>Energy, Matter, and Enzymes</md:title>
+  <md:abstract/>
+  <md:uuid>4afdc4be-c5d8-46ed-9054-b8b26bafe736</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167660342095" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167658043455">
+<item>Define and describe metabolism</item>
+<item>Compare and contrast autotrophs and heterotrophs</item>
+<item>Describe the importance of oxidation-reduction reactions in metabolism</item>
+<item>Describe why ATP, FAD, NAD<sup>+</sup>, and NADP<sup>+</sup> are important in a cell</item>
+<item>Identify the structure and structural components of an enzyme</item>
+<item>Describe the differences between competitive and noncompetitive enzyme inhibitors</item>
+</list>
+</section>
+<note id="fs-id1167662371112" class="microbiology clinical-focus">
+<title>Part 1</title>
+<para id="fs-id1167660311671">Hannah is a 15-month-old girl from Washington state. She is spending the summer in Gambia, where her parents are working for a nongovernmental organization. About 3 weeks after her arrival in Gambia, Hannah’s appetite began to diminish and her parents noticed that she seemed unusually sluggish, fatigued, and confused. She also seemed very irritable when she was outdoors, especially during the day. When she began vomiting, her parents figured she had caught a 24-hour virus, but when her symptoms persisted, they took her to a clinic. The local physician noticed that Hannah’s reflexes seemed abnormally slow, and when he examined her eyes with a light, she seemed unusually light sensitive. She also seemed to be experiencing a stiff neck.</para>
+<list id="fs-id1167660146587" list-type="bulleted" bullet-style="bullet">
+<item>What are some possible causes of Hannah’s symptoms?</item>
+</list>
+<para id="fs-id1167658343065"><emphasis effect="italics">Jump to the <link document="m58822" target-id="fs-id1167660330751">next</link> Clinical Focus box.</emphasis></para>
+</note>
+<para id="fs-id1167660398844">The term used to describe all of the chemical reactions inside a cell is <term>metabolism</term> (<link target-id="OSC_Microbio_08_01_metabolism"/>). Cellular processes such as the building or breaking down of complex molecules occur through series of stepwise, interconnected chemical reactions called <term class="no-emphasis">metabolic pathway</term>s. Reactions that are spontaneous and release energy are <term>exergonic reaction</term>s, whereas <term>endergonic reaction</term>s require energy to proceed. The term <term>anabolism</term> refers to those endergonic metabolic pathways involved in <term class="no-emphasis">biosynthesis</term>, converting simple molecular building blocks into more complex molecules, and fueled by the use of cellular energy. Conversely, the term <term>catabolism</term> refers to exergonic pathways that break down complex molecules into simpler ones. Molecular energy stored in the bonds of complex molecules is released in catabolic pathways and harvested in such a way that it can be used to produce high-energy molecules, which are used to drive anabolic pathways. Thus, in terms of energy and molecules, cells are continually balancing catabolism with anabolism.</para>
+<figure id="OSC_Microbio_08_01_metabolism">
+<media id="fs-id1167660361196" alt="Diagram of metabolism. Catabolism: large molecules are broken down into small ones releasing energy. This is shown as a chain of 4 circles splitting into individual circles and Energy. The reverse process (using energy to connect the 4 circles) is anabolism. Anabolism: small molecules are assembled into larger ones, using energy.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_01_metabolism.jpg"/>
+</media>
+<caption>Metabolism includes catabolism and anabolism. Anabolic pathways require energy to synthesize larger molecules. Catabolic pathways generate energy by breaking down larger molecules. Both types of pathways are required for maintaining the cell’s energy balance.</caption>
+</figure>
+<section id="fs-id1167662507484">
+<title>Classification by Carbon and Energy Source</title>
+<para id="fs-id1167662445768">Organisms can be identified according to the source of carbon they use for metabolism as well as their energy source. The prefixes auto- (“self”) and hetero- (“other”) refer to the origins of the carbon sources various organisms can use. Organisms that convert inorganic carbon dioxide (CO<sub>2</sub>) into organic carbon compounds are <term>autotroph</term><emphasis effect="bold">s</emphasis>. Plants and cyanobacteria are well-known examples of autotrophs. Conversely, <term>heterotroph</term><emphasis effect="bold">s</emphasis> rely on more complex organic carbon compounds as nutrients; these are provided to them initially by autotrophs. Many organisms, ranging from humans to many prokaryotes, including the well-studied <term class="no-emphasis"><emphasis effect="italics">Escherichia coli</emphasis></term>, are heterotrophic.</para>
+<para id="fs-id1167660311470">Organisms can also be identified by the energy source they use. All energy is derived from the transfer of electrons, but the source of electrons differs between various types of organisms. The prefixes photo- (“light”) and chemo- (“chemical”) refer to the energy sources that various organisms use. Those that get their energy for electron transfer from light are <term>phototroph</term><emphasis effect="bold">s</emphasis>, whereas <term>chemotroph</term><emphasis effect="bold">s</emphasis> obtain energy for electron transfer by breaking chemical bonds. There are two types of chemotrophs: <term>organotroph</term><emphasis effect="bold">s</emphasis> and <term>lithotroph</term><emphasis effect="bold">s</emphasis>. Organotrophs, including humans, fungi, and many prokaryotes, are chemotrophs that obtain energy from organic compounds. Lithotrophs (“litho” means “rock”) are chemotrophs that get energy from inorganic compounds, including hydrogen sulfide (H<sub>2</sub>S) and reduced iron. Lithotrophy is unique to the microbial world.</para>
+<para id="fs-id1167660388660">The strategies used to obtain both carbon and energy can be combined for the classification of organisms according to nutritional type. Most organisms are <term class="no-emphasis">chemoheterotroph</term>s because they use organic molecules as both their electron and carbon sources. <link target-id="fs-id1167660195308"/> summarizes this and the other classifications.</para>
+<table id="fs-id1167660195308" summary="Table titled: Classifications of Organisms by Energy and Carbon Source. Columns: Classifications, Energy Source, Carbon Source, Examples. Chemotrophs are divided into 2 types. Chemoautotrophs: use Chemical energy, Inorganic carbon source, examples: Hydrogen-, sulfur-, iron-, nitrogen-, and carbon monoxide-oxidizing bacteria. Chemoheterotrophs: use Chemical energy, Organic compounds for carbon. Examples: All animals, most fungi, protozoa, and bacteria. Phototrophs are divided into 2 groups. Photoautotrophs: use Light as an energy source, Inorganic carbon source. Examples: All plants, algae, cyanobacteria, and green and purple sulfur bacteria. Photoheterotrophs use Light for energy, Organic compounds for carbon. Examples: Green and purple nonsulfur bacteria, heliobacteria" class="span-all">
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c5">Classifications of Organisms by Energy and Carbon Source</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center" namest="c1" nameend="c2">Classifications</entry>
+<entry valign="top" align="center">Energy Source</entry>
+<entry valign="top" align="center">Carbon Source</entry>
+<entry valign="top" align="center">Examples</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="middle" align="left" morerows="1">Chemotrophs</entry>
+<entry valign="middle" align="left">Chemoautotrophs</entry>
+<entry valign="middle" align="left">Chemical</entry>
+<entry valign="middle" align="left">Inorganic</entry>
+<entry valign="middle" align="left">Hydrogen-, sulfur-, iron-, nitrogen-, and carbon monoxide-oxidizing bacteria</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">Chemoheterotrophs</entry>
+<entry valign="middle" align="left">Chemical</entry>
+<entry valign="middle" align="left">Organic compounds</entry>
+<entry valign="middle" align="left">All animals, most fungi, protozoa, and bacteria</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left" morerows="1">Phototrophs</entry>
+<entry valign="middle" align="left">Photoautotrophs</entry>
+<entry valign="middle" align="left">Light</entry>
+<entry valign="middle" align="left">Inorganic</entry>
+<entry valign="middle" align="left">All plants, algae, cyanobacteria, and green and purple sulfur bacteria</entry>
+</row>
+<row valign="top">
+<entry valign="middle" align="left">Photoheterotrophs</entry>
+<entry valign="middle" align="left">Light</entry>
+<entry valign="middle" align="left">Organic compounds</entry>
+<entry valign="middle" align="left">Green and purple nonsulfur bacteria, heliobacteria</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1167660381567" class="microbiology check-your-understanding">
+<list id="fs-id1167659415096" list-type="bulleted" bullet-style="bullet">
+<item>Explain the difference between catabolism and anabolism.</item>
+<item>Explain the difference between autotrophs and heterotrophs.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167658169844">
+<title>Oxidation and Reduction in Metabolism</title>
+<para id="fs-id1167662898216">The transfer of electrons between molecules is important because most of the energy stored in atoms and used to fuel cell functions is in the form of high-energy electrons. The transfer of energy in the form of electrons allows the cell to transfer and use energy incrementally; that is, in small packages rather than a single, destructive burst. Reactions that remove electrons from donor molecules, leaving them oxidized, are <term>oxidation reaction</term><emphasis effect="bold">s</emphasis>; those that add electrons to acceptor molecules, leaving them reduced, are <term>reduction reaction</term><emphasis effect="bold">s</emphasis>. Because electrons can move from one molecule to another, oxidation and reduction occur in tandem. These pairs of reactions are called oxidation-reduction reactions, or <term>redox reaction</term><emphasis effect="bold">s</emphasis>.</para>
+</section>
+<section id="fs-id1167662885460">
+<title>Energy Carriers: NAD<sup>+</sup>, NADP<sup>+</sup>, FAD, and ATP</title>
+<para id="fs-id1167662499430">The energy released from the breakdown of the chemical bonds within nutrients can be stored either through the reduction of electron carriers or in the bonds of <term class="no-emphasis">adenosine triphosphate (ATP)</term>. In living systems, a small class of compounds functions as mobile <term>electron carrier</term><emphasis effect="bold">s</emphasis>, molecules that bind to and shuttle high-energy electrons between compounds in pathways. The principal electron carriers we will consider originate from the B vitamin group and are derivatives of nucleotides; they are <term>nicotinamide adenine dinucleotide</term>, <term>nicotine adenine dinucleotide phosphate</term>, and <term>flavin adenine dinucleotide</term>. These compounds can be easily reduced or oxidized. Nicotinamide adenine dinucleotide (<term>NAD<sup>+</sup>/NADH</term>) is the most common mobile electron carrier used in catabolism. NAD<sup>+</sup> is the oxidized form of the molecule; NADH is the reduced form of the molecule. Nicotine adenine dinucleotide phosphate (<term>NADP<sup>+</sup></term>), the oxidized form of an NAD<sup>+</sup> variant that contains an extra phosphate group, is another important electron carrier; it forms <term>NADPH</term> when reduced. The oxidized form of flavin adenine dinucleotide is <term>FAD</term>, and its reduced form is <term>FADH<sub>2</sub></term>. Both NAD<sup>+</sup>/NADH and FAD/FADH<sub>2</sub> are extensively used in energy extraction from sugars during <term class="no-emphasis">catabolism</term> in <term class="no-emphasis">chemoheterotroph</term>s, whereas NADP<sup>+</sup>/NADPH plays an important role in anabolic reactions and <term class="no-emphasis">photosynthesis</term>. Collectively, FADH<sub>2</sub>, NADH, and NADPH are often referred to as having reducing power due to their ability to donate electrons to various chemical reactions.</para>
+<para id="fs-id1167662871581">A living cell must be able to handle the energy released during catabolism in a way that enables the cell to store energy safely and release it for use only as needed. Living cells accomplish this by using the compound <term>adenosine triphosphate (ATP)</term>. ATP is often called the “energy currency” of the cell, and, like currency, this versatile compound can be used to fill any energy need of the cell. At the heart of ATP is a molecule of <term>adenosine monophosphate (AMP)</term>, which is composed of an adenine molecule bonded to a ribose molecule and a single phosphate group. Ribose is a five-carbon sugar found in RNA, and AMP is one of the nucleotides in RNA. The addition of a second phosphate group to this core molecule results in the formation of <term>adenosine diphosphate (ADP)</term>; the addition of a third phosphate group forms ATP (<link target-id="OSC_Microbio_08_01_ATP"/>). Adding a phosphate group to a molecule, a process called <term class="no-emphasis">phosphorylation</term>, requires energy. Phosphate groups are negatively charged and thus repel one another when they are arranged in series, as they are in ADP and ATP. This repulsion makes the ADP and ATP molecules inherently unstable. Thus, the bonds between phosphate groups (one in ADP and two in ATP) are called <term>high-energy phosphate bond</term><emphasis effect="bold">s</emphasis>. When these high-energy bonds are broken to release one phosphate (called <term>inorganic phosphate [P<sub>i</sub>]</term>) or two connected phosphate groups (called <term>pyrophosphate [PP<sub>i</sub>]</term>) from ATP through a process called <term class="no-emphasis">dephosphorylation</term>, energy is released to drive <term class="no-emphasis">endergonic reaction</term>s (<link target-id="OSC_Microbio_08_01_EndoExo"/>).</para>
+<figure id="OSC_Microbio_08_01_ATP">
+<media id="fs-id1167658179937" alt="Diagram showing ATP at the top and ADP + p at the bottom. Building ATP from ADP + P is called phosphorylation and uses solar or chemical energy. Breaking down ATP into ADP + P is called dephosphorylation and the energy released is available for cellular work including anabolism.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_01_ATP.jpg"/>
+</media>
+<caption>The energy released from dephosphorylation of ATP is used to drive cellular work, including anabolic pathways. ATP is regenerated through phosphorylation, harnessing the energy found in chemicals or from sunlight. (credit: modification of work by Robert Bear, David Rintoul)</caption>
+</figure>
+<figure id="OSC_Microbio_08_01_EndoExo">
+<media id="fs-id1167662799603" alt="A diagram showing how ATP relates to both endergonic and exergonic reactions. Exergonic reactions such as the reaction that breaks glucose into carbon dioxide, water and heat is exergonic and builds ATP from ADP + Pi. This process involves glycolysis, Krebs cycle, and oxidative phosphorylation. Endergonic reactions, such as building glucose into polysaccharides (a process of bond formation) use the energy released when ATP is converted into ADP and P.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_01_EndoExo.jpg"/>
+</media>
+<caption>Exergonic reactions are coupled to endergonic ones, making the combination favorable. Here, the endergonic reaction of ATP phosphorylation is coupled to the exergonic reactions of catabolism. Similarly, the exergonic reaction of ATP dephosphorylation is coupled to the endergonic reaction of polysaccharide formation, an example of anabolism.</caption>
+</figure>
+<note id="fs-id1167662552007" class="microbiology check-your-understanding">
+<list id="fs-id1167655789345" list-type="bulleted" bullet-style="bullet">
+<item>What is the function of an electron carrier?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167660409450">
+<title>Enzyme Structure and Function</title>
+<para id="fs-id1167662559288">A substance that helps speed up a chemical reaction is a <term>catalyst</term>. Catalysts are not used or changed during chemical reactions and, therefore, are reusable. Whereas inorganic molecules may serve as catalysts for a wide range of chemical reactions, proteins called <term>enzyme</term>s serve as catalysts for biochemical reactions inside cells. Enzymes thus play an important role in controlling cellular metabolism.</para>
+<para id="fs-id1167662513677">An enzyme functions by lowering the <term>activation energy</term> of a chemical reaction inside the cell. Activation energy is the energy needed to form or break chemical bonds and convert reactants to products (<link target-id="OSC_Microbio_08_01_Enzymes"/>). Enzymes lower the activation energy by binding to the reactant molecules and holding them in such a way as to speed up the reaction.</para>
+<para id="fs-id1167660160354">The chemical reactants to which an enzyme binds are called <term>substrate</term><emphasis effect="bold">s</emphasis>, and the location within the enzyme where the substrate binds is called the enzyme’s <term>active site</term>. The characteristics of the amino acids near the active site create a very specific chemical environment within the active site that induces suitability to binding, albeit briefly, to a specific substrate (or substrates). Due to this jigsaw puzzle-like match between an enzyme and its substrates, <term class="no-emphasis">enzyme</term>s are known for their specificity. In fact, as an enzyme binds to its substrate(s), the enzyme structure changes slightly to find the best fit between the transition state (a structural intermediate between the substrate and product) and the active site, just as a rubber glove molds to a hand inserted into it. This active-site modification in the presence of substrate, along with the simultaneous formation of the transition state, is called <term class="no-emphasis">induced fit</term> (<link target-id="OSC_Microbio_08_01_InducedFit"/>). Overall, there is a specifically matched enzyme for each substrate and, thus, for each chemical reaction; however, there is some flexibility as well. Some enzymes have the ability to act on several different structurally related substrates.</para>
+<figure id="OSC_Microbio_08_01_Enzymes">
+<media id="fs-id1167662553985" alt="A graph with reaction path on the X axis and energy on the Y axis. A green line shows the reaction without a catalyst. This line starts flat at first and then increases. The flat portion is labeled reactants. The level of this increase is the activation energy (X to Y). The line then drops to a point above where the reactant line was; this new flat line is labeled products. The distance from the products to the peak of the graph is labeled activation energy (Y to X). The difference between the height of the reactants and the products is delta H. A red line shows this same reaction with a catalyst. The reactant and product levels are identical to the green line, but the height of the peak is much lower indicating decreased activation energy.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_01_Enzymes.jpg"/>
+</media>
+<caption>Enzymes lower the activation energy of a chemical reaction.</caption>
+</figure>
+<figure id="OSC_Microbio_08_01_InducedFit">
+<media id="fs-id1167662780059" alt="Diagram of enzyme. 1: substrate enters the active site of the enzyme. The drawing shows a relatively spherical enzyme with an opening (labeled active site) that fits the shape of the substrate. 2: Enzyme/substrate complex forms. The diagram shows the substrate binding to the opening in the enzyme and the enzyme changing shape slightly to better fit the substrate. 3: Substrate is converted to products. This is shown by the substrate breaking in half. 4: Products leave the active site of the enzyme.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_01_InducedFit.jpg"/>
+</media>
+<caption>According to the induced-fit model, the active site of the enzyme undergoes conformational changes upon binding with the substrate.</caption>
+</figure>
+<para id="fs-id1167662404558">Enzymes are subject to influences by local environmental conditions such as pH, substrate concentration, and temperature. Although increasing the environmental temperature generally increases reaction rates, enzyme catalyzed or otherwise, increasing or decreasing the temperature outside of an optimal range can affect chemical bonds within the active site, making them less well suited to bind substrates. High temperatures will eventually cause enzymes, like other biological molecules, to denature, losing their three-dimensional structure and function. Enzymes are also suited to function best within a certain pH range, and, as with temperature, extreme environmental pH values (acidic or basic) can cause enzymes to denature. Active-site amino-acid side chains have their own acidic or basic properties that are optimal for catalysis and, therefore, are sensitive to changes in pH.</para>
+<para id="fs-id1167662489367">Another factor that influences enzyme activity is substrate concentration: Enzyme activity is increased at higher concentrations of substrate until it reaches a saturation point at which the enzyme can bind no additional substrate. Overall, enzymes are optimized to work best under the environmental conditions in which the organisms that produce them live. For example, while microbes that inhabit hot springs have enzymes that work best at high temperatures, human pathogens have enzymes that work best at 37°C. Similarly, while enzymes produced by most organisms work best at a neutral pH, microbes growing in acidic environments make enzymes optimized to low pH conditions, allowing for their growth at those conditions.</para>
+<para id="fs-id1167662708060">Many <term class="no-emphasis">enzyme</term>s do not work optimally, or even at all, unless bound to other specific nonprotein helper molecules, either temporarily through ionic or hydrogen bonds or permanently through stronger covalent bonds. Binding to these molecules promotes optimal conformation and function for their respective enzymes. Two types of helper molecules are <term>cofactor</term>s and <term>coenzyme</term>s. Cofactors are inorganic ions such as iron (Fe<sup>2+</sup>) and magnesium (Mg<sup>2+</sup>) that help stabilize enzyme conformation and function. One example of an enzyme that requires a metal ion as a cofactor is the enzyme that builds DNA molecules, DNA polymerase, which requires a bound zinc ion (Zn<sup>2+</sup>) to function.</para>
+<para id="fs-id1167662552380">Coenzymes are organic helper molecules that are required for enzyme action. Like enzymes, they are not consumed and, hence, are reusable. The most common sources of coenzymes are dietary vitamins. Some vitamins are precursors to coenzymes and others act directly as coenzymes.</para>
+<para id="fs-id1167662516791">Some cofactors and coenzymes, like <term class="no-emphasis">coenzyme A (CoA)</term>, often bind to the enzyme’s <term class="no-emphasis">active site</term>, aiding in the chemistry of the transition of a substrate to a product (<link target-id="OSC_Microbio_08_01_ApoHolo"/>). In such cases, an enzyme lacking a necessary cofactor or coenzyme is called an <term>apoenzyme</term> and is inactive. Conversely, an enzyme with the necessary associated cofactor or coenzyme is called a <term>holoenzyme</term> and is active. NADH and ATP are also both examples of commonly used coenzymes that provide high-energy electrons or <term class="no-emphasis">phosphate group</term>s, respectively, which bind to enzymes, thereby activating them.</para>
+<figure id="OSC_Microbio_08_01_ApoHolo">
+<media id="fs-id1167662475486" alt="Diagram showing how a cofactor or coenzyme binds to the active site so that the shape of the active site is correct for binding the substrate. 1: apoenzyme becomes active by binding of the coenzyme or cofactor to enzyme. 2: Holoenzyme is formed when associated cofactor or coenzyme binds to the enzyme’s active site.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_01_ApoHolo.jpg"/>
+</media>
+<caption>The binding of a coenzyme or cofactor to an apoenzyme is often required to form an active holoenzyme.</caption>
+</figure>
+<note id="fs-id1167660311855" class="microbiology check-your-understanding">
+<list id="fs-id1167663669759" list-type="bulleted" bullet-style="bullet">
+<item>What role do enzymes play in a chemical reaction?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167662889518">
+<title>Enzyme Inhibitors</title>
+<para id="fs-id1167660372942">Enzymes can be regulated in ways that either promote or reduce their activity. There are many different kinds of molecules that inhibit or promote enzyme function, and various mechanisms exist for doing so (<link target-id="OSC_Microbio_08_01_EnzInh"/>). A <term>competitive inhibitor</term> is a molecule similar enough to a substrate that it can compete with the substrate for binding to the active site by simply blocking the substrate from binding. For a competitive inhibitor to be effective, the inhibitor concentration needs to be approximately equal to the substrate concentration. Sulfa drugs provide a good example of competitive competition. They are used to treat bacterial infections because they bind to the active site of an enzyme within the bacterial folic acid synthesis pathway. When present in a sufficient dose, a <term class="no-emphasis">sulfa drug</term> prevents folic acid synthesis, and bacteria are unable to grow because they cannot synthesize DNA, RNA, and proteins. Humans are unaffected because we obtain folic acid from our diets.</para>
+<para id="fs-id1167662479438">On the other hand, a <term>noncompetitive (allosteric) inhibitor</term> binds to the enzyme at an <term>allosteric site</term>, a location other than the active site, and still manages to block substrate binding to the active site by inducing a conformational change that reduces the affinity of the enzyme for its substrate (<link target-id="OSC_Microbio_08_01_InhAct"/>). Because only one inhibitor molecule is needed per enzyme for effective inhibition, the concentration of inhibitors needed for noncompetitive inhibition is typically much lower than the substrate concentration.</para>
+<para id="fs-id1167662358010">In addition to allosteric inhibitors, there are <term>allosteric activator</term><emphasis effect="bold">s</emphasis> that bind to locations on an enzyme away from the active site, inducing a conformational change that increases the affinity of the enzyme’s active site(s) for its substrate(s).</para>
+<para id="fs-id1167662368071">Allosteric control is an important mechanism of regulation of metabolic pathways involved in both catabolism and anabolism. In a most efficient and elegant way, cells have evolved also to use the products of their own metabolic reactions for <term>feedback inhibition</term> of enzyme activity. Feedback inhibition involves the use of a pathway product to regulate its own further production. The cell responds to the abundance of specific products by slowing production during anabolic or catabolic reactions (<link target-id="OSC_Microbio_08_01_InhAct"/>).</para>
+<figure id="OSC_Microbio_08_01_EnzInh">
+<media id="fs-id1167662465704" alt="Diagram of competitive inhibition shows an enzyme with an active site at one end and an allosteric site at the other end. In competitive inhibition the competitive inhibitor binds to the active site blocking the substrate from binding. In noncompetitive inhibition, the noncompetitive inhibitor binds to the allosteric site and changes the shape of the active site so that the substrate cannot fit.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_01_EnzInh.jpg"/>
+</media>
+<caption>Enzyme activity can be regulated by either competitive inhibitors, which bind to the active site, or noncompetitive inhibitors, which bind to an allosteric site.</caption>
+</figure>
+<figure id="OSC_Microbio_08_01_InhAct">
+<media id="fs-id1167662679885" alt="Diagrams of three different control mechanisms. Diagram of allosteric inhibition. An enzyme with an active site at one end and an allosteric site at the other. When the inhibitor is bound, the shape of the active site is changes so the substrate cannot bind. When the inhibitor is not bound the shape of the active site does fit the active site. Allosteric activation shows an active site that does not fit the substrate until the activator binds. Once the activator is bound, the active site now does fit the substrate. Feedback inhibition shows a chain of enzymes; enzyme 1 binds a substrate that becomes intermediate substrate A. Intermediate substrate A binds to enzyme 2 and is converted into intermediate substrate B. Intermediate substrate B binds to enzyme 3 and is converted into the end product. The end product binds to enzyme 1 and prevents the substrate from binding to that enzyme.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_01_InhAct.jpg"/>
+</media>
+<caption>(a) Binding of an allosteric inhibitor reduces enzyme activity, but binding of an allosteric activator increases enzyme activity. (b) Feedback inhibition, where the end product of the pathway serves as a noncompetitive inhibitor to an enzyme early in the pathway, is an important mechanism of allosteric regulation in cells.</caption>
+</figure>
+<note id="fs-id1167660227718" class="microbiology check-your-understanding">
+<list id="fs-id1167663742978" list-type="bulleted" bullet-style="bullet">
+<item>Explain the difference between a competitive inhibitor and a noncompetitive inhibitor.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167662428874" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167662480679" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Metabolism</emphasis> includes chemical reactions that break down complex molecules (<emphasis effect="bold">catabolism</emphasis>) and those that build complex molecules (<emphasis effect="bold">anabolism</emphasis>).</item>
+<item>Organisms may be classified according to their source of carbon. <emphasis effect="bold">Autotrophs</emphasis> convert inorganic carbon dioxide into organic carbon; <emphasis effect="bold">heterotrophs</emphasis> use fixed organic carbon compounds.</item>
+<item>Organisms may also be classified according to their energy source. <emphasis effect="bold">Phototrophs</emphasis> obtain their energy from light. <emphasis effect="bold">Chemotrophs</emphasis> get their energy from chemical compounds. <emphasis effect="bold">Organotrophs</emphasis> use organic molecules, and <emphasis effect="bold">lithotrophs</emphasis> use inorganic chemicals.</item>
+<item>Cellular <emphasis effect="bold">electron carriers</emphasis> accept high-energy electrons from foods and later serve as electron donors in subsequent <emphasis effect="bold">redox reactions</emphasis>. <emphasis effect="bold">FAD/FADH<sub>2</sub>, NAD<sup>+</sup>/NADH</emphasis>, <emphasis effect="bold">and NADP<sup>+</sup>/NADPH</emphasis> are important electron carriers.</item>
+<item><emphasis effect="bold">Adenosine triphosphate (ATP)</emphasis> serves as the energy currency of the cell, safely storing chemical energy in its two <emphasis effect="bold">high-energy phosphate bonds</emphasis> for later use to drive processes requiring energy.</item>
+<item><emphasis effect="bold">Enzymes</emphasis> are biological <emphasis effect="bold">catalysts</emphasis> that increase the rate of chemical reactions inside cells by lowering the activation energy required for the reaction to proceed.</item>
+<item>In nature, <emphasis effect="bold">exergonic reactions</emphasis> do not require energy beyond activation energy to proceed, and they release energy. They may proceed without enzymes, but at a slow rate. Conversely, <emphasis effect="bold">endergonic reactions</emphasis> require energy beyond activation energy to occur. In cells, endergonic reactions are coupled to exergonic reactions, making the combination energetically favorable.</item>
+<item><emphasis effect="bold">Substrates</emphasis> bind to the enzyme’s <emphasis effect="bold">active site</emphasis>. This process typically alters the structures of both the active site and the substrate, favoring transition-state formation; this is known as <emphasis effect="bold">induced fit</emphasis>.</item>
+<item><emphasis effect="bold">Cofactors</emphasis> are inorganic ions that stabilize enzyme conformation and function. <emphasis effect="bold">Coenzymes</emphasis> are organic molecules required for proper enzyme function and are often derived from vitamins. An enzyme lacking a cofactor or coenzyme is an <emphasis effect="bold">apoenzyme;</emphasis> an enzyme with a bound cofactor or coenzyme is a <emphasis effect="bold">holoenzyme</emphasis>.</item>
+<item><emphasis effect="bold">Competitive inhibitors</emphasis> regulate enzymes by binding to an enzyme’s active site, preventing substrate binding. <emphasis effect="bold">Noncompetitive (allosteric) inhibitors</emphasis> bind to <emphasis effect="bold">allosteric sites</emphasis>, inducing a conformational change in the enzyme that prevents it from functioning. <emphasis effect="bold">Feedback inhibition</emphasis> occurs when the product of a metabolic pathway noncompetitively binds to an enzyme early on in the pathway, ultimately preventing the synthesis of the product.</item>
+</list>
+</section>
+<section id="fs-id1167662791829" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167660133127">
+<problem id="fs-id1167662428785">
+<para id="fs-id1167662799403">Which of the following is an organism that obtains its energy from the transfer of electrons originating from chemical compounds and its carbon from an inorganic source?</para>
+<list id="fs-id1167662420444" list-type="enumerated" number-style="upper-alpha">
+<item>chemoautotroph</item>
+<item>chemoheterotroph</item>
+<item>photoheterotroph</item>
+<item>photoautotroph</item>
+</list>
+</problem>
+<solution id="fs-id1167662701209">
+<para id="fs-id1167660327259">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662772078">
+<problem id="fs-id1167660272631">
+<para id="fs-id1167660664779">Which of the following molecules is reduced?</para>
+<list id="fs-id1167660328910" list-type="enumerated" number-style="upper-alpha">
+<item>NAD<sup>+</sup></item>
+<item>FAD</item>
+<item>O<sub>2</sub></item>
+<item>NADPH</item>
+</list>
+</problem>
+<solution id="fs-id1167662406307">
+<para id="fs-id1167662370098">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660173340">
+<problem id="fs-id1167662714163">
+<para id="fs-id1167660185428">Enzymes work by which of the following?</para>
+<list id="fs-id1167662478257" list-type="enumerated" number-style="upper-alpha">
+<item>increasing the activation energy</item>
+<item>reducing the activation energy</item>
+<item>making exergonic reactions endergonic</item>
+<item>making endergonic reactions exergonic</item>
+</list>
+</problem>
+<solution id="fs-id1167660398120">
+<para id="fs-id1167662493028">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167657983076">
+<problem id="fs-id1167662511112">
+<para id="fs-id1167662593344">To which of the following does a competitive inhibitor most structurally resemble?</para>
+<list id="fs-id1167660319344" list-type="enumerated" number-style="upper-alpha">
+<item>the active site</item>
+<item>the allosteric site</item>
+<item>the substrate</item>
+<item>a coenzyme</item>
+</list>
+</problem>
+<solution id="fs-id1167662872497">
+<para id="fs-id1167662403129">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660666747">
+<problem id="fs-id1167657961738">
+<para id="fs-id1167662877752">Which of the following are organic molecules that help enzymes work correctly?</para>
+<list id="fs-id1167662420527" list-type="enumerated" number-style="upper-alpha">
+<item>cofactors</item>
+<item>coenzymes</item>
+<item>holoenzymes</item>
+<item>apoenzymes</item>
+</list>
+</problem>
+<solution id="fs-id1167660349128">
+<para id="fs-id1167660122968">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167662493888" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167662621950">
+<problem id="fs-id1167660258335">
+<para id="fs-id1167662700870">Processes in which cellular energy is used to make complex molecules from simpler ones are described as ________.</para>
+</problem>
+<solution id="fs-id1167662680913">
+<para id="fs-id1167662906686">anabolic</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660328377">
+<problem id="fs-id1167662714229">
+<para id="fs-id1167662518866">The loss of an electron from a molecule is called ________.</para>
+</problem>
+<solution id="fs-id1167662714825">
+<para id="fs-id1167662740210">oxidation</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660305713">
+<problem id="fs-id1167660248561">
+<para id="fs-id1167662446475">The part of an enzyme to which a substrate binds is called the ________.</para>
+</problem>
+<solution id="fs-id1167660319627">
+<para id="fs-id1167662426174">active site</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167660146717" class="true-false">
+<title>True/False</title>
+<exercise id="fs-id1167660217834">
+<problem id="fs-id1167662483247">
+<para id="fs-id1167662888898">Competitive inhibitors bind to allosteric sites.</para>
+</problem>
+<solution id="fs-id1167662572036">
+<para id="fs-id1167662786359">False</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167660377587" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167662498805">
+<problem id="fs-id1167662520177">
+<para id="fs-id1167662593535">In cells, can an oxidation reaction happen in the absence of a reduction reaction? Explain.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167660226632">
+<problem id="fs-id1167662784453">
+<para id="fs-id1167660286793">What is the function of molecules like NAD<sup>+</sup>/NADH and FAD/FADH<sub>2</sub> in cells?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

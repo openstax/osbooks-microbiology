@@ -1,0 +1,450 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Viruses</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58808</md:content-id>
+  <md:title>Viruses</md:title>
+  <md:abstract/>
+  <md:uuid>1ef4d152-eded-4b56-a004-83bb1078a3ff</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1168327944251" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1168327924682">
+<item>Describe the general characteristics of viruses as pathogens</item>
+<item>Describe viral genomes</item>
+<item>Describe the general characteristics of viral life cycles</item>
+<item>Differentiate among bacteriophages, plant viruses, and animal viruses</item>
+<item>Describe the characteristics used to identify viruses as obligate intracellular parasites</item>
+</list>
+</section>
+<note id="fs-id1168328256872" class="microbiology clinical-focus">
+<title>Part 1</title>
+<para id="fs-id1168327951660">David, a 45-year-old journalist, has just returned to the U.S. from travels in Russia, China, and Africa. He is not feeling well, so he goes to his general practitioner complaining of weakness in his arms and legs, fever, headache, noticeable agitation, and minor discomfort. He thinks it may be related to a dog bite he suffered while interviewing a Chinese farmer. He is experiencing some prickling and itching sensations at the site of the bite wound, but he tells the doctor that the dog seemed healthy and that he had not been concerned until now. The doctor ordered a culture and sensitivity test to rule out bacterial infection of the wound, and the results came back negative for any possible pathogenic bacteria.</para>
+<list id="fs-id1168327871520" list-type="bulleted" bullet-style="bullet">
+<item>Based on this information, what additional tests should be performed on the patient?</item>
+<item>What type of treatment should the doctor recommend?</item>
+</list>
+<para id="fs-id1168328237338"><emphasis effect="italics">Jump to the <link target-id="fs-id1168328286182">next</link> Clinical Focus box.</emphasis></para>
+</note>
+<para id="fs-id1168325680233">Despite their small size, which prevented them from being seen with light microscopes, the discovery of a filterable component smaller than a bacterium that causes <term class="no-emphasis">tobacco mosaic disease</term> (TMD) dates back to 1892.<footnote id="fs-id1168328366346">H. Lecoq. “[Discovery of the First Virus, the Tobacco Mosaic Virus: 1892 or 1898?].” <emphasis effect="italics">Comptes Rendus de l’Academie des Sciences – Serie III – Sciences de la Vie</emphasis> 324, no. 10 (2001): 929–933.</footnote> At that time, Dmitri <term class="no-emphasis">Ivanovski</term>, a Russian botanist, discovered the source of TMD by using a porcelain filtering device first invented by Charles <term class="no-emphasis">Chamberland</term> and Louis <term class="no-emphasis">Pasteur</term> in Paris in 1884. Porcelain <term class="no-emphasis">Chamberland filters</term> have a pore size of 0.1 µm, which is small enough to remove all bacteria ≥0.2 µm from any liquids passed through the device. An extract obtained from TMD-infected tobacco plants was made to determine the cause of the disease. Initially, the source of the disease was thought to be bacterial. It was surprising to everyone when Ivanovski, using a Chamberland filter, found that the cause of TMD was not removed after passing the extract through the porcelain filter. So if a bacterium was not the cause of TMD, what could be causing the disease? Ivanovski concluded the cause of TMD must be an extremely small bacterium or bacterial spore. Other scientists, including Martinus <term class="no-emphasis">Beijerinck</term>, continued investigating the cause of TMD. It was Beijerinck, in 1899, who eventually concluded the causative agent was not a bacterium but, instead, possibly a chemical, like a biological poison we would describe today as a toxin. As a result, the word <emphasis effect="italics">virus</emphasis>, Latin for poison, was used to describe the cause of TMD a few years after Ivanovski’s initial discovery. Even though he was not able to see the virus that caused TMD, and did not realize the cause was not a bacterium, Ivanovski is credited as the original discoverer of viruses and a founder of the field of virology.</para>
+<para id="fs-id1168328199805">Today, we can see viruses using electron microscopes (<link target-id="OSC_Microbio_06_01_TMV"/>) and we know much more about them. Viruses are distinct biological entities; however, their evolutionary origin is still a matter of speculation. In terms of taxonomy, they are not included in the tree of life because they are <term>acellular</term> (not consisting of cells). In order to survive and reproduce, viruses must infect a cellular host, making them obligate intracellular parasites. The genome of a virus enters a host cell and directs the production of the viral components, proteins and nucleic acids, needed to form new virus particles called <term>virion</term><emphasis effect="bold">s</emphasis>. New virions are made in the host cell by assembly of viral components. The new virions transport the viral genome to another host cell to carry out another round of infection. <link target-id="fs-id1168327918159"/> summarizes the properties of viruses.</para>
+<table id="fs-id1168327918159" summary="Characteristics of viruses: acellular, infectious, obligate intracellular parasites, host and cell-type specificity, DNA or RNA genome (never both), Genome is surrounded by a protein capsid and, in some cases, a phospholipid membrane studded with viral glycoproteins, Genome lacks genes for many products needed for successful reproduction, requiring exploitation of host-cell genomes to reproduce" class="span-all">
+<tgroup cols="1">
+<colspec colnum="1" colname="c1"/>
+<thead>
+<row>
+<entry/>
+</row>
+<row>
+<entry valign="top" align="left">Characteristics of Viruses</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="top" align="left">Infectious, acellular pathogens</entry>
+</row>
+<row>
+<entry valign="top" align="left">Obligate intracellular parasites with host and cell-type specificity</entry>
+</row>
+<row>
+<entry valign="top" align="left">DNA or RNA genome (never both)</entry>
+</row>
+<row>
+<entry valign="top" align="left">Genome is surrounded by a protein capsid and, in some cases, a phospholipid membrane studded with viral glycoproteins</entry>
+</row>
+<row>
+<entry valign="top" align="left">Lack genes for many products needed for successful reproduction, requiring exploitation of host-cell genomes to reproduce</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<figure id="OSC_Microbio_06_01_TMV">
+<media id="fs-id1168328365105" alt="Figure a is an electron micrograph showing long rod shaped viruses. Figure B shows four diseased plant leaves. The leaves are yellowing, mottled, and dying.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_06_01_TMV.jpg"/>
+</media>
+<caption>(a) Tobacco mosaic virus (TMV) viewed with transmission electron microscope. (b) Plants infected with tobacco mosaic disease (TMD), caused by TMV. (credit a: modification of work by USDA Agricultural Research Service—scale-bar data from Matt Russell; credit b: modification of work by USDA Forest Service, Department of Plant Pathology Archive North Carolina State University)</caption>
+</figure>
+<note id="fs-id1168327941195" class="microbiology check-your-understanding">
+<list id="fs-id1168328201398">
+<item>Why was the first virus investigated mistaken for a toxin?</item>
+</list>
+</note>
+<section id="fs-id1168328287579">
+<title>Hosts and Viral Transmission</title>
+<para id="fs-id1168325631035">Viruses can infect every type of host cell, including those of plants, animals, fungi, protists, bacteria, and archaea. Most viruses will only be able to infect the cells of one or a few species of organism. This is called the <term>host range</term>. However, having a wide host range is not common and viruses will typically only infect specific hosts and only specific cell types within those hosts. The viruses that infect bacteria are called <term>bacteriophage</term><emphasis effect="bold">s</emphasis>, or simply phages. The word <emphasis effect="italics">phage</emphasis> comes from the Greek word for devour. Other viruses are just identified by their host group, such as animal or plant viruses. Once a cell is infected, the effects of the virus can vary depending on the type of virus. Viruses may cause abnormal growth of the cell or cell death, alter the cell’s genome, or cause little noticeable effect in the cell.</para>
+<para id="fs-id1168328184752">Viruses can be transmitted through direct contact, indirect contact with <term class="no-emphasis">fomites</term>, or through a <term>vector</term>: an animal that transmits a pathogen from one host to another. Arthropods such as mosquitoes, ticks, and flies, are typical vectors for viral diseases, and they may act as <term>mechanical vector</term><emphasis effect="bold">s</emphasis> or <term>biological vector</term><emphasis effect="bold">s</emphasis>. Mechanical transmission occurs when the arthropod carries a viral pathogen on the outside of its body and transmits it to a new host by physical contact. Biological transmission occurs when the arthropod carries the viral pathogen inside its body and transmits it to the new host through biting.</para>
+<para id="fs-id1168328238004">In humans, a wide variety of viruses are capable of causing various infections and diseases. Some of the deadliest emerging pathogens in humans are viruses, yet we have few treatments or drugs to deal with viral infections, making them difficult to eradicate.</para>
+<para id="fs-id1168327986198">Viruses that can be transmitted from an animal host to a human host can cause <term class="no-emphasis">zoonoses</term>. For example, the avian influenza virus originates in birds, but can cause disease in humans. <term class="no-emphasis">Reverse zoonoses</term> are caused by infection of an animal by a virus that originated in a human.</para>
+<note id="fs-id1168327962426" class="microbiology micro-connection">
+<title>Fighting Bacteria with Viruses</title>
+<para id="fs-id1168327870266">The emergence of superbugs, or <term class="no-emphasis">multidrug resistant bacteria</term>, has become a major challenge for pharmaceutical companies and a serious health-care problem. According to a 2013 report by the US Centers for Disease Control and Prevention (CDC), more than 2 million people are infected with drug-resistant bacteria in the US annually, resulting in at least 23,000 deaths.<footnote id="fs-id1168327928029">US Department of Health and Human Services, Centers for Disease Control and Prevention. “Antibiotic Resistance Threats in the United States, 2013.” http://www.cdc.gov/drugresistance/pdf/ar-threats-2013-508.pdf (accessed September 22, 2015).</footnote> The continued use and overuse of <term class="no-emphasis">antibiotics</term> will likely lead to the evolution of even more drug-resistant strains.</para>
+<para id="fs-id1168327918181">One potential solution is the use of <term class="no-emphasis">phage therapy</term>, a procedure that uses bacteria-killing viruses (bacteriophages) to treat bacterial infections. Phage therapy is not a new idea. The discovery of bacteriophages dates back to the early 20th century, and phage therapy was first used in Europe in 1915 by the English bacteriologist Frederick <term class="no-emphasis">Twort</term>.<footnote id="fs-id1168325677553">M. Clokie et al. “Phages in Nature.” <emphasis effect="italics">Bacteriophage</emphasis> 1, no. 1 (2011): 31–45.</footnote> However, the subsequent discovery of penicillin and other antibiotics led to the near abandonment of this form of therapy, except in the former Soviet Union and a few countries in Eastern Europe. Interest in phage therapy outside of the countries of the former Soviet Union is only recently re-emerging because of the rise in antibiotic-resistant bacteria.<footnote id="fs-id1168325722356">A. Sulakvelidze et al. “Bacteriophage Therapy.” <emphasis effect="italics">Antimicrobial Agents and Chemotherapy</emphasis> 45, no. 3 (2001): 649–659.</footnote></para>
+<para id="fs-id1168328368270">Phage therapy has some advantages over antibiotics in that phages kill only one specific bacterium, whereas antibiotics kill not only the pathogen but also beneficial bacteria of the normal microbiota. Development of new antibiotics is also expensive for drug companies and for patients, especially for those who live in countries with high poverty rates.</para>
+<para id="fs-id1168325679375">Phages have also been used to prevent food spoilage. In 2006, the US Food and Drug Administration approved the use of a solution containing six bacteriophages that can be sprayed on lunch meats such as bologna, ham, and turkey to kill <emphasis effect="italics">Listeria monocytogenes</emphasis>, a bacterium responsible for listeriosis, a form of food poisoning. Some consumers have concerns about the use of phages on foods, however, especially given the rising popularity of organic products. Foods that have been treated with phages must declare “<term class="no-emphasis">bacteriophage preparation</term>” in the list of ingredients or include a label declaring that the meat has been “treated with antimicrobial solution to reduce microorganisms.”<footnote id="fs-id1168328167952">US Food and Drug Administration. “FDA Approval of <emphasis effect="italics">Listeria</emphasis>-specific Bacteriophage Preparation on Ready-to-Eat (RTE) Meat and Poultry Products.” http://www.fda.gov/food/ingredientspackaginglabeling/ucm083572.htm (accessed September 22, 2015).</footnote></para>
+</note>
+<note id="fs-id1168328194195" class="microbiology check-your-understanding">
+<list id="fs-id1168328290902">
+<item>Why do humans not have to be concerned about the presence of bacteriophages in their food?</item>
+<item>What are three ways that viruses can be transmitted between hosts?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1168328170686">
+<title>Viral Structures</title>
+<para id="fs-id1168328200474">In general, virions (viral particles) are small and cannot be observed using a regular light microscope. They are much smaller than prokaryotic and eukaryotic cells; this is an adaptation allowing viruses to infect these larger cells (see <link target-id="OSC_Microbio_06_01_virusbac"/>). The size of a virion can range from 20 nm for small viruses up to 900 nm for typical, large viruses (see <link target-id="OSC_Microbio_06_01_sizes"/>). Recent discoveries, however, have identified new <term class="no-emphasis">giant viral species</term>, such as <emphasis effect="italics">Pandoravirus salinus</emphasis> and <emphasis effect="italics">Pithovirus sibericum</emphasis>, with sizes approaching that of a bacterial cell.<footnote id="fs-id1168328152723">N. <emphasis effect="italics">Philippe et al. “Pandoraviruses: Amoeba Viruses with Genomes up to 2.5 Mb Reaching that of Parasitic Eukaryotes.” Science 341, no. 6143 (2013): 281–286.</emphasis></footnote></para>
+<figure id="OSC_Microbio_06_01_virusbac">
+<media id="fs-id1168327943810" alt="Figure a is an electron micrograph showing a virus on the surface of a bacterial cell. The virus has a large head region, a thick neck and thin spider-like legs attached to the bacterium. Figure b is a drawing that labels the outside of the head as the capsid with the viral genome inside. The neck as the sheath and the legs as tail fibers.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_06_01_virusbac-43d2.jpg"/>
+</media>
+<caption>(a) In this transmission electron micrograph, a bacteriophage (a virus that infects bacteria) is dwarfed by the bacterial cell it infects. (b) An illustration of the bacteriophage in the micrograph. (credit a: modification of work by U.S. Department of Energy, Office of Science, LBL, PBD)</caption>
+</figure>
+<figure id="OSC_Microbio_06_01_sizes">
+<media id="fs-id1168328171042" alt="A scale showing sizes of various sentities. The largest is a frog egg ad 1 mm. Human egg cells and pllen are approximately 400 µm. Typical plant ant animal cells reange from 10 to 100 µm. Red blood cells are uner 10 µm. Mitochondria and bacteria are approximately 1 µm. Smallpox is approximately 500 nm. Flu virus is approximately 100 nm. Polio virus is approximately 50 nm. Proteins range from 5 – 10 nm. Lipids range from 1 – 5 nm. Atoms are approximately 0.1 nm.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_06_01_sizes.jpg"/>
+</media>
+<caption>The size of a virus is small relative to the size of most bacterial and eukaryotic cells and their organelles.</caption>
+</figure>
+<para id="fs-id1168327955161">In 1935, after the development of the electron microscope, Wendell <term class="no-emphasis">Stanley</term> was the first scientist to crystallize the structure of the <term class="no-emphasis">tobacco mosaic virus</term> and discovered that it is composed of RNA and protein. In 1943, he isolated <term class="no-emphasis"><emphasis effect="italics">Influenza B virus</emphasis></term>, which contributed to the development of an influenza (flu) vaccine. Stanley’s discoveries unlocked the mystery of the nature of viruses that had been puzzling scientists for over 40 years and his contributions to the field of virology led to him being awarded the Nobel Prize in 1946.</para>
+<para id="fs-id1168328199401">As a result of continuing research into the nature of viruses, we now know they consist of a nucleic acid (either RNA or DNA, but never both) surrounded by a protein coat called a <term>capsid</term> (see <link target-id="OSC_Microbio_06_01_structure"/>). The interior of the capsid is not filled with cytosol, as in a cell, but instead it contains the bare necessities in terms of genome and enzymes needed to direct the synthesis of new virions. Each capsid is composed of protein subunits called <term>capsomere</term><emphasis effect="bold">s</emphasis> made of one or more different types of capsomere proteins that interlock to form the closely packed capsid.</para>
+<para id="fs-id1168327958501">There are two categories of viruses based on general composition. Viruses formed from only a nucleic acid and capsid are called <term>naked virus</term><emphasis effect="bold">es</emphasis> or <term>nonenveloped virus</term><emphasis effect="bold">es</emphasis>. Viruses formed with a nucleic-acid packed capsid surrounded by a lipid layer are called <term>enveloped virus</term><emphasis effect="bold">es</emphasis> (see <link target-id="OSC_Microbio_06_01_structure"/>). The <term>viral envelope</term> is a small portion of phospholipid membrane obtained as the virion buds from a host cell. The viral envelope may either be intracellular or cytoplasmic in origin.</para>
+<para id="fs-id1168328059712">Extending outward and away from the capsid on some naked viruses and enveloped viruses are protein structures called <term>spike</term><emphasis effect="bold">s</emphasis>. At the tips of these spikes are structures that allow the virus to attach and enter a cell, like the influenza virus hemagglutinin spikes (H) or enzymes like the neuraminidase (N) influenza virus spikes that allow the virus to detach from the cell surface during release of new virions. Influenza viruses are often identified by their H and N spikes. For example, <term class="no-emphasis">H1N1 influenza</term> viruses were responsible for the pandemics in 1918 and 2009,<footnote id="fs-id1168327957276">J. Cohen. “What’s Old Is New: 1918 Virus Matches 2009 H1N1 Strain. <emphasis effect="italics">Science</emphasis> 327, no. 5973 (2010): 1563–1564.</footnote> <term class="no-emphasis">H2N2</term> for the pandemic in 1957, and H3N2 for the pandemic in 1968.</para>
+<figure id="OSC_Microbio_06_01_structure">
+<media id="fs-id1168328065506" alt="Part A shows a micrograph of atadenovirus, which looks like a wispy sphere that has a larger, flatter structure attached to the bottom. To the right of that is an illustration of the atadenovirus that labels capsomeres, capsids, DNA, and spikes made of glycoproteins. Part B shows the enveloped human immunodeficiency virus in black and white. To the right is an illustration that labels the matrix protein, viral envelope, spikes made of glycoproteins, reverse transcriptase, capsids, and RNA.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_06_01_structure.jpg"/>
+</media>
+<caption>(a) The naked atadenovirus uses spikes made of glycoproteins from its capsid to bind to host cells. (b) The enveloped human immunodeficiency virus uses spikes made of glycoproteins embedded in its envelope to bind to host cells (credit a “micrograph”: modification of work by NIAID; credit b “micrograph”: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1168328322454">Viruses vary in the shape of their capsids, which can be either <term>helical</term>, <term>polyhedral</term>, or <term>complex</term>. A helical capsid forms the shape of tobacco mosaic virus (TMV), a naked <term class="no-emphasis">helical virus</term>, and Ebola virus, an enveloped helical virus. The capsid is cylindrical or rod shaped, with the genome fitting just inside the length of the capsid. Polyhedral capsids form the shapes of poliovirus and rhinovirus, and consist of a nucleic acid surrounded by a polyhedral (many-sided) capsid in the form of an icosahedron. An <term>icosahedral</term> capsid is a three-dimensional, 20-sided structure with 12 vertices. These capsids somewhat resemble a soccer ball. Both helical and polyhedral viruses can have envelopes. Viral shapes seen in certain types of bacteriophages, such as T4 phage, and poxviruses, like vaccinia virus, may have features of both polyhedral and helical viruses so they are described as a complex viral shape (see <link target-id="OSC_Microbio_06_01_shapes"/>). In the bacteriophage complex form, the genome is located within the polyhedral head and the <term>sheath</term> connects the head to the <term>tail fiber</term><emphasis effect="bold">s</emphasis> and <term>tail pins</term> that help the virus attach to receptors on the host cell’s surface. Poxviruses that have complex shapes are often brick shaped, with intricate surface characteristics not seen in the other categories of capsid.</para>
+<figure id="OSC_Microbio_06_01_shapes">
+<media id="fs-id1168328059655" alt="Figure a is a helical virus which has a long linear structure. The outer proteins are small spheres arranged into a long, hollow tube. Inside the tube is the genetic material. Tobacco mosaic virus is an example of a helical virus. Figure b is an Icosehedral viruses have a polyhedron structure. The example shown is human rhinovirus which has a pentagon structure. Complex viruses have a more complex structure. The example is variola which has an ovoid structure.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_06_01_shapes.jpg"/>
+</media>
+<caption>Viral capsids can be (a) helical, (b) polyhedral, or (c) have a complex shape. (credit a “micrograph”: modification of work by USDA ARS; credit b “micrograph”: modification of work by U.S. Department of Energy)</caption>
+</figure>
+<note id="fs-id1168327968513" class="microbiology check-your-understanding">
+<list id="fs-id1168328003526">
+<item>Which types of viruses have spikes?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1168327912214">
+<title>Classification and Taxonomy of Viruses</title>
+<para id="fs-id1168328174142">Although viruses are not classified in the three domains of life, their numbers are great enough to require classification. Since 1971, the <term class="no-emphasis">International Union of Microbiological Societies</term> Virology Division has given the task of developing, refining, and maintaining a universal virus taxonomy to the <term class="no-emphasis">International Committee on Taxonomy of Viruses (ICTV)</term>. Since viruses can mutate so quickly, it can be difficult to classify them into a genus and a species epithet using the binomial nomenclature system. Thus, the ICTV’s viral nomenclature system classifies viruses into families and genera based on viral genetics, chemistry, morphology, and mechanism of multiplication. To date, the ICTV has classified known viruses in seven orders, 96 families, and 350 genera. Viral family names end in -<emphasis effect="italics">viridae</emphasis> (e.g, <emphasis effect="italics">Parvoviridae</emphasis>) and genus names end in <emphasis effect="italics">−virus</emphasis> (e.g., <emphasis effect="italics">Parvovirus</emphasis>). The names of viral orders, families, and genera are all italicized. When referring to a viral species, we often use a genus and species epithet such as <emphasis effect="italics">Pandoravirus dulcis</emphasis> or <emphasis effect="italics">Pandoravirus salinus.</emphasis></para>
+<para id="fs-id1168328269235">The <term class="no-emphasis">Baltimore classification system</term> is an alternative to ICTV nomenclature. The Baltimore system classifies viruses according to their genomes (DNA or RNA, single versus double stranded, and mode of replication). This system thus creates seven groups of viruses that have common genetics and biology.</para>
+<note id="fs-id1168328366244" class="microbiology link-to-learning">
+
+<para id="fs-id1168327923610">Explore the latest virus <link url="https://www.openstax.org/l/22virustaxon">taxonomy</link> at the ICTV website.</para>
+</note>
+<para id="fs-id1168328295677">Aside from formal systems of nomenclature, viruses are often informally grouped into categories based on chemistry, morphology, or other characteristics they share in common. Categories may include naked or enveloped structure, single-stranded (ss) or double-stranded (ds) DNA or ss or ds RNA genomes, segmented or nonsegmented genomes, and positive-strand (+) or negative-strand (−) RNA. For example, herpes viruses can be classified as a dsDNA enveloped virus; human immunodeficiency virus (HIV) is a +ssRNA enveloped virus, and tobacco mosaic virus is a +ssRNA virus. Other characteristics such as host specificity, tissue specificity, capsid shape, and special genes or enzymes may also be used to describe groups of similar viruses. <link target-id="fs-id1168328363596"/> lists some of the most common viruses that are human pathogens by genome type.</para>
+<table id="fs-id1168328363596" summary="This table separates viruses based on genome structure. The first section identifies examples of dsDNA enveloped viruses. Examples include the poxviridae family which includes orthopoxvirus which causes skin papules, pustules, and lesions and parapoxvirus which causes skin lesions. Herpesviridae family is also dsDNA enveloped and includes simplexvirus which causes cold sores, genital herpes, and sexually transmitted disease. The next section identifies examples of dsDNA naked viurses. This includes the Adenoviridae family such as Atadenovirus which causes respiratory infection (common cold); the Papillomaviridae family such as Papillomavirus which causes genital warts, cervical, vulvar or vaginal cancer; and Reoviridae such as reovirus which causes gasteroenteritis severe diarrhea (stomach flu). The next section identifies examples of ssDNA naked viruses. This includes the Parvoridae family such as Adeno-associated dependoparvovirus A and B which cause respiratory tract infections. The next section identifies examples of dsRNA naked viruses such as the Reoviridae family which includes Rotavirus which causes gastroenteritis. The next section identifies examples of +ssRNA naked viruses. This includes the family Picornaviridae which includes Enterovirus C which causes poliomyelitis, Rhinovirus which causes upper respiratory tract infections (common cold) and Hepatovirus which causes Hepatitis. The next section identifies examples of +ssRNA enveloped viruses. This includes the Togaviridae family which includes Alphavirus which causes encephalitis and hemorrhagic fever and rubivirus which causes rubella. This also includes the Retroviridae family which includes Lentivirus which causes Acquired immune deficiency syndrome (AIDS). The last section identifies examples of −ssRNA enveloped viruses. This includes the Riloviridae family which includes Zaiere Ebolavirus which causes hemorrhagic fever; the Orthomyxoviridae family which includes Influenzavirus A, B, and C which cause flu; and the Rhabdoviridae family which causes Lyssavirus which causes Rabies." class="span-all">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c4">Common Pathogenic Viruses</entry>
+</row>
+<row>
+<entry valign="top" align="left"><emphasis effect="bold">Genome</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold">Family</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold">Example Virus</emphasis></entry>
+<entry valign="top" align="left"><emphasis effect="bold">Clinical Features</emphasis></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" align="left" morerows="2">dsDNA, enveloped</entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Poxviridae</emphasis></entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Orthopoxvirus</emphasis></entry>
+<entry valign="top" align="left">Skin papules, pustules, lesions</entry>
+</row>
+<row>
+<entry valign="middle" align="left"><emphasis effect="italics">Poxviridae</emphasis></entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Parapoxvirus</emphasis></entry>
+<entry valign="middle" align="left">Skin lesions</entry>
+</row>
+<row>
+<entry valign="middle" align="left"><emphasis effect="italics">Herpesviridae</emphasis></entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Simplexvirus</emphasis></entry>
+<entry valign="top" align="left">Cold sores, genital herpes, sexually transmitted disease</entry>
+</row>
+<row>
+<entry valign="middle" align="left" morerows="2">dsDNA, naked</entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Adenoviridae</emphasis></entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Atadenovirus</emphasis></entry>
+<entry valign="top" align="left">Respiratory infection (common cold)</entry>
+</row>
+<row>
+<entry valign="middle" align="left"><emphasis effect="italics">Papillomaviridae</emphasis></entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Papillomavirus</emphasis></entry>
+<entry valign="middle" align="left">Genital warts, cervical, vulvar, or vaginal cancer</entry>
+</row>
+<row>
+<entry valign="middle" align="left"><emphasis effect="italics">Reoviridae</emphasis></entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Reovirus</emphasis></entry>
+<entry valign="middle" align="left">Gastroenteritis severe diarrhea (stomach flu)</entry>
+</row>
+<row>
+<entry valign="middle" align="left" morerows="1">ssDNA, naked</entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Parvoviridae</emphasis></entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Adeno-associated dependoparvovirus A</emphasis></entry>
+<entry valign="middle" align="left">Respiratory tract infection</entry>
+</row>
+<row>
+<entry valign="middle" align="left"><emphasis effect="italics">Parvoviridae</emphasis></entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Adeno-associated dependoparvovirus B</emphasis></entry>
+<entry valign="middle" align="left">Respiratory tract infection</entry>
+</row>
+<row>
+<entry valign="middle" align="left">dsRNA, naked</entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Reoviridae</emphasis></entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Rotavirus</emphasis></entry>
+<entry valign="middle" align="left">Gastroenteritis</entry>
+</row>
+<row>
+<entry valign="middle" align="left" morerows="2">+ssRNA, naked</entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Picornaviridae</emphasis></entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Enterovirus C</emphasis></entry>
+<entry valign="middle" align="left">Poliomyelitis</entry>
+</row>
+<row>
+<entry valign="middle" align="left"><emphasis effect="italics">Picornaviridae</emphasis></entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Rhinovirus</emphasis></entry>
+<entry valign="middle" align="left">Upper respiratory tract infection (common cold)</entry>
+</row>
+<row>
+<entry valign="middle" align="left"><emphasis effect="italics">Picornaviridae</emphasis></entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Hepatovirus</emphasis></entry>
+<entry valign="middle" align="left">Hepatitis</entry>
+</row>
+<row>
+<entry valign="middle" align="left" morerows="2">+ssRNA, enveloped</entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Togaviridae</emphasis></entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Alphavirus</emphasis></entry>
+<entry valign="middle" align="left">Encephalitis, hemorrhagic fever</entry>
+</row>
+<row>
+<entry valign="middle" align="left"><emphasis effect="italics">Togaviridae</emphasis></entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Rubivirus</emphasis></entry>
+<entry valign="middle" align="left">Rubella</entry>
+</row>
+<row>
+<entry valign="middle" align="left"><emphasis effect="italics">Retroviridae</emphasis></entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Lentivirus</emphasis></entry>
+<entry valign="middle" align="left">Acquired immune deficiency syndrome (AIDS)</entry>
+</row>
+<row>
+<entry valign="middle" align="left" morerows="2">−ssRNA, enveloped</entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Filoviridae</emphasis></entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Zaire Ebolavirus</emphasis></entry>
+<entry valign="middle" align="left">Hemorrhagic fever</entry>
+</row>
+<row>
+<entry valign="middle" align="left"><emphasis effect="italics">Orthomyxoviridae</emphasis></entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Influenzavirus A, B, C</emphasis></entry>
+<entry valign="middle" align="left">Flu</entry>
+</row>
+<row>
+<entry valign="middle" align="left"><emphasis effect="italics">Rhabdoviridae</emphasis></entry>
+<entry valign="middle" align="left"><emphasis effect="italics">Lyssavirus</emphasis></entry>
+<entry valign="middle" align="left">Rabies</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1168328198371" class="microbiology check-your-understanding">
+<list id="fs-id1168327930323">
+<item>What are the types of virus genomes?</item>
+</list>
+</note>
+<section id="fs-id1168328169306">
+<title>Classification of Viral Diseases</title>
+<para id="fs-id1168328071009">While the ICTV has been tasked with the biological classification of viruses, it has also played an important role in the classification of diseases caused by viruses. To facilitate the tracking of virus-related human diseases, the ICTV has created classifications that link to the <term class="no-emphasis">International Classification of Diseases (ICD)</term>, the standard taxonomy of disease that is maintained and updated by the World Health Organization (WHO). The ICD assigns an alphanumeric code of up to six characters to every type of viral infection, as well as all other types of diseases, medical conditions, and causes of death. This ICD code is used in conjunction with two other coding systems (the Current Procedural Terminology, and the Healthcare Common Procedure Coding System) to categorize patient conditions for treatment and insurance reimbursement.</para>
+<para id="fs-id1168328190164">For example, when a patient seeks treatment for a viral infection, ICD codes are routinely used by clinicians to order laboratory tests and prescribe treatments specific to the virus suspected of causing the illness. This ICD code is then used by medical laboratories to identify tests that must be performed to confirm the diagnosis. The ICD code is used by the health-care management system to verify that all treatments and laboratory work performed are appropriate for the given virus. Medical coders use ICD codes to assign the proper code for procedures performed, and medical billers, in turn, use this information to process claims for reimbursement by insurance companies. Vital-records keepers use ICD codes to record cause of death on death certificates, and epidemiologists used ICD codes to calculate morbidity and mortality statistics.</para>
+<note id="fs-id1168327985495" class="microbiology check-your-understanding">
+<list id="fs-id1168328288529">
+<item>Identify two locations where you would likely find an ICD code.</item>
+</list>
+</note>
+<note id="fs-id1168328286182" class="microbiology clinical-focus">
+<title>Part 2</title>
+<para id="fs-id1168328170973">David’s doctor was concerned that his symptoms included prickling and itching at the site of the dog bite; these sensations could be early symptoms of rabies. Several tests are available to diagnose rabies in live patients, but no single antemortem test is adequate. The doctor decided to take samples of David’s blood, saliva, and skin for testing. The skin sample was taken from the nape of the neck (posterior side of the neck near the hairline). It was about 6-mm long and contained at least 10 hair follicles, including the superficial cutaneous nerve. An <term class="no-emphasis">immunofluorescent staining</term> technique was used on the skin biopsy specimen to detect rabies antibodies in the cutaneous nerves at the base of the hair follicles. A test was also performed on a serum sample from David’s blood to determine whether any antibodies for the rabies virus had been produced.</para>
+<para id="fs-id1168328222641">Meanwhile, the saliva sample was used for <term class="no-emphasis">reverse transcriptase-polymerase chain reaction (RT-PCR)</term> analysis, a test that can detect the presence of viral nucleic acid (RNA). The blood tests came back positive for the presence of rabies virus antigen, prompting David’s doctor to prescribe prophylactic treatment. David is given a series of intramuscular injections of human rabies immunoglobulin along with a series of rabies vaccines.</para><list id="fs-id1168327982915" list-type="bulleted" bullet-style="bullet">
+<item>Why does the immunofluorescent technique look for rabies antibodies rather than the rabies virus itself?</item>
+<item>If David has contracted rabies, what is his prognosis?</item>
+</list>
+<para id="fs-id1168327921077"><emphasis effect="italics">Jump to the <link target-id="fs-id1168328293244" document="m58810">next</link> Clinical Focus box. Go back to the <link target-id="fs-id1168328256872">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+</section>
+<section id="fs-id1168328242885" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1168328260587" list-type="bulleted" bullet-style="bullet">
+<item>Viruses are generally ultramicroscopic, typically from 20 nm to 900 nm in length. Some large viruses have been found.</item>
+<item><emphasis effect="bold">Virions</emphasis> are acellular and consist of a nucleic acid, DNA or RNA, but not both, surrounded by a protein <emphasis effect="bold">capsid</emphasis>. There may also be a phospholipid membrane surrounding the capsid.</item>
+<item>Viruses are obligate intracellular parasites.</item>
+<item>Viruses are known to infect various types of cells found in plants, animals, fungi, protists, bacteria, and archaea. Viruses typically have limited <emphasis effect="bold">host ranges</emphasis> and infect specific cell types.</item>
+<item>Viruses may have <emphasis effect="bold">helical</emphasis>, <emphasis effect="bold">polyhedral,</emphasis> or <emphasis effect="bold">complex</emphasis> shapes.</item>
+<item>Classification of viruses is based on morphology, type of nucleic acid, host range, cell specificity, and enzymes carried within the virion.</item>
+<item>Like other diseases, viral diseases are classified using ICD codes.</item>
+</list>
+</section>
+<section id="fs-id1168328238322" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1168325632138">
+<problem id="fs-id1168327961174">
+<para id="fs-id1168328367315">The component(s) of a virus that is/are extended from the envelope for attachment is/are the:</para>
+<list id="fs-id1168328285706" list-type="enumerated" number-style="upper-alpha">
+<item>capsomeres</item>
+<item>spikes</item>
+<item>nucleic acid</item>
+<item>viral whiskers</item>
+</list>
+</problem>
+<solution id="fs-id1168328227740">
+<para id="fs-id1168325670166">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1168327919924">
+<problem id="fs-id1168327933201">
+<para id="fs-id1168328222966">Which of the following does a virus lack? Select all that apply.</para>
+<list id="fs-id1168328290677" list-type="enumerated" number-style="upper-alpha">
+<item>ribosomes</item>
+<item>metabolic processes</item>
+<item>nucleic acid</item>
+<item>glycoprotein</item>
+</list>
+</problem>
+<solution id="fs-id1172099506836">
+<para id="fs-id1172099409824">A and B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1168327871169">
+<problem id="fs-id1168328324152">
+<para id="fs-id1168328328030">The envelope of a virus is derived from the host’s</para>
+<list id="fs-id1168328286055" list-type="enumerated" number-style="upper-alpha">
+<item>nucleic acids</item>
+<item>membrane structures</item>
+<item>cytoplasm</item>
+<item>genome</item>
+</list>
+</problem>
+<solution id="fs-id1168327961362">
+<para id="fs-id1168327959546">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1168327927708">
+<problem id="fs-id1168327964735">
+<para id="fs-id1168328190322">In naming viruses, the family name ends with ________ and genus name ends with _________.</para>
+<list id="fs-id1168328179031" list-type="enumerated" number-style="upper-alpha">
+<item><emphasis effect="italics">−virus; −viridae</emphasis></item>
+<item><emphasis effect="italics">−viridae; −virus</emphasis></item>
+<item><emphasis effect="italics">−virion; virus</emphasis></item>
+<item><emphasis effect="italics">−virus; virion</emphasis></item>
+</list>
+</problem>
+<solution id="fs-id1172099466624">
+<para id="fs-id1172101877447">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1168328214168">
+<problem id="fs-id1168328235977">
+<para id="fs-id1168327863636">What is another name for a nonenveloped virus?</para>
+<list id="fs-id1168328317694" list-type="enumerated" number-style="upper-alpha">
+<item>enveloped virus</item>
+<item>provirus</item>
+<item>naked virus</item>
+<item>latent virus</item>
+</list>
+</problem>
+<solution id="fs-id1168328324069">
+<para id="fs-id1168328285778">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1168328300537" class="true-false">
+<title>True/False</title>
+<exercise id="fs-id1168328311852">
+<problem id="fs-id1168328065727">
+<para id="fs-id1168327932384">True or False: Scientists have identified viruses that are able to infect fungal cells.</para>
+</problem>
+<solution id="fs-id1172102113948">
+<para id="fs-id1172102145334">True</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1168328058994" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1168328242188">
+<problem id="fs-id1168327922847">
+<para id="fs-id1168328311400">A virus that infects a bacterium is called a/an ___________________.</para>
+</problem>
+<solution id="fs-id1168325677412">
+<para id="fs-id1168328296987">bacteriophage</para>
+</solution>
+</exercise>
+<exercise id="fs-id1168328242223">
+<problem id="fs-id1168328144099">
+<para id="fs-id1168327915643">A/an __________ virus possesses characteristics of both a polyhedral and helical virus.</para>
+</problem>
+<solution id="fs-id1172101798372">
+<para id="fs-id1172099666562">complex</para>
+</solution>
+</exercise>
+<exercise id="fs-id1168327873356">
+<problem id="fs-id1168327960636">
+<para id="fs-id1168327909262">A virus containing only nucleic acid and a capsid is called a/an ___________________ virus or __________________ virus.</para>
+</problem>
+<solution id="fs-id1168328320540">
+<para id="fs-id1168328321590">naked or nonenveloped</para>
+</solution>
+</exercise>
+<exercise id="fs-id1168328175538">
+<problem id="fs-id1168328185991">
+<para id="fs-id1168327960751">The ____________ _____________ on the bacteriophage allow for binding to the bacterial cell.</para>
+</problem>
+<solution id="fs-id1172102134655">
+<para id="fs-id1172099496982">tail fibers</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1168328184970" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1168325680388">
+<problem id="fs-id1168328304268">
+<para id="fs-id1168328304271">Discuss the geometric differences among helical, polyhedral, and complex viruses.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168325735853">
+<problem id="fs-id1168325735855">
+<para id="fs-id1168325735857">What was the meaning of the word “virus” in the 1880s and why was it used to describe the cause of tobacco mosaic disease?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1168328173501" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1168328173507">
+<problem id="fs-id1168328241627">
+<para id="fs-id1168328241629">Name each labeled part of the illustrated bacteriophage.</para>
+<media id="fs-id1168328241632" alt="An illustrated bacteriophage is shown. There are arrows pointing to its different parts labeled A, B, C, and D.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_06_01_T4_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-id1168328173518">
+<problem id="fs-id1168328173520">
+<para id="fs-id1168328173522">In terms of evolution, which do you think arises first? The virus or the host? Explain your answer.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1168325626051">
+<problem id="fs-id1168325626053">
+<para id="fs-id1168325626055">Do you think it is possible to create a virus in the lab? Imagine that you are a mad scientist. Describe how you would go about creating a new virus.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

@@ -1,0 +1,423 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="preface">
+
+<title>Preface</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63247</md:content-id>
+  <md:title>Preface</md:title>
+  <md:abstract/>
+  <md:uuid>af2b7d70-5d43-4076-b6a5-63e652249e1f</md:uuid>
+</metadata>
+
+<content class="preface">
+<para id="fs-id1167663571634">Welcome to <emphasis effect="italics">Microbiology</emphasis>, an OpenStax resource. This textbook was written to increase student access to high-quality learning materials, maintaining highest standards of academic rigor at little to no cost.</para>
+<section id="fs-id1167663919237">
+<title>About OpenStax</title>
+<para id="fs-id1167659010514">OpenStax is a nonprofit based at Rice University, and it’s our mission to improve student access to education. Our first openly licensed college textbook was published in 2012, and our library has since scaled to over 20 books for college and AP<sup>®</sup> Courses used by hundreds of thousands of students. Our adaptive learning technology, designed to improve learning outcomes through personalized educational paths, is being piloted in college courses throughout the country. Through our partnerships with philanthropic foundations and our alliance with other educational resource organizations, OpenStax is breaking down the most common barriers to learning and empowering students and instructors to succeed.</para></section>
+<section id="fs-id1167663894118">
+<title>About OpenStax Resources</title>
+<section id="fs-id1167661653134">
+<title>Customization</title>
+<para id="fs-id1167661477663"><emphasis effect="italics">Microbiology</emphasis> is licensed under a Creative Commons Attribution 4.0 International (CC BY) license, which means that you can distribute, remix, and build upon the content, as long as you provide attribution to OpenStax and its content contributors.</para>
+<para id="fs-id1167661425006">Because our books are openly licensed, you are free to use the entire book or pick and choose the sections that are most relevant to the needs of your course. Feel free to remix the content by assigning your students certain chapters and sections in your syllabus, in the order that you prefer. You can even provide a direct link in your syllabus to the sections in the web view of your book.</para>
+<para id="fs-id1167661727614">Instructors also have the option of creating a customized version of their OpenStax book. The custom version can be made available to students in low-cost print or digital form through their campus bookstore. Visit your book page on openstax.org for more information.</para></section>
+<section id="fs-id1167661527472">
+<title>Errata</title>
+<para id="fs-id1167661257552">All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. Since our books are web-based, we can make updates periodically when deemed pedagogically necessary. If you have a correction to suggest, submit it through the link on your book page on openstax.org. Subject matter experts review all errata suggestions. OpenStax is committed to remaining transparent about all updates, so you will also find a list of past errata changes on your book page on openstax.org.</para>
+</section>
+<section id="fs-id1167661292390">
+<title>Format</title>
+<para id="fs-id1167659430974">You can access this textbook for free in web view or PDF through openstax.org, and for a low cost in print.</para>
+</section>
+</section>
+<section id="fs-id1167663906764">
+<title>About <emphasis effect="italics">Microbiology</emphasis></title>
+<para id="fs-id1167663878674"><emphasis effect="italics">Microbiology</emphasis> is designed to cover the scope and sequence requirements for the single-semester Microbiology course for non-majors. The book presents the core concepts of microbiology with a focus on applications for careers in allied health. The pedagogical features of <emphasis effect="italics">Microbiology</emphasis> make the material interesting and accessible to students while maintaining the career-application focus and scientific rigor inherent in the subject matter.</para>
+<section id="fs-id1167659060917">
+<title>Coverage and Scope</title>
+<para id="fs-id1167659399060">The scope and sequence of <emphasis effect="italics">Microbiology</emphasis> has been developed and vetted with input from numerous instructors at institutions across the US. It is designed to meet the needs of most microbiology courses for non-majors and allied health students. In addition, we have also considered the needs of institutions that offer microbiology to a mixed audience of science majors and non-majors by frequently integrating topics that may not have obvious clinical relevance, such as environmental and applied microbiology and the history of science.</para>
+<para id="fs-id1167661553965">With these objectives in mind, the content of this textbook has been arranged in a logical progression from fundamental to more advanced concepts. The opening chapters present an overview of the discipline, with individual chapters focusing on microscopy and cellular biology as well as each of the classifications of microorganisms. Students then explore the foundations of microbial biochemistry, metabolism, and genetics, topics that provide a basis for understanding the various means by which we can control and combat microbial growth. Beginning with Chapter 15, the focus turns to microbial pathogenicity, emphasizing how interactions between microbes and the human immune system contribute to human health and disease. The last several chapters of the text provide a survey of medical microbiology, presenting the characteristics of microbial diseases organized by body system.</para>
+<para id="fs-id1167663649858">A brief Table of Contents follows. While we have made every effort to align the Table of Contents with the needs of our audience, we recognize that some instructors may prefer to teach topics in a different order. A particular strength of <emphasis effect="italics">Microbiology</emphasis> is that instructors can customize the book, adapting it to the approach that works best in their classroom.</para>
+<list id="fs-id1167663629691" list-type="bulleted" bullet-style="none"><item>Chapter 1: An Invisible World</item>
+<item>Chapter 2: How We See the Invisible World</item>
+<item>Chapter 3: The Cell</item>
+<item>Chapter 4: Prokaryotic Diversity</item>
+<item>Chapter 5: The Eukaryotes of Microbiology</item>
+<item>Chapter 6: Acellular Pathogens</item>
+<item>Chapter 7: Microbial Biochemistry</item>
+<item>Chapter 8: Microbial Metabolism</item>
+<item>Chapter 9: Microbial Growth</item>
+<item>Chapter 10: Biochemistry of the Genome</item>
+<item>Chapter 11: Mechanisms of Microbial Genetics</item>
+<item>Chapter 12: Modern Applications of Microbial Genetics</item>
+<item>Chapter 13: Control of Microbial Growth</item>
+<item>Chapter 14: Antimicrobial Drugs</item>
+<item>Chapter 15: Microbial Mechanisms of Pathogenicity</item>
+<item>Chapter 16: Disease and Epidemiology</item>
+<item>Chapter 17: Innate Nonspecific Host Defenses</item>
+<item>Chapter 18: Adaptive Specific Host Defenses</item>
+<item>Chapter 19: Diseases of the Immune System</item>
+<item>Chapter 20: Laboratory Analysis of the Immune Response</item>
+<item>Chapter 21: Skin and Eye Infections</item>
+<item>Chapter 22: Respiratory System Infections</item>
+<item>Chapter 23: Urogenital System Infections</item>
+<item>Chapter 24: Digestive System Infections</item>
+<item>Chapter 25: Circulatory and Lymphatic System Infections</item>
+<item>Chapter 26: Nervous System Infections</item>
+<item>Appendix A: Fundamentals of Physics and Chemistry Important to Microbiology</item>
+<item>Appendix B: Mathematical Basics</item>
+<item>Appendix C: Metabolic Pathways</item>
+<item>Appendix D: Taxonomy of Clinically Relevant Microorganisms</item>
+<item>Appendix E: Glossary</item>
+</list></section>
+<section id="fs-id1167661411239">
+<title>American Society of Microbiology (ASM) Partnership</title>
+<para id="fs-id1167659070144">Microbiology is produced through a collaborative publishing agreement between OpenStax and the American Society for Microbiology Press. The book has been developed to align to the curriculum guidelines of the American Society for Microbiology.</para>
+<section id="fs-id1167661420655">
+<title>About ASM</title>
+<para id="fs-id1167663644805">The American Society for Microbiology is the largest single life science society, composed of over 47,000 scientists and health professionals. ASM's mission is to promote and advance the microbial sciences.</para>
+<para id="fs-id1167663659538">ASM advances the microbial sciences through conferences, publications, certifications, and educational opportunities. It enhances laboratory capacity around the globe through training and resources and provides a network for scientists in academia, industry, and clinical settings. Additionally, ASM promotes a deeper understanding of the microbial sciences to diverse audiences and is committed to offering open-access materials through their new journals, American Academy of Microbiology reports, and textbooks.</para>
+</section>
+<section id="fs-id1167661348535">
+<title>ASM Recommended Curriculum Guidelines for Undergraduate Microbiology Education</title>
+<para id="fs-id1167661581876"><emphasis effect="bold">PART 1: Concepts and Statements</emphasis></para>
+<para id="fs-id1167661526694"><emphasis effect="bold">Evolution</emphasis></para>
+<list id="fs-id1167659437084" list-type="enumerated" number-style="arabic">
+<item>Cells, organelles (e.g., mitochondria and chloroplasts) and all major metabolic pathways evolved from early prokaryotic cells.</item>
+<item>Mutations and horizontal gene transfer, with the immense variety of microenvironments, have selected for a huge diversity of microorganisms.</item>
+<item>Human impact on the environment influences the evolution of microorganisms (e.g., emerging diseases and the selection of antibiotic resistance).</item>
+<item>The traditional concept of species is not readily applicable to microbes due to asexual reproduction and the frequent occurrence of horizontal gene transfer.</item>
+<item>The evolutionary relatedness of organisms is best reflected in phylogenetic trees.</item>
+</list>
+<para id="fs-id1167661729531"><emphasis effect="bold">Cell Structure and Function</emphasis></para>
+<list id="fs-id1167661426976" list-type="enumerated" number-style="arabic" start-value="6">
+<item>The structure and function of microorganisms have been revealed by the use of microscopy (including bright field, phase contrast, fluorescent, and electron).</item>
+<item>Bacteria have unique cell structures that can be targets for antibiotics, immunity and phage infection.</item>
+<item>Bacteria and Archaea have specialized structures (e.g., flagella, endospores, and pili) that often confer critical capabilities.</item>
+<item>While microscopic eukaryotes (for example, fungi, protozoa and algae) carry out some of the same processes as bacteria, many of the cellular properties are fundamentally different.</item>
+<item>The replication cycles of viruses (lytic and lysogenic) differ among viruses and are determined by their unique structures and genomes.</item>
+</list>
+<para id="fs-id1167661412031"><emphasis effect="bold">Metabolic Pathways</emphasis></para>
+<list id="fs-id1167659063648" list-type="enumerated" number-style="arabic" start-value="11">
+<item>Bacteria and Archaea exhibit extensive, and often unique, metabolic diversity (e.g., nitrogen fixation, methane production, anoxygenic photosynthesis).</item>
+<item>The interactions of microorganisms among themselves and with their environment are determined by their metabolic abilities (e.g., quorum sensing, oxygen consumption, nitrogen transformations).</item>
+<item>The survival and growth of any microorganism in a given environment depends on its metabolic characteristics.</item>
+<item>The growth of microorganisms can be controlled by physical, chemical, mechanical, or biological means.</item>
+</list>
+<para id="fs-id1167661651836"><emphasis effect="bold">Information Flow and Genetics</emphasis></para>
+<list id="fs-id1167661719344" list-type="enumerated" number-style="arabic" start-value="15">
+<item>Genetic variations can impact microbial functions (e.g., in biofilm formation, pathogenicity and drug resistance).</item>
+<item>Although the central dogma is universal in all cells, the processes of replication, transcription, and translation differ in Bacteria, Archaea, and Eukaryotes.</item>
+<item>The regulation of gene expression is influenced by external and internal molecular cues and/or signals.</item>
+<item>The synthesis of viral genetic material and proteins is dependent on host cells.</item>
+<item>Cell genomes can be manipulated to alter cell function.</item>
+</list>
+<para id="fs-id1167661367943"><emphasis effect="bold">Microbial Systems</emphasis></para>
+<list id="fs-id1167661397144" list-type="enumerated" number-style="arabic" start-value="20">
+<item>Microorganisms are ubiquitous and live in diverse and dynamic ecosystems.</item>
+<item>Most bacteria in nature live in biofilm communities.</item>
+<item>Microorganisms and their environment interact with and modify each other.</item>
+<item>Microorganisms, cellular and viral, can interact with both human and nonhuman hosts in beneficial, neutral or detrimental ways.</item>
+</list>
+<para id="fs-id1167661649018"><emphasis effect="bold">Impact of Microorganisms</emphasis></para>
+<list id="fs-id1167659403834" list-type="enumerated" number-style="arabic" start-value="24">
+<item>Microbes are essential for life as we know it and the processes that support life (e.g., in biogeochemical cycles and plant and/or animal microbiota).</item>
+<item>Microorganisms provide essential models that give us fundamental knowledge about life processes.</item>
+<item>Humans utilize and harness microorganisms and their products.</item>
+<item>Because the true diversity of microbial life is largely unknown, its effects and potential benefits have not been fully explored.</item>
+</list>
+<para id="fs-id1167663970221"><emphasis effect="bold">PART 2: Competencies and Skills</emphasis></para>
+<para id="fs-id1167661401690"><emphasis effect="bold">Scientific Thinking</emphasis></para>
+<list id="fs-id1167661425283" list-type="enumerated" number-style="arabic" start-value="28">
+<item>Ability to apply the process of science<newline/>
+a. Demonstrate an ability to formulate hypotheses and design experiments based on the scientific method.<newline/>
+b. Analyze and interpret results from a variety of microbiological methods and apply these methods to analogous situations.</item>
+<item>Ability to use quantitative reasoning<newline/>
+a. Use mathematical reasoning and graphing skills to solve problems in microbiology.</item>
+<item>Ability to communicate and collaborate with other disciplines<newline/>
+a. Effectively communicate fundamental concepts of microbiology in written and oral format.<newline/>
+b. Identify credible scientific sources and interpret and evaluate the information therein.</item>
+<item>Ability to understand the relationship between science and society<newline/>
+a. Identify and discuss ethical issues in microbiology.</item>
+</list>
+<para id="fs-id1167659235943"><emphasis effect="bold">Microbiology Laboratory Skills</emphasis></para>
+<list id="fs-id1167659067870" list-type="enumerated" number-style="arabic" start-value="32">
+<item>Properly prepare and view specimens for examination using microscopy (bright field and, if possible, phase contrast).</item>
+<item>Use pure culture and selective techniques to enrich for and isolate microorganisms.</item>
+<item>Use appropriate methods to identify microorganisms (media-based, molecular and serological).</item>
+<item>Estimate the number of microorganisms in a sample (using, for example, direct count, viable plate count, and spectrophotometric methods).</item>
+<item>Use appropriate microbiological and molecular lab equipment and methods.</item>
+<item>Practice safe microbiology, using appropriate protective and emergency procedures.</item>
+<item>Document and report on experimental protocols, results and conclusions.</item>
+</list>
+</section>
+<section id="fs-id1167659400733"><title id="fs-id1167659413235">OpenStax <emphasis effect="italics">Microbiology</emphasis> Correlation to ASM Recommended Curriculum Guidelines for Undergraduate Microbiology Education</title><table id="fs-id1167659330040" summary="A table lists the chapters of the textbook and which ASM standards they align to. Chapter 1 (An Invisible World) aligns to standards 2, 4, 5, 11, 16, 20, 23, 26, 27, 31. Chapter 2 (How We See the Invisible World) aligns to standards 6, 31, 32, 33. Chapter 3 (The Cell) aligns to standards 1, 2, 5, 9, 16, 21, 25, 31. Chapter 4 (Prokaryotic Diversity) aligns to standards 2, 4, 8, 11, 12, 16, 20, 23, 24, 31. Chapter 5 (The Eukaryotes of Microbiology) aligns to standards 2, 4, 5, 9, 12, 20, 23, 31. Chapter 6 (Acellular Pathogens) aligns to standards 4, 10, 18, 23, 31. Chapter 7 (Microbial Biochemistry) aligns to standards 1, 24, 33, 34. Chapter 8 (Microbial Metabolism) aligns to standards 1, 11, 12, 13, 22, 24. Chapter 9 (Microbial Growth) aligns to standards 12, 13, 29, 31, 33, 34, 35. Chapter 10 (Biochemistry of the Genome) aligns to standards 1, 16, 25, 31. Chapter 11 (Mechanisms of Microbial Genetics) aligns to standards 1, 2, 15, 16, 17, 31.Chapter 12 (Modern Applications of Microbial Genetics) aligns to standards 19, 26, 31. Chapter 13 (Control of Microbial Growth) aligns to standards 13, 14, 26, 31, 36, 37. Chapter 14 (Antimicrobial Drugs) aligns to standards 3, 7, 14, 15, 23, 26, 31. Chapter 15 (Microbial Mechanisms of Pathogenicity) aligns to standards 8, 9, 10, 15, 18, 23, 33. Chapter 16 (Disease and Epidemiology) aligns to standards 7, 14, 23, 26, 31. Chapter 17 (Innate Nonspecific Host Defenses) aligns to standards 7, 8, 23. Chapter 18 (Adaptive Specific Host Defenses) aligns to standards 7, 23, 26, 31. Chapter 19 (Diseases of the Immune System) aligns to standards 7, 8, 24. Chapter 20 (Laboratory Analysis of the Immune Response) aligns to standards 31, 34. Chapter 21 (Skin and Eye Infections) aligns to standards 8, 9, 10, 14, 18, 23, 24, 31. Chapter 22 (Respiratory System Infections) aligns to standards 7, 8, 9, 14, 18, 23, 24, 31. Chapter 23 (Urogenital System Infections) aligns to standards 7, 8, 9, 12, 14, 18, 22, 23, 24, 31. Chapter 24 (Digestive System Infections) aligns to standards 7, 8, 9, 10, 14, 18, 23, 24, 31. Chapter 25 (Circulatory and Lymphatic System Infections) aligns to standards 7, 8, 9, 14, 23, 31. Chapter 26 (Nervous System Infections) aligns to standards 7, 8, 9, 14, 18, 23, 24, 31." class="span-all unnumbered unstyled"><label/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c2">OpenStax <emphasis effect="italics">Microbiology</emphasis> Correlation to ASM Curriculum Guidelines</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Chapter</entry>
+<entry valign="top" align="left">ASM Curriculum Guidelines</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">1—An Invisible World</entry>
+<entry valign="top" align="left">2, 4, 5, 11, 16, 20, 23, 26, 27, 31</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">2—How We See the Invisible World</entry>
+<entry valign="top" align="left">6, 31, 32, 33</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">3—The Cell</entry>
+<entry valign="top" align="left">1, 2, 5, 9, 16, 21, 25, 31</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">4—Prokaryotic Diversity</entry>
+<entry valign="top" align="left">2, 4, 8, 11, 12, 16, 20, 23, 24, 31</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">5—The Eukaryotes of Microbiology</entry>
+<entry valign="top" align="left">2, 4, 5, 9, 12, 20, 23, 31</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">6—Acellular Pathogens</entry>
+<entry valign="top" align="left">4, 10, 18, 23, 31</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">7—Microbial Biochemistry</entry>
+<entry valign="top" align="left">1, 24, 33, 34</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">8—Microbial Metabolism</entry>
+<entry valign="top" align="left">1, 11, 12, 13, 22, 24</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">9—Microbial Growth</entry>
+<entry valign="top" align="left">12, 13, 29, 31, 33, 34, 35</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">10—Biochemistry of the Genome</entry>
+<entry valign="top" align="left">1, 16, 25, 31</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">11—Mechanisms of Microbial Genetics</entry>
+<entry valign="top" align="left">1, 2, 15, 16, 17, 31</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">12—Modern Applications of Microbial Genetics</entry>
+<entry valign="top" align="left">19, 26, 31</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">13—Control of Microbial Growth</entry>
+<entry valign="top" align="left">13, 14, 26, 31, 36, 37</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">14—Antimicrobial Drugs</entry>
+<entry valign="top" align="left">3, 7, 14, 15, 23, 26, 31</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">15—Microbial Mechanisms of Pathogenicity</entry>
+<entry valign="top" align="left">8, 9, 10, 15, 18, 23, 33</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">16—Disease and Epidemiology</entry>
+<entry valign="top" align="left">7, 14, 23, 26, 31</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">17—Innate Nonspecific Host Defenses</entry>
+<entry valign="top" align="left">7, 8, 23</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">18—Adaptive Specific Host Defenses</entry>
+<entry valign="top" align="left">7, 23, 26, 31</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">19—Diseases of the Immune System</entry>
+<entry valign="top" align="left">7, 8, 24</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">20—Laboratory Analysis of the Immune Response</entry>
+<entry valign="top" align="left">31, 34</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">21—Skin and Eye Infections</entry>
+<entry valign="top" align="left">8, 9, 10, 14, 18, 23, 24, 31</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">22—Respiratory System Infections</entry>
+<entry valign="top" align="left">7, 8, 9, 14, 18, 23, 24, 31</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">23—Urogenital System Infections</entry>
+<entry valign="top" align="left">7, 8, 9, 12, 14, 18, 22, 23, 24, 31</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">24—Digestive System Infections</entry>
+<entry valign="top" align="left">7, 8, 9, 10, 14, 18, 23, 24, 31</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">25—Circulatory and Lymphatic System Infections</entry>
+<entry valign="top" align="left">7, 8, 9, 14, 23, 31</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">26—Nervous System Infections</entry>
+<entry valign="top" align="left">7, 8, 9, 14, 18, 23, 24, 31</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section></section>
+<section id="fs-id1167661737448">
+<title>Engaging Feature Boxes</title>
+<para id="fs-id1167663966334">Throughout <emphasis effect="italics">Microbiology</emphasis>, you will find features that engage students by taking selected topics a step further. Our features include:</para>
+<list id="fs-id1167661745847" list-type="bulleted" bullet-style="none"><item><emphasis effect="bold">Clinical Focus.</emphasis> Each chapter has a multi-part clinical case study that follows the story of a fictional patient. The case unfolds in several realistic episodes placed strategically throughout the chapter, each episode revealing new symptoms and clues about possible causes and diagnoses. The details of the case are directly related to the topics presented in the chapter, encouraging students to apply what they are learning to real-life scenarios. The final episode presents a Resolution that reveals the outcome of the case and unpacks the broader lessons to be learned.</item>
+<item><emphasis effect="bold">Case in Point.</emphasis> In addition to the Clinical Focus, many chapters also have one or more single-part case studies that serve to highlight the clinical relevance of a particular topic. These narratives are strategically placed directly after the topic of emphasis and generally conclude with a set of questions that challenge the reader to think critically about the case.</item>
+<item><emphasis effect="bold">Micro Connections.</emphasis> All chapters contain several Micro Connections feature boxes that highlight real-world applications of microbiology, drawing often-overlooked connections between microbiology and a wide range of other disciplines. While many of these connections involve medicine and healthcare, they also venture into domains such as environmental science, genetic engineering, and emerging technologies. Moreover, many Micro Connections boxes are related to current or recent events, further emphasizing the intersections between microbiology and everyday life.</item>
+<item><emphasis effect="bold">Sigma Xi Eye on Ethics.</emphasis> This unique feature, which appears in most chapters, explores an ethical issue related to chapter content. Developed in cooperation with the scientific research society Sigma Xi, each Eye on Ethics box presents students with a challenging ethical dilemma that arises at the intersection of science and healthcare. Often grounded in historical or current events, these short essays discuss multiple sides of an issue, posing questions that challenge the reader to contemplate the ethical principles that govern professionals in healthcare and the sciences.</item>
+<item><emphasis effect="bold">Disease Profile.</emphasis> This feature, which is exclusive to Chapters 21–26, highlights important connections between related diseases. Each box also includes a table cataloguing unique aspects of each disease, such as the causative agent, symptoms, portal of entry, mode of transmission, and treatment. These concise tables serve as a useful reference that students can use as a study aid.</item>
+<item><emphasis effect="bold">Link to Learning.</emphasis> This feature provides a brief introduction and a link to an online resource that students may use to further explore a topic presented in the chapter. Links typically lead to a website, interactive activity, or animation that students can investigate on their own.</item>
+</list></section>
+<section id="fs-id1167659013942"><title>Comprehensive Art Program</title><para id="fs-id1167661654023">Our art program is designed to enhance students’ understanding of concepts through clear and effective illustrations, diagrams, and photographs. Detailed drawings, comprehensive lifecycles, and clear micrographs provide visual reinforcement for concepts.</para>
+<figure id="OSC_Microbio_06_01_virusbac" class="unnumbered unstyled"><label/>
+<media id="fs-id1167659262338" alt="Figure a is an electron micrograph showing a virus on the surface of a bacterial cell. The virus has a large head region, a thick neck and thin spider-like legs attached to the bacterium. Figure b is a drawing that labels the outside of the head as the capsid with the viral genome inside. The neck as the sheath and the legs as tail fibers.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_06_01_virusbac-157a.jpg"/>
+</media>
+</figure>
+<figure id="OSC_Microbio_03_04_eukcell" class="unnumbered unstyled"><label/>
+<media id="fs-id1167663957727" alt="A diagram of a large cell. The outside of the cell is a thin line labeled plasma membrane. A long projection outside of the plasma membrane is labeled flagellum. Shorter projections outside the membrane are labeled cilia. Just under the plasma membrane are lines labeled microtubules and microfilaments. The fluid inside the plasma membrane is labeled cytoplasm. In the cytoplasm are small dots labeled ribosomes. These dots are either floating in the cytoplasm or attached to a webbed membrane labeled rough endoplasmic reticulum. Some regions of the webbed membrane do not have dots; these regions of the membrane are called smooth endoplasmic reticulum. Other structures in the cytoplasm include an oval with a webbed line inside of it; this is labeled the mitochondrion. Spheres in the cytoplasm are labeled peroxisome and lysosome. A pancake stack of membranes is labeled golgi complex. Two short tubes are labeled centrosomes. A large sphere in the cell is labeled nucleus. The outer membrane of this sphere is the nuclear envelope. Holes in the nuclear envelope are called nuclear pores. A smaller sphere in the nucleus is labeled nucleolus.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_03_04_eukcell-fdfa.jpg"/>
+</media>
+</figure>
+<figure id="OSC_Microbio_02_03_ElecMicTb" class="unnumbered unstyled"><label/>
+<media id="fs-id1167663888436" alt="Table of electron microscopes which use electron beams focused with magnets to produce an image. Magnification: 20 – 100,00× or more. Transmission electron microscopes (TEM) use electron means that pass through a specimen to visual small images; useful to observe small, thin specimens such as tissue sections and subcellular structures. The sample image (Ebola virus) shows a tube shaped into a letter d at one end. Scanning electron microscopes (SEM) use electron beams to visualize surfaces; useful to observe the three-dimensional surface details of specimens. The sample image (Campylobactor jejuni) shows thick three-dimensional spirals.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_02_03_ElecMicTb-51b2.jpg"/>
+</media>
+</figure>
+<figure id="OSC_Microbio_03_03_ProkCell" class="unnumbered unstyled"><label/>
+<media id="fs-id1167661750275" alt="A diagram of a rod-shaped prokaryotic cell. The thick outer layer is called the capsule, inside of that is a thinner cell wall and inside of that is an even thinner plasma membrane. Inside of the plasma membrane is a fluid called the cytoplasm, little dots called ribosomes, small spheres called inclusions, a small loop of DNA called a plasmid, and a large folded loo of DNA called the nucleoid. Long projections start at the plasma membrane and extend out of the capsule; these are called flagella (singular: flagellum). A shorter projection is labeled pilus. And many very short projections are labeled fimbriae.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_03_03_ProkCell-b633.jpg"/>
+</media>
+</figure>
+<figure id="OSC_Microbio_03_04_EukPlasMem" class="unnumbered unstyled"><label/>
+<media id="fs-id1167663507237" alt="A drawing of the plasma membrane. The top of the diagram is labeled outside of cell, the bottom is labeled cytoplasm. Separating these two regions is the membrane which is made of mostly a phospholipid bilayer. Each phospholipid is drawn as a sphere with 2 tails. There are two layers of phospholipids making up the bilayer; each phospholipid layer has the sphere towards the outside of the bilayer and the two tails towards the inside of the bilayer. Embedded within the phospholipid bilayer are a variety of large proteins. Glycolipids have long carbohydrate chains (shown as a chain of hexagons) attached to a single phospholipid; the carbohydrates are always on the outside of the membrane. Glycoproteins have a long carbohydrate chain attached to a protein; the carbohydrates are on the outside of the membrane. The cytoskeleton is shown as a thin layer of line just under the inside of the phospholipid bilayer.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_03_04_EukPlasMem.jpg"/>
+</media>
+</figure>
+<figure id="OSC_Microbio_05_02_tapewormLC" class="unnumbered unstyled"><label/>
+<media id="fs-id1167661292691" alt="Eggs or gravid proplottidis from an infected individual are passed into the environment; this is the diagnostic stage. Cattle (T. saginata) and pigs (T. solium) become infected by ingesting vegetation contaminated by eggs or gravid proglottids. Oncospheres hatch, penetrating intestinal wall and circulate to musculature. The oncospheres develop into cysticerci in muscles and become infective. Humans are infected by ingesting raw or undercooked infected meat. The scolex attaches to intestine and adults are found in the small intestine.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_02_tapewormLC-5eda.jpg"/>
+</media>
+</figure>
+</section><section id="fs-id1167659332140">
+<title>Materials That Reinforce Key Concepts</title>
+<list id="fs-id1167661744312" list-type="bulleted" bullet-style="none"><item><emphasis effect="bold">Learning Objectives.</emphasis> Every section begins with a set of clear and concise learning objectives that are closely aligned to the content and Review Questions.</item>
+<item><emphasis effect="bold">Summary.</emphasis> The Summary distills the information in each section into a series of concise bullet points. Key Terms in the Summary are bold-faced for emphasis.</item>
+<item><emphasis effect="bold">Key Terms.</emphasis> New vocabulary is bold-faced when first introduced in the text and followed by a definition in context. Definitions of key terms are also listed in the Glossary in (<link document="m58950">Appendix E</link>).</item>
+<item><emphasis effect="bold">Check Your Understanding questions.</emphasis> Each subsection of the text is punctuated by one or more comprehension-level questions. These questions encourage readers to make sure they understand what they have read before moving on to the next topic.</item>
+<item><emphasis effect="bold">Review Questions.</emphasis> Each chapter has a robust set of review questions that assesses students’ mastery of the Learning Objectives. Questions are organized by format: multiple choice, matching, true/false, fill-in-the-blank, short answer, and critical thinking.</item>
+</list></section>
+</section>
+<section id="fs-id1167661778928">
+<title>Additional Resources</title>
+<section id="fs-id1167663712002">
+<title>Student and Instructor Resources</title>
+<para id="fs-id1167661411612">We’ve compiled additional resources for both students and instructors, including Getting Started Guides, a test bank, and an instructor answer guide. Instructor resources require a verified instructor account, which can be requested on your openstax.org log-in. Take advantage of these resources to supplement your OpenStax book.</para>
+</section>
+<section id="fs-id1167661308470">
+<title>Partner Resources</title>
+<para id="fs-id1167659304359">OpenStax Partners are our allies in the mission to make high-quality learning materials affordable and accessible to students and instructors everywhere. Their tools integrate seamlessly with our OpenStax titles at a low cost. To access the partner resources for your text, visit your book page on openstax.org.​</para>
+</section>
+</section>
+<section id="fs-id1167661732760"><title>About the Authors</title><section id="fs-id1167661300225" class="sr-contrib-auth">
+<title>Senior Contributing Authors</title>
+
+<para id="fs-id1167661724049"><emphasis effect="bold">Nina Parker (Content Lead), Shenandoah University</emphasis><newline/>
+Dr. Nina Parker received her BS and MS from the University of Michigan, and her PhD in Immunology from Ohio University. She joined Shenandoah University's Department of Biology in 1995 and serves as Associate Professor, teaching general microbiology, medical microbiology, immunology, and epidemiology to biology majors and allied health students. Prior to her academic career, Dr. Parker was trained as a Medical Technologist and received ASCP certification, experiences that drive her ongoing passion for training health professionals and those preparing for clinical laboratory work. Her areas of specialization include infectious disease, immunology, microbial pathogenesis, and medical microbiology. Dr. Parker is also deeply interested in the history of medicine and science, and pursues information about diseases often associated with regional epidemics in Virginia.</para>
+
+<para id="fs-id1167661621975"><emphasis effect="bold">Mark Schneegurt (Lead Writer), Wichita State University</emphasis><newline/>
+Dr. Mark A. Schneegurt is a Professor of Biological Sciences at Wichita State University and maintains joint appointments in Curriculum and Instruction and Biomedical Engineering. Dr. Schneegurt holds degrees from Rensselaer Polytechnic Institute and a Ph.D. from Brown University. He was a postdoctoral fellow at Eli Lilly and has taught and researched at Purdue University and the University of Notre Dame. His research focuses on applied and environmental microbiology, resulting in 70+ scientific publications and 150+ presentations.</para>
+
+<para id="fs-id1167661752966"><emphasis effect="bold">Anh-Hue Thi Tu (Senior Reviewer), Georgia Southwestern State University</emphasis><newline/>
+Dr. Anh-Hue Tu (born in Saigon, Vietnam) earned a BS in Chemistry from Baylor University and a PhD in Medical Sciences from Texas A &amp; M Health Science Center. At the University of Alabama–Birmingham, she completed postdoctoral appointments in the areas of transcriptional regulation in <emphasis effect="italics">Escherichia coli</emphasis> and characterization of virulence factors in <emphasis effect="italics">Streptococcus pneumoniae</emphasis> and then became a research assistant professor working in the field of mycoplasmology. In 2004, Dr. Tu joined Georgia Southwestern State University where she currently serves as Professor, teaching various biology courses and overseeing undergraduate student research. Her areas of research interest include gene regulation, bacterial genetics, and molecular biology. Dr. Tu's teaching philosophy is to instill in her students the love of science by using critical thinking. As a teacher, she believes it is important to take technical information and express it in a way that is understandable to any student.</para>
+
+<para id="fs-id1167661314602"><emphasis effect="bold">Brian M. Forster, Saint Joseph's University</emphasis><newline/>Dr. Brian M. Forster received his BS in Biology from Binghamton University and his PhD in Microbiology from Cornell University. In 2011, he joined the faculty of Saint Joseph’s University. Dr. Forster is the laboratory coordinator for the natural science laboratory-based classes designed for students who are not science majors. He teaches courses in general biology, heredity and evolution, environmental science, and microbiology for students wishing to enter nursing or allied health programs. He has publications in the <emphasis effect="italics">Journal of Bacteriology</emphasis>, the <emphasis effect="italics">Journal of Microbiology &amp; Biology Education</emphasis> and <emphasis effect="italics">Tested Studies for Laboratory Education</emphasis> (ABLE Proceedings).</para>
+
+<para id="fs-id1167661764143"><emphasis effect="bold">Philip Lister, Central New Mexico Community College</emphasis><newline/>
+Dr. Philip Lister earned his BS in Microbiology (1986) from Kansas State University and PhD in Medical Microbiology (1992) from Creighton University. He was a Professor of Medical Microbiology and Immunology at Creighton University (1994-2011), with appointments in the Schools of Medicine and Pharmacy. He also served as Associate Director of the Center for Research in Anti-Infectives and Biotechnology. He has published research articles, reviews, and book chapters related to antimicrobial resistance and pharmacodynamics, and has served as an Editor for the <emphasis effect="italics">Journal of Antimicrobial Chemotherapy</emphasis>. He is currently serving as Chair of Biology and Biotechnology at Central New Mexico Community College.</para>
+</section>
+<section id="fs-id1167663930316" class="contrib-auth">
+<title>Contributing Authors</title>
+<para id="eip-568">Summer Allen, Brown University<newline/>
+Ann Auman, Pacific Lutheran University<newline/>
+Graciela Brelles-Mariño, Universidad Nacional de la Plata<newline/>
+Myriam Alhadeff Feldman, Lake Washington Institute of Technology<newline/>
+Paul Flowers, University of North Carolina–Pembroke<newline/>
+Clifton Franklund, Ferris State University<newline/>
+Ann Paterson, Williams Baptist University<newline/>
+George Pinchuk, Mississippi University for Women<newline/>
+Ben Rowley, University of Central Arkansas<newline/>
+Mark Sutherland, Hendrix College<newline/>
+</para></section>
+<section id="fs-id1167659070403">
+<title>Reviewers</title>
+<para id="eip-363">Michael Angell, Eastern Michigan University<newline/>
+Roberto Anitori, Clark College<newline/>
+James Bader, Case Western Reserve University<newline/>
+Amy Beumer, College of William and Mary<newline/>
+Gilles Bolduc, Massasoit Community College<newline/>
+Susan Bornstein-Forst, Marian University<newline/>
+Nancy Boury, Iowa State University<newline/>
+Jennifer Brigati, Maryville College<newline/>
+Harold Bull, University of Saskatchewan<newline/>
+Evan Burkala, Oklahoma State University<newline/>
+Bernadette Connors, Dominican College<newline/>
+Richard J. Cristiano, Houston Community College–Northwest<newline/>
+AnnMarie DelliPizzi, Dominican College<newline/>
+Elisa M. LaBeau DiMenna, Central New Mexico Community College<newline/>
+Diane Dixon, Southeastern Oklahoma State University<newline/>
+Randy Durren, Longwood University<newline/>
+Elizabeth A. B. Emmert, Salisbury University<newline/>
+Karen Frederick, Marygrove College<newline/>
+Sharon Gusky, Northwestern Connecticut Community College<newline/>
+Deborah V. Harbour, College of Southern Nevada<newline/>
+Randall Harris, William Carey University<newline/>
+Diane Hartman, Baylor University<newline/>
+Angela Hartsock, University of Akron<newline/>
+Nazanin Zarabadi Hebel, Houston Community College<newline/>
+Heather Klenovich, Community College of Alleghany County<newline/>
+Kathleen Lavoie, Plattsburgh State University<newline/>
+Toby Mapes, Blue Ridge Community College<newline/>
+Barry Margulies, Towson University<newline/>
+Kevin M. McCabe, Columbia Gorge Community College<newline/>
+Karin A. Melkonian, Long Island University<newline/>
+Jennifer Metzler, Ball State University<newline/>
+Ellyn R. Mulcahy, Johnson County Community College<newline/>
+Jonas Okeagu, Fayetteville State University<newline/>
+Randall Kevin Pegg, Florida State College–Jacksonville<newline/>
+Judy Penn, Shoreline Community College<newline/>
+Lalitha Ramamoorthy, Marian University<newline/>
+Drew Rholl, North Park University<newline/>
+Hilda Rodriguez, Miami Dade College<newline/>
+Sean Rollins, Fitchburg State University<newline/>
+Sameera Sayeed, University of Pittsburgh<newline/>
+Pramila Sen, Houston Community College<newline/>
+Brian Róbert Shmaefsky, Kingwood College<newline/>
+Janie Sigmon, York Technical College<newline/>
+Denise Signorelli, College of Southern Nevada<newline/>
+Molly Smith, South Georgia State College–Waycross<newline/>
+Paula Steiert, Southwest Baptist University<newline/>
+Robert Sullivan, Fairfield University<newline/>
+Suzanne Wakim, Butte Community College<newline/>
+Anne Weston, Francis Crick Institute<newline/>
+Valencia L. Williams, West Coast University<newline/>
+James Wise, Chowan State University<newline/>
+Virginia Young, Mercer University<newline/>
+</para>
+</section>
+</section> </content>
+</document>

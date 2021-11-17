@@ -1,0 +1,252 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Modes of Disease Transmission</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58873</md:content-id>
+  <md:title>Modes of Disease Transmission</md:title>
+  <md:abstract/>
+  <md:uuid>d56245c3-ba68-45cb-9cfb-68091b776fc4</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167663634837" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167663611268">
+<item>Describe the different types of disease reservoirs</item>
+<item>Compare contact, vector, and vehicle modes of transmission</item>
+<item>Identify important disease vectors</item>
+<item>Explain the prevalence of nosocomial infections</item>
+</list>
+</section>
+<para id="fs-id1167663985087">Understanding how infectious pathogens spread is critical to preventing infectious disease. Many pathogens require a living host to survive, while others may be able to persist in a dormant state outside of a living host. But having infected one host, all pathogens must also have a mechanism of transfer from one host to another or they will die when their host dies. Pathogens often have elaborate adaptations to exploit host biology, behavior, and ecology to live in and move between hosts. Hosts have evolved defenses against pathogens, but because their rates of evolution are typically slower than their pathogens (because their generation times are longer), hosts are usually at an evolutionary disadvantage. This section will explore where pathogens survive—both inside and outside hosts—and some of the many ways they move from one host to another.</para>
+<section id="fs-id1167659235929">
+<title>Reservoirs and Carriers</title>
+<para id="fs-id1167659068816">For pathogens to persist over long periods of time they require <term>reservoir</term><emphasis effect="bold">s</emphasis> where they normally reside. Reservoirs can be living organisms or nonliving sites. Nonliving reservoirs can include soil and water in the environment. These may naturally harbor the organism because it may grow in that environment. These environments may also become contaminated with pathogens in human feces, pathogens shed by intermediate hosts, or pathogens contained in the remains of intermediate hosts.</para>
+<para id="fs-id1167661648624">Pathogens may have mechanisms of dormancy or resilience that allow them to survive (but typically not to reproduce) for varying periods of time in nonliving environments. For example, <term class="no-emphasis"><emphasis effect="italics">Clostridium tetani</emphasis></term> survives in the soil and in the presence of oxygen as a resistant endospore. Although many viruses are soon destroyed once in contact with air, water, or other non-physiological conditions, certain types are capable of persisting outside of a living cell for varying amounts of time. For example, a study that looked at the ability of <term class="no-emphasis">influenza viruses</term> to infect a cell culture after varying amounts of time on a banknote showed survival times from 48 hours to 17 days, depending on how they were deposited on the banknote.<footnote id="fs-id1167659438414">Yves Thomas, Guido Vogel, Werner Wunderli, Patricia Suter, Mark Witschi, Daniel Koch, Caroline Tapparel, and Laurent Kaiser. “Survival of Influenza Virus on Banknotes.” <emphasis effect="italics">Applied and Environmental Microbiology</emphasis> 74, no. 10 (2008): 3002–3007.</footnote> On the other hand, cold-causing <term class="no-emphasis">rhinoviruses</term> are somewhat fragile, typically surviving less than a day outside of physiological fluids.</para>
+<para id="fs-id1167663571632">A human acting as a reservoir of a pathogen may or may not be capable of transmitting the pathogen, depending on the stage of infection and the pathogen. To help prevent the spread of disease among school children, the CDC has developed guidelines based on the risk of transmission during the course of the disease. For example, children with chickenpox are considered contagious for five days from the start of the rash, whereas children with most gastrointestinal illnesses should be kept home for 24 hours after the symptoms disappear.</para>
+<para id="fs-id1167663861525">An individual capable of transmitting a pathogen without displaying symptoms is referred to as a carrier. A <term>passive carrier</term> is contaminated with the pathogen and can mechanically transmit it to another host; however, a passive carrier is not infected. For example, a health-care professional who fails to wash his hands after seeing a patient harboring an infectious agent could become a passive carrier, transmitting the pathogen to another patient who becomes infected.</para>
+<para id="fs-id1167661273948">By contrast, an <term>active carrier</term> is an infected individual who can transmit the disease to others. An active carrier may or may not exhibit signs or symptoms of infection. For example, active carriers may transmit the disease during the <term class="no-emphasis">incubation period</term> (before they show signs and symptoms) or the <term class="no-emphasis">period of convalescence</term> (after symptoms have subsided). Active carriers who do not present signs or symptoms of disease despite infection are called <term>asymptomatic carrier</term><emphasis effect="bold">s</emphasis>. Pathogens such as <term class="no-emphasis">hepatitis B virus</term>, <term class="no-emphasis">herpes simplex virus</term>, and <term class="no-emphasis">HIV</term> are frequently transmitted by asymptomatic carriers. <term class="no-emphasis">Mary Mallon</term>, better known as <term class="no-emphasis">Typhoid Mary</term>, is a famous historical example of an asymptomatic carrier. An Irish immigrant, Mallon worked as a cook for households in and around New York City between 1900 and 1915. In each household, the residents developed <term class="no-emphasis">typhoid fever</term> (caused by <term class="no-emphasis"><emphasis effect="italics">Salmonella typhi</emphasis></term>) a few weeks after Mallon started working. Later investigations determined that Mallon was responsible for at least 122 cases of typhoid fever, five of which were fatal.<footnote id="fs-id1167663616746">Filio Marineli, Gregory Tsoucalas, Marianna Karamanou, and George Androutsos. “Mary Mallon (1869–1938) and the History of Typhoid Fever.” <emphasis effect="italics">Annals of Gastroenterology</emphasis> 26 (2013): 132–134. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3959940/pdf/AnnGastroenterol-26-132.pdf. </footnote> See <link target-id="fs-id1167660122622" document="m58933">Eye on Ethics: Typhoid Mary</link> for more about the Mallon case.</para>
+<para id="fs-id1167659390584">A pathogen may have more than one living reservoir. In zoonotic diseases, animals act as reservoirs of human disease and transmit the infectious agent to humans through direct or indirect contact. In some cases, the disease also affects the animal, but in other cases the animal is asymptomatic.</para>
+<para id="fs-id1167661431783">In parasitic infections, the parasite’s preferred host is called the <term>definitive host</term>. In parasites with complex life cycles, the definitive host is the host in which the parasite reaches sexual maturity. Some parasites may also infect one or more <term>intermediate host</term><emphasis effect="bold">s</emphasis> in which the parasite goes through several immature life cycle stages or reproduces asexually.</para>
+<note id="fs-id1167663730415" class="microbiology link-to-learning">
+
+<para id="fs-id1167663857046">George Soper, the sanitary engineer who traced the typhoid outbreak to Mary Mallon, <link url="https://openstax.org/l/22geosopcurtyp">gives an account</link> of his investigation, an example of descriptive epidemiology, in “The Curious Career of Typhoid Mary.”</para>
+</note>
+<note id="fs-id1167661342735" class="microbiology check-your-understanding">
+<list id="fs-id1167663636244" list-type="bulleted" bullet-style="bullet">
+<item>List some nonliving reservoirs for pathogens.</item>
+<item>Explain the difference between a passive carrier and an active carrier.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167661583311">
+<title>Transmission</title>
+<para id="fs-id1167661747258">Regardless of the reservoir, <term class="no-emphasis">transmission</term> must occur for an infection to spread. First, transmission from the reservoir to the individual must occur. Then, the individual must transmit the infectious agent to other susceptible individuals, either directly or indirectly. Pathogenic microorganisms employ diverse transmission mechanisms.</para>
+<section id="fs-id1167659050093">
+<title>Contact Transmission</title>
+<para id="fs-id1167661281223"><term>Contact transmission</term> includes direct contact or indirect contact. <term class="no-emphasis">Person-to-person transmission</term> is a form of <term>direct contact transmission</term>. Here the agent is transmitted by physical contact between two individuals (<link target-id="OSC_Microbio_16_03_contact"/>) through actions such as touching, kissing, sexual intercourse, or <term class="no-emphasis">droplet sprays</term>. Direct contact can be categorized as vertical, horizontal, or droplet transmission. <term>Vertical direct contact transmission</term> occurs when pathogens are transmitted from mother to child during pregnancy, birth, or breastfeeding. Other kinds of direct contact transmission are called <term>horizontal direct contact transmission</term>. Often, contact between <term class="no-emphasis">mucous membranes</term> is required for entry of the pathogen into the new host, although skin-to-skin contact can lead to mucous membrane contact if the new host subsequently touches a mucous membrane. Contact transmission may also be site-specific; for example, some diseases can be transmitted by sexual contact but not by other forms of contact.</para>
+<para id="fs-id1167663957737">When an individual coughs or sneezes, small droplets of mucus that may contain pathogens are ejected. This leads to direct <term>droplet transmission</term>, which refers to droplet transmission of a pathogen to a new host over distances of one meter or less. A wide variety of diseases are transmitted by droplets, including <term class="no-emphasis">influenza</term> and many forms of <term class="no-emphasis">pneumonia</term>. Transmission over distances greater than one meter is called <term class="no-emphasis">airborne transmission</term>.</para>
+<para id="fs-id1167661732706"><term>Indirect contact transmission</term> involves inanimate objects called <term class="no-emphasis">fomites</term> that become contaminated by pathogens from an infected individual or reservoir (<link target-id="OSC_Microbio_16_03_indirect"/>). For example, an individual with the common cold may sneeze, causing droplets to land on a fomite such as a tablecloth or carpet, or the individual may wipe her nose and then transfer mucus to a fomite such as a doorknob or towel. Transmission occurs indirectly when a new susceptible host later touches the fomite and transfers the contaminated material to a susceptible portal of entry. Fomites can also include objects used in clinical settings that are not properly sterilized, such as syringes, needles, catheters, and surgical equipment. Pathogens transmitted indirectly via such fomites are a major cause of healthcare-associated infections (see <link document="m58853">Controlling Microbial Growth</link>).</para>
+<figure id="OSC_Microbio_16_03_contact">
+<media id="fs-id1167659329882" alt="Photo of person kissing a child and one of person playing arm wrestling with a child.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_16_03_Contact.jpg"/>
+</media>
+<caption>Direct contact transmission of pathogens can occur through physical contact. Many pathogens require contact with a mucous membrane to enter the body, but the host may transfer the pathogen from another point of contact (e.g., hand) to a mucous membrane (e.g., mouth or eye). (credit left: modification of work by Lisa Doehnert)</caption>
+</figure>
+<figure id="OSC_Microbio_16_03_indirect">
+<media id="fs-id1167661722055" alt="Photos of person touching doorknob, towel on a hook, and end of a syringe.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_16_03_Indirect.jpg"/>
+</media>
+<caption>Fomites are nonliving objects that facilitate the indirect transmission of pathogens. Contaminated doorknobs, towels, and syringes are all common examples of fomites. (credit left: modification of work by Kate Ter Haar; credit middle: modification of work by Vernon Swanepoel; credit right: modification of work by “Zaldylmg”/Flickr)</caption>
+</figure>
+</section>
+<section id="fs-id1167663874498">
+<title>Vehicle Transmission</title>
+<para id="fs-id1167661649284">The term <term>vehicle transmission</term> refers to the transmission of pathogens through vehicles such as water, food, and air. Water contamination through poor sanitation methods leads to <term class="no-emphasis">waterborne transmission</term> of disease. Waterborne disease remains a serious problem in many regions throughout the world. The World Health Organization (WHO) estimates that contaminated drinking water is responsible for more than 500,000 deaths each year.<footnote id="fs-id1167659187712">World Health Organization. Fact sheet No. 391<emphasis effect="italics">—Drinking Water.</emphasis> June 2005. http://www.who.int/mediacentre/factsheets/fs391/en.</footnote> Similarly, food contaminated through poor handling or storage can lead to <term class="no-emphasis">foodborne transmission</term> of disease (<link target-id="OSC_Microbio_16_03_food"/>).</para>
+<para id="fs-id1167661732760">Dust and fine particles known as <term class="no-emphasis">aerosols</term>, which can float in the air, can carry pathogens and facilitate the <term class="no-emphasis">airborne transmission</term> of disease. For example, dust particles are the dominant mode of transmission of <term class="no-emphasis">hantavirus</term> to humans. Hantavirus is found in mouse feces, urine, and saliva, but when these substances dry, they can disintegrate into fine particles that can become airborne when disturbed; inhalation of these particles can lead to a serious and sometimes fatal respiratory infection.</para>
+<para id="fs-id1167661642243">Although droplet transmission over short distances is considered contact transmission as discussed above, longer distance transmission of droplets through the air is considered vehicle transmission. Unlike larger particles that drop quickly out of the air column, fine mucus droplets produced by coughs or sneezes can remain suspended for long periods of time, traveling considerable distances. In certain conditions, droplets desiccate quickly to produce a <term class="no-emphasis">droplet nucleus</term> that is capable of transmitting pathogens; air temperature and humidity can have an impact on effectiveness of airborne transmission.</para>
+<para id="fs-id1167663730413">Tuberculosis is often transmitted via airborne transmission when the causative agent, <emphasis effect="italics">Mycobacterium tuberculosis</emphasis>, is released in small particles with coughs. Because <term class="no-emphasis">tuberculosis</term> requires as few as 10 microbes to initiate a new infection, patients with tuberculosis must be treated in rooms equipped with special ventilation, and anyone entering the room should wear a mask.</para>
+<figure id="OSC_Microbio_16_03_food">
+<media id="fs-id1167659405446" alt="Photo of food at a cafeteria with glass shielding over the food.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_16_03_Food.jpg"/>
+</media>
+<caption>Food is an important vehicle of transmission for pathogens, especially of the gastrointestinal and upper respiratory systems. Notice the glass shield above the food trays, designed to prevent pathogens ejected in coughs and sneezes from entering the food. (credit: Fort George G. Meade Public Affairs Office)</caption>
+</figure>
+<note id="fs-id1167663957394" class="microbiology clinical-focus">
+<title>Resolution</title>
+<para id="fs-id1167663656229">After identifying the source of the contaminated turduckens, the Florida public health office notified the CDC, which requested an expedited inspection of the facility by state inspectors. Inspectors found that a machine used to process the chicken was contaminated with <emphasis effect="italics">Salmonella</emphasis> as a result of substandard cleaning protocols. Inspectors also found that the process of stuffing and packaging the turduckens prior to refrigeration allowed the meat to remain at temperatures conducive to bacterial growth for too long. The contamination and the delayed refrigeration led to vehicle (food) transmission of the bacteria in turduckens.</para>
+<para id="fs-id1167663885558">Based on these findings, the plant was shut down for a full and thorough decontamination. All turduckens produced in the plant were recalled and pulled from store shelves ahead of the December holiday season, preventing further outbreaks.</para>
+<para id="fs-id1167661732297"><emphasis effect="italics">Go back to the <link target-id="fs-id1167660178029" document="m58872">previous</link> Clinical Focus Box.</emphasis></para>
+</note>
+</section>
+<section id="fs-id1167661333750">
+<title>Vector Transmission</title>
+<para id="fs-id1167661408774">Diseases can also be transmitted by a mechanical or biological <term class="no-emphasis">vector</term>, an animal (typically an <term class="no-emphasis">arthropod</term>) that carries the disease from one host to another. <term>Mechanical transmission</term> is facilitated by a <term>mechanical vector</term>, an animal that carries a pathogen from one host to another without being infected itself. For example, a fly may land on fecal matter and later transmit bacteria from the feces to food that it lands on; a human eating the food may then become infected by the bacteria, resulting in a case of diarrhea or dysentery (<link target-id="OSC_Microbio_16_03_vector"/>).</para>
+<para id="fs-id1167661251603"><term>Biological transmission</term> occurs when the pathogen reproduces within a <term>biological vector</term> that transmits the pathogen from one host to another (<link target-id="OSC_Microbio_16_03_vector"/>). Arthropods are the main vectors responsible for biological transmission (<link target-id="OSC_Microbio_16_03_VectorTab"/>). Most arthropod vectors transmit the pathogen by biting the host, creating a wound that serves as a portal of entry. The pathogen may go through part of its reproductive cycle in the gut or salivary glands of the arthropod to facilitate its transmission through the bite. For example, hemipterans (called “kissing bugs” or “assassin bugs”) transmit <term class="no-emphasis">Chagas disease</term> to humans by defecating when they bite, after which the human scratches or rubs the infected feces into a mucous membrane or break in the skin.</para>
+<para id="fs-id1167663887344">Biological insect vectors include <term class="no-emphasis">mosquitoes</term>, which transmit <term class="no-emphasis">malaria</term> and other diseases, and <term class="no-emphasis">lice</term>, which transmit <term class="no-emphasis">typhus</term>. Other arthropod vectors can include arachnids, primarily <term class="no-emphasis">ticks</term>, which transmit <term class="no-emphasis">Lyme disease</term> and other diseases, and <term class="no-emphasis">mites</term>, which transmit <term class="no-emphasis">scrub typhus</term> and <term class="no-emphasis">rickettsial pox</term>. Biological transmission, because it involves survival and reproduction within a parasitized vector, complicates the biology of the pathogen and its transmission. There are also important non-arthropod vectors of disease, including mammals and birds. Various species of mammals can transmit <term class="no-emphasis">rabies</term> to humans, usually by means of a bite that transmits the rabies virus. Chickens and other domestic poultry can transmit <term class="no-emphasis">avian influenza</term> to humans through direct or indirect contact with <term class="no-emphasis">avian influenza virus A</term> shed in the birds’ saliva, mucous, and feces.</para>
+<figure id="OSC_Microbio_16_03_vector">
+<media id="fs-id1167663970810" alt="a) Step 1: fly picks up pathogen from fecal matter and carries it on its body. 2: Fly transfers pathogen to food. 3: Person eats contaminated food and gets sick. B) Step 1: Infected mosquito bites uninfected person. 2: Infections spreads through body and into red blood cells. 3: Second mosquito bites infected person. Mosquito may now transmit infection to another person.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_16_03_Vector.jpg"/>
+</media>
+<caption>(a) A mechanical vector carries a pathogen on its body from one host to another, not as an infection. (b) A biological vector carries a pathogen from one host to another after becoming infected itself.</caption>
+</figure>
+<figure id="OSC_Microbio_16_03_VectorTab">
+<media id="fs-id1167663588731" alt="Table titled common arthropod vectors and selected pathogens. Columns: Vector; species, pathogen; disease. Black fly; Simulium spp.; Onchocerca volvulus; Onchocerciasis (river blindness). Flea (has 2). Ctenocephalides felis; Bartonella henselae; cat scratch disease. Xenopsylla cheopis (has 2). Rickettsia typhi; murine typhus. Yersinia pestis; plague. Kissing bug, Triatoma spp.; Trypanosoma cruzi; Chagas disease. Louse; Pediculus humanus humanus (has 3) Bartonella quintana; trench fever. Borrelia recurrentis; relapsing fever. Rickettsia prowazekii; typhus. Mite/chigger (has 2).  Leptotrombidium spp.; Orientia tsutsugamushi; scrub typhus. Rickettsia akari; rickettsialpox. Moquito (has 3). Aedes spp and Haemogogus spp.; yellow fever virus; yellow fever. Anopheles spp.; Plasmodium falciparum; malaria. Cutex pipiens; west nile virus, west nile disease. Sand fly; Phlebotomus spp.; Leishmania spp.; Leishmaniasis. Tick (has 2): Ixodes spp; Borrelia spp.; Lyme disease. Dermacentor spp. And others; Rickettsi rickettsia; rocky mountain spotted fever. Tsetse fly; Glossina spp. Trypanosoma brucei Trypanosomiasis (sleepting sickness).">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_16_03_VectorTab.jpg"/>
+</media>
+<caption>(credit “Black fly”, “Tick”, “Tsetse fly”: modification of work by USDA; credit: “Flea”: modification of work by Centers for Disease Control and Prevention; credit: “Louse”, “Mosquito”, “Sand fly”: modification of work by James Gathany, Centers for Disease Control and Prevention; credit “Kissing bug”: modification of work by Glenn Seplak; credit “Mite”: modification of work by Michael Wunderli)</caption>
+</figure>
+<note id="fs-id1167661303384" class="microbiology check-your-understanding">
+<list id="fs-id1167661552991" list-type="bulleted" bullet-style="bullet">
+<item>Describe how diseases can be transmitted through the air.</item>
+<item>Explain the difference between a mechanical vector and a biological vector.</item>
+</list>
+</note>
+<note id="fs-id1167661334442" class="microbiology eye-on-ethics">
+<title>Using GMOs to Stop the Spread of Zika</title>
+<para id="fs-id1167661405698">In 2016, an epidemic of the <term class="no-emphasis">Zika virus</term> was linked to a high incidence of birth defects in South America and Central America. As winter turned to spring in the northern hemisphere, health officials correctly predicted the virus would spread to North America, coinciding with the breeding season of its major vector, the <term class="no-emphasis"><emphasis effect="italics">Aedes aegypti</emphasis></term> mosquito.</para>
+<para id="fs-id1167663606820">The range of the <emphasis effect="italics">A. aegypti</emphasis> mosquito extends well into the southern United States (<link target-id="OSC_Microbio_16_03_mosquito"/>). Because these same mosquitoes serve as vectors for other problematic diseases (<term class="no-emphasis">dengue fever</term>, <term class="no-emphasis">yellow fever</term>, and others), various methods of mosquito control have been proposed as solutions. Chemical pesticides have been used effectively in the past, and are likely to be used again; but because chemical pesticides can have negative impacts on the environment, some scientists have proposed an alternative that involves genetically engineering <emphasis effect="italics">A. aegypti</emphasis> so that it cannot reproduce. This method, however, has been the subject of some controversy.</para>
+<para id="fs-id1167659400707">One method that has worked in the past to control pests, with little apparent downside, has been sterile male introductions. This method controlled the screw-worm fly pest in the southwest United States and fruit fly pests of fruit crops. In this method, males of the target species are reared in the lab, sterilized with radiation, and released into the environment where they mate with wild females, who subsequently bear no live offspring. Repeated releases shrink the pest population.</para>
+<para id="fs-id1167659080210">A similar method, taking advantage of recombinant DNA technology,<footnote id="fs-id1167659015124">Blandine Massonnet-Bruneel, Nicole Corre-Catelin, Renaud Lacroix, Rosemary S. Lees, Kim Phuc Hoang, Derric Nimmo, Luke Alphey, and Paul Reiter. “Fitness of Transgenic Mosquito <emphasis effect="italics">Aedes aegypti</emphasis> Males Carrying a Dominant Lethal Genetic System.” <emphasis effect="italics">PLOS ONE</emphasis> 8, no. 5 (2013): e62711.</footnote> introduces a dominant lethal allele into male mosquitoes that is suppressed in the presence of tetracycline (an antibiotic) during laboratory rearing. The males are released into the environment and mate with female mosquitoes. Unlike the sterile male method, these matings produce offspring, but they die as larvae from the lethal gene in the absence of tetracycline in the environment. As of 2016, this method has yet to be implemented in the United States, but a UK company tested the method in Piracicaba, Brazil, and found an 82% reduction in wild <emphasis effect="italics">A. aegypti</emphasis> larvae and a 91% reduction in dengue cases in the treated area.<footnote id="fs-id1167661629249">Richard Levine. “Cases of Dengue Drop 91 Percent Due to Genetically Modified Mosquitoes.” <emphasis effect="italics">Entomology Today.</emphasis> https://entomologytoday.org/2016/07/14/cases-of-dengue-drop-91-due-to-genetically-modified-mosquitoes.</footnote> In August 2016, amid news of Zika infections in several Florida communities, the FDA gave the UK company permission to test this same mosquito control method in Key West, Florida, pending compliance with local and state regulations and a referendum in the affected communities.</para>
+<para id="fs-id1167661736184">The use of <term class="no-emphasis">genetically modified organisms (GMOs)</term> to control a disease vector has its advocates as well as its opponents. In theory, the system could be used to drive the <emphasis effect="italics">A. aegypti</emphasis> mosquito extinct—a noble goal according to some, given the damage they do to human populations.<footnote id="fs-id1167663639966">Olivia Judson. “A Bug’s Death.” <emphasis effect="italics">The New York Times</emphasis>, September 25, 2003. http://www.nytimes.com/2003/09/25/opinion/a-bug-s-death.html.</footnote> But opponents of the idea are concerned that the gene could escape the species boundary of <emphasis effect="italics">A. aegypti</emphasis> and cause problems in other species, leading to unforeseen ecological consequences. Opponents are also wary of the program because it is being administered by a for-profit corporation, creating the potential for conflicts of interest that would have to be tightly regulated; and it is not clear how any unintended consequences of the program could be reversed.</para>
+<para id="fs-id1167661273887">There are other epidemiological considerations as well. <emphasis effect="italics">Aedes aegypti</emphasis> is apparently not the only vector for the Zika virus. <term class="no-emphasis"><emphasis effect="italics">Aedes albopictus</emphasis></term>, the Asian tiger mosquito, is also a vector for the Zika virus.<footnote id="fs-id1167661749023">Gilda Grard, Mélanie Caron, Illich Manfred Mombo, Dieudonné Nkoghe, Statiana Mboui Ondo, Davy Jiolle, Didier Fontenille, Christophe Paupy, and Eric Maurice Leroy. “Zika Virus in Gabon (Central Africa)–2007: A New Threat from <emphasis effect="italics">Aedes albopictus</emphasis>?” <emphasis effect="italics">PLOS Neglected Tropical Diseases</emphasis> 8, no. 2 (2014): e2681.</footnote> <emphasis effect="italics">A. albopictus</emphasis> is now widespread around the planet including much of the United States (<link target-id="OSC_Microbio_16_03_mosquito"/>). Many other mosquitoes have been found to harbor Zika virus, though their capacity to act as vectors is unknown.<footnote id="fs-id1167661754888">Constância F.J. Ayres. “Identification of Zika Virus Vectors and Implications for Control.” <emphasis effect="italics">The Lancet Infectious Diseases</emphasis> 16, no. 3 (2016): 278–279.</footnote> Genetically modified strains of <emphasis effect="italics">A. aegypti</emphasis> will not control the other species of vectors. Finally, the Zika virus can apparently be transmitted sexually between human hosts, from mother to child, and possibly through blood transfusion. All of these factors must be considered in any approach to controlling the spread of the virus.</para>
+<para id="fs-id1167659334121">Clearly there are risks and unknowns involved in conducting an open-environment experiment of an as-yet poorly understood technology. But allowing the Zika virus to spread unchecked is also risky. Does the threat of a Zika epidemic justify the ecological risk of genetically engineering mosquitos? Are current methods of mosquito control sufficiently ineffective or harmful that we need to try untested alternatives? These are the questions being put to public health officials now.</para>
+<figure id="OSC_Microbio_16_03_mosquito">
+<media id="fs-id1167664000414" alt="Micrograph of brown dots of about 50 nm inside cells; dots re labeled Zika virus. Photo of mosquito labeled Aedes aegypti. Map of where mosquitoes are found in the US. Aedes aegypti and Aedes albopictus are both found in the lower half of the US, reaching up to Connecticut, Missouri, and California. Aedes albopictus reaches further north in the eastern part o the country; through Minnosota. Aedes aegypti reaches a bit further into Utah and is in Puerto Rico.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_16_03_Mosquito.jpg"/>
+</media>
+<caption>The Zika virus is an enveloped virus transmitted by mosquitoes, especially <emphasis effect="italics">Aedes aegypti.</emphasis> The range of this mosquito includes much of the United States, from the Southwest and Southeast to as far north as the Mid-Atlantic. The range of <emphasis effect="italics">A. albopictus</emphasis>, another vector, extends even farther north to New England and parts of the Midwest. (credit micrograph: modification of work by Cynthia Goldsmith, Centers for Disease Control and Prevention; credit photo: modification of work by James Gathany, Centers for Disease Control and Prevention; credit map: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+</note>
+</section>
+</section>
+<section id="fs-id1167659071231">
+<title>Quarantining</title>
+<para id="fs-id1167661289210">Individuals suspected or known to have been exposed to certain contagious pathogens may be <term>quarantined</term>, or isolated to prevent transmission of the disease to others. Hospitals and other health-care facilities generally set up special wards to isolate patients with particularly hazardous diseases such as tuberculosis or Ebola (<link target-id="OSC_Microbio_16_03_isolate"/>). Depending on the setting, these wards may be equipped with special air-handling methods, and personnel may implement special protocols to limit the risk of transmission, such as personal protective equipment or the use of chemical disinfectant sprays upon entry and exit of medical personnel.</para>
+<para id="fs-id1167663736367">The duration of the quarantine depends on factors such as the <term class="no-emphasis">incubation period</term> of the disease and the evidence suggestive of an infection. The patient may be released if signs and symptoms fail to materialize when expected or if preventive treatment can be administered in order to limit the risk of transmission. If the infection is confirmed, the patient may be compelled to remain in isolation until the disease is no longer considered contagious.</para>
+<para id="fs-id1167663929615">In the United States, public health authorities may only quarantine patients for certain diseases, such as <term class="no-emphasis">cholera</term>, <term class="no-emphasis">diphtheria</term>, infectious <term class="no-emphasis">tuberculosis</term>, and strains of <term class="no-emphasis">influenza</term> capable of causing a <term class="no-emphasis">pandemic</term>. Individuals entering the United States or moving between states may be quarantined by the CDC if they are suspected of having been exposed to one of these diseases. Although the CDC routinely monitors entry points to the United States for crew or passengers displaying illness, quarantine is rarely implemented.</para>
+<figure id="OSC_Microbio_16_03_isolate">
+<media id="fs-id1167663809757" alt="a) Photo of a plastic tent next to an airplane b) Photo of beds in a room.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_16_03_Isolate.jpg"/>
+</media>
+<caption>(a) The Aeromedical Biological Containment System (ABCS) is a module designed by the CDC and Department of Defense specifically for transporting highly contagious patients by air. (b) An isolation ward for <term class="no-emphasis">Ebola</term> patients in Lagos, Nigeria. (credit a: modification of work by Centers for Disease Control and Prevention; credit b: modification of work by CDC Global)</caption>
+</figure>
+</section>
+<section id="fs-id1167661505488">
+<title>Healthcare-Associated (Nosocomial) Infections</title>
+<para id="fs-id1167663624811">Hospitals, retirement homes, and prisons attract the attention of epidemiologists because these settings are associated with increased incidence of certain diseases. Higher rates of transmission may be caused by characteristics of the environment itself, characteristics of the population, or both. Consequently, special efforts must be taken to limit the risks of infection in these settings.</para>
+<para id="fs-id1167663905747">Infections acquired in health-care facilities, including hospitals, are called <term>nosocomial infections</term> or <term>healthcare-associated infections (HAI)</term>. HAIs are often connected with surgery or other invasive procedures that provide the pathogen with access to the portal of infection. For an infection to be classified as an HAI, the patient must have been admitted to the health-care facility for a reason other than the infection. In these settings, patients suffering from primary disease are often afflicted with compromised immunity and are more susceptible to secondary infection and opportunistic pathogens.</para>
+<para id="fs-id1167659063808">In 2011, more than 720,000 HAIs occurred in hospitals in the United States, according to the CDC. About 22% of these HAIs occurred at a surgical site, and cases of <term class="no-emphasis">pneumonia</term> accounted for another 22%; <term class="no-emphasis">urinary tract infections</term> accounted for an additional 13%, and primary <term class="no-emphasis">bloodstream infections</term> 10%.<footnote id="fs-id1167661268540">Centers for Disease Control and Prevention. “HAI Data and Statistics.” 2016. http://www.cdc.gov/hai/surveillance. Accessed Jan 2, 2016.</footnote> Such HAIs often occur when pathogens are introduced to patients’ bodies through contaminated surgical or medical equipment, such as <term class="no-emphasis">catheters</term> and respiratory ventilators. Health-care facilities seek to limit nosocomial infections through training and hygiene protocols such as those described in <link document="m58852">Control of Microbial Growth</link>.</para>
+<note id="fs-id1167661704339" class="microbiology check-your-understanding">
+<list id="fs-id1167659403663" list-type="bulleted" bullet-style="bullet">
+<item>Give some reasons why HAIs occur.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167661414018" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167661483338" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Reservoirs</emphasis> of human disease can include the human and animal populations, soil, water, and inanimate objects or materials.</item>
+<item><emphasis effect="bold">Contact transmission</emphasis> can be <emphasis effect="bold">direct</emphasis> or <emphasis effect="bold">indirect</emphasis> through physical contact with either an infected host (direct) or contact with a fomite that an infected host has made contact with previously (indirect).</item>
+<item>Vector transmission occurs when a living organism carries an infectious agent on its body (<emphasis effect="bold">mechanical</emphasis>) or as an infection host itself (<emphasis effect="bold">biological</emphasis>), to a new host.</item>
+<item><emphasis effect="bold">Vehicle transmission</emphasis> occurs when a substance, such as soil, water, or air, carries an infectious agent to a new host.</item>
+<item><emphasis effect="bold">Healthcare-associated infections (HAI)</emphasis>, or <emphasis effect="bold">nosocomial infections</emphasis>, are acquired in a clinical setting. Transmission is facilitated by medical interventions and the high concentration of susceptible, immunocompromised individuals in clinical settings.</item>
+</list>
+</section>
+<section id="fs-id1167661280790" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167661568286">
+<problem id="fs-id1167659280532">
+<para id="fs-id1167659274238">Which is the most common type of biological vector of human disease?</para>
+<list id="fs-id1167661404111" list-type="enumerated" number-style="lower-alpha">
+<item>viruses</item>
+<item>bacteria</item>
+<item>mammals</item>
+<item>arthropods</item>
+</list>
+</problem>
+<solution id="fs-id1167659070172">
+<para id="fs-id1167659260286">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167661437761">
+<problem id="fs-id1167661462196">
+<para id="fs-id1167661643290">A mosquito bites a person who subsequently develops a fever and abdominal rash. What type of transmission would this be?</para>
+<list id="fs-id1167661726694" list-type="enumerated" number-style="lower-alpha">
+<item>mechanical vector transmission</item>
+<item>biological vector transmission</item>
+<item>direct contact transmission</item>
+<item>vehicle transmission</item>
+</list>
+</problem>
+<solution id="fs-id1167661433555">
+<para id="fs-id1167659426114">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167661667479">
+<problem id="fs-id1167661737910">
+<para id="fs-id1167661720794">Cattle are allowed to pasture in a field that contains the farmhouse well, and the farmer’s family becomes ill with a gastrointestinal pathogen after drinking the water. What type of transmission of infectious agents would this be?</para>
+<list id="fs-id1167663810216" list-type="enumerated" number-style="lower-alpha">
+<item>biological vector transmission</item>
+<item>direct contact transmission</item>
+<item>indirect contact transmission</item>
+<item>vehicle transmission</item>
+</list>
+</problem>
+<solution id="fs-id1167663661270">
+<para id="fs-id1167661649371">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167661456393">
+<problem id="fs-id1167661775804">
+<para id="fs-id1167661504648">A blanket from a child with chickenpox is likely to be contaminated with the virus that causes chickenpox (Varicella-zoster virus). What is the blanket called?</para>
+<list id="fs-id1167663860002" list-type="enumerated" number-style="lower-alpha">
+<item>fomite</item>
+<item>host</item>
+<item>pathogen</item>
+<item>vector</item>
+</list>
+</problem>
+<solution id="fs-id1167661765078">
+<para id="fs-id1167661546473">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167663644496" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167661761545">
+<problem id="fs-id1167663988218">
+<para id="fs-id1167661303986">A patient in the hospital with a urinary catheter develops a bladder infection. This is an example of a(n) ________ infection.</para>
+</problem>
+<solution id="fs-id1167661324831">
+<para id="fs-id1167661325299">nosocomial or healthcare-associated</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167661728038">
+<problem id="fs-id1167663640908">
+<para id="fs-id1167661632394">A ________ is an animal that can transfer infectious pathogens from one host to another.</para>
+</problem>
+<solution id="fs-id1167661733197">
+<para id="fs-id1167663958943">vector</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167659071213" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167661629702">
+<problem id="fs-id1167663920583">
+<para id="fs-id1167663714238">Differentiate between droplet vehicle transmission and airborne transmission.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167663640042" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167661289994">
+<problem id="fs-id1167663905888">
+<para id="fs-id1167663640142">Many people find that they become ill with a cold after traveling by airplane. The air circulation systems of commercial aircraft use HEPA filters that should remove any infectious agents that pass through them. What are the possible reasons for increased incidence of colds after flights?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+
+</document>

@@ -1,0 +1,119 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Peering Into the Invisible World</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58786</md:content-id>
+  <md:title>Peering Into the Invisible World</md:title>
+  <md:abstract/>
+  <md:uuid>89fd1980-83b5-4fe0-9148-6e266bf999ad</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1171361642822" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1171361445006">
+<item>Describe historical developments and individual contributions that led to the invention and development of the microscope</item>
+<item>Compare and contrast the features of simple and compound microscopes</item>
+</list>
+</section>
+<para id="fs-id1167793418360">Some of the fundamental characteristics and functions of microscopes can be understood in the context of the history of their use. Italian scholar Girolamo <term class="no-emphasis">Fracastoro</term> is regarded as the first person to formally postulate that disease was spread by tiny invisible <emphasis effect="italics">seminaria</emphasis>, or “seeds of the contagion.” In his book <term class="no-emphasis"><emphasis effect="italics">De Contagione</emphasis></term> (1546), he proposed that these seeds could attach themselves to certain objects (which he called <emphasis effect="italics">fomes</emphasis> [cloth]) that supported their transfer from person to person. However, since the technology for seeing such tiny objects did not yet exist, the existence of the <emphasis effect="italics">seminaria</emphasis> remained hypothetical for a little over a century—an invisible world waiting to be revealed.</para>
+<section id="fs-id1167793930108">
+<title>Early Microscopes</title>
+<para id="fs-id1167793286850">Antonie <term class="no-emphasis">van Leeuwenhoek</term>, sometimes hailed as “the Father of Microbiology,” is typically credited as the first person to have created microscopes powerful enough to view microbes (<link target-id="OSC_Microbio_02_02_VanLeeuwen"/>). Born in the city of Delft in the Dutch Republic, van Leeuwenhoek began his career selling fabrics. However, he later became interested in lens making (perhaps to look at threads) and his innovative techniques produced microscopes that allowed him to observe microorganisms as no one had before. In 1674, he described his observations of single-celled organisms, whose existence was previously unknown, in a series of letters to the Royal Society of London. His report was initially met with skepticism, but his claims were soon verified and he became something of a celebrity in the scientific community.</para>
+<figure id="OSC_Microbio_02_02_VanLeeuwen">
+<media id="fs-id1167794329070" alt="Photo a is of Antonie van Leeuwenhoek. Photo b is of a small metal plate with a long screw attached along its length. The tip of the screw is a fine point that sits just in front of an opening on the plate. Photo c is a portrait of Galileo Galilei.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_02_02_VanLeeuwen.jpg"/>
+</media>
+<caption>(a) Antonie van Leeuwenhoek (1632–1723) is credited as being the first person to observe microbes, including bacteria, which he called “animalcules” and “wee little beasties.” (b) Even though van Leeuwenhoek’s microscopes were simple microscopes (as seen in this replica), they were more powerful and provided better resolution than the compound microscopes of his day. (c) Though more famous for developing the telescope, Galileo Galilei (1564–1642) was also one of the pioneers of microscopy. (credit b: modification of work by “Wellcome Images”/Wikimedia Commons)</caption>
+</figure>
+<para id="fs-id1167793630612">While van Leeuwenhoek is credited with the discovery of microorganisms, others before him had contributed to the development of the microscope. These included eyeglass makers in the Netherlands in the late 1500s, as well as the Italian astronomer <term class="no-emphasis">Galileo</term> Galilei, who used a <term>compound microscope</term> to examine insect parts (<link target-id="OSC_Microbio_02_02_VanLeeuwen"/>). Whereas van Leeuwenhoek used a <term>simple microscope</term><emphasis effect="bold">,</emphasis> in which light is passed through just one lens, Galileo’s compound microscope was more sophisticated, passing light through two sets of lenses.</para>
+<para id="fs-id1167793369382">Van Leeuwenhoek’s contemporary, the Englishman Robert <term class="no-emphasis">Hooke</term> (1635–1703), also made important contributions to microscopy, publishing in his book <term class="no-emphasis"><emphasis effect="italics">Micrographia</emphasis></term> (1665) many observations using compound microscopes. Viewing a thin sample of cork through his microscope, he was the first to observe the structures that we now know as cells (<link target-id="OSC_Microbio_02_02_Hooke"/>). Hooke described these structures as resembling “Honey-comb,” and as “small Boxes or Bladders of Air,” noting that each “Cavern, Bubble, or Cell” is distinct from the others (in Latin, “cell” literally means “small room”). They likely appeared to Hooke to be filled with air because the cork cells were dead, with only the rigid cell walls providing the structure.</para>
+<figure id="OSC_Microbio_02_02_Hooke">
+<media id="fs-id1167793997042" alt="The microscope drawing in a shows a tube with an eyepiece at the top and a small lens pointed at the circle on the base of the apparatus. A larger lens focuses light from a candle at the circle on the base of the apparatus. Figure b shows a drawing of a leaf at the bottom above that is a black circle with two large, irregular shaped regions. Each of these regions is filled with tiny white rectangles arranged in rows.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_02_02_Hooke.jpg"/>
+</media>
+<caption>Robert Hooke used his (a) compound microscope to view (b) cork cells. Both of these engravings are from his seminal work <emphasis effect="italics">Micrographia</emphasis>, published in 1665.</caption>
+</figure>
+<note id="fs-id1167793982327" class="microbiology check-your-understanding">
+<list id="fs-id1167794216281">
+<item>Explain the difference between simple and compound microscopes.</item>
+<item>Compare and contrast the contributions of van Leeuwenhoek, Hooke, and Galileo to early microscopy.</item>
+</list>
+</note>
+<note id="fs-id1167793515370" class="microbiology micro-connection">
+<title>Who Invented the Microscope?</title>
+<para id="fs-id1167793501696">While Antonie van Leeuwenhoek and Robert Hooke generally receive much of the credit for early advances in microscopy, neither can claim to be the inventor of the microscope. Some argue that this designation should belong to Hans and Zaccharias <term class="no-emphasis">Janssen</term>, Dutch spectacle-makers who may have invented the telescope, the simple microscope, and the compound microscope during the late 1500s or early 1600s (<link target-id="OSC_Microbio_02_02_Janssen"/>). Unfortunately, little is known for sure about the Janssens, not even the exact dates of their births and deaths. The Janssens were secretive about their work and never published. It is also possible that the Janssens did not invent anything at all; their neighbor, Hans <term class="no-emphasis">Lippershey</term>, also developed microscopes and telescopes during the same time frame, and he is often credited with inventing the telescope. The historical records from the time are as fuzzy and imprecise as the images viewed through those early lenses, and any archived records have been lost over the centuries.</para>
+<para id="fs-id1167793939348">By contrast, van Leeuwenhoek and Hooke can thank ample documentation of their work for their respective legacies. Like Janssen, van Leeuwenhoek began his work in obscurity, leaving behind few records. However, his friend, the prominent physician Reinier de Graaf, wrote a letter to the editor of the <emphasis effect="italics">Philosophical Transactions of the Royal Society of London</emphasis> calling attention to van Leeuwenhoek’s powerful microscopes. From 1673 onward, van Leeuwenhoek began regularly submitting letters to the Royal Society detailing his observations. In 1674, his report describing single-celled organisms produced controversy in the scientific community, but his observations were soon confirmed when the society sent a delegation to investigate his findings. He subsequently enjoyed considerable celebrity, at one point even entertaining a visit by the czar of Russia.</para>
+<para id="fs-id1167794027118">Similarly, Robert Hooke had his observations using microscopes published by the Royal Society in a book called <emphasis effect="italics">Micrographia</emphasis> in 1665. The book became a bestseller and greatly increased interest in microscopy throughout much of Europe.</para>
+<figure id="OSC_Microbio_02_02_Janssen">
+<media id="fs-id1167794035123" alt="A photo of Zaccharias Janssen is shown">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_02_02_Janssen.jpg"/>
+</media>
+<caption>Zaccharias Janssen, along with his father Hans, may have invented the telescope, the simple microscope, and the compound microscope during the late 1500s or early 1600s. The historical evidence is inconclusive.</caption>
+</figure>
+</note>
+</section>
+<section id="fs-id1167794036723" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167793582839" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Antonie van Leeuwenhoek</emphasis> is credited with the first observation of microbes, including protists and bacteria, with simple microscopes that he made.</item>
+<item><emphasis effect="bold">Robert Hooke</emphasis> was the first to describe what we now call cells.</item>
+<item><emphasis effect="bold">Simple microscopes</emphasis> have a single lens, while <emphasis effect="bold">compound microscopes</emphasis> have multiple lenses.</item>
+</list>
+</section>
+<section id="fs-id1167793442952" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167793478986">
+<problem id="fs-id1167793409920">
+<para id="fs-id1167793245192">Who was the first to describe “cells” in dead cork tissue?</para>
+<list id="fs-id1167793931732" list-type="enumerated" number-style="upper-alpha">
+<item>Hans Janssen</item>
+<item>Zaccharias Janssen</item>
+<item>Antonie van Leeuwenhoek</item>
+<item>Robert Hooke</item>
+</list>
+</problem>
+<solution id="fs-id1167794128287">
+<para id="fs-id1167793618012">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167793953497">
+<problem id="fs-id1167794025967">
+<para id="fs-id1167794188342">Who is the probable inventor of the compound microscope?</para>
+<list id="fs-id1167793638899" list-type="enumerated" number-style="upper-alpha">
+<item>Girolamo Fracastoro</item>
+<item>Zaccharias Janssen</item>
+<item>Antonie van Leeuwenhoek</item>
+<item>Robert Hooke</item>
+</list>
+</problem>
+<solution id="fs-id1172099533611">
+<para id="fs-id1172099509889">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167794094175" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167793852237">
+<problem id="fs-id1167793965856">
+<para id="fs-id1167794069192">A microscope that uses multiple lenses is called a _________ microscope.</para>
+</problem>
+<solution id="fs-id1167794041168">
+<para id="fs-id1167793544376">compound</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167794126755" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167793926297">
+<problem id="fs-id1167794139382">
+<para id="fs-id1167794032685">Why is Antonie van Leeuwenhoek’s work much better known than that of Zaccharias Janssen?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167794226511">
+<problem id="fs-id1167793852851">
+<para id="fs-id1167793445858">Why did the cork cells observed by Robert Hooke appear to be empty, as opposed to being full of other structures?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

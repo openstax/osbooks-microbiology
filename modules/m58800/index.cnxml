@@ -1,0 +1,158 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Archaea</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58800</md:content-id>
+  <md:title>Archaea</md:title>
+  <md:abstract/>
+  <md:uuid>3e4ef4cb-ade8-4a45-b916-8d0ff0cf17f0</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1172101765861" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1172099730215">
+<item>Describe the unique features of each category of Archaea</item>
+<item>Explain why archaea might not be associated with human microbiomes or pathology</item>
+<item>Give common examples of archaea commonly associated with unique environmental habitats</item>
+</list>
+</section>
+<para id="fs-id1172099750458">Like organisms in the domain Bacteria, organisms of the domain <term>Archaea</term> are all unicellular organisms. However, archaea differ structurally from bacteria in several significant ways, as discussed in <link document="m58792">Unique Characteristics of Prokaryotic Cells</link>. To summarize:</para>
+<list id="fs-id1172099486220" list-type="bulleted" bullet-style="bullet">
+<item>The archaeal cell membrane is composed of <term class="no-emphasis">ether linkages</term> with branched <term class="no-emphasis">isoprene chains</term> (as opposed to the bacterial cell membrane, which has ester linkages with unbranched fatty acids).</item>
+<item>Archaeal cell walls lack peptidoglycan, but some contain a structurally similar substance called <term class="no-emphasis">pseudopeptidoglycan</term> or <term class="no-emphasis">pseudomurein</term>.</item>
+<item>The genomes of Archaea are larger and more complex than those of bacteria.</item>
+</list>
+<para id="fs-id1172102150723">Domain Archaea is as diverse as domain Bacteria, and its representatives can be found in any habitat. Some archaea are <term class="no-emphasis">mesophiles</term>, and many are <term class="no-emphasis">extremophiles</term>, preferring extreme hot or cold, extreme salinity, or other conditions that are hostile to most other forms of life on earth. Their metabolism is adapted to the harsh environments, and they can perform <term class="no-emphasis">methanogenesis</term>, for example, which bacteria and eukaryotes cannot.</para>
+<para id="fs-id1172102098334">The size and complexity of the archaeal genome makes it difficult to classify. Most taxonomists agree that within the Archaea, there are currently five major phyla: <term class="no-emphasis">Crenarchaeota</term>, <term class="no-emphasis">Euryarchaeota</term>, <term class="no-emphasis">Korarchaeota</term>, <term class="no-emphasis">Nanoarchaeota</term>, and <term class="no-emphasis">Thaumarchaeota</term>. There are likely many other archaeal groups that have not yet been systematically studied and classified.</para>
+<para id="fs-id1172101915395">With few exceptions, archaea are not present in the human microbiota, and none are currently known to be associated with infectious diseases in humans, animals, plants, or microorganisms. However, many play important roles in the environment and may thus have an indirect impact on human health.</para>
+<section id="fs-id1172101657336">
+<title>Crenarchaeota</title>
+<para id="fs-id1172101974231">Crenarchaeota is a class of Archaea that is extremely diverse, containing genera and species that differ vastly in their morphology and requirements for growth. All Crenarchaeota are aquatic organisms, and they are thought to be the most abundant microorganisms in the oceans. Most, but not all, Crenarchaeota are hyperthermophiles; some of them (notably, the genus <emphasis effect="italics">Pyrolobus</emphasis>) are able to grow at temperatures up to 113 °C.<footnote id="fs-id1172101619309">E. Blochl et al.“<emphasis effect="italics">Pyrolobus fumani</emphasis>, gen. and sp. nov., represents a novel group of Archaea, extending the upper temperature limit for life to 113<sup>°</sup>C.” <emphasis effect="italics">Extremophiles</emphasis> 1 (1997):14–21.</footnote></para>
+<para id="fs-id1172099383992">Archaea of the genus <term class="no-emphasis"><emphasis effect="italics">Sulfolobus</emphasis></term> (<link target-id="OSC_Microbio_04_06_Sulfolobus"/>) are thermophiles that prefer temperatures around 70–80°C and acidophiles that prefer a pH of 2–3.<footnote id="fs-id1172102033109">T.D. Brock et al. “<emphasis effect="italics">Sulfolobus</emphasis>: A New Genus of Sulfur-Oxidizing Bacteria Living at Low pH and High Temperature.” <emphasis effect="italics">Archiv für Mikrobiologie</emphasis> 84 no. 1 (1972):54–68.</footnote> <emphasis effect="italics">Sulfolobus</emphasis> can live in aerobic or anaerobic environments. In the presence of oxygen, <emphasis effect="italics">Sulfolobus</emphasis> spp. use metabolic processes similar to those of heterotrophs. In anaerobic environments, they oxidize sulfur to produce sulfuric acid, which is stored in granules. <emphasis effect="italics">Sulfolobus</emphasis> spp. are used in biotechnology for the production of thermostable and acid-resistant proteins called <term class="no-emphasis">affitins</term>.<footnote id="fs-id1172099732126">S. Pacheco et al. “Affinity Transfer to the Archaeal Extremophilic Sac7d Protein by Insertion of a CDR.” <emphasis effect="italics">Protein Engineering Design and Selection</emphasis> 27 no. 10 (2014):431-438.</footnote> Affitins can bind and neutralize various antigens (molecules found in toxins or infectious agents that provoke an immune response from the body).</para>
+<figure id="OSC_Microbio_04_06_Sulfolobus">
+<media id="fs-id1172099682238" alt="A mircrograph of a spherical cell with diamond-shpaed structures inside it.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_06_Sulfolobus.jpg"/>
+</media>
+<caption><emphasis effect="italics">Sulfolobus</emphasis>, an archaeon of the class Crenarchaeota, oxidizes sulfur and stores sulfuric acid in its granules.</caption>
+</figure>
+<para id="fs-id1172102062628">Another genus, <term class="no-emphasis"><emphasis effect="italics">Thermoproteus</emphasis></term>, is represented by strictly anaerobic organisms with an optimal growth temperature of 85 °C. They have <term class="no-emphasis">flagella</term> and, therefore, are motile. <emphasis effect="italics">Thermoproteus</emphasis> has a cellular membrane in which lipids form a monolayer rather than a bilayer, which is typical for archaea. Its metabolism is autotrophic. To synthesize ATP, <emphasis effect="italics">Thermoproteus</emphasis> spp. reduce sulfur or molecular hydrogen and use carbon dioxide or carbon monoxide as a source of carbon. <emphasis effect="italics">Thermoproteus</emphasis> is thought to be the deepest-branching genus of Archaea, and thus is a living example of some of our planet’s earliest forms of life.</para>
+<note id="fs-id1172099724723" class="microbiology check-your-understanding">
+<list id="fs-id1167660302172" list-type="bulleted" bullet-style="bullet">
+<item>What types of environments do Crenarchaeota prefer?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172101837595">
+<title>Euryarchaeota</title>
+<para id="fs-id1172099753469">The phylum Euryarchaeota includes several distinct classes. Species in the classes Methanobacteria, Methanococci, and Methanomicrobia represent Archaea that can be generally described as methanogens. Methanogens are unique in that they can reduce carbon dioxide in the presence of hydrogen, producing methane. They can live in the most extreme environments and can reproduce at temperatures varying from below freezing to boiling. Methanogens have been found in hot springs as well as deep under ice in Greenland. Methanogens also produce gases in ruminants and humans. Some scientists have even hypothesized that <term>methanogen</term><emphasis effect="bold">s</emphasis> may inhabit the planet Mars because the mixture of gases produced by methanogens resembles the makeup of the Martian atmosphere.<footnote id="fs-id1172102100793">R.R. Britt “Crater Critters: Where Mars Microbes Might Lurk.” http://www.space.com/1880-crater-critters-mars-microbes-lurk.html. Accessed April 7, 2015.</footnote></para>
+<para id="fs-id1172102044657">The class <term class="no-emphasis">Halobacteria</term> (which was named before scientists recognized the distinction between Archaea and Bacteria) includes halophilic (“salt-loving”) archaea. Halobacteria require a very high concentrations of sodium chloride in their aquatic environment. The required concentration is close to saturation, at 36%; such environments include the Dead Sea as well as some salty lakes in Antarctica and south-central Asia. One remarkable feature of these organisms is that they perform <term class="no-emphasis">photosynthesis</term> using the protein <term class="no-emphasis">bacteriorhodopsin</term>, which gives them, and the bodies of water they inhabit, a beautiful purple color (<link target-id="OSC_Microbio_04_06_Halobact"/>).</para>
+<figure id="OSC_Microbio_04_06_Halobact">
+<media id="fs-id1172099498834" alt="A photograph of red, white and pink fields.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_06_Halobact.jpg"/>
+</media>
+<caption>Halobacteria growing in these salt ponds gives them a distinct purple color. (credit: modification of work by Tony Hisgett)</caption>
+</figure>
+<para id="fs-id1172099668377">Notable species of Halobacteria include <term class="no-emphasis"><emphasis effect="italics">Halobacterium salinarum</emphasis></term>, which may be the oldest living organism on earth; scientists have isolated its DNA from fossils that are 250 million years old.<footnote id="fs-id1172099543352">H. Vreeland et al. “Fatty acid and DA Analyses of Permian Bacterium Isolated From Ancient Salt Crystals Reveal Differences With Their Modern Relatives.” <emphasis effect="italics">Extremophiles</emphasis> 10 (2006):71–78.</footnote> Another species, <term class="no-emphasis"><emphasis effect="italics">Haloferax volcanii</emphasis></term>, shows a very sophisticated system of ion exchange, which enables it to balance the concentration of salts at high temperatures.</para>
+<note id="fs-id1172101896609" class="microbiology check-your-understanding">
+<list id="fs-id1167658044550" list-type="bulleted" bullet-style="bullet">
+<item>Where do Halobacteria live?</item>
+</list>
+</note>
+<note id="fs-id1172097229210" class="microbiology micro-connection">
+<title>Finding a Link Between Archaea and Disease</title>
+<para id="fs-id1172101756428">Archaea are not known to cause any disease in humans, animals, plants, bacteria, or in other archaea. Although this makes sense for the extremophiles, not all archaea live in extreme environments. Many genera and species of Archaea are mesophiles, so they can live in human and animal microbiomes, although they rarely do. As we have learned, some methanogens exist in the human gastrointestinal tract. Yet we have no reliable evidence pointing to any archaean as the causative agent of any human disease.</para>
+<para id="fs-id1172102071867">Still, scientists have attempted to find links between human disease and archaea. For example, in 2004, Lepp et al. presented evidence that an archaean called <emphasis effect="italics">Methanobrevibacter oralis</emphasis> inhabits the gums of patients with periodontal disease. The authors suggested that the activity of these methanogens causes the disease.<footnote id="fs-id1172102002063">P.W. Lepp et al. “Methanogenic Archaea and Human Gum Disease.” <emphasis effect="italics">Proceedings of the National Academies of Science of the United States of America</emphasis> 101 no. 16 (2004):6176–6181.</footnote> However, it was subsequently shown that there was no causal relationship between <emphasis effect="italics">M. oralis</emphasis> and periodontitis. It seems more likely that periodontal disease causes an enlargement of anaerobic regions in the mouth that are subsequently populated by <emphasis effect="italics">M. oralis</emphasis>.<footnote id="fs-id1172099547471">R.I. Aminov. “Role of Archaea in Human Disease.” <emphasis effect="italics">Frontiers in Cellular and Infection Microbiology</emphasis> 3 (2013):42.</footnote></para>
+<para id="fs-id1172101673587">There remains no good answer as to why archaea do not seem to be pathogenic, but scientists continue to speculate and hope to find the answer.</para>
+</note>
+</section>
+<section id="fs-id1172101759384" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1172101692250" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Archaea</emphasis> are unicellular, prokaryotic microorganisms that differ from bacteria in their genetics, biochemistry, and ecology.</item>
+<item>Some archaea are extremophiles, living in environments with extremely high or low temperatures, or extreme salinity.</item>
+<item>Only archaea are known to produce methane. Methane-producing archaea are called <emphasis effect="bold">methanogens</emphasis>.</item>
+<item>Halophilic archaea prefer a concentration of salt close to saturation and perform photosynthesis using bacteriorhodopsin.</item>
+<item>Some archaea, based on fossil evidence, are among the oldest organisms on earth.</item>
+<item>Archaea do not live in great numbers in human microbiomes and are not known to cause disease.</item>
+</list>
+</section>
+<section id="fs-id1172102054484" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1172102014650">
+<problem id="fs-id1172102132400">
+<para id="fs-id1172101948812">Archaea and Bacteria are most similar in terms of their ________.</para>
+<list id="fs-id1172101672641" list-type="enumerated" number-style="upper-alpha">
+<item>genetics</item>
+<item>cell wall structure</item>
+<item>ecology</item>
+<item>unicellular structure</item>
+</list>
+</problem>
+<solution id="fs-id1172102116053">
+<para id="fs-id1172101987720">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172097276615">
+<problem id="fs-id1172099542666">
+<para id="fs-id1172101798876">Which of the following is true of archaea that produce methane?</para>
+<list id="fs-id1172099464181" list-type="enumerated" number-style="upper-alpha">
+<item>They reduce carbon dioxide in the presence of nitrogen.</item>
+<item>They live in the most extreme environments.</item>
+<item>They are always anaerobes.</item>
+<item>They have been discovered on Mars.</item>
+</list>
+</problem>
+<solution id="fs-id1172099615086">
+<para id="fs-id1172099543127">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172099478941" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1172102137373">
+<problem id="fs-id1172097225000">
+<para id="fs-id1172102105101">________ is a genus of Archaea. Its optimal environmental temperature ranges from 70 °C to 80 °C, and its optimal pH is 2–3. It oxidizes sulfur and produces sulfuric acid.</para>
+</problem>
+<solution id="fs-id1172101678261">
+<para id="fs-id1172101698991"><emphasis effect="italics">Sulfolobus</emphasis></para>
+</solution>
+</exercise>
+<exercise id="fs-id1172099514670">
+<problem id="fs-id1172102130658">
+<para id="fs-id1172101804677">________ was once thought to be the cause of periodontal disease, but, more recently, the causal relationship between this archaean and the disease was not confirmed.</para>
+</problem>
+<solution id="fs-id1172101876401">
+<para id="fs-id1172102099796"><emphasis effect="italics">Methanobrevibacter oralis</emphasis></para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172099413635" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1172101898009">
+<problem id="fs-id1172101840840">
+<para id="fs-id1172099694405">What accounts for the purple color in salt ponds inhabited by halophilic archaea?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172097229678">
+<problem id="fs-id1172101735014">
+<para id="fs-id1172099689263">What evidence supports the hypothesis that some archaea live on Mars?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1172101999412" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1172102047228">
+<problem id="fs-id1172101752381">
+<para id="fs-id1172101664931">What is the connection between this methane bog and archaea?</para>
+<figure id="OSC_Microbio_04_06_ArtConn4_img">
+<media id="fs-id1172102014778" alt="A photo of bubbles on water.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_06_ArtConn4_img.jpg"/>
+</media>
+<caption>(credit: Chad Skeers)</caption>
+</figure>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

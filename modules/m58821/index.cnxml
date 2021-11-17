@@ -1,0 +1,197 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Cellular Respiration</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58821</md:content-id>
+  <md:title>Cellular Respiration</md:title>
+  <md:abstract/>
+  <md:uuid>d007879c-a152-4380-af3e-b850b5ae82a2</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167662472288" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167660255514">
+<item>Compare and contrast the electron transport system location and function in a prokaryotic cell and a eukaryotic cell</item>
+<item>Compare and contrast the differences between substrate-level and oxidative phosphorylation</item>
+<item>Explain the relationship between chemiosmosis and proton motive force</item>
+<item>Describe the function and location of ATP synthase in a prokaryotic versus eukaryotic cell</item>
+<item>Compare and contrast aerobic and anaerobic respiration</item>
+</list>
+</section>
+<para id="fs-id1167660395679">We have just discussed two pathways in glucose catabolism—glycolysis and the Krebs cycle—that generate ATP by substrate-level phosphorylation. Most ATP, however, is generated during a separate process called <term>oxidative phosphorylation</term>, which occurs during cellular respiration. Cellular respiration begins when electrons are transferred from NADH and FADH<sub>2</sub>—made in glycolysis, the transition reaction, and the Krebs cycle—through a series of chemical reactions to a final inorganic electron acceptor (either oxygen in aerobic respiration or non-oxygen inorganic molecules in anaerobic respiration). These electron transfers take place on the inner part of the cell membrane of prokaryotic cells or in specialized protein complexes in the inner membrane of the mitochondria of eukaryotic cells. The energy of the electrons is harvested to generate an electrochemical gradient across the membrane, which is used to make ATP by oxidative phosphorylation.</para>
+<section id="fs-id1167656873602">
+<title>Electron Transport System</title>
+<para id="fs-id1167660271234">The <term>electron transport system (ETS)</term> is the last component involved in the process of cellular respiration; it comprises a series of membrane-associated protein complexes and associated mobile accessory electron carriers (<link target-id="OSC_Microbio_08_03_Chemiosmos"/>). Electron transport is a series of chemical reactions that resembles a bucket brigade in that electrons from NADH and FADH<sub>2</sub> are passed rapidly from one ETS electron carrier to the next. These carriers can pass electrons along in the ETS because of their <term>redox potential</term>. For a protein or chemical to accept electrons, it must have a more positive redox potential than the electron donor. Therefore, electrons move from electron carriers with more negative redox potential to those with more positive redox potential. The four major classes of electron carriers involved in both eukaryotic and prokaryotic electron transport systems are the <term class="no-emphasis">cytochrome</term>s, <term class="no-emphasis">flavoprotein</term>s, <term class="no-emphasis">iron-sulfur protein</term>s, and the <term class="no-emphasis">quinone</term>s.</para><para id="fs-id1167660307758">In <term>aerobic respiration</term>, the final electron acceptor (i.e., the one having the most positive redox potential) at the end of the ETS is an oxygen molecule (O<sub>2</sub>) that becomes reduced to water (H<sub>2</sub>O) by the final ETS carrier. This electron carrier, <term>cytochrome oxidase</term>, differs between bacterial types and can be used to differentiate closely related bacteria for diagnoses. For example, the gram-negative opportunist <term class="no-emphasis"><emphasis effect="italics">Pseudomonas aeruginosa</emphasis></term> and the gram-negative cholera-causing <term class="no-emphasis"><emphasis effect="italics">Vibrio cholerae</emphasis></term> use cytochrome c oxidase, which can be detected by the oxidase test, whereas other gram-negative Enterobacteriaceae, like <emphasis effect="italics">E. coli</emphasis>, are negative for this test because they produce different cytochrome oxidase types.</para>
+<para id="fs-id1167660572610">There are many circumstances under which aerobic respiration is not possible, including any one or more of the following:</para>
+<list id="fs-id1167662758891" list-type="bulleted" bullet-style="bullet">
+<item>The cell lacks genes encoding an appropriate cytochrome oxidase for transferring electrons to oxygen at the end of the electron transport system.</item>
+<item>The cell lacks genes encoding enzymes to minimize the severely damaging effects of dangerous oxygen radicals produced during aerobic respiration, such as hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) or superoxide <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mrow><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub></m:mrow><m:mo>–</m:mo></m:msup></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math></item>
+<item>The cell lacks a sufficient amount of oxygen to carry out aerobic respiration.</item>
+</list>
+<para id="fs-id1167662461124">One possible alternative to aerobic respiration is <term>anaerobic respiration</term>, using an inorganic molecule other than oxygen as a final electron acceptor. There are many types of anaerobic respiration found in bacteria and archaea. Denitrifiers are important soil bacteria that use nitrate <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>3</m:mn></m:msub></m:mrow><m:mo>–</m:mo></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> and nitrite <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mrow><m:msub><m:mrow><m:mtext>NO</m:mtext></m:mrow><m:mn>2</m:mn></m:msub></m:mrow><m:mo>–</m:mo></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math> as final electron acceptors, producing nitrogen gas (N<sub>2</sub>). Many aerobically respiring bacteria, including <emphasis effect="italics">E. coli</emphasis>, switch to using nitrate as a final electron acceptor and producing nitrite when oxygen levels have been depleted.</para>
+<para id="fs-id1167660640372">Microbes using anaerobic respiration commonly have an intact Krebs cycle, so these organisms can access the energy of the NADH and FADH<sub>2</sub> molecules formed. However, anaerobic respirers use altered ETS carriers encoded by their genomes, including distinct complexes for electron transfer to their final electron acceptors. Smaller electrochemical gradients are generated from these electron transfer systems, so less ATP is formed through anaerobic respiration.</para>
+<note id="fs-id1167660290476" class="microbiology check-your-understanding">
+<list id="fs-id1167660266816" list-type="bulleted" bullet-style="bullet">
+<item>Do both aerobic respiration and anaerobic respiration use an electron transport chain?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167660178440">
+<title>Chemiosmosis, Proton Motive Force, and Oxidative Phosphorylation</title>
+<para id="fs-id1167662369719">In each transfer of an electron through the ETS, the electron loses energy, but with some transfers, the energy is stored as potential energy by using it to pump hydrogen ions (H<sup>+</sup>) across a membrane. In prokaryotic cells, H<sup>+</sup> is pumped to the outside of the cytoplasmic membrane (called the periplasmic space in gram-negative and gram-positive bacteria), and in eukaryotic cells, they are pumped from the mitochondrial matrix across the inner mitochondrial membrane into the intermembrane space. There is an uneven distribution of H<sup>+</sup> across the membrane that establishes an electrochemical gradient because H<sup>+</sup> ions are positively charged (electrical) and there is a higher concentration (chemical) on one side of the membrane. This electrochemical gradient formed by the accumulation of H<sup>+</sup> (also known as a proton) on one side of the membrane compared with the other is referred to as the <term>proton motive force</term> (PMF). Because the ions involved are H<sup>+</sup>, a pH gradient is also established, with the side of the membrane having the higher concentration of H<sup>+</sup> being more acidic. Beyond the use of the PMF to make ATP, as discussed in this chapter, the PMF can also be used to drive other energetically unfavorable processes, including nutrient transport and flagella rotation for motility.</para>
+<para id="fs-id1167662553220">The potential energy of this electrochemical gradient generated by the ETS causes the H<sup>+</sup> to diffuse across a membrane (the plasma membrane in prokaryotic cells and the inner membrane in mitochondria in eukaryotic cells). This flow of hydrogen ions across the membrane, called <term>chemiosmosis</term>, must occur through a channel in the membrane via a membrane-bound enzyme complex called <term>ATP synthase</term> (<link target-id="OSC_Microbio_08_03_Chemiosmos"/>). The tendency for movement in this way is much like water accumulated on one side of a dam, moving through the dam when opened. ATP synthase (like a combination of the intake and generator of a hydroelectric dam) is a complex protein that acts as a tiny generator, turning by the force of the H<sup>+</sup> diffusing through the enzyme, down their electrochemical gradient from where there are many mutually repelling H<sup>+</sup> to where there are fewer H<sup>+</sup>. In prokaryotic cells, H<sup>+</sup> flows from the outside of the cytoplasmic membrane into the cytoplasm, whereas in eukaryotic mitochondria, H<sup>+</sup> flows from the intermembrane space to the mitochondrial matrix. The turning of the parts of this molecular machine regenerates ATP from ADP and inorganic phosphate (P<sub>i</sub>) by <term class="no-emphasis">oxidative phosphorylation</term>, a second mechanism for making ATP that harvests the potential energy stored within an electrochemical gradient.</para>
+<figure id="OSC_Microbio_08_03_Chemiosmos"><media id="fs-id1167660311825" alt="ATP synthase is an enzyme that spans the cytoplasmic membrane. H+ flow in through this protein from the outside of the cytoplasmic membrane into the cytoplasm. On the inner side of the protein, this flow of H+ is used to build ATP from ADP and Pi.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_03_Chemiosmos.jpg"/>
+</media>
+
+<caption>The bacterial electron transport chain is a series of protein complexes, electron carriers, and ion pumps that is used to pump H<sup>+</sup> out of the bacterial cytoplasm into the extracellular space. H<sup>+</sup> flows back down the electrochemical gradient into the bacterial cytoplasm through ATP synthase, providing the energy for ATP production by oxidative phosphorylation.(credit: modification of work by Klaus Hoffmeier)</caption></figure><para id="fs-id1167660619383">The number of ATP molecules generated from the catabolism of glucose varies. For example, the number of hydrogen ions that the electron transport system complexes can pump through the membrane varies between different species of organisms. In aerobic respiration in mitochondria, the passage of electrons from one molecule of NADH generates enough proton motive force to make three ATP molecules by oxidative phosphorylation, whereas the passage of electrons from one molecule of FADH<sub>2</sub> generates enough proton motive force to make only two ATP molecules. Thus, the 10 NADH molecules made per glucose during glycolysis, the transition reaction, and the Krebs cycle carry enough energy to make 30 ATP molecules, whereas the two FADH<sub>2</sub> molecules made per glucose during these processes provide enough energy to make four ATP molecules. Overall, the theoretical maximum yield of ATP made during the complete aerobic respiration of glucose is 38 molecules, with four being made by substrate-level phosphorylation and 34 being made by oxidative phosphorylation (<link target-id="OSC_Microbio_08_03_ATPYield"/>). In reality, the total ATP yield is usually less, ranging from one to 34 ATP molecules, depending on whether the cell is using aerobic respiration or anaerobic respiration; in eukaryotic cells, some energy is expended to transport intermediates from the cytoplasm into the mitochondria, affecting ATP yield.</para>
+<para id="fs-id1167662424599"><link target-id="OSC_Microbio_08_03_ATPYield"/> summarizes the theoretical maximum yields of ATP from various processes during the complete <term class="no-emphasis">aerobic respiration</term> of one glucose molecule.</para>
+<figure id="OSC_Microbio_08_03_ATPYield">
+<media id="fs-id1167662405554" alt="In glycolysis (EMP) carbon moves from glucose (6C) to 2 pyruvate (3C). The molecules of reduced coenzyme produced are 2 NADH. The net ATP molecules made by substrate level phosphorylation is 2 ATP. The net ATP molecules made by oxidative phosphorylation is 6 ATP from 2 NADH. The theoretical maximum yield of ATP molecules is 8. In the transition reaction carbon moves from 2 pyruvate (3C) to 2 acetyl (2C) + 2 CO2. The molecules of reduced coenzyme produced are 2 NADH. The net ATP molecules made by substrate level phosphorylation is 0 ATP. The net ATP molecules made by oxidative phosphorylation is 6 ATP from 2 NADH. The theoretical maximum yield of ATP molecules is 6. In the Krebs cycle carbon moves from 2 acetyl (2C) to 4 CO2. The molecules of reduced coenzyme produced are 6 NADH and 2 FADH2. The net ATP molecules made by substrate level phosphorylation is 2 ATP. The net ATP molecules made by oxidative phosphorylation is 18 ATP from 6 NADH and 4 ATP from 2 FADH2. The theoretical maximum yield of ATP molecules is 24. In total carbon moves from glucose (6C) to 6 CO2. The molecules of reduced coenzyme produced are 10 NADH and 2 FADH2. The net ATP molecules made by substrate level phosphorylation is 4 ATP. The net ATP molecules made by oxidative phosphorylation is 34 ATP. The theoretical maximum yield of ATP molecules is 38.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_08_03_ATPYield.jpg"/>
+</media>
+</figure>
+<note id="fs-id1167662871433" class="microbiology check-your-understanding">
+<list id="fs-id1167660264380" list-type="bulleted" bullet-style="bullet">
+<item>What are the functions of the proton motive force?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167662702308" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167660185078" list-type="bulleted" bullet-style="bullet">
+<item>Most ATP generated during the cellular respiration of glucose is made by <emphasis effect="bold">oxidative phosphorylation</emphasis>.</item>
+<item>An <emphasis effect="bold">electron transport system (ETS)</emphasis> is composed of a series of membrane-associated protein complexes and associated mobile accessory electron carriers. The ETS is embedded in the cytoplasmic membrane of prokaryotes and the inner mitochondrial membrane of eukaryotes.</item>
+<item>Each ETS complex has a different redox potential, and electrons move from electron carriers with more negative redox potential to those with more positive redox potential.</item>
+<item>To carry out <emphasis effect="bold">aerobic respiration</emphasis>, a cell requires oxygen as the final electron acceptor. A cell also needs a complete Krebs cycle, an appropriate cytochrome oxidase, and oxygen detoxification enzymes to prevent the harmful effects of oxygen radicals produced during aerobic respiration.</item>
+<item>Organisms performing <emphasis effect="bold">anaerobic respiration</emphasis> use alternative electron transport system carriers for the ultimate transfer of electrons to the final non-oxygen electron acceptors.</item>
+<item>Microbes show great variation in the composition of their electron transport systems, which can be used for diagnostic purposes to help identify certain pathogens.</item>
+<item>As electrons are passed from NADH and FADH<sub>2</sub> through an ETS, the electron loses energy. This energy is stored through the pumping of H<sup>+</sup> across the membrane, generating a <emphasis effect="bold">proton motive force</emphasis>.</item>
+<item>The energy of this proton motive force can be harnessed by allowing hydrogen ions to diffuse back through the membrane by <emphasis effect="bold">chemiosmosis</emphasis> using <emphasis effect="bold">ATP synthase</emphasis>. As hydrogen ions diffuse through down their electrochemical gradient, components of ATP synthase spin, making ATP from ADP and P<sub>i</sub> by oxidative phosphorylation.</item>
+<item>Aerobic respiration forms more ATP (a maximum of 34 ATP molecules) during oxidative phosphorylation than does anaerobic respiration (between one and 32 ATP molecules).</item>
+</list>
+</section>
+<section id="fs-id1167662566926" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167660269926">
+<problem id="fs-id1167660394675">
+<para id="fs-id1167662492594">Which is the location of electron transports systems in prokaryotes?</para>
+<list id="fs-id1167662479510" list-type="enumerated" number-style="upper-alpha">
+<item>the outer mitochondrial membrane</item>
+<item>the cytoplasm</item>
+<item>the inner mitochondrial membrane</item>
+<item>the cytoplasmic membrane</item>
+</list>
+</problem>
+<solution id="fs-id1167660381555">
+<para id="fs-id1167662496654">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660408030">
+<problem id="fs-id1167662600866">
+<para id="fs-id1167662498050">Which is the source of the energy used to make ATP by oxidative phosphorylation?</para>
+<list id="fs-id1167662877770" list-type="enumerated" number-style="upper-alpha">
+<item>oxygen</item>
+<item>high-energy phosphate bonds</item>
+<item>the proton motive force</item>
+<item>P<sub>i</sub></item>
+</list>
+</problem>
+<solution id="fs-id1167662791829">
+<para id="fs-id1167662479582">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660256138">
+<problem id="fs-id1167662682778">
+<para id="fs-id1167662660517">A cell might perform anaerobic respiration for which of the following reasons?</para>
+<list id="fs-id1167660181960" list-type="enumerated" number-style="upper-alpha">
+<item>It lacks glucose for degradation.</item>
+<item>It lacks the transition reaction to convert pyruvate to acetyl-CoA.</item>
+<item>It lacks Krebs cycle enzymes for processing acetyl-CoA to CO<sub>2</sub>.</item>
+<item>It lacks a cytochrome oxidase for passing electrons to oxygen.</item>
+</list>
+</problem>
+<solution id="fs-id1167660273334">
+<para id="fs-id1167660312182">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660383885">
+<problem id="fs-id1167662483692">
+<para id="fs-id1167662914453">In prokaryotes, which of the following is true?</para>
+<list id="fs-id1167660181354" list-type="enumerated" number-style="upper-alpha">
+<item>As electrons are transferred through an ETS, H<sup>+</sup> is pumped out of the cell.</item>
+<item>As electrons are transferred through an ETS, H<sup>+</sup> is pumped into the cell.</item>
+<item>As protons are transferred through an ETS, electrons are pumped out of the cell.</item>
+<item>As protons are transferred through an ETS, electrons are pumped into the cell.</item>
+</list>
+</problem>
+<solution id="fs-id1167660393144">
+<para id="fs-id1167660287721">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662744777">
+<problem id="fs-id1167662753356">
+<para id="fs-id1167660372449">Which of the following is not an electron carrier within an electron transport system?</para>
+<list id="fs-id1167660172838" list-type="enumerated" number-style="upper-alpha">
+<item>flavoprotein</item>
+<item>ATP synthase</item>
+<item>ubiquinone</item>
+<item>cytochrome oxidase</item>
+</list>
+</problem>
+<solution id="fs-id1167662558604">
+<para id="fs-id1167660330751">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167660357348" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167660350553">
+<problem id="fs-id1167656897931">
+<para id="fs-id1167662488119">The final ETS complex used in aerobic respiration that transfers energy-depleted electrons to oxygen to form H<sub>2</sub>O is called ________.</para>
+</problem>
+<solution id="fs-id1167662914934">
+<para id="fs-id1167662441552">cytochrome oxidase</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660149447">
+<problem id="fs-id1167662492732">
+<para id="fs-id1167660277575">The passage of hydrogen ions through ________ down their electrochemical gradient harnesses the energy needed for ATP synthesis by oxidative phosphorylation.</para>
+</problem>
+<solution id="fs-id1167657962525">
+<para id="fs-id1167662506158">ATP synthase</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167662516245" class="true-false">
+<title>True/False</title>
+<exercise id="fs-id1167662799919">
+<problem id="fs-id1167662622032">
+<para id="fs-id1167660260585">All organisms that use aerobic cellular respiration have cytochrome oxidase.</para>
+</problem>
+<solution id="fs-id1167662407458">
+<para id="fs-id1167662745211">True</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167662467892" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167662418593">
+<problem id="fs-id1167660163541">
+<para id="fs-id1167662473199">What is the relationship between chemiosmosis and the proton motive force?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167660372808">
+<problem id="fs-id1167662471847">
+<para id="fs-id1167657966117">How does oxidative phosphorylation differ from substrate-level phosphorylation?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167660182465">
+<problem id="fs-id1167660324112">
+<para id="fs-id1167660190771">How does the location of ATP synthase differ between prokaryotes and eukaryotes? Where do protons accumulate as a result of the ETS in each cell type?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

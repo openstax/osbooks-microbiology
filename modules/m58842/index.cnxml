@@ -1,0 +1,234 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>RNA Transcription</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58842</md:content-id>
+  <md:title>RNA Transcription</md:title>
+  <md:abstract/>
+  <md:uuid>8514cfef-3efc-4d6a-86e3-5b2d36b9f0c9</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167663629946" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167661463051">
+<item>Explain how RNA is synthesized using DNA as a template</item>
+<item>Distinguish between transcription in prokaryotes and eukaryotes</item>
+</list>
+</section>
+<para id="fs-id1167663611366">During the process of <term>transcription</term>, the information encoded within the DNA sequence of one or more genes is transcribed into a strand of RNA, also called an <term>RNA transcript</term>. The resulting single-stranded RNA molecule, composed of ribonucleotides containing the bases adenine (A), cytosine (C), guanine (G), and uracil (U), acts as a mobile molecular copy of the original DNA sequence. Transcription in prokaryotes and in eukaryotes requires the DNA double helix to partially unwind in the region of RNA synthesis. The unwound region is called a <term>transcription bubble</term>. Transcription of a particular gene always proceeds from one of the two DNA strands that acts as a template, the so-called <term>antisense strand</term>. The RNA product is complementary to the template strand of DNA and is almost identical to the nontemplate DNA strand, or the <term>sense strand</term>. The only difference is that in RNA, all of the T nucleotides are replaced with U nucleotides; during RNA synthesis, U is incorporated when there is an A in the complementary antisense strand.</para>
+<section id="fs-id1167663983328">
+<title>Transcription in Bacteria</title>
+<para id="fs-id1167661425017">Bacteria use the same RNA polymerase to transcribe all of their genes. Like DNA polymerase, <term>RNA polymerase</term> adds nucleotides one by one to the 3’-OH group of the growing nucleotide chain. One critical difference in activity between DNA polymerase and RNA polymerase is the requirement for a 3’-OH onto which to add nucleotides: DNA polymerase requires such a 3’-OH group, thus necessitating a primer, whereas RNA polymerase does not. During transcription, a ribonucleotide complementary to the DNA template strand is added to the growing RNA strand and a covalent phosphodiester bond is formed by dehydration synthesis between the new nucleotide and the last one added. In <emphasis effect="italics">E. coli</emphasis>, RNA polymerase comprises six polypeptide subunits, five of which compose the polymerase core enzyme responsible for adding RNA nucleotides to a growing strand. The sixth subunit is known as sigma (σ). The <term class="no-emphasis">σ factor</term> enables RNA polymerase to bind to a specific promoter, thus allowing for the transcription of various genes. There are various σ factors that allow for transcription of various genes.</para>
+<section id="fs-id1167661736568">
+<title>Initiation</title>
+<para id="fs-id1167661640080">The <term>initiation of transcription</term> begins at a <term>promoter</term>, a DNA sequence onto which the transcription machinery binds and initiates transcription. The nucleotide pair in the DNA double helix that corresponds to the site from which the first 5’ RNA nucleotide is transcribed is the initiation site. Nucleotides preceding the initiation site are designated “upstream,” whereas nucleotides following the initiation site are called “downstream” nucleotides. In most cases, promoters are located just upstream of the genes they regulate. <sup/>Although promoter sequences vary among bacterial genomes, a few elements are conserved. At the –10 and –35 positions within the DNA prior to the initiation site (designated +1), there are two promoter consensus sequences, or regions that are similar across all promoters and across various bacterial species. The –10 consensus sequence, called the <term class="no-emphasis">TATA box</term>, is TATAAT. The –35 sequence is recognized and bound by σ.</para>
+</section>
+<section id="fs-id1167661426115">
+<title>Elongation</title>
+<para id="fs-id1167663900275">The <term>elongation in transcription</term> phase begins when the σ subunit dissociates from the polymerase, allowing the core enzyme to synthesize RNA complementary to the DNA template in a 5’ to 3’ direction at a rate of approximately 40 nucleotides per second. As elongation proceeds, the DNA is continuously unwound ahead of the core enzyme and rewound behind it (<link target-id="OSC_Microbio_11_03_TxnElong"/>).</para>
+<figure id="OSC_Microbio_11_03_TxnElong">
+<media id="fs-id1167663532232" alt="Diagram of transcription. A double stranded piece of DNA has a large oval labeled RNA polymerase sitting on it just past a region labeled promoter. The DNA in the RNA polymerase has separated and the bottom DNA strand (labeled template strand) has a newly forming RNA strand attached to it. The RNA strand is being built from 5’ to 3’. The other strand of DNA is the nontemplate strand and does not have RNA being built.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_03_TxnElong.jpg"/>
+</media>
+<caption>During elongation, the bacterial RNA polymerase tracks along the DNA template, synthesizes mRNA in the 5’ to 3’ direction, and unwinds and rewinds the DNA as it is read.</caption>
+</figure>
+</section>
+<section id="fs-id1167661608631">
+<title>Termination</title>
+<para id="fs-id1167663874406">Once a gene is transcribed, the bacterial polymerase must dissociate from the DNA template and liberate the newly made RNA. This is referred to as <term>termination of transcription</term>. The DNA template includes repeated nucleotide sequences that act as termination signals, causing RNA polymerase to stall and release from the DNA template, freeing the RNA transcript.</para>
+<note id="fs-id1167661426188" class="microbiology check-your-understanding">
+<list id="fs-id1167660231375" list-type="bulleted" bullet-style="bullet">
+<item>Where does σ factor of RNA polymerase bind DNA to start transcription?</item>
+<item>What occurs to initiate the polymerization activity of RNA polymerase?</item>
+<item>Where does the signal to end transcription come from?</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1167661730325">
+<title>Transcription in Eukaryotes</title>
+<para id="fs-id1167663931135">Prokaryotes and eukaryotes perform fundamentally the same process of transcription, with a few significant differences (see <link target-id="fs-id1167663533154"/>). Eukaryotes use three different polymerases, RNA polymerases I, II, and III, all structurally distinct from the bacterial <term class="no-emphasis">RNA polymerase</term>. Each transcribes a different subset of genes. Interestingly, <term class="no-emphasis">archaea</term> contain a single RNA polymerase that is more closely related to eukaryotic RNA polymerase II than to its bacterial counterpart. Eukaryotic mRNAs are also usually monocistronic, meaning that they each encode only a single polypeptide, whereas prokaryotic mRNAs of bacteria and archaea are commonly <term>polycistronic</term>, meaning that they encode multiple polypeptides.</para>
+<para id="fs-id1167661553422">The most important difference between prokaryotes and eukaryotes is the latter’s membrane-bound nucleus, which influences the ease of use of RNA molecules for protein synthesis. With the genes bound in a nucleus, the eukaryotic cell must transport protein-encoding RNA molecules to the cytoplasm to be translated. Protein-encoding <term>primary transcript</term>s, the RNA molecules directly synthesized by RNA polymerase, must undergo several processing steps to protect these RNA molecules from degradation during the time they are transferred from the nucleus to the cytoplasm and translated into a protein. For example, eukaryotic mRNAs may last for several hours, whereas the typical prokaryotic mRNA lasts no more than 5 seconds.</para>
+<para id="fs-id1167661287679">The <term class="no-emphasis">primary transcript</term> (also called pre-mRNA) is first coated with RNA-stabilizing proteins to protect it from degradation while it is processed and exported out of the nucleus. The first type of processing begins while the primary transcript is still being synthesized; a special 7-methylguanosine nucleotide, called the <term>5’ cap</term>, is added to the 5’ end of the growing transcript. In addition to preventing degradation, factors involved in subsequent protein synthesis recognize the cap, which helps initiate translation by ribosomes. Once elongation is complete, another processing enzyme then adds a string of approximately 200 adenine nucleotides to the 3’ end, called the <term>poly-A tail</term>. This modification further protects the pre-mRNA from degradation and signals to cellular factors that the transcript needs to be exported to the cytoplasm.</para>
+<para id="fs-id1167661780937">Eukaryotic genes that encode polypeptides are composed of coding sequences called <term>exon</term>s (<emphasis effect="italics">ex</emphasis>-on signifies that they are <emphasis effect="italics">ex</emphasis>pressed) and intervening sequences called <term>intron</term>s (<emphasis effect="italics">int</emphasis>-ron denotes their <emphasis effect="italics">int</emphasis>ervening role). Transcribed RNA sequences corresponding to introns do not encode regions of the functional polypeptide and are removed from the pre-mRNA during processing. It is essential that all of the intron-encoded RNA sequences are completely and precisely removed from a pre-mRNA before protein synthesis so that the exon-encoded RNA sequences are properly joined together to code for a functional polypeptide. If the process errs by even a single nucleotide, the sequences of the rejoined exons would be shifted, and the resulting polypeptide would be nonfunctional. The process of removing intron-encoded RNA sequences and reconnecting those encoded by exons is called <term>RNA splicing</term> and is facilitated by the action of a <term>spliceosome</term> containing small nuclear ribonucleo proteins (snRNPs). Intron-encoded RNA sequences are removed from the pre-mRNA while it is still in the nucleus. Although they are not translated, introns appear to have various functions, including gene regulation and mRNA transport. On completion of these modifications, the <term class="no-emphasis">mature transcript</term>, the mRNA that encodes a polypeptide, is transported out of the nucleus, destined for the cytoplasm for translation. Introns can be spliced out differently, resulting in various exons being included or excluded from the final mRNA product. This process is known as <term class="no-emphasis">alternative splicing</term>. The advantage of alternative splicing is that different types of mRNA transcripts can be generated, all derived from the same DNA sequence. In recent years, it has been shown that some archaea also have the ability to splice their pre-mRNA.</para>
+<table id="fs-id1167663533154" summary="Table titled: Comparison of Transcription in Bacteria Versus Eukaryote. For number of polypeptides encoded per mRNA – bacteria are monocistronic or polycistronic while eukaryotes are exclusively monocistronic. In bacteria the holoenzyme (core + sigma) is responsible for strand elongation. In eukaryotes RNA polymerase I, II, or III are responsible for strand elongation. Eukaryotes have the addition of a 5’ cap, bacteria do not. Eukaryotes have the addition of a 3’ poly-A tail, bacteria do not. Eukaryotes have splicing of pre-mRNA, bacteria do not." class="span-all">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c3">Comparison of Transcription in Bacteria Versus Eukaryotes</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Property</entry>
+<entry valign="top" align="center">Bacteria</entry>
+<entry valign="top" align="center">Eukaryotes</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Number of polypeptides encoded per mRNA</entry>
+<entry valign="top" align="left">Monocistronic or polycistronic</entry>
+<entry valign="top" align="left">Exclusively monocistronic</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Strand elongation</entry>
+<entry valign="top" align="left">core + σ = holoenzyme</entry>
+<entry valign="top" align="left">RNA polymerases I, II, or III</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Addition of 5’ cap</entry>
+<entry valign="top" align="left">No</entry>
+<entry valign="top" align="left">Yes</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Addition of 3’ poly-A tail</entry>
+<entry valign="top" align="left">No</entry>
+<entry valign="top" align="left">Yes</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Splicing of pre-mRNA</entry>
+<entry valign="top" align="left">No</entry>
+<entry valign="top" align="left">Yes</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1167663556347" class="microbiology link-to-learning">
+
+<para id="fs-id1167661519193">Visualize how <link url="https://openstax.org/l/22mrnasplice">mRNA splicing</link> happens by watching the process in action in this video. See how introns are removed during <link url="https://openstax.org/l/22rnasplice">RNA splicing</link> here.</para>
+</note>
+<note id="fs-id1167663920844" class="microbiology check-your-understanding">
+<list id="fs-id1167660254410" list-type="bulleted" bullet-style="bullet">
+<item>In eukaryotic cells, how is the RNA transcript from a gene for a protein modified after it is transcribed?</item>
+<item>Do exons or introns contain information for protein sequences?</item>
+</list>
+</note>
+<note id="fs-id1167663965745" class="microbiology clinical-focus">
+<title>Part 2</title>
+<para id="fs-id1167663970811">In the emergency department, a nurse told Mark that he had made a good decision to come to the hospital because his symptoms indicated an infection that had gotten out of control. Mark’s symptoms had progressed, with the area of skin affected and the amount of swelling increasing. Within the affected area, a rash had begun, blistering and small gas pockets underneath the outermost layer of skin had formed, and some of the skin was becoming gray. Based on the putrid smell of the pus draining from one of the blisters, the rapid progression of the infection, and the visual appearance of the affected skin, the physician immediately began treatment for necrotizing fasciitis. Mark’s physician ordered a culture of the fluid draining from the blister and also ordered blood work, including a white blood cell count.</para>
+<para id="fs-id1167661425790">Mark was admitted to the intensive care unit and began intravenous administration of a broad-spectrum antibiotic to try to minimize further spread of the infection. Despite antibiotic therapy, Mark’s condition deteriorated quickly. Mark became confused and dizzy. Within a few hours of his hospital admission, his blood pressure dropped significantly and his breathing became shallower and more rapid. Additionally, blistering increased, with the blisters intensifying in color to purplish black, and the wound itself seemed to be progressing rapidly up Mark’s leg.</para>
+<list id="fs-id1167661365411" list-type="bulleted" bullet-style="bullet">
+<item>What are possible causative agents of Mark’s necrotizing fasciitis?</item>
+<item>What are some possible explanations for why the antibiotic treatment does not seem to be working?</item>
+</list>
+<para id="fs-id1167663714388"><emphasis effect="italics">Jump to the <link document="m58845" target-id="fs-id1167661565061">next</link> Clinical Focus box. Go back to the <link document="m58840" target-id="fs-id1167662419529">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+<section id="fs-id1167663530493" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167663860463" list-type="bulleted" bullet-style="bullet">
+<item>During <emphasis effect="bold">transcription</emphasis>, the information encoded in DNA is used to make RNA.</item>
+<item><emphasis effect="bold">RNA polymerase</emphasis> synthesizes RNA, using the antisense strand of the DNA as template by adding complementary RNA nucleotides to the 3’ end of the growing strand.</item>
+<item>RNA polymerase binds to DNA at a sequence called a <emphasis effect="bold">promoter</emphasis> during the <emphasis effect="bold">initiation of transcription</emphasis>.</item>
+<item>Genes encoding proteins of related functions are frequently transcribed under the control of a single promoter in prokaryotes, resulting in the formation of a <emphasis effect="bold">polycistronic mRNA</emphasis> molecule that encodes multiple polypeptides.</item>
+<item>Unlike DNA polymerase, RNA polymerase does not require a 3’-OH group to add nucleotides, so a <emphasis effect="bold">primer</emphasis> is not needed during initiation.</item>
+<item><emphasis effect="bold">Termination of transcription</emphasis> in bacteria occurs when the RNA polymerase encounters specific DNA sequences that lead to stalling of the polymerase. This results in release of RNA polymerase from the DNA template strand, freeing the <emphasis effect="bold">RNA transcript</emphasis>.</item>
+<item>Eukaryotes have three different RNA polymerases. Eukaryotes also have monocistronic mRNA, each encoding only a single polypeptide.</item>
+<item>Eukaryotic primary transcripts are processed in several ways, including the addition of a <emphasis effect="bold">5’ cap</emphasis> and a 3′-<emphasis effect="bold">poly-A tail</emphasis>, as well as <emphasis effect="bold">splicing</emphasis>, to generate a mature mRNA molecule that can be transported out of the nucleus and that is protected from degradation.</item>
+</list>
+</section>
+<section id="fs-id1167663885099" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167661271491">
+<problem id="fs-id1167663872877">
+<para id="fs-id1167661322723">During which stage of bacterial transcription is the σ subunit of the RNA polymerase involved?</para>
+<list id="fs-id1167663928746" list-type="enumerated" number-style="upper-alpha">
+<item>initiation</item>
+<item>elongation</item>
+<item>termination</item>
+<item>splicing</item>
+</list>
+</problem>
+<solution id="fs-id1167663697645">
+<para id="fs-id1167661463242">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663494542">
+<problem id="fs-id1167663932000">
+<para id="fs-id1167661568633">Which of the following components is involved in the initiation of transcription?</para>
+<list id="fs-id1167663490826" list-type="enumerated" number-style="upper-alpha">
+<item>primer</item>
+<item>origin</item>
+<item>promoter</item>
+<item>start codon</item>
+</list>
+</problem>
+<solution id="fs-id1167661566226">
+<para id="fs-id1167661744720">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167661440057">
+<problem id="fs-id1167663875384">
+<para id="fs-id1167663980015">Which of the following is not a function of the 5’ cap and 3’ poly-A tail of a mature eukaryotic mRNA molecule?</para>
+<list id="fs-id1167661694457" list-type="enumerated" number-style="upper-alpha">
+<item>to facilitate splicing</item>
+<item>to prevent mRNA degradation</item>
+<item>to aid export of the mature transcript to the cytoplasm</item>
+<item>to aid ribosome binding to the transcript</item>
+</list>
+</problem>
+<solution id="fs-id1167663897077">
+<para id="fs-id1167663610791">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663628980">
+<problem id="fs-id1167664031278">
+<para id="fs-id1167663899624">Mature mRNA from a eukaryote would contain each of these features except which of the following?</para>
+<list id="fs-id1167663972006" list-type="enumerated" number-style="upper-alpha">
+<item>exon-encoded RNA</item>
+<item>intron-encoded RNA</item>
+<item>5’ cap</item>
+<item>3’ poly-A tail</item>
+</list>
+</problem>
+<solution id="fs-id1167663617701">
+<para id="fs-id1167661462195">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167663871634" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167661268271">
+<problem id="fs-id1167663622374">
+<para id="fs-id1167661463146">A ________ mRNA is one that codes for multiple polypeptides.</para>
+</problem>
+<solution id="fs-id1167663930831">
+<para id="fs-id1167663919683">polycistronic</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167661365301">
+<problem id="fs-id1167663571472">
+<para id="fs-id1167661367595">The protein complex responsible for removing intron-encoded RNA sequences from primary transcripts in eukaryotes is called the ________.</para>
+</problem>
+<solution id="fs-id1167663864949">
+<para id="fs-id1167663621449">Spliceosome</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167663638832" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167663863925">
+<problem id="fs-id1167663735050">
+<para id="fs-id1167663893852">What is the purpose of RNA processing in eukaryotes? Why don’t prokaryotes require similar processing?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167663932183">
+<problem id="fs-id1167663865685">
+<para id="fs-id1167661327068">Below is a DNA sequence. Envision that this is a section of a DNA molecule that has separated in preparation for transcription, so you are only seeing the antisense strand. Construct the mRNA sequence transcribed from this template.</para>
+<para id="fs-id1167663712665">Antisense DNA strand: 3’-T A C T G A C T G A C G A T C-5’</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167663932204" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167663985504">
+<problem id="fs-id1167663640393">
+<para id="fs-id1167661432441">Predict the effect of an alteration in the sequence of nucleotides in the –35 region of a bacterial promoter.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

@@ -1,0 +1,243 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Fungi</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58804</md:content-id>
+  <md:title>Fungi</md:title>
+  <md:abstract/>
+  <md:uuid>ba4b0859-a72a-49cb-9375-b2dc6907de93</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1172098283229" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1172098318166">
+<item>Explain why the study of fungi such as yeast and molds is within the discipline of microbiology</item>
+<item>Describe the unique characteristics of fungi</item>
+<item>Describe examples of asexual and sexual reproduction of fungi</item>
+<item>Compare the major groups of fungi in this chapter, and give examples of each</item>
+<item>Identify examples of the primary causes of infections due to yeasts and molds</item>
+<item>Identify examples of toxin-producing fungi</item>
+<item>Classify fungal organisms according to major groups</item>
+</list>
+</section>
+<para id="fs-id1172098296321">The <term class="no-emphasis">fungi</term> comprise a diverse group of organisms that are heterotrophic and typically saprozoic. In addition to the well-known macroscopic fungi (such as mushrooms and molds), many unicellular yeasts and spores of macroscopic fungi are microscopic. For this reason, fungi are included within the field of microbiology.</para>
+<para id="fs-id1172096214466">Fungi are important to humans in a variety of ways. Both microscopic and macroscopic fungi have medical relevance, with some pathogenic species that can cause <term>mycoses</term> (illnesses caused by fungi). Some pathogenic fungi are opportunistic, meaning that they mainly cause infections when the host’s immune defenses are compromised and do not normally cause illness in healthy individuals. Fungi are important in other ways. They act as decomposers in the environment, and they are critical for the production of certain foods such as cheeses. Fungi are also major sources of antibiotics, such as <term class="no-emphasis">penicillin</term> from the fungus <term class="no-emphasis"><emphasis effect="italics">Penicillium</emphasis></term>.</para>
+<section id="fs-id1172098408099">
+<title>Characteristics of Fungi</title>
+<para id="fs-id1172100726720">Fungi have well-defined characteristics that set them apart from other organisms. Most multicellular fungal bodies, commonly called <term class="no-emphasis">molds</term>, are made up of filaments called <term>hyphae</term>. Hyphae can form a tangled network called a <term>mycelium</term> and form the <term>thallus</term> (body) of fleshy fungi. Hyphae that have walls between the cells are called <term>septate hyphae</term>; hyphae that lack walls and cell membranes between the cells are called nonseptate or <term>coenocytic hyphae</term>). (<link target-id="OSC_Microbio_05_03_hyphae"/>).</para>
+<figure id="OSC_Microbio_05_03_hyphae">
+<media id="fs-id1172098282036" alt="Molds can have septate hyphae - long strands with cell walls separating the nuclei. Or they can have coenocytic (nonseptate) hyphae - long strands with no cell wall separating the nuclei. Or they can have pseudohyphae which look like chains of cells with small clusters at intervals">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_03_hyphae.jpg"/>
+</media>
+<caption>Multicellular fungi (molds) form hyphae, which may be septate or nonseptate. Unicellular fungi (yeasts) cells form pseudohyphae from individual yeast cells.</caption>
+</figure>
+<para id="fs-id1172098709897">In contrast to molds, <term class="no-emphasis">yeasts</term> are unicellular fungi. The <term>budding yeasts</term> reproduce asexually by budding off a smaller daughter cell; the resulting cells may sometimes stick together as a short chain or <term>pseudohypha</term> (<link target-id="OSC_Microbio_05_03_hyphae"/>). </para><para id="fs-id1172098389503">Some fungi are dimorphic, having more than one appearance during their life cycle. These <term>dimorphic fungi</term> may be able to appear as yeasts or molds, which can be important for infectivity. They are capable of changing their appearance in response to environmental changes such as nutrient availability or fluctuations in temperature, growing as a mold, for example, at 25 °C (77 °F), and as yeast cells at 37 °C (98.6 °F). This ability helps dimorphic fungi to survive in diverse environments. Two examples of dimorphic yeasts are the human pathogens Histoplasma capsulatum and Candida albicans. H. capsulatum causes the lung disease histoplasmosis, and C. albicans is associated with vaginal yeast infections, oral thrush, and candidiasis of the skin (<link target-id="OSC_Microbio_05_03_struct"/>).</para><figure id="OSC_Microbio_05_03_struct">
+<media id="fs-id1172098656509" alt="Drawing of bats in an attic. Fungal body is shown in the guano. A micrograph of the fungus shows hyphae (long strands) withc spheres labeled conidia. The life cycle shows a person inhaling spores which then travel to the lungs and divide into a yeast form. They then travel to the lymph and blood.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_03_struct.jpg"/>
+</media>
+<caption><emphasis effect="italics">Histoplasma capsulatum</emphasis> is a dimorphic fungus that grows in soil exposed to bird feces or bat feces (guano) (top left). It can change forms to survive at different temperatures. In the outdoors, it typically grows as a mycelium (as shown in the micrograph, bottom left), but when the spores are inhaled (right), it responds to the high internal temperature of the body (37 °C [98.6 °F]) by turning into a yeast that can multiply in the lungs, causing the chronic lung disease histoplasmosis. (credit: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1172098378521">There are notable unique features in fungal cell walls and membranes. Fungal cell walls contain <term>chitin</term>, as opposed to the cellulose found in the cell walls of plants and many protists. Additionally, whereas animals have cholesterol in their cell membranes, fungal cell membranes have different sterols called <term class="no-emphasis">ergosterols</term>. Ergosterols are often exploited as targets for antifungal drugs.</para>
+<para id="fs-id1172100597033">Fungal life cycles are unique and complex. Fungi reproduce sexually either through cross- or self-fertilization. Haploid fungi form hyphae that have gametes at the tips. Two different mating types (represented as “+ type” and “– type”) are involved. The cytoplasms of the + and – type gametes fuse (in an event called plasmogamy), producing a cell with two distinct nuclei (a <term>dikaryotic</term> cell). Later, the nuclei fuse (in an event called <term class="no-emphasis">karyogamy</term>) to create a diploid zygote. The zygote undergoes meiosis to form <term>spores</term> that germinate to start the haploid stage, which eventually creates more haploid mycelia (<link target-id="OSC_Microbio_05_03_zygo"/>). Depending on the taxonomic group, these sexually produced spores are known as zygospores (in Zygomycota), ascospores (in Ascomycota), or basidiospores (in Basidiomycota) (<link target-id="OSC_Microbio_05_03_spores"/>).</para>
+<para id="fs-id1172100565958">Fungi may also exhibit asexual reproduction by mitosis, mitosis with budding, fragmentation of hyphae, and formation of asexual spores by mitosis. These spores are specialized cells that, depending on the organism, may have unique characteristics for survival, reproduction, and dispersal. Fungi exhibit several types of asexual spores and these can be important in classification.</para>
+<figure id="OSC_Microbio_05_03_zygo">
+<media id="fs-id1172100857209" alt="Zygomycete life cycle. The mycelia can undergo asexual reproduction by forming spores via mitosis. The spores then form mycelia by germination. The haploid spores can also undergo sexual reproduction. The first step is germination when mycelia form. If the two mating types (+ and -) are in close proximity, extensions called gametangia form between them. Next is plasmogamy. This is the fusion between the + and – mating types resulting in a zygosporangium with multiple haploid nucei. The zygosporangiom forms a thick, protective coat. Next the nuclei fuse to form a zygote with multiple diploid nuclei in karyogamy. This forms a diploid zygote. Next is mitosis and germination where the sporangium grows on a  short stalk and the haploid spores are formed inside. The spores are released in germination and we are back to the spore stage of the life cycle.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_03_zygo.jpg"/>
+</media>
+<caption>Zygomycetes have sexual and asexual life cycles. In the sexual life cycle, + and – mating types conjugate to form a zygosporangium.</caption>
+</figure>
+<figure id="OSC_Microbio_05_03_spores">
+<media id="fs-id1172100625442" alt="a) A micrograph of long strands labeled hyphae and a sphere (labeled sporangium) on the end of one of the long strands. B) A photograph of bread mold. The white fuzz has black dots labeled sporangia.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_03_spores.jpg"/>
+</media>
+<caption>These images show asexually produced spores. (a) This brightfield micrograph shows the release of spores from a sporangium at the end of a hypha called a sporangiophore. The organism is a <emphasis effect="italics">Mucor</emphasis> sp. fungus, a mold often found indoors. (b) Sporangia grow at the ends of stalks, which appear as the white fuzz seen on this bread mold, <emphasis effect="italics">Rhizopus stolonifer</emphasis>. The tips of bread mold are the dark, spore-containing sporangia. (credit a: modification of work by Centers for Disease Control and Prevention; credit b right: modification of work by “Andrew”/Flickr)</caption>
+</figure>
+<note id="fs-id1172100931857" class="microbiology check-your-understanding">
+<list id="fs-id1167659331631" list-type="bulleted" bullet-style="bullet">
+<item>Is a dimorphic fungus a yeast or a mold? Explain.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172098572617">
+<title>Fungal Diversity</title>
+<para id="fs-id1172098401277">The <term class="no-emphasis">fungi</term> are very diverse, comprising seven major groups. Not all of the seven groups contain pathogens. Some of these groups are generally associated with plants and include plant pathogens. For example, Urediniomycetes and Ustilagomycetes include the plant <term class="no-emphasis">rusts</term> and <term class="no-emphasis">smuts</term>, respectively. These form reddish or dark masses, respectively, on plants as rusts (red) or smuts (dark). Some species have substantial economic impact because of their ability to reduce crop yields. Glomeromycota includes the <term class="no-emphasis">mycorrhizal fungi</term>, important symbionts with plant roots that can promote plant growth by acting like an extended root system. The Glomeromycota are obligate symbionts, meaning that they can only survive when associated with plant roots; the fungi receive carbohydrates from the plant and the plant benefits from the increased ability to take up nutrients and minerals from the soil. The Chytridiomycetes (<term class="no-emphasis">chytrids</term>) are small fungi, but are extremely ecologically important. Chytrids are generally aquatic and have flagellated, motile gametes; specific types are implicated in amphibian declines around the world. Because of their medical importance, we will focus on Zygomycota, Ascomycota, Basidiomycota, and Microsporidia. <link target-id="OSC_Microbio_05_03_TaxaTable"/> summarizes the characteristics of these medically important groups of fungi.</para>
+<para id="fs-id1172101005731">The <term class="no-emphasis">Zygomycota</term> (zygomycetes) are mainly saprophytes with coenocytic hyphae and haploid nuclei. They use sporangiospores for asexual reproduction. The group name comes from the <term>zygospores</term> that they use for sexual reproduction (<link target-id="OSC_Microbio_05_03_zygo"/>), which have hard walls formed from the fusion of reproductive cells from two individuals. Zygomycetes are important for food science and as crop pathogens. One example is <term class="no-emphasis"><emphasis effect="italics">Rhizopus stolonifer</emphasis></term> (<link target-id="OSC_Microbio_05_03_spores"/>), an important bread mold that also causes rice seedling blight. <term class="no-emphasis"><emphasis effect="italics">Mucor</emphasis></term> is a genus of fungi that can potentially cause necrotizing infections in humans, although most species are intolerant of temperatures found in mammalian bodies (<link target-id="OSC_Microbio_05_03_spores"/>).</para>
+<para id="fs-id1172100858264">The <term class="no-emphasis">Ascomycota</term> include fungi that are used as food (edible mushrooms, morels, and truffles), others that are common causes of food spoilage (bread molds and plant pathogens), and still others that are human pathogens. Ascomycota may have septate hyphae and cup-shaped fruiting bodies called <term>ascocarps</term>. Some genera of Ascomycota use sexually produced <term>ascospores</term> as well as asexual spores called <term>conidia</term>, but sexual phases have not been discovered or described for others. Some produce an <term>ascus</term> containing ascospores within an ascocarp (<link target-id="OSC_Microbio_05_03_asclife"/>).</para>
+<para id="fs-id1172098381171">Examples of the Ascomycota include several bread molds and minor pathogens, as well as species capable of causing more serious mycoses. Species in the genus <emphasis effect="italics">Aspergillus</emphasis> are important causes of allergy and infection, and are useful in research and in the production of certain fermented alcoholic beverages such as Japanese <emphasis effect="italics">sake</emphasis>. The fungus <term class="no-emphasis"><emphasis effect="italics">Aspergillus flavus</emphasis></term><emphasis effect="italics">,</emphasis> a contaminant of nuts and stored grains, produces an <term>aflatoxin</term> that is both a toxin and the most potent known natural carcinogen. <term class="no-emphasis"><emphasis effect="italics">Neurospora crassa</emphasis></term> is of particular use in genetics research because the spores produced by meiosis are kept inside the ascus in a row that reflects the cell divisions that produced them, giving a direct view of segregation and assortment of genes (<link target-id="OSC_Microbio_05_03_sexspores"/>). <term class="no-emphasis"><emphasis effect="italics">Penicillium</emphasis></term> produces the antibiotic penicillin (<link target-id="OSC_Microbio_05_03_asclife"/>).</para>
+<para id="fs-id1172098381915">Many species of ascomycetes are medically important. A large number of species in the genera <term class="no-emphasis"><emphasis effect="italics">Trichophyton</emphasis></term>, <term class="no-emphasis"><emphasis effect="italics">Microsporum</emphasis></term>, and <term class="no-emphasis"><emphasis effect="italics">Epidermophyton</emphasis></term> are <term class="no-emphasis">dermatophytes</term>, pathogenic fungi capable of causing skin infections such as athlete’s foot, jock itch, and <term class="no-emphasis">ringworm</term>. <term class="no-emphasis"><emphasis effect="italics">Blastomyces dermatitidis</emphasis></term> is a dimorphic fungus that can cause <term class="no-emphasis">blastomycosis</term>, a respiratory infection that, if left untreated, can become disseminated to other body sites, sometimes leading to death. Another important respiratory pathogen is the dimorphic fungus <term class="no-emphasis"><emphasis effect="italics">Histoplasma capsulatum</emphasis></term> (<link target-id="OSC_Microbio_05_03_struct"/>)<emphasis effect="italics">,</emphasis> which is associated with birds and bats in the Ohio and Mississippi river valleys. <term class="no-emphasis"><emphasis effect="italics">Coccidioides immitis</emphasis></term> causes the serious lung disease <term class="no-emphasis">Valley fever</term>. <term class="no-emphasis"><emphasis effect="italics">Candida albicans</emphasis></term>, the most common cause of vaginal and other yeast infections, is also an ascomycete fungus; it is a part of the normal microbiota of the skin, intestine, genital tract, and ear (<link target-id="OSC_Microbio_05_03_asclife"/>). Ascomycetes also cause plant diseases, including ergot infections, Dutch elm disease, and powdery mildews.</para>
+<para id="fs-id1172100654970"><term class="no-emphasis"><emphasis effect="italics">Saccharomyces</emphasis></term> yeasts, including the baker’s yeast <emphasis effect="italics">S. cerevisiae</emphasis>, are unicellular ascomycetes with haploid and diploid stages (<link target-id="OSC_Microbio_05_03_ascomyLC"/>). This and other <emphasis effect="italics">Saccharomyces</emphasis> species are used for brewing beer.</para>
+<figure id="OSC_Microbio_05_03_asclife">
+<media id="fs-id1172100656800" alt="a) a micrograph of a large oval (10 µm) labeled ascus and smaller ovals (5 µm) labeled ascospores. B) a micrograph of a long stalk with strands of spheres emanating from a sphere on the tip. The spheres are about 2 µm in diameter. C) A long strand with clusters of spheres. A small dot in each sphere is labeled nucleus.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_03_asclife.jpg"/>
+</media>
+<caption>(a) This brightfield micrograph shows ascospores being released from asci in the fungus <emphasis effect="italics">Talaromyces flavus</emphasis> var. <emphasis effect="italics">flavus</emphasis>. (b) This electron micrograph shows the conidia (spores) borne on the conidiophore of <emphasis effect="italics">Aspergillus</emphasis>, a type of toxic fungus found mostly in soil and plants. (c) This brightfield micrograph shows the yeast <emphasis effect="italics">Candida albicans,</emphasis> the causative agent of candidiasis and thrush. (credit a, b, c: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<figure id="OSC_Microbio_05_03_sexspores">
+<media id="fs-id1172098407090" alt="A micrograph showing a thick tube with 8 ovals lined up within the tube.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_03_sexspores.jpg"/>
+</media>
+<caption>These ascospores, lined up within an ascus, are produced sexually. (credit: Peter G. Werner)</caption>
+</figure>
+<figure id="OSC_Microbio_05_03_ascomyLC">
+<media id="fs-id1172100654155" alt="Ascomycete life cycle. Mycelia produce conidiophores which use mitosis to asexually produce spores. These spores then germinate into new mycelia. Sexual reproduction begins one hyphae produces an ascogonium and another produces an antheridium. In plasmogamy the ascogonium and antheridium fuse. Mitosis and cell division result in the formation of many dikaryotic hyphae, which form a fruiting body called the ascocarp. Asci form at the tips of these hyphae. In karyogamy the nuclein in the asci fuse to form a diploid zygote. Then meiosis produces four haploid nuclei in the ascus. Then mitosis and cell division results in eight haploid ascospores in the ascus. These ascospores then disperse and germinate into new mycelia.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_03_ascomyLC.jpg"/>
+</media>
+<caption>The life cycle of an ascomycete is characterized by the production of asci during the sexual phase. The haploid phase is the predominant phase of the life cycle. Whether spores are produced through sexual or asexual processes, they can germinate into haploid hyphae.</caption>
+</figure>
+<para id="fs-id1172101033436">The <term class="no-emphasis">Basidiomycota</term> (basidiomycetes) are fungi that have <term>basidia</term> (club-shaped structures) that produce <term>basidiospores</term> (spores produced through budding) within fruiting bodies called <term>basidiocarps</term> (<link target-id="OSC_Microbio_05_03_basidioLC"/>). They are important as decomposers and as food. This group includes rusts, stinkhorns, puffballs, and mushrooms. Several species are of particular importance. <term class="no-emphasis"><emphasis effect="italics">Cryptococcus neoformans</emphasis></term>, a fungus commonly found as a yeast in the environment, can cause serious lung infections when inhaled by individuals with weakened immune systems. The edible meadow mushroom, <emphasis effect="italics">Agricus campestris</emphasis>, is a basidiomycete, as is the poisonous mushroom <emphasis effect="italics">Amanita</emphasis> <emphasis effect="italics">phalloides</emphasis>, known as the death cap. The deadly toxins produced by <emphasis effect="italics">A. phalloides</emphasis> have been used to study transcription.</para>
+<figure id="OSC_Microbio_05_03_basidioLC">
+<media id="fs-id1172098310905" alt="Basidiomycete life cycle. Haploid basidiospres germinate to form mycelia. There are two mating types (+ and -_). In plasmogamy, fusion between + and – mating types results in formation of a dikaryotic mycelium. Under the right environmental conditions, a basidiocarp forms via mitosis. Gills of the basidiocarp contain cells called basidia. A photo of a mushroom labels the mushroom as basidiocap and basidia within the gills. Basidia form diploid nuclei via karyotamy; this produces a diploid zygote. Four haploid nuclei are formed in the basidium via meisos. Cell division produces four haploid basidiospores. These spres then disperse and germinate into new mycelia.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_03_basidioLC.jpg"/>
+</media>
+<caption>The life cycle of a basidiomycete alternates a haploid generation with a prolonged stage in which two nuclei (dikaryon) are present in the hyphae.</caption>
+</figure>
+<para id="fs-id1172100653329">Finally, the <term>Microsporidia</term> are unicellular fungi that are obligate intracellular parasites. They lack mitochondria, peroxisomes, and centrioles, but their spores release a unique <term>polar tubule</term> that pierces the host cell membrane to allow the fungus to gain entry into the cell. A number of microsporidia are human pathogens, and infections with microsporidia are called <term class="no-emphasis">microsporidiosis</term>. One pathogenic species is <term class="no-emphasis"><emphasis effect="italics">Enterocystozoan bieneusi</emphasis></term>, which can cause symptoms such as diarrhea, cholecystitis (inflammation of the gall bladder), and in rare cases, respiratory illness.</para>
+<figure id="OSC_Microbio_05_03_TaxaTable">
+<media id="fs-id1172100556178" alt="A table labeled select groups of fungi. Four groups are discussed. Ascomycota have the characteristics: septate hyphae, ascus with ascospores in ascocarp, and conidiospores. Examples include Cup fungi, edible mushrooms, morels, truffles, neurospora, and penicillim. Medically important species include Aspergillus, Trichophyton, Microsporum, Epidemophyton, Blastomyces demititidis, and Histoplasma capsulatum. An image of Aspergillus niger shows long strands with a dark sphere at the end of one strand. Basidiomycota have the characteristics: basidia, produce basidiospores in basidiocarp. Examples include club fungi, rusts, stinkhors, puffballs, mushrooms, Cryptococcus neoformans, Amanita phalloides. Medically important species include Cryptococcus neoformans. An image shows a mushroom labeled Amanita phalloides. Microsporidia have the characteristics: lack mitochondria, peroxisomes, and centrioles; spores produce a polar tube. Examples include Enterocystozoan bieneusi which is medically important. A micrograph shows oval cells labeled microsporidia (unidentified). Zygomycota have the characteristics: mainly saprophytes, coenocytic hyphae, haploid nuclei and zygospores. Examples include Rhizopus stolonifera and the medically important mucor spp. A micrograph shows a long strand with many small dots everywhere on the slide.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_03_TaxaTable.jpg"/>
+</media>
+<caption>(credit “Ascomycota”: modification of work by Dr. Lucille Georg, Centers for Disease Control and Prevention; credit “Microsporidia”: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<note id="fs-id1172100583468" class="microbiology check-your-understanding">
+<list id="fs-id1167661779129" list-type="bulleted" bullet-style="bullet">
+<item>Which group of fungi appears to be associated with the greatest number of human diseases?</item>
+</list>
+</note>
+<note id="fs-id1172100618884" class="microbiology micro-connection">
+<title>Eukaryotic Pathogens in Eukaryotic Hosts</title>
+<para id="fs-id1172100960259">When we think about antimicrobial medications, antibiotics such as penicillin often come to mind. Penicillin and related antibiotics interfere with the synthesis of peptidoglycan cell walls, which effectively targets bacterial cells. These antibiotics are useful because humans (like all eukaryotes) do not have peptidoglycan cell walls.</para>
+<para id="fs-id1172101008157">Developing medications that are effective against eukaryotic cells but not harmful to human cells is more difficult. Despite huge morphological differences, the cells of humans, fungi, and protists are similar in terms of their ribosomes, cytoskeletons, and cell membranes. As a result, it is more challenging to develop medications that target protozoans and fungi in the same way that antibiotics target prokaryotes.</para>
+<para id="fs-id1172100673711">Fungicides have relatively limited modes of action. Because fungi have <term class="no-emphasis">ergosterols</term> (instead of cholesterol) in their cell membranes, the different enzymes involved in sterol production can be a target of some medications. The azole and morpholine <term class="no-emphasis">fungicides</term> interfere with the synthesis of membrane sterols. These are used widely in agriculture (fenpropimorph) and clinically (e.g., miconazole). Some antifungal medications target the <term class="no-emphasis">chitin</term> cell walls of fungi. Despite the success of these compounds in targeting fungi, <term class="no-emphasis">antifungal medications</term> for systemic infections still tend to have more toxic side effects than antibiotics for bacteria.</para>
+</note>
+<note id="fs-id1172098387316" class="microbiology clinical-focus">
+<title>Part 3</title>
+<para id="fs-id1172100926042">Sarah is relieved the ringworm is not an actual worm, but wants to know what it really is. The physician explains that ringworm is a fungus. He tells her that she will not see mushrooms popping out of her skin, because this fungus is more like the invisible part of a mushroom that hides in the soil. He reassures her that they are going to get the fungus out of her too.</para>
+<para id="fs-id1172096159109">The doctor cleans and then carefully scrapes the lesion to place a specimen on a slide. By looking at it under a microscope, the physician is able to confirm that a fungal infection is responsible for Sarah’s lesion. In <link target-id="OSC_Microbio_05_03_Trubrum"/>, it is possible to see macro- and microconidia in <term class="no-emphasis"><emphasis effect="italics">Trichophyton rubrum</emphasis></term>. Cell walls are also visible. Even if the pathogen resembled a helminth under the microscope, the presence of cell walls would rule out the possibility because animal cells lack cell walls.</para>
+<para id="fs-id1172098517588">The doctor prescribes an antifungal cream for Sarah’s mother to apply to the ringworm. Sarah’s mother asks, “What should we do if it doesn’t go away?”</para>
+<list id="fs-id1172100943626" list-type="bulleted" bullet-style="bullet">
+<item>Can all forms of ringworm be treated with the same antifungal medication?</item>
+</list>
+<figure id="OSC_Microbio_05_03_Trubrum">
+<media id="fs-id1172100578410" alt="A micrograph of a long strands with cell walls. The long strand is labeled macroconidium. Smaller spheres outside the long strand are labeled microconidia.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_03_Trubrum.jpg"/>
+</media>
+<caption>This micrograph shows hyphae (macroconidium) and microconidia of <emphasis effect="italics">Trichophyton rubrum</emphasis>, a dermatophyte responsible for fungal infections of the skin. (credit: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1172098616077"><emphasis effect="italics">Jump to the <link document="m58806" target-id="fs-id1172101914727">next</link> Clinical Focus box. Go back to the <link document="m58803" target-id="fs-id1172102074327">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+<section id="fs-id1172100516875" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1172100742226" list-type="bulleted" bullet-style="bullet">
+<item>The fungi include diverse saprotrophic eukaryotic organisms with chitin cell walls</item>
+<item>Fungi can be unicellular or multicellular; some (like yeast) and fungal spores are microscopic, whereas some are large and conspicuous</item>
+<item>Reproductive types are important in distinguishing fungal groups</item>
+<item>Medically important species exist in the four fungal groups Zygomycota, Ascomycota, Basidiomycota, and Microsporidia</item>
+<item>Members of Zygomycota, Ascomycota, and Basidiomycota produce deadly toxins</item>
+<item>Important differences in fungal cells, such as ergosterols in fungal membranes, can be targets for antifungal medications, but similarities between human and fungal cells make it difficult to find targets for medications and these medications often have toxic adverse effects</item>
+</list>
+</section>
+<section id="fs-id1172098674723" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1172100994182">
+<problem id="fs-id1172100507813">
+<para id="fs-id1172098708286">Mushrooms are a type of which of the following?</para>
+<list id="fs-id1172098316405" list-type="enumerated" number-style="upper-alpha">
+<item>conidia</item>
+<item>ascus</item>
+<item>polar tubule</item>
+<item>basidiocarp</item>
+</list>
+</problem>
+<solution id="fs-id1172098753197">
+<para id="fs-id1172098460956">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098389537">
+<problem id="fs-id1172098768425">
+<para id="fs-id1172100961807">Which of the following is the most common cause of human yeast infections?</para>
+<list id="fs-id1172098670761" list-type="enumerated" number-style="upper-alpha">
+<item><emphasis effect="italics">Candida albicans</emphasis></item>
+<item><emphasis effect="italics">Blastomyces dermatitidis</emphasis></item>
+<item><emphasis effect="italics">Cryptococcus neoformans</emphasis></item>
+<item><emphasis effect="italics">Aspergillus fumigatus</emphasis></item>
+</list>
+</problem>
+<solution id="fs-id1172100726820">
+<para id="fs-id1172100781040">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100506672">
+<problem id="fs-id1172100639363">
+<para id="fs-id1172100667237">Which of the following is an ascomycete fungus associated with bat droppings that can cause a respiratory infection if inhaled?</para>
+<list id="fs-id1172098261778" list-type="enumerated" number-style="upper-alpha">
+<item><emphasis effect="italics">Candida albicans</emphasis></item>
+<item><emphasis effect="italics">Histoplasma capsulatum</emphasis></item>
+<item><emphasis effect="italics">Rhizopus stolonifera</emphasis></item>
+<item><emphasis effect="italics">Trichophyton rubrum</emphasis></item>
+</list>
+</problem>
+<solution id="fs-id1172100951895">
+<para id="fs-id1172098778771">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172100558169" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1172100896360">
+<problem id="fs-id1172096096008">
+<para id="fs-id1172098499351">Nonseptate hyphae are also called _________.</para>
+</problem>
+<solution id="fs-id1172096153260">
+<para id="fs-id1172098318072">coenocytic</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098676953">
+<problem id="fs-id1172100511454">
+<para id="fs-id1172100986107">Unicellular fungi are called _________.</para>
+</problem>
+<solution id="fs-id1172098426472">
+<para id="fs-id1172096289740">yeasts</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100947327">
+<problem id="fs-id1172098452171">
+<para id="fs-id1172100511567">Some fungi have proven medically useful because they can be used to produce _________.</para>
+</problem>
+<solution id="fs-id1172100991402">
+<para id="fs-id1172098596326">antibiotics</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172100771092" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1172098581098">
+<problem id="fs-id1172098262305">
+<para id="fs-id1172098261159">Which genera of fungi are common dermatophytes (fungi that cause skin infections)?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172098780413">
+<problem id="fs-id1172098462890">
+<para id="fs-id1172098403882">What is a dikaryotic cell?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1172098617759" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1172100985022">
+<problem id="fs-id1172100743656">
+<para id="fs-id1172100947619">Which of the drawings shows septate hyphae?</para>
+<media id="fs-id1172099576846" alt="a) a long strand with walls dividing it into rectanges. B) A long square with no walls between the nuclei.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_05_03_Hyphae_img.jpg"/>
+</media>
+</problem>
+</exercise>
+<exercise id="fs-id1172100855457">
+<problem id="fs-id1172100947595">
+<para id="fs-id1172098309429">Explain the benefit of research into the pathways involved in the synthesis of chitin in fungi.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

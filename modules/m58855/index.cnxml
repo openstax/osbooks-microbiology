@@ -1,0 +1,632 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Using Chemicals to Control Microorganisms</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58855</md:content-id>
+  <md:title>Using Chemicals to Control Microorganisms</md:title>
+  <md:abstract/>
+  <md:uuid>9ab5b383-e3c7-4d98-b85f-7ca6fc3787f1</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167583626599" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167585111676">
+<item>Understand and compare various chemicals used to control microbial growth, including their uses, advantages and disadvantages, chemical structure, and mode of action</item>
+</list>
+</section>
+<para id="fs-id1167584938570">In addition to physical methods of microbial control, chemicals are also used to control microbial growth. A wide variety of chemicals can be used as disinfectants or antiseptics. When choosing which to use, it is important to consider the type of microbe targeted; how clean the item needs to be; the disinfectant’s effect on the item’s integrity; its safety to animals, humans, and the environment; its expense; and its ease of use. This section describes the variety of chemicals used as disinfectants and antiseptics, including their mechanisms of action and common uses.</para>
+<section id="fs-id1167585147987">
+<title>Phenolics</title>
+<para id="fs-id1167584969693">In the 1800s, scientists began experimenting with a variety of chemicals for disinfection. In the 1860s, British surgeon Joseph <term class="no-emphasis">Lister</term> (1827–1912) began using carbolic acid, known as <term class="no-emphasis">phenol</term>, as a disinfectant for the treatment of surgical wounds (see <link document="m58791">Foundations of Modern Cell Theory</link>). In 1879, Lister’s work inspired the American chemist Joseph <term class="no-emphasis">Lawrence</term> (1836–1909) to develop Listerine, an alcohol-based mixture of several related compounds that is still used today as an oral antiseptic. Today, carbolic acid is no longer used as a surgical disinfectant because it is a skin irritant, but the chemical compounds found in antiseptic mouthwashes and throat lozenges are called <term>phenolics</term>.</para>
+<para id="fs-id1167584948269">Chemically, phenol consists of a benzene ring with an –OH group, and phenolics are compounds that have this group as part of their chemical structure (<link target-id="OSC_Microbio_13_01_Phenolcomp"/>). Phenolics such as <term class="no-emphasis">thymol</term> and <term class="no-emphasis">eucalyptol</term> occur naturally in plants. Other phenolics can be derived from creosote, a component of coal tar. Phenolics tend to be stable, persistent on surfaces, and less toxic than phenol. They inhibit microbial growth by denaturing proteins and disrupting membranes.</para>
+<figure id="OSC_Microbio_13_01_Phenolcomp">
+<media id="fs-id1167583983353" alt="A) a chemical structure with a carbon ring of 6 carbons with an OH group on one. B) A chemical structure with 2 carbon rings (6 carbons each) connected by a covalent bond; one carbon has an OH. C) Two carbon rings (6 carbons) connected a carbon. Each ring has an OH and 3 Cls.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_01_Phenolcomp.jpg"/>
+</media>
+<caption>Phenol and phenolic compounds have been used to control microbial growth. (a) Chemical structure of phenol, also known as carbolic acid. (b) o-Phenylphenol, a type of phenolic, has been used as a disinfectant as well as to control bacterial and fungal growth on harvested citrus fruits. (c) Hexachlorophene, another phenol, known as a bisphenol (two rings), is the active ingredient in pHisoHex.</caption>
+</figure>
+<para id="fs-id1167583581404">Since Lister’s time, several <term class="no-emphasis">phenolic compounds</term> have been used to control microbial growth. Phenolics like <term class="no-emphasis">cresols</term> (methylated phenols) and <term class="no-emphasis">o-phenylphenol</term> were active ingredients in various formulations of Lysol since its invention in 1889. o-Phenylphenol was also commonly used in agriculture to control bacterial and fungal growth on harvested crops, especially citrus fruits, but its use in the United States is now far more limited. The bisphenol <term class="no-emphasis">hexachlorophene</term>, a disinfectant, is the active ingredient in pHisoHex, a topical cleansing detergent widely used for handwashing in hospital settings. pHisoHex is particularly effective against gram-positive bacteria, including those causing staphylococcal and streptococcal skin infections. pHisoHex was formerly used for bathing infants, but this practice has been discontinued because it has been shown that exposure to hexachlorophene can lead to neurological problems.</para>
+<para id="fs-id1167584771521">Triclosan is another bisphenol compound that has seen widespread application in antibacterial products over the last several decades. Initially used in toothpastes, <term class="no-emphasis">triclosan</term> has also been used in hand soaps and impregnated into a wide variety of other products, including cutting boards, knives, shower curtains, clothing, and concrete, to make them antimicrobial. However, in 2016 the FDA banned the marketing of over-the-counter antiseptic products containing triclosan and 18 other chemicals. This ruling was based on the lack of evidence of safety or efficacy, as well as concerns about the health risks of long-term exposure (See Micro Connections below). In 2019 the FDA issued an updated ban ruling to included 28 chemicals. Rulings on benzalkonium chloride, ethyl alcohol, and isopropyl alcohol have been deferred to allow for the submission of additional safety and efficacy data.<footnote id="fs-id1167583904817">US Food and Drug Administration. "FDA Issues Final Rule on Safety and Effectiveness of Antibacterial Soaps." 2016. https://www.fda.gov/news-events/press-announcements/fda-issues-final-rule-safety-and-effectiveness-antibacterial-soaps. Accessed October 29, 2020.</footnote></para>
+<note id="fs-id1167584735157" class="microbiology micro-connection">
+<title>Triclosan: Antibacterial Overkill?</title>
+<para id="fs-id1167583850472">Hand soaps and other cleaning products are often marketed as “antibacterial,” suggesting that they provide a level of cleanliness superior to that of conventional soaps and cleansers. But are the antibacterial ingredients in these products really safe and effective?</para>
+<para id="fs-id1167583993476">About 75% of antibacterial liquid hand soaps and 30% of bar soaps contain the chemical triclosan, a phenolic, (<link target-id="OSC_Microbio_13_03_Triclosan"/>).<footnote id="fs-id1167581473677">J. Stromberg. “Five Reasons Why You Should Probably Stop Using Antibacterial Soap.” <emphasis effect="italics">Smithsonian.com</emphasis> January 3, 2014. http://www.smithsonianmag.com/science-nature/five-reasons-why-you-should-probably-stop-using-antibacterial-soap-180948078/?no-ist. Accessed June 9, 2016.</footnote> Triclosan blocks an enzyme in the bacterial fatty acid-biosynthesis pathway that is not found in the comparable human pathway. Although the use of triclosan in the home increased dramatically during the 1990s, more than 40 years of research by the FDA have turned up no conclusive evidence that washing with triclosan-containing products provides increased health benefits compared with washing with traditional soap. Although some studies indicate that fewer bacteria may remain on a person’s hands after washing with triclosan-based soap, compared with traditional soap, no evidence points to any reduction in the transmission of bacteria that cause respiratory and gastrointestinal illness. In short, soaps with triclosan may remove or kill a few more germs but not enough to reduce the spread of disease.</para>
+<para id="fs-id1167584971440">Perhaps more disturbing, some clear risks associated with triclosan-based soaps have come to light. The widespread use of triclosan has led to an increase in triclosan-resistant bacterial strains, including those of clinical importance, such as <emphasis effect="italics">Salmonella enterica</emphasis>; this resistance may render triclosan useless as an antibacterial in the long run.<footnote id="fs-id1167583596900">SP Yazdankhah et al. “Triclosan and Antimicrobial Resistance in Bacteria: An Overview.” <emphasis effect="italics">Microbial Drug Resistance</emphasis> 12 no. 2 (2006):83–90.</footnote><footnote id="fs-id1167585130058">L. Birošová, M. Mikulášová. “Development of Triclosan and Antibiotic Resistance in <emphasis effect="italics">Salmonella enterica</emphasis> serovar Typhimurium.” <emphasis effect="italics">Journal of Medical Microbiology</emphasis> 58 no. 4 (2009):436–441.</footnote> Bacteria can easily gain resistance to triclosan through a change to a single gene encoding the targeted enzyme in the bacterial fatty acid-synthesis pathway. Other disinfectants with a less specific mode of action are much less prone to engendering resistance because it would take much more than a single genetic change.</para>
+<para id="fs-id1167581310114">Use of triclosan over the last several decades has also led to a buildup of the chemical in the environment. Triclosan in hand soap is directly introduced into wastewater and sewage systems as a result of the handwashing process. There, its antibacterial properties can inhibit or kill bacteria responsible for the decomposition of sewage, causing septic systems to clog and back up. Eventually, triclosan in wastewater finds its way into surface waters, streams, lakes, sediments, and soils, disrupting natural populations of bacteria that carry out important environmental functions, such as inhibiting algae. Triclosan also finds its way into the bodies of amphibians and fish, where it can act as an endocrine disruptor. Detectable levels of triclosan have also been found in various human bodily fluids, including breast milk, plasma, and urine.<footnote id="fs-id1167585158004">AB Dann, A. Hontela. “Triclosan: Environmental Exposure, Toxicity and Mechanisms of Action.” <emphasis effect="italics">Journal of Applied Toxicology</emphasis> 31 no. 4 (2011):285–311.</footnote> In fact, a study conducted by the CDC found detectable levels of triclosan in the urine of 75% of 2,517 people tested in 2003–2004.<footnote id="fs-id1167583595251">US Centers for Disease Control and Prevention. “Triclosan Fact Sheet.” 2013. http://www.cdc.gov/biomonitoring/Triclosan_FactSheet.html. Accessed June 9, 2016.</footnote> This finding is even more troubling given the evidence that triclosan may affect immune function in humans.<footnote id="fs-id1167585122488">EM Clayton et al. “The Impact of Bisphenol A and Triclosan on Immune Parameters in the US Population, NHANES 2003-2006.” <emphasis effect="italics">Environmental Health Perspectives</emphasis> 119 no. 3 (2011):390.</footnote></para>
+<para id="fs-id1167583937408">In December 2013, the FDA gave soap manufacturers until 2016 to prove that antibacterial soaps provide a significant benefit over traditional soaps; if unable to do so, manufacturers will be forced to remove these products from the market.</para>
+<figure id="OSC_Microbio_13_03_Triclosan">
+<media id="fs-id1167583536327" alt="A chemical structure of triclosan. Two carbon rings (6 carbons) connected by an oxygen; each ring has 2 more oxygens bound to it. A photo of someone washing their hands.">
+<image mime-type="image/png" src="../../media/OSC_Microbio_13_03_Triclosan.png"/>
+</media>
+<caption>Triclosan is a common ingredient in antibacterial soaps despite evidence that it poses environmental and health risks and offers no significant health benefit compared to conventional soaps. (credit b: modification of work by FDA; c: Michelle Gigante/US Air Force; Public Domain.)</caption>
+</figure>
+</note>
+<note id="fs-id1167583510009" class="microbiology check-your-understanding">
+<list id="fs-id1167584926166" list-type="bulleted" bullet-style="bullet">
+<item>Why is triclosan more like an antibiotic than a traditional disinfectant?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167581369711">
+<title>Heavy Metals</title>
+<para id="fs-id1167581389921">Some of the first chemical disinfectants and antiseptics to be used were <term class="no-emphasis">heavy metals</term>. Heavy metals kill microbes by binding to proteins, thus inhibiting enzymatic activity (<link target-id="OSC_Microbio_13_03_HeavyMetal"/>). Heavy metals are oligodynamic, meaning that very small concentrations show significant antimicrobial activity. Ions of heavy metals bind to sulfur-containing amino acids strongly and bioaccumulate within cells, allowing these metals to reach high localized concentrations. This causes proteins to denature.</para>
+<para id="fs-id1167583520794">Heavy metals are not selectively toxic to microbial cells. They may bioaccumulate in human or animal cells, as well, and excessive concentrations can have toxic effects on humans. If too much silver accumulates in the body, for example, it can result in a condition called <term class="no-emphasis">argyria</term>, in which the skin turns irreversibly blue-gray. One way to reduce the potential toxicity of heavy metals is by carefully controlling the duration of exposure and concentration of the heavy metal.</para>
+<figure id="OSC_Microbio_13_03_HeavyMetal">
+<media id="fs-id1167583624930" alt="a) photo of a copper door handle. B) Picture of silver forks. C) Picture of an incubator d) picture of Listerine mouthwash. E) Picture of a person with gray skin.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_03_HeavyMetal.jpg"/>
+</media>
+<caption>Heavy metals denature proteins, impairing cell function and, thus, giving them strong antimicrobial properties. (a) Copper in fixtures like this door handle kills microbes that otherwise might accumulate on frequently touched surfaces. (b) Eating utensils contain small amounts of silver to inhibit microbial growth. (c) Copper commonly lines incubators to minimize contamination of cell cultures stored inside. (d) Antiseptic mouthwashes commonly contain zinc chloride. (e) This patient is suffering from argyria, an irreversible condition caused by bioaccumulation of silver in the body. (credit b: modification of work by “Shoshanah”/Flickr; credit e: modification of work by Herbert L. Fred and Hendrik A. van Dijk)</caption>
+</figure>
+<section id="fs-id1167583971609">
+<title>Mercury</title>
+<para id="fs-id1167585158962">Mercury is an example of a heavy metal that has been used for many years to control microbial growth. It was used for many centuries to treat syphilis. Mercury compounds like <term class="no-emphasis">mercuric chloride</term> are mainly <term class="no-emphasis">bacteriostatic</term> and have a very broad spectrum of activity. Various forms of <term class="no-emphasis">mercury</term> bind to sulfur-containing amino acids within proteins, inhibiting their functions.</para>
+<para id="fs-id1167583695739">In recent decades, the use of such compounds has diminished because of mercury’s toxicity. It is toxic to the central nervous, digestive, and renal systems at high concentrations, and has negative environmental effects, including bioaccumulation in fish. Topical antiseptics such as <term class="no-emphasis">mercurochrome</term>, which contains mercury in low concentrations, and <term class="no-emphasis">merthiolate</term>, a <term>tincture</term> (a solution of mercury dissolved in alcohol) were once commonly used. However, because of concerns about using mercury compounds, these antiseptics are no longer sold in the United States.</para>
+</section>
+<section id="fs-id1167583684922">
+<title>Silver</title>
+<para id="fs-id1167584866473">Silver has long been used as an antiseptic. In ancient times, drinking water was stored in <term class="no-emphasis">silver</term> jugs.<footnote id="fs-id1167583697233">N. Silvestry-Rodriguez et al. “Silver as a Disinfectant.” In <emphasis effect="italics">Reviews of Environmental Contamination and Toxicology</emphasis>, pp. 23-45. Edited by GW Ware and DM Whitacre. New York: Springer, 2007.</footnote> Silvadene cream is commonly used to treat topical wounds and is particularly helpful in preventing infection in burn wounds. Silver nitrate drops were once routinely applied to the eyes of newborns to protect against <term class="no-emphasis">ophthalmia neonatorum</term>, eye infections that can occur due to exposure to pathogens in the birth canal, but antibiotic creams are more now commonly used. Silver is often combined with antibiotics, making the antibiotics thousands of times more effective.<footnote id="fs-id1167583560082">B. Owens. “Silver Makes Antibiotics Thousands of Times More Effective.” <emphasis effect="italics">Nature</emphasis> June 19 2013. http://www.nature.com/news/silver-makes-antibiotics-thousands-of-times-more-effective-1.13232</footnote> Silver is also commonly incorporated into catheters and bandages, rendering them antimicrobial; however, there is evidence that heavy metals may also enhance selection for antibiotic resistance.<footnote id="fs-id1167584848903">C. Seiler, TU Berendonk. “Heavy Metal Driven Co-Selection of Antibiotic Resistance in Soil and Water Bodies Impacted by Agriculture and Aquaculture.” <emphasis effect="italics">Frontiers in Microbiology</emphasis> 3 (2012):399.</footnote></para>
+</section>
+<section id="fs-id1167583692819">
+<title>Copper, Nickel, and Zinc</title>
+<para id="fs-id1167584689275">Several other heavy metals also exhibit antimicrobial activity. Copper sulfate is a common <term class="no-emphasis">algicide</term> used to control algal growth in swimming pools and fish tanks. The use of metallic <term class="no-emphasis">copper</term> to minimize microbial growth is also becoming more widespread. Copper linings in incubators help reduce contamination of cell cultures. The use of copper pots for water storage in underdeveloped countries is being investigated as a way to combat diarrheal diseases. Copper coatings are also becoming popular for frequently handled objects such as doorknobs, cabinet hardware, and other fixtures in health-care facilities in an attempt to reduce the spread of microbes.</para>
+<para id="fs-id1167583719491">Nickel and zinc coatings are now being used in a similar way. Other forms of zinc, including <term class="no-emphasis">zinc chloride</term> and <term class="no-emphasis">zinc oxide</term>, are also used commercially. Zinc chloride is quite safe for humans and is commonly found in mouthwashes, substantially increasing their length of effectiveness. Zinc oxide is found in a variety of products, including topical antiseptic creams such as calamine lotion, diaper ointments, baby powder, and dandruff shampoos.</para>
+<note id="fs-id1167581317152" class="microbiology check-your-understanding">
+<list id="fs-id1167584956380" list-type="bulleted" bullet-style="bullet">
+<item>Why are many heavy metals both antimicrobial and toxic to humans?</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1167584948804">
+<title>Halogens</title>
+<para id="fs-id1167584914580">Other chemicals commonly used for disinfection are the <term class="no-emphasis">halogens</term> <term class="no-emphasis">iodine</term>, <term class="no-emphasis">chlorine</term>, and <term class="no-emphasis">fluorine</term>. Iodine works by oxidizing cellular components, including sulfur-containing amino acids, nucleotides, and fatty acids, and destabilizing the macromolecules that contain these molecules. It is often used as a topical tincture, but it may cause staining or skin irritation. An <term>iodophor</term> is a compound of iodine complexed with an organic molecule, thereby increasing iodine’s stability and, in turn, its efficacy. One common iodophor is <term class="no-emphasis">povidone-iodine</term>, which includes a wetting agent that releases iodine relatively slowly. Betadine is a brand of povidone-iodine commonly used as a hand scrub by medical personnel before surgery and for topical antisepsis of a patient’s skin before incision (<link target-id="OSC_Microbio_13_03_Betadine"/>).</para>
+<figure id="OSC_Microbio_13_03_Betadine">
+<media id="fs-id1167584938023" alt="a) Chemical structure of betadine. B) picture of a medical professional putting orange paste on a patient.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_03_Betadine.jpg"/>
+</media>
+<caption>(a) Betadine is a solution of the iodophor povidone-iodine. (b) It is commonly used as a topical antiseptic on a patient’s skin before incision during surgery. (credit b: modification of work by Andrew Ratto)</caption>
+</figure>
+<para id="fs-id1167585074820">Chlorine is another halogen commonly used for disinfection. When chlorine gas is mixed with water, it produces a strong oxidant called hypochlorous acid, which is uncharged and enters cells easily. Chlorine gas is commonly used in municipal drinking water and wastewater treatment plants, with the resulting hypochlorous acid producing the actual antimicrobial effect. Those working at water treatment facilities need to take great care to minimize personal exposure to chlorine gas. Sodium hypochlorite is the chemical component of common household <term class="no-emphasis">bleach</term>, and it is also used for a wide variety of disinfecting purposes. Hypochlorite salts, including sodium and calcium hypochlorites, are used to disinfect swimming pools. Chlorine gas, sodium hypochlorite, and calcium hypochlorite are also commonly used disinfectants in the food processing and restaurant industries to reduce the spread of foodborne diseases. Workers in these industries also need to take care to use these products correctly to ensure their own safety as well as the safety of consumers. A recent joint statement published by the Food and Agriculture Organization (FAO) of the United Nations and WHO indicated that none of the many beneficial uses of chlorine products in food processing to reduce the spread of foodborne illness posed risks to consumers.<footnote id="fs-id1167583717615">World Health Organization. “Benefits and Risks of the Use of Chlorine-Containing Disinfectants in Food Production and Food Processing: Report of a Joint FAO/WHO Expert Meeting.” Geneva, Switzerland: World Health Organization, 2009.</footnote></para>
+<para id="fs-id1167585012336">Another class of chlorinated compounds called <term class="no-emphasis">chloramines</term> are widely used as disinfectants. Chloramines are relatively stable, releasing chlorine over long periods time. Chloramines are derivatives of ammonia by substitution of one, two, or all three hydrogen atoms with chlorine atoms (<link target-id="OSC_Microbio_13_02_chloram"/>).</para>
+<figure id="OSC_Microbio_13_02_chloram">
+<media id="fs-id1167583864081" alt="Ammonia has an N and 3 Hs.  Chloramine has an N, 2 Hs and 1 Cl.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_02_chloram.jpg"/>
+</media>
+<caption>Monochloroamine, one of the chloramines, is derived from ammonia by the replacement of one hydrogen atom with a chlorine atom.</caption>
+</figure>
+<para id="fs-id1167584765678">Chloramines and other cholorine compounds may be used for disinfection of drinking water, and chloramine tablets are frequently used by the military for this purpose. After a natural disaster or other event that compromises the public water supply, the CDC recommends disinfecting tap water by adding small amounts of regular household bleach. Recent research suggests that sodium dichloroisocyanurate (NaDCC) may also be a good alternative for drinking water disinfection. Currently, NaDCC tablets are available for general use and for use by the military, campers, or those with emergency needs; for these uses, NaDCC is preferable to chloramine tablets. Chlorine dioxide, a gaseous agent used for fumigation and sterilization of enclosed areas, is also commonly used for the disinfection of water.</para>
+<para id="fs-id1167584822631">Although chlorinated compounds are relatively effective disinfectants, they have their disadvantages. Some may irritate the skin, nose, or eyes of some individuals, and they may not completely eliminate certain hardy organisms from contaminated drinking water. The protozoan parasite <term class="no-emphasis"><emphasis effect="italics">Cryptosporidium</emphasis></term>, for example, has a protective outer shell that makes it resistant to chlorinated disinfectants. Thus, boiling of drinking water in emergency situations is recommended when possible.</para><para id="fs-id1167585124828">The halogen fluorine is also known to have antimicrobial properties that contribute to the prevention of <term class="no-emphasis">dental caries</term> (cavities).<footnote id="fs-id1167585128754">RE Marquis. “Antimicrobial Actions of Fluoride for Oral Bacteria.” <emphasis effect="italics">Canadian Journal of Microbiology</emphasis> 41 no. 11 (1995):955–964.</footnote> Fluoride is the main active ingredient of toothpaste and is also commonly added to tap water to help communities maintain oral health. Chemically, <term class="no-emphasis">fluoride</term> can become incorporated into the hydroxyapatite of tooth enamel, making it more resistant to corrosive acids produced by the fermentation of oral microbes. Fluoride also enhances the uptake of calcium and phosphate ions in tooth enamel, promoting remineralization. In addition to strengthening enamel, fluoride also seems to be bacteriostatic. It accumulates in plaque-forming bacteria, interfering with their metabolism and reducing their production of the acids that contribute to tooth decay.</para>
+<note id="fs-id1167583564448" class="microbiology check-your-understanding">
+<list id="fs-id1167585037464" list-type="bulleted" bullet-style="bullet">
+<item>What is a benefit of a chloramine over hypochlorite for disinfecting?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167581383711">
+<title>Alcohols</title>
+<para id="fs-id1167585113966">Alcohols make up another group of chemicals commonly used as disinfectants and antiseptics. They work by rapidly denaturing proteins, which inhibits cell metabolism, and by disrupting membranes, which leads to cell lysis. Once denatured, the proteins may potentially refold if enough water is present in the solution. Alcohols are typically used at concentrations of about 70% aqueous solution and, in fact, work better in aqueous solutions than 100% alcohol solutions. This is because alcohols coagulate proteins. In higher alcohol concentrations, rapid coagulation of surface proteins prevents effective penetration of cells. The most commonly used alcohols for disinfection are <term class="no-emphasis">ethyl alcohol</term> (ethanol) and <term class="no-emphasis">isopropyl alcohol</term> (isopropanol, rubbing alcohol) (<link target-id="OSC_Microbio_13_03_Alcohols"/>).</para>
+<para id="fs-id1167583596358">Alcohols tend to be bactericidal and fungicidal, but may also be viricidal for enveloped viruses only. Although alcohols are not sporicidal, they do inhibit the processes of sporulation and germination. Alcohols are volatile and dry quickly, but they may also cause skin irritation because they dehydrate the skin at the site of application. One common clinical use of alcohols is swabbing the skin for degerming before needle injection. Alcohols also are the active ingredients in instant <term class="no-emphasis">hand sanitizer</term>s, which have gained popularity in recent years. The alcohol in these hand sanitizers works both by denaturing proteins and by disrupting the microbial cell membrane, but will not work effectively in the presence of visible dirt.</para>
+<para id="fs-id1167584867090">Last, alcohols are used to make <term class="no-emphasis">tincture</term>s with other antiseptics, such as the iodine tinctures discussed previously in this chapter. All in all, alcohols are inexpensive and quite effective for the disinfection of a broad range of vegetative microbes. However, one disadvantage of alcohols is their high volatility, limiting their effectiveness to immediately after application.</para>
+<figure id="OSC_Microbio_13_03_Alcohols">
+<media id="fs-id1167585167603" alt="a) Ethyl alcohol has 2 C’s and an OH.  B) Isopropyl alcohol has 3 C’s and an OH.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_03_Alcohols.jpg"/>
+</media>
+<caption>(a) Ethyl alcohol, the intoxicating ingredient found in alcoholic drinks, is also used commonly as a disinfectant. (b) Isopropyl alcohol, also called rubbing alcohol, has a related molecular structure and is another commonly used disinfectant. (credit a photo: modification of work by D Coetzee; credit b photo: modification of work by Craig Spurrier)</caption>
+</figure>
+<note id="fs-id1167584773426" class="microbiology check-your-understanding">
+<list id="fs-id1167585023529" list-type="bulleted" bullet-style="bullet">
+<item>Name at least three advantages of alcohols as disinfectants.</item>
+<item>Describe several specific applications of alcohols used in disinfectant products.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167585111193">
+<title>Surfactants</title>
+<para id="fs-id1167584958213">Surface-active agents, or <term>surfactants</term>, are a group of chemical compounds that lower the surface tension of water. Surfactants are the major ingredients in <term class="no-emphasis">soaps</term> and <term class="no-emphasis">detergents</term>. Soaps are salts of long-chain fatty acids and have both polar and nonpolar regions, allowing them to interact with polar and nonpolar regions in other molecules (<link target-id="OSC_Microbio_13_03_soap"/>). They can interact with nonpolar oils and grease to create emulsions in water, loosening and lifting away dirt and microbes from surfaces and skin. Soaps do not kill or inhibit microbial growth and so are not considered antiseptics or disinfectants. However, proper use of soaps mechanically carries away microorganisms, effectively <term class="no-emphasis">degerming</term> a surface. Some soaps contain added bacteriostatic agents such as <term class="no-emphasis">triclocarban</term> or <term class="no-emphasis">cloflucarban</term>, compounds structurally related to triclosan, that introduce <term class="no-emphasis">antiseptic</term> or <term class="no-emphasis">disinfectant</term> properties to the soaps.</para>
+<figure id="OSC_Microbio_13_03_soap">
+<media id="fs-id1167583709555" alt="A chemical structure with a long carbon chain and two oxygens at one end. The end with the oxygens is the hydrophobic head which shuns hydrocarbon-like substances but is attracted to water molecules. Thi sis the anionic portion of the molecule. The long carbon chains are the hydrophilic tail which shuns water but is attracted to oily greasy hydrocarbon-like substances.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_03_soap.jpg"/>
+</media>
+<caption>Soaps are the salts (sodium salt in the illustration) of fatty acids and have the ability to emulsify lipids, fats, and oils by interacting with water through their hydrophilic heads and with the lipid at their hydrophobic tails.</caption>
+</figure>
+<para id="fs-id1167583724325">Soaps, however, often form films that are difficult to rinse away, especially in hard water, which contains high concentrations of calcium and magnesium mineral salts. Detergents contain synthetic surfactant molecules with both polar and nonpolar regions that have strong cleansing activity but are more soluble, even in hard water, and, therefore, leave behind no soapy deposits. Anionic <term class="no-emphasis">detergents</term>, such as those used for laundry, have a negatively charged anion at one end attached to a long hydrophobic chain, whereas cationic detergents have a positively charged cation instead. Cationic detergents include an important class of disinfectants and antiseptics called the <term>quaternary ammonium salts (quats)</term>, named for the characteristic quaternary nitrogen atom that confers the positive charge (<link target-id="OSC_Microbio_13_03_Quats"/>). Overall, quats have properties similar to phospholipids, having hydrophilic and hydrophobic ends. As such, quats have the ability to insert into the bacterial phospholipid bilayer and disrupt membrane integrity. The cationic charge of quats appears to confer their antimicrobial properties, which are diminished when neutralized. Quats have several useful properties. They are stable, nontoxic, inexpensive, colorless, odorless, and tasteless. They tend to be bactericidal by disrupting membranes. They are also active against fungi, protozoans, and enveloped viruses, but endospores are unaffected. In clinical settings, they may be used as antiseptics or to disinfect surfaces. Mixtures of quats are also commonly found in household cleaners and disinfectants, including many current formulations of Lysol brand products, which contain <term class="no-emphasis">benzalkonium chlorides</term> as the active ingredients. Benzalkonium chlorides, along with the quat <term class="no-emphasis">cetylpyrimidine chloride</term>, are also found in products such as skin antiseptics, oral rinses, and mouthwashes.</para>
+<figure id="OSC_Microbio_13_03_Quats">
+<media id="fs-id1167584926225" alt="A) A diagram of cetylpyridinum – a ring with 5 carbons and a nitrogen. The nitrogen is attached to a long carbon chain. Chemical structure of Benzalkonium – a six carbon ring. One carbon is attached to a carbon that is attached to a nitrogen which is attached to a long carbon chain. B) An image of surfactant molecules entering a membrane and breaking the membrane apart.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_03_Quats.jpg"/>
+</media>
+<caption>(a) Two common quats are benzylalkonium chloride and cetylpyrimidine chloride. Note the hydrophobic nonpolar carbon chain at one end and the nitrogen-containing cationic component at the other end. (b) Quats are able to infiltrate the phospholipid plasma membranes of bacterial cells and disrupt their integrity, leading to death of the cell.</caption>
+</figure>
+<note id="fs-id1167581298552" class="microbiology check-your-understanding">
+<list id="fs-id1167583720348" list-type="bulleted" bullet-style="bullet">
+<item>Why are soaps not considered disinfectants?</item>
+</list>
+</note>
+<note id="fs-id1167583623450" class="microbiology micro-connection">
+<title>Handwashing the Right Way</title>
+<para id="fs-id1167583648038">Handwashing is critical for public health and should be emphasized in a clinical setting. For the general public, the CDC recommends <term class="no-emphasis">handwashing</term> before, during, and after food handling; before eating; before and after interacting with someone who is ill; before and after treating a wound; after using the toilet or changing diapers; after coughing, sneezing, or blowing the nose; after handling garbage; and after interacting with an animal, its feed, or its waste. <link target-id="OSC_Microbio_13_03_HandwashAB"/> illustrates the five steps of proper handwashing recommended by the CDC.</para>
+<para id="fs-id1167583832832">Handwashing is even more important for health-care workers, who should wash their hands thoroughly between every patient contact, after the removal of gloves, after contact with bodily fluids and potentially infectious fomites, and before and after assisting a surgeon with invasive procedures. Even with the use of proper surgical attire, including gloves, scrubbing for surgery is more involved than routine handwashing. The goal of <term class="no-emphasis">surgical scrubbing</term> is to reduce the normal microbiota on the skin’s surface to prevent the introduction of these microbes into a patient’s surgical wounds.</para>
+<para id="fs-id1167585012602">There is no single widely accepted protocol for surgical scrubbing. Protocols for length of time spent scrubbing may depend on the antimicrobial used; health-care workers should always check the manufacturer’s recommendations. According to the Association of Surgical Technologists (AST), surgical scrubs may be performed with or without the use of brushes (<link target-id="OSC_Microbio_13_03_HandwashAB"/>).</para>
+<figure id="OSC_Microbio_13_03_HandwashAB">
+<media id="fs-id1167583560894" alt="a) CDC handwashing recommendations for the general public. 1 – wet your hands with clean, running water (warm or cold). Turn off the tap and apply soap. 2 – Lather your hands by rubbing them together with the soap. Be sure to lather the backs of your hands, between your fingers and under your nails. 3 – Scrub your hands for at least 20 seconds. Need a timer? Hum the “Happy birthday” song from beginning to end twice. 4 – Rinse your hands well under clean, running water. 5 – Dry your hands using a clean towel or air-dry them. B) A photo of a person washing their hands.">
+<image mime-type="image/png" src="../../media/OSC_Microbio_13_03_HandwashAB.png"/>
+</media>
+<caption>(a) The CDC recommends five steps as part of typical handwashing for the general public. (b) Surgical scrubbing is more extensive, requiring scrubbing starting from the fingertips, extending to the hands and forearms, and then up beyond the elbows, as shown here. (credit a: modification of work by World Health Organization; credit b: b: Staff Sgt. Kevin Iinuma / US Air Force; Public Domain)</caption>
+</figure>
+</note>
+<note id="fs-id1167583871109" class="microbiology link-to-learning">
+
+<para id="fs-id1167583786798">To <link url="https://openstax.org/l/22CDChandwash">learn more</link> about proper handwashing, visit the CDC’s website.</para>
+</note>
+</section>
+<section id="fs-id1167584908588">
+<title>Bisbiguanides</title>
+<para id="fs-id1167583544591">Bisbiguanides were first synthesized in the 20th century and are cationic (positively charged) molecules known for their antiseptic properties (<link target-id="OSC_Microbio_13_03_bisbi"/>). One important <term>bisbiguanide</term> antiseptic is <term class="no-emphasis">chlorhexidine</term>. It has broad-spectrum activity against yeasts, gram-positive bacteria, and gram-negative bacteria, with the exception of <term class="no-emphasis"><emphasis effect="italics">Pseudomonas aeruginosa</emphasis></term>, which may develop resistance on repeated exposure.<footnote id="fs-id1167583532489">L. Thomas et al. “Development of Resistance to Chlorhexidine Diacetate in <emphasis effect="italics">Pseudomonas aeruginosa</emphasis> and the Effect of a ‘Residual’ Concentration.” <emphasis effect="italics">Journal of Hospital Infection</emphasis> 46 no. 4 (2000):297–303.</footnote> Chlorhexidine disrupts cell membranes and is bacteriostatic at lower concentrations or bactericidal at higher concentrations, in which it actually causes the cells’ cytoplasmic contents to congeal. It also has activity against enveloped viruses. However, chlorhexidine is poorly effective against <term class="no-emphasis"><emphasis effect="italics">Mycobacterium tuberculosis</emphasis></term> and nonenveloped viruses, and it is not sporicidal. Chlorhexidine is typically used in the clinical setting as a surgical scrub and for other handwashing needs for medical personnel, as well as for topical antisepsis for patients before surgery or needle injection. It is more persistent than iodophors, providing long-lasting antimicrobial activity. Chlorhexidine solutions may also be used as oral rinses after oral procedures or to treat gingivitis. Another bisbiguanide, <term class="no-emphasis">alexidine</term>, is gaining popularity as a surgical scrub and an oral rinse because it acts faster than chlorhexidine.</para>
+<figure id="OSC_Microbio_13_03_bisbi">
+<media id="fs-id1167584650493" alt="Chemical structure of chlorhexidine. A 6 carbon ring with CL on one carbon; on the other side of the ring is a chain of Nitrogens and carbon. Chemical structure of alexidine. A chain of carbons and nitrogens; the very end has a branch with 2 carbon chains.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_03_bisbi.jpg"/>
+</media>
+<caption>The bisbiguanides chlorhexadine and alexidine are cationic antiseptic compounds commonly used as surgical scrubs.</caption>
+</figure>
+<note id="fs-id1167584972518" class="microbiology check-your-understanding">
+<list id="fs-id1167585004628" list-type="bulleted" bullet-style="bullet">
+<item>What two effects does chlorhexidine have on bacterial cells?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167583687857">
+<title>Alkylating Agents</title>
+<para id="fs-id1167583607394">The <term>alkylating agent</term>s are a group of strong disinfecting chemicals that act by replacing a hydrogen atom within a molecule with an alkyl group (C<sub>n</sub>H<sub>2n+1</sub>), thereby inactivating enzymes and nucleic acids (<link target-id="OSC_Microbio_13_03_Alkylators"/>). The alkylating agent formaldehyde (CH<sub>2</sub>OH) is commonly used in solution at a concentration of 37% (known as <term class="no-emphasis">formalin</term>) or as a gaseous disinfectant and biocide. It is a strong, broad-spectrum disinfectant and biocide that has the ability to kill bacteria, viruses, fungi, and endospores, leading to sterilization at low temperatures, which is sometimes a convenient alternative to the more labor-intensive heat sterilization methods. It also cross-links proteins and has been widely used as a chemical fixative. Because of this, it is used for the storage of tissue specimens and as an embalming fluid. It also has been used to inactivate infectious agents in vaccine preparation. Formaldehyde is very irritating to living tissues and is also carcinogenic; therefore, it is not used as an antiseptic.</para>
+<para id="fs-id1167583611604">Glutaraldehyde is structurally similar to formaldehyde but has two reactive aldehyde groups, allowing it to act more quickly than formaldehyde. It is commonly used as a 2% solution for sterilization and is marketed under the brand name Cidex. It is used to disinfect a variety of surfaces and surgical and medical equipment. However, similar to formaldehyde, glutaraldehyde irritates the skin and is not used as an antiseptic.</para>
+<para id="fs-id1167584874268">A new type of disinfectant gaining popularity for the disinfection of medical equipment is <term class="no-emphasis">o-phthalaldehyde</term> (OPA), which is found in some newer formulations of Cidex and similar products, replacing glutaraldehyde. o-Phthalaldehyde also has two reactive aldehyde groups, but they are linked by an aromatic bridge. o-Phthalaldehyde is thought to work similarly to glutaraldehyde and formaldehyde, but is much less irritating to skin and nasal passages, produces a minimal odor, does not require processing before use, and is more effective against mycobacteria.</para>
+<para id="fs-id1167583830797"><term class="no-emphasis">Ethylene oxide</term> is a type of alkylating agent that is used for gaseous sterilization. It is highly penetrating and can sterilize items within plastic bags such as catheters, disposable items in laboratories and clinical settings (like packaged Petri dishes), and other pieces of equipment. Ethylene oxide exposure is a form of cold sterilization, making it useful for the sterilization of heat-sensitive items. Great care needs to be taken with the use of ethylene oxide, however; it is carcinogenic, like the other alkylating agents, and is also highly explosive. With careful use and proper aeration of the products after treatment, ethylene oxide is highly effective, and ethylene oxide sterilizers are commonly found in medical settings for sterilizing packaged materials.</para>
+<para id="fs-id1167585073785">β-Propionolactone is an alkylating agent with a different chemical structure than the others already discussed. Like other alkylating agents, <term class="no-emphasis">β-propionolactone</term> binds to DNA, thereby inactivating it (<link target-id="OSC_Microbio_13_03_Alkylators"/>). It is a clear liquid with a strong odor and has the ability to kill endospores. As such, it has been used in either liquid form or as a vapor for the sterilization of medical instruments and tissue grafts, and it is a common component of vaccines, used to maintain their sterility. It has also been used for the sterilization of nutrient broth, as well as blood plasma, milk, and water. It is quickly metabolized by animals and humans to lactic acid. It is also an irritant, however, and may lead to permanent damage of the eyes, kidneys, or liver. Additionally, it has been shown to be carcinogenic in animals; thus, precautions are necessary to minimize human exposure to β-propionolactone.<footnote id="fs-id1167584989488">Institute of Medicine. “Long-Term Health Effects of Participation in Project SHAD (Shipboard Hazard and Defense).” Washington, DC: The National Academies Press, 2007.</footnote></para>
+<figure id="OSC_Microbio_13_03_Alkylators">
+<media id="fs-id1167584952109" alt="a) Guanine has 2 carbon and nitrogen rings. If the hydrogen atoms are changed to alkyl groups, the guanine bonds to thymine. B) formeldahyde has 1 carbon, glutaraldehyde has 5 carbons, o-phthalaldehyde has a carbon ring with 2 carbons off the ring, ethylelene oxide has 2 carbons and an oxygen forming a triange. Beta-propionolactone has 3 carbons and an oxygen forming a square.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_03_Alkylators.jpg"/>
+</media>
+<caption>(a) Alkylating agents replace hydrogen atoms with alkyl groups. Here, guanine is alkylated, resulting in its hydrogen bonding with thymine, instead of cytosine. (b) The chemical structures of several alkylating agents.</caption>
+</figure>
+<note id="fs-id1167585132542" class="microbiology check-your-understanding">
+<list id="fs-id1167583806693" list-type="bulleted" bullet-style="bullet">
+<item>What chemical reaction do alkylating agents participate in?</item>
+<item>Why are alkylating agents not used as antiseptics?</item>
+</list>
+</note>
+<note id="fs-id1167583689614" class="microbiology micro-connection">
+<title>Diehard Prions</title>
+<para id="fs-id1167581340939">Prions, the acellular, misfolded proteins responsible for incurable and fatal diseases such as kuru and Creutzfeldt-Jakob disease (see <link document="m58811">Viroids, Virusoids, and Prions</link>), are notoriously difficult to destroy. Prions are extremely resistant to heat, chemicals, and radiation. They are also extremely infectious and deadly; thus, handling and disposing of prion-infected items requires extensive training and extreme caution.</para>
+<para id="fs-id1167584632745">Typical methods of disinfection can reduce but not eliminate the infectivity of prions. Autoclaving is not completely effective, nor are chemicals such as phenol, alcohols, formalin, and β-propiolactone. Even when fixed in formalin, affected brain and spinal cord tissues remain infectious.</para>
+<para id="fs-id1167583883543">Personnel who handle contaminated specimens or equipment or work with infected patients must wear a protective coat, face protection, and cut-resistant gloves. Any contact with skin must be immediately washed with detergent and warm water without scrubbing. The skin should then be washed with 1 N NaOH or a 1:10 dilution of bleach for 1 minute. Contaminated waste must be incinerated or autoclaved in a strong basic solution, and instruments must be cleaned and soaked in a strong basic solution.</para>
+</note>
+<note id="fs-id1167585039817" class="microbiology link-to-learning">
+
+<para id="fs-id1167583509632">For more information on the handling of animals and prion-contaminated materials, visit the guidelines published on the <link url="https://openstax.org/l/22WHOhandanipri">WHO</link> website.</para>
+</note>
+</section>
+<section id="fs-id1167585099009">
+<title>Peroxygens</title>
+<para id="fs-id1167583630839">Peroxygens are strong oxidizing agents that can be used as disinfectants or antiseptics. The most widely used <term>peroxygen</term> is <term class="no-emphasis">hydrogen peroxide</term> (H<sub>2</sub>O<sub>2</sub>), which is often used in solution to disinfect surfaces and may also be used as a gaseous agent. Hydrogen peroxide solutions are inexpensive skin antiseptics that break down into water and oxygen gas, both of which are environmentally safe. This decomposition is accelerated in the presence of light, so hydrogen peroxide solutions typically are sold in brown or opaque bottles. One disadvantage of using hydrogen peroxide as an antiseptic is that it also causes damage to skin that may delay healing or lead to scarring. Contact lens cleaners often include hydrogen peroxide as a disinfectant.</para>
+<para id="fs-id1167583815560">Hydrogen peroxide works by producing free radicals that damage cellular macromolecules. Hydrogen peroxide has broad-spectrum activity, working against gram-positive and gram-negative bacteria (with slightly greater efficacy against gram-positive bacteria), fungi, viruses, and endospores. However, bacteria that produce the oxygen-detoxifying enzymes <term class="no-emphasis">catalase</term> or <term class="no-emphasis">peroxidase</term> may have inherent tolerance to low hydrogen peroxide concentrations (<link target-id="OSC_Microbio_13_03_Catalase"/>). To kill endospores, the length of exposure or concentration of solutions of hydrogen peroxide must be increased. Gaseous hydrogen peroxide has greater efficacy and can be used as a <term class="no-emphasis">sterilant</term> for rooms or equipment.</para>
+<figure id="OSC_Microbio_13_03_Catalase">
+<media id="fs-id1167585175826" alt="A chemical equation showing hydrogen peroxide being broken down to water and oxygen by catalase. Below is an image of hydrogen peroxide in a bottle and contact cleaner.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_03_Catalase.jpg"/>
+</media>
+<caption>Catalase enzymatically converts highly reactive hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) into water and oxygen. Hydrogen peroxide can be used to clean wounds. Hydrogen peroxide is used to sterilize items such as contact lenses. (credit photos: modification of work by Kerry Ceszyk)</caption>
+</figure>
+<para id="fs-id1167583959996">Plasma, a hot, ionized gas, described as the fourth state of matter, is useful for sterilizing equipment because it penetrates surfaces and kills vegetative cells and endospores. Hydrogen peroxide and <term class="no-emphasis">peracetic acid</term>, another commonly used peroxygen, each may be introduced as a plasma. Peracetic acid can be used as a liquid or plasma sterilant insofar as it readily kills endospores, is more effective than hydrogen peroxide even at rather low concentrations, and is immune to inactivation by catalases and peroxidases. It also breaks down to environmentally innocuous compounds; in this case, acetic acid and oxygen.</para>
+<para id="fs-id1167585159346">Other examples of peroxygens include <term class="no-emphasis">benzoyl peroxide</term> and <term class="no-emphasis">carbamide peroxide</term>. Benzoyl peroxide is a peroxygen that used in acne medication solutions. It kills the bacterium <term class="no-emphasis"><emphasis effect="italics"><emphasis effect="italics">Propionibacterium acnes</emphasis></emphasis></term>, which is associated with acne. Carbamide peroxide, an ingredient used in toothpaste, is a peroxygen that combats oral biofilms that cause tooth discoloration and halitosis (bad breath).<footnote id="fs-id1167583928938">Yao, C.S. et al. “In vitro antibacterial effect of carbamide peroxide on oral biofilm.” <emphasis effect="italics">Journal of Oral Microbiology</emphasis> Jun 12, 2013. http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3682087/. doi: 10.3402/jom.v5i0.20392.</footnote> Last, <term class="no-emphasis">ozone</term> gas is a peroxygen with disinfectant qualities and is used to clean air or water supplies. Overall, peroxygens are highly effective and commonly used, with no associated environmental hazard.</para>
+<note id="fs-id1167584894474" class="microbiology check-your-understanding">
+<list id="fs-id1167583757156" list-type="bulleted" bullet-style="bullet">
+<item>How do peroxides kill cells?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167584979662">
+<title>Supercritical Fluids</title>
+<para id="fs-id1167581301785">Within the last 15 years, the use of <term>supercritical fluids</term>, especially supercritical carbon dioxide (scCO<sub>2</sub>), has gained popularity for certain sterilizing applications. When carbon dioxide is brought to approximately 10 times atmospheric pressure, it reaches a supercritical state that has physical properties between those of liquids and gases. Materials put into a chamber in which carbon dioxide is pressurized in this way can be sterilized because of the ability of scCO<sub>2</sub> to penetrate surfaces.</para>
+<para id="fs-id1167585061370">Supercritical carbon dioxide works by penetrating cells and forming <term class="no-emphasis">carbonic acid</term>, thereby lowering the cell pH considerably. This technique is effective against vegetative cells and is also used in combination with peracetic acid to kill endospores. Its efficacy can also be augmented with increased temperature or by rapid cycles of pressurization and depressurization, which more likely produce cell lysis.</para>
+<para id="fs-id1167584703664">Benefits of scCO<sub>2</sub> include the nonreactive, nontoxic, and nonflammable properties of carbon dioxide, and this protocol is effective at low temperatures. Unlike other methods, such as heat and irradiation, that can degrade the object being sterilized, the use of scCO<sub>2</sub> preserves the object’s integrity and is commonly used for treating foods (including spices and juices) and medical devices such as endoscopes. It is also gaining popularity for disinfecting tissues such as skin, bones, tendons, and ligaments prior to transplantation. scCO<sub>2</sub> can also be used for pest control because it can kill insect eggs and larvae within products.</para>
+<note id="fs-id1167584971703" class="microbiology check-your-understanding">
+<list id="fs-id1167583719701" list-type="bulleted" bullet-style="bullet">
+<item>Why is the use of supercritical carbon dioxide gaining popularity for commercial and medical uses?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167583730810">
+<title>Chemical Food Preservatives</title>
+<para id="fs-id1167585061056">Chemical <term class="no-emphasis">preservatives</term> are used to inhibit microbial growth and minimize spoilage in some foods. Commonly used chemical preservatives include <term class="no-emphasis">sorbic acid</term>, <term class="no-emphasis">benzoic acid</term>, and <term class="no-emphasis">propionic acid</term>, and their more soluble salts <term class="no-emphasis">potassium sorbate</term>, <term class="no-emphasis">sodium benzoate</term>, and <term class="no-emphasis">calcium propionate</term>, all of which are used to control the growth of molds in acidic foods. Each of these preservatives is nontoxic and readily metabolized by humans. They are also flavorless, so they do not compromise the flavor of the foods they preserve.</para>
+<para id="fs-id1167585020789">Sorbic and benzoic acids exhibit increased efficacy as the pH decreases. Sorbic acid is thought to work by inhibiting various cellular enzymes, including those in the citric acid cycle, as well as <term class="no-emphasis">catalases</term> and <term class="no-emphasis">peroxidases</term>. It is added as a preservative in a wide variety of foods, including dairy, bread, fruit, and vegetable products. Benzoic acid is found naturally in many types of fruits and berries, spices, and fermented products. It is thought to work by decreasing intracellular pH, interfering with mechanisms such as <term class="no-emphasis">oxidative phosphorylation</term> and the uptake of molecules such as amino acids into cells. Foods preserved with benzoic acid or sodium benzoate include fruit juices, jams, ice creams, pastries, soft drinks, chewing gum, and pickles.</para>
+<para id="fs-id1167584958515">Propionic acid is thought to both inhibit enzymes and decrease intracellular pH, working similarly to benzoic acid. However, propionic acid is a more effective preservative at a higher pH than either sorbic acid or benzoic acid. Propionic acid is naturally produced by some cheeses during their ripening and is added to other types of cheese and baked goods to prevent mold contamination. It is also added to raw dough to prevent contamination by the bacterium <term class="no-emphasis"><emphasis effect="italics">Bacillus mesentericus</emphasis></term>, which causes bread to become ropy.</para>
+<para id="fs-id1167585157316">Other commonly used chemical preservatives include <term class="no-emphasis">sulfur dioxide</term> and <term class="no-emphasis">nitrites</term>. Sulfur dioxide prevents browning of foods and is used for the preservation of dried fruits; it has been used in winemaking since ancient times. Sulfur dioxide gas dissolves in water readily, forming <term class="no-emphasis">sulfites</term>. Although sulfites can be metabolized by the body, some people have sulfite allergies, including asthmatic reactions. Additionally, sulfites degrade thiamine, an important nutrient in some foods. The mode of action of sulfites is not entirely clear, but they may interfere with the <term class="no-emphasis">disulfide bond</term> (see <link target-id="OSC_Microbio_07_04_tertiary" document="m58816"/>) formation in proteins, inhibiting enzymatic activity. Alternatively, they may reduce the intracellular pH of the cell, interfering with proton motive force-driven mechanisms.</para>
+<para id="fs-id1167583866304">Nitrites are added to processed meats to maintain color and stop the germination of <term class="no-emphasis"><emphasis effect="italics">Clostridium botulinum</emphasis></term> endospores. Nitrites are reduced to <term class="no-emphasis">nitric oxide</term>, which reacts with heme groups and iron-sulfur groups. When nitric oxide reacts with the heme group within the myoglobin of meats, a red product forms, giving meat its red color. Alternatively, it is thought that when nitric acid reacts with the iron-sulfur enzyme <term class="no-emphasis">ferredoxin</term> within bacteria, this electron transport-chain carrier is destroyed, preventing ATP synthesis. Nitrosamines, however, are carcinogenic and can be produced through exposure of nitrite-preserved meats (e.g., hot dogs, lunch meat, breakfast sausage, bacon, meat in canned soups) to heat during cooking.</para>
+<section id="fs-id1167583934022">
+<title>Natural Chemical Food Preservatives</title>
+<para id="fs-id1167585149605">The discovery of natural antimicrobial substances produced by other microbes has added to the arsenal of preservatives used in food. <term class="no-emphasis">Nisin</term> is an antimicrobial peptide produced by the bacterium <term class="no-emphasis"><emphasis effect="italics">Lactococcus lactis</emphasis></term> and is particularly effective against gram-positive organisms. Nisin works by disrupting cell wall production, leaving cells more prone to lysis. It is used to preserve cheeses, meats, and beverages.</para>
+<para id="fs-id1167584925620"><term class="no-emphasis">Natamycin</term> is an antifungal macrolide antibiotic produced by the bacterium <term class="no-emphasis"><emphasis effect="italics">Streptomyces natalensis</emphasis></term>. It was approved by the FDA in 1982 and is used to prevent fungal growth in various types of dairy products, including cottage cheese, sliced cheese, and shredded cheese. Natamycin is also used for meat preservation in countries outside the United States.</para>
+<note id="fs-id1167584698757" class="microbiology check-your-understanding">
+<list id="fs-id1167585083162" list-type="bulleted" bullet-style="bullet">
+<item>What are the advantages and drawbacks of using sulfites and nitrites as food preservatives?</item>
+</list>
+</note>
+</section>
+<table id="eip-412" class="unnumbered" summary="Chemical Disinfectants"><label/>
+<tgroup cols="3">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+  <entry rowsep="1" namest="c1" nameend="c3" align="center">Chemical
+  Disinfectants
+  </entry>
+ </row>
+ <row>
+  <entry rowsep="1">Chemical  </entry>
+  <entry rowsep="1">Mode of Action
+  </entry>
+  <entry rowsep="1">Example Uses </entry>
+ </row>
+ </thead><tbody>
+ <row>
+  <entry rowsep="1" namest="c1" nameend="c3">
+<emphasis>Phenolics</emphasis></entry>
+ </row>
+ <row>
+  <entry rowsep="1">
+Cresols<newline/>
+o-Phenylphenol<newline/>
+Hexachlorophene<newline/>
+Triclosan
+  </entry>
+  <entry rowsep="1">Denature proteins and disrupt membranes  </entry>
+  <entry rowsep="1">
+Disinfectant in Lysol<newline/>
+Prevent contamination of crops (citrus)<newline/>
+Antibacterial soap<newline/>
+pHisoHex for handwashing in hospitals
+  </entry>
+ </row>
+ <row>
+  <entry rowsep="1" namest="c1" nameend="c3">
+<emphasis>Metals</emphasis>
+  </entry>
+ </row>
+ <row>
+  <entry rowsep="1">
+Mercury<newline/>
+Silver<newline/>
+Copper<newline/>
+Nickel<newline/>
+Zinc  </entry>
+  <entry rowsep="1">
+Bind to proteins and inhibit enzyme activity
+  </entry>
+  <entry rowsep="1">
+Topical antiseptic<newline/>
+Treatment of wounds and burns<newline/>
+Prevention of eye infections in newborns<newline/>
+Antibacterial in catheters and bandages<newline/>
+Mouthwash<newline/>
+Algicide for pools and fish tanks<newline/>
+Containers for long-term water storage
+  </entry>
+ </row>
+ <row>
+  <entry rowsep="1">
+<emphasis>Halogens</emphasis>
+  </entry>
+ </row>
+ <row>
+  <entry rowsep="1">
+Iodine<newline/>
+Chlorine<newline/>
+Fluorine </entry>  <entry rowsep="1">
+Oxidation and destabilization of cellular macromolecules
+  </entry>
+  <entry rowsep="1">
+Topical antiseptic<newline/>
+Hand scrub for medical personnel<newline/>
+Water disinfectant<newline/>
+Water treatment plants<newline/>
+Household bleach<newline/>
+Food processing<newline/>
+Prevention of dental carries
+  </entry>
+ </row>
+ <row>
+  <entry rowsep="1" namest="c1" nameend="c3">
+<emphasis>Alcohols</emphasis>
+  </entry>
+ </row>
+ <row>
+  <entry rowsep="1">
+Ethanol <newline/>
+Isopropanol
+  </entry>
+  <entry rowsep="1">
+Denature proteins and disrupt membranes
+  </entry>
+  <entry rowsep="1">
+Disinfectant<newline/>
+Antiseptic
+  </entry>
+ </row>
+ <row>
+  <entry rowsep="1" namest="c1" nameend="c3">
+<emphasis>Surfactants</emphasis>
+  </entry>
+ </row>
+ <row>
+  <entry rowsep="1">Quaternary ammonium salts
+  </entry>
+  <entry rowsep="1">Lowers surface tension of water to help with washing away
+  of microbes, and disruption of cell membranes
+  </entry>
+  <entry rowsep="1">
+Soaps and detergent<newline/>
+Disinfectant<newline/>
+Antiseptic<newline/>
+Mouthwash
+  </entry>
+ </row>
+ <row>
+  <entry rowsep="1" namest="c1" nameend="c3">
+<emphasis>Bisbiguanides</emphasis>
+  </entry>
+ </row>
+ <row>
+  <entry rowsep="1">
+Chlorhexidine<newline/>
+Alexidine</entry>
+  <entry rowsep="1">
+Disruption of cell membranes</entry>
+  <entry rowsep="1">
+Oral rinse<newline/>
+Hand scrub for medical personnel
+  </entry>
+ </row>
+ <row>
+  <entry rowsep="1" namest="c1" nameend="c3">
+<emphasis>Alkylating Agents</emphasis>
+  </entry>
+ </row>
+ <row>
+  <entry rowsep="1">Formaldehyde<newline/>
+Glutaraldehyde<newline/>
+o-Phthalaldehyde<newline/>
+Ethylene oxide<newline/>
+β-Propionolactone
+  </entry>
+  <entry rowsep="1">Inactivation of enzymes and nucleic acid
+  </entry>
+  <entry rowsep="1">
+Disinfectant<newline/>
+Tissue specimen storage<newline/>
+Embalming<newline/>
+Sterilization of medical equipment<newline/>
+Vaccine component for sterility
+  </entry>
+ </row>
+ <row>
+  <entry rowsep="1" namest="c1" nameend="c3">
+<emphasis>Peroxygens</emphasis>
+  </entry>
+ </row>
+ <row>
+  <entry rowsep="1">
+Hydrogen peroxide<newline/>
+Peracetic acid<newline/>
+Benzoyl peroxide<newline/>
+Carbamide peroxide<newline/>
+Ozone gas
+  </entry>
+  <entry rowsep="1">
+Oxidation and destabilization of cellular macromolecules
+  </entry>
+  <entry rowsep="1">
+Antiseptic<newline/>
+Disinfectant<newline/>
+Acne medication<newline/>
+Toothpaste ingredient
+  </entry>
+ </row>
+ <row>
+  <entry rowsep="1" namest="c1" nameend="c3">
+<emphasis>Supercritical Gases</emphasis> </entry> </row>
+ <row>
+  <entry rowsep="1">
+Carbon dioxide </entry>  <entry rowsep="1">
+Penetrates cells, forms carbonic acid, lowers
+  intracellular pH </entry>  <entry rowsep="1">
+Food preservation<newline/>
+Disinfection of medical devices<newline/>
+Disinfection of transplant tissues </entry> </row>
+ <row>
+  <entry rowsep="1" namest="c1" nameend="c3">
+<emphasis>Chemical Food Preservatives</emphasis> </entry> </row>
+ <row>
+  <entry rowsep="1">
+Sorbic acid<newline/>
+Benzoic acid<newline/>
+Propionic acid<newline/>
+Potassium sorbate<newline/>
+Sodium benzoate<newline/>
+Calcium propionate<newline/>
+Sulfur dioxide<newline/>
+Nitrites </entry>
+  <entry rowsep="1">Decrease pH and inhibit enzymatic function </entry>
+  <entry rowsep="1">Preservation of food products </entry> </row>
+ <row>
+  <entry rowsep="1" namest="c1" nameend="c3">
+<emphasis>Natural Food Preservatives</emphasis></entry> </row>
+ <row>
+  <entry rowsep="1">Nisin<newline/>
+Natamycin </entry>
+  <entry rowsep="1">Inhibition of cell wall synthesis (Nisin) </entry>
+ <entry rowsep="1">
+Preservation of dairy products, meats, and beverages </entry> </row>
+</tbody>
+</tgroup></table></section>
+<section id="fs-id1167585068178" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167583567574" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Heavy metals</emphasis>, including mercury, silver, copper, and zinc, have long been used for disinfection and preservation, although some have toxicity and environmental risks associated with them.</item>
+<item><emphasis effect="bold">Halogens</emphasis>, including chlorine, fluorine, and iodine, are also commonly used for disinfection. Chlorine compounds, including <emphasis effect="bold">sodium hypochlorite</emphasis>, <emphasis effect="bold">chloramines</emphasis>, and <emphasis effect="bold">chlorine dioxide</emphasis>, are commonly used for water disinfection. Iodine, in both <emphasis effect="bold">tincture</emphasis> and <emphasis effect="bold">iodophor</emphasis> forms, is an effective antiseptic.</item>
+<item><emphasis effect="bold">Alcohols</emphasis>, including ethyl alcohol and isopropyl alcohol, are commonly used antiseptics that act by denaturing proteins and disrupting membranes.</item>
+<item><emphasis effect="bold">Phenolics</emphasis> are stable, long-acting disinfectants that denature proteins and disrupt membranes. They are commonly found in household cleaners, mouthwashes, and hospital disinfectants, and are also used to preserve harvested crops.</item>
+<item>The phenolic compound <emphasis effect="bold">triclosan</emphasis>, found in antibacterial soaps, plastics, and textiles is technically an antibiotic because of its specific mode of action of inhibiting bacterial fatty-acid synthesis..</item>
+<item><emphasis effect="bold">Surfactants</emphasis>, including soaps and detergents, lower the surface tension of water to create emulsions that mechanically carry away microbes. Soaps are long-chain fatty acids, whereas detergents are synthetic surfactants.</item>
+<item><emphasis effect="bold">Quaternary ammonium compounds</emphasis> (<emphasis effect="bold">quats</emphasis>) are cationic detergents that disrupt membranes. They are used in household cleaners, skin disinfectants, oral rinses, and mouthwashes.</item>
+<item><emphasis effect="bold">Bisbiguanides</emphasis> disrupt cell membranes, causing cell contents to gel. <emphasis effect="bold">Chlorhexidine</emphasis> and <emphasis effect="bold">alexidine</emphasis> are commonly used for surgical scrubs, for handwashing in clinical settings, and in prescription oral rinses.</item>
+<item><emphasis effect="bold">Alkylating agents</emphasis> effectively sterilize materials at low temperatures but are carcinogenic and may also irritate tissue. <emphasis effect="bold">Glutaraldehyde</emphasis> and <emphasis effect="bold">o-phthalaldehyde</emphasis> are used as hospital disinfectants but not as antiseptics. <emphasis effect="bold">Formaldehyde</emphasis> is used for the storage of tissue specimens, as an embalming fluid, and in vaccine preparation to inactivate infectious agents. <emphasis effect="bold">Ethylene oxide</emphasis> is a gas sterilant that can permeate heat-sensitive packaged materials, but it is also explosive and carcinogenic.</item>
+<item><emphasis effect="bold">Peroxygens</emphasis>, including <emphasis effect="bold">hydrogen peroxide</emphasis>, <emphasis effect="bold">peracetic acid</emphasis>, <emphasis effect="bold">benzoyl peroxide</emphasis>, and ozone gas, are strong oxidizing agents that produce free radicals in cells, damaging their macromolecules. They are environmentally safe and are highly effective disinfectants and antiseptics.</item>
+<item>Pressurized carbon dioxide in the form of a <emphasis effect="bold">supercritical fluid</emphasis> easily permeates packaged materials and cells, forming carbonic acid and lowering intracellular pH. Supercritical carbon dioxide is nonreactive, nontoxic, nonflammable, and effective at low temperatures for sterilization of medical devices, implants, and transplanted tissues.</item>
+<item>Chemical preservatives are added to a variety of foods. <emphasis effect="bold">Sorbic acid</emphasis>, <emphasis effect="bold">benzoic acid</emphasis>, <emphasis effect="bold">propionic acid</emphasis>, and their more soluble salts inhibit enzymes or reduce intracellular pH.</item>
+<item><emphasis effect="bold">Sulfites</emphasis> are used in winemaking and food processing to prevent browning of foods.</item>
+<item><emphasis effect="bold">Nitrites</emphasis> are used to preserve meats and maintain color, but cooking nitrite-preserved meats may produce carcinogenic nitrosamines.</item>
+<item><emphasis effect="bold">Nisin</emphasis> and <emphasis effect="bold">natamycin</emphasis> are naturally produced preservatives used in cheeses and meats. Nisin is effective against gram-positive bacteria and natamycin against fungi.</item>
+</list>
+</section>
+<section id="fs-id1167585144308" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167585091410">
+<problem id="fs-id1167584980679">
+<para id="fs-id1167584954166">Which of the following refers to a disinfecting chemical dissolved in alcohol?</para>
+<list id="fs-id1167583687976" list-type="enumerated" number-style="upper-alpha">
+<item>iodophor</item>
+<item>tincture</item>
+<item>phenolic</item>
+<item>peroxygen</item>
+</list>
+</problem>
+<solution id="fs-id1167584725954">
+<para id="fs-id1167583723590">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167584688712">
+<problem id="fs-id1167584986832">
+<para id="fs-id1167585068271">Which of the following peroxygens is widely used as a household disinfectant, is inexpensive, and breaks down into water and oxygen gas?</para>
+<list id="fs-id1167584999121" list-type="enumerated" number-style="upper-alpha">
+<item>hydrogen peroxide</item>
+<item>peracetic acid</item>
+<item>benzoyl peroxide</item>
+<item>ozone</item>
+</list>
+</problem>
+<solution id="fs-id1167584916641">
+<para id="fs-id1167584716720">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167584886855">
+<problem id="fs-id1167584746376">
+<para id="fs-id1167584747661">Which of the following chemical food preservatives is used in the wine industry but may cause asthmatic reactions in some individuals?</para>
+<list id="fs-id1167584879165" list-type="enumerated" number-style="upper-alpha">
+<item>nitrites</item>
+<item>sulfites</item>
+<item>propionic acid</item>
+<item>benzoic acid</item>
+</list>
+</problem>
+<solution id="fs-id1167584735944">
+<para id="fs-id1167585128370">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167584667818">
+<problem id="fs-id1167584692248">
+<para id="fs-id1167584999620">Bleach is an example of which group of chemicals used for disinfection?</para>
+<list id="fs-id1167585147928" list-type="enumerated" number-style="upper-alpha">
+<item>heavy metals</item>
+<item>halogens</item>
+<item>quats</item>
+<item>bisbiguanides</item>
+</list>
+</problem>
+<solution id="fs-id1167583594465">
+<para id="fs-id1167583688385">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167583731360">
+<problem id="fs-id1167583551529">
+<para id="fs-id1167583689507">Which chemical disinfectant works by methylating enzymes and nucleic acids and is known for being toxic and carcinogenic?</para>
+<list id="fs-id1167584894088" list-type="enumerated" number-style="upper-alpha">
+<item>sorbic acid</item>
+<item>triclosan</item>
+<item>formaldehyde</item>
+<item>hexaclorophene</item>
+</list>
+</problem>
+<solution id="fs-id1167585081207">
+<para id="fs-id1167583544710">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167585043454" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167584917588">
+<problem id="fs-id1167583724628">
+<para id="fs-id1167584641743">Doorknobs and other surfaces in clinical settings are often coated with ________, ________, or ________ to prevent the transmission of microbes.</para>
+</problem>
+<solution id="fs-id1167584997989">
+<para id="fs-id1167583647352">copper, nickel, zinc</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167581386709" class="true-false">
+<title>True/False</title>
+<exercise id="fs-id1167584016952">
+<problem id="fs-id1167583547790">
+<para id="fs-id1167585164581">Soaps are classified as disinfectants.</para>
+</problem>
+<solution id="fs-id1167583625055">
+<para id="fs-id1167583726448">False</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167585057694">
+<problem id="fs-id1167585039801">
+<para id="fs-id1167585126021">Mercury-based compounds have fallen out of favor for use as preservatives and antiseptics.</para>
+</problem>
+<solution id="fs-id1167583594438">
+<para id="fs-id1167583694738">True</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167585054694" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167584624231">
+<problem id="fs-id1167584896145">
+<para id="fs-id1167585021890">Which solution of ethyl alcohol is more effective at inhibiting microbial growth: a 70% solution or a 100% solution? Why?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167584726495">
+<problem id="fs-id1167583728612">
+<para id="fs-id1167585054658">When might a gas treatment be used to control microbial growth instead of autoclaving? What are some examples?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167584653853">
+<problem id="fs-id1167584924927">
+<para id="fs-id1167585088390">What is the advantage of using an iodophor rather than iodine or an iodine tincture?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167583633146" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167583682218">
+<problem id="fs-id1167583737844">
+<para id="fs-id1167583633682">Looking at <link target-id="OSC_Microbio_13_03_Alkylators"/> and reviewing the functional groups in <link target-id="OSC_Microbio_07_01_TBLcomFun" document="m58813"/>, which alkylating agent shown lacks an aldehyde group?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167583931575">
+<problem id="fs-id1167583961961">
+<para id="fs-id1167584691870">Do you think naturally produced antimicrobial products like nisin and natamycin should replace sorbic acid for food preservation? Why or why not?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167583903156">
+<problem id="fs-id1167585046390">
+<para id="fs-id1167583929180">Why is the use of skin disinfecting compounds required for surgical scrubbing and not for everyday handwashing?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+
+</document>

@@ -1,0 +1,367 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>DNA Replication</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58841</md:content-id>
+  <md:title>DNA Replication</md:title>
+  <md:abstract/>
+  <md:uuid>c74f6814-2aef-4dc8-8df7-19ba21a1f40e</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167662473726" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167662403034">
+<item>Explain the meaning of semiconservative DNA replication</item>
+<item>Explain why DNA replication is bidirectional and includes both a leading and lagging strand</item>
+<item>Explain why Okazaki fragments are formed</item>
+<item>Describe the process of DNA replication and the functions of the enzymes involved</item>
+<item>Identify the differences between DNA replication in bacteria and eukaryotes</item>
+<item>Explain the process of rolling circle replication</item>
+</list>
+</section>
+<para id="fs-id1167660126490">The elucidation of the structure of the double helix by James <term class="no-emphasis">Watson</term> and Francis <term class="no-emphasis">Crick</term> in 1953 provided a hint as to how <term class="no-emphasis">DNA</term> is copied during the process of <term>replication</term>. Separating the strands of the double helix would provide two templates for the synthesis of new complementary strands, but exactly how new DNA molecules were constructed was still unclear. In one model, <term>semiconservative replication</term>, the two strands of the double helix separate during DNA replication, and each strand serves as a template from which the new <term class="no-emphasis">complementary strand</term> is copied; after replication, each double-stranded DNA includes one parental or “old” strand and one “new” strand. There were two competing models also suggested: conservative and dispersive, which are shown in <link target-id="OSC_Microbio_11_02_DNARep"/>.</para>
+<figure id="OSC_Microbio_11_02_DNARep">
+<media id="fs-id1167662757576" alt="Diagram showing 3 models of DNA replication. In the conservative model the original double helix produces two double helices; one of which has two of the parent strands and one of which has two of the new strands. Another round produces 4 helices; one of which has two of the parent strands and three of which have all new strands. In semiconservative replication the first round leads to two double helices each with one old strand and one new strand. The next round leads to four double helices; two of these have an old and a new strand and two have all new strands. In dispersive replication each new round of replication results in strands with random bits from the parent strand and random bits of new strands.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_02_DNARep.jpg"/>
+</media>
+<caption>There were three models suggested for DNA replication. In the conservative model, parental DNA strands (blue) remained associated in one DNA molecule while new daughter strands (red) remained associated in newly formed DNA molecules. In the semiconservative model, parental strands separated and directed the synthesis of a daughter strand, with each resulting DNA molecule being a hybrid of a parental strand and a daughter strand. In the dispersive model, all resulting DNA strands have regions of double-stranded parental DNA and regions of double-stranded daughter DNA.</caption>
+</figure>
+<para id="fs-id1167662443949">Matthew <term class="no-emphasis">Meselson</term> (1930–) and Franklin <term class="no-emphasis">Stahl</term> (1929–) devised an experiment in 1958 to test which of these models correctly represents DNA replication (<link target-id="OSC_Microbio_11_02_MesStahl"/>). They grew <term class="no-emphasis"><emphasis effect="italics">E. coli</emphasis></term> for several generations in a medium containing a “heavy” isotope of nitrogen (<sup>15</sup>N) that was incorporated into nitrogenous bases and, eventually, into the DNA. This labeled the parental DNA. The <emphasis effect="italics">E. coli</emphasis> culture was then shifted into a medium containing <sup>14</sup>N and allowed to grow for one generation. The cells were harvested and the DNA was isolated. The DNA was separated by ultracentrifugation, during which the DNA formed bands according to its density. DNA grown in <sup>15</sup>N would be expected to form a band at a higher density position than that grown in <sup>14</sup>N. Meselson and Stahl noted that after one generation of growth in <sup>14</sup>N, the single band observed was intermediate in position in between DNA of cells grown exclusively in <sup>15</sup>N or <sup>14</sup>N. This suggested either a semiconservative or dispersive mode of replication. Some cells were allowed to grow for one more generation in <sup>14</sup>N and spun again. The DNA harvested from cells grown for two generations in <sup>14</sup>N formed two bands: one DNA band was at the intermediate position between <sup>15</sup>N and <sup>14</sup>N, and the other corresponded to the band of <sup>14</sup>N DNA. These results could only be explained if DNA replicates in a semiconservative manner. Therefore, the other two models were ruled out. As a result of this experiment, we now know that during DNA replication, each of the two strands that make up the double helix serves as a template from which new strands are copied. The new strand will be complementary to the parental or “old” strand. The resulting DNA molecules have the same sequence and are divided equally into the two daughter cells.</para>
+<figure id="OSC_Microbio_11_02_MesStahl">
+<media id="fs-id1167662872202" alt="A diagram explaining the Meselson Stahl experiment. In the first part of the experiment DNA is replicated in the presence of heavy 15N medium. This produces all heavy DNA strands. Next they moved the cells to light 14N medium. If DNA was replicated conservatively, one would expect to see one heavy band and one light band. However, they saw only a medium size band. This is consistent with semiconservative and dispersive replication. Finally, they allowed the bacteria to undergo another round of replication in the light medium. If DNA was replicated dispersively, one would expect only a medium size band. However, they saw a medium band and a light band. The only mechanism that explains these results is semi-conservative replication.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_02_MesStahl.jpg"/>
+</media>
+<caption>Meselson and Stahl experimented with <emphasis effect="italics">E. coli</emphasis> grown first in heavy nitrogen (<sup>15</sup>N) then in <sup>14</sup>N. DNA grown in <sup>15</sup>N (blue band) was heavier than DNA grown in <sup>14</sup>N (red band), and sedimented to a lower level on ultracentrifugation. After one round of replication, the DNA sedimented halfway between the <sup>15</sup>N and <sup>14</sup>N levels (purple band), ruling out the conservative model of replication. After a second round of replication, the dispersive model of replication was ruled out. These data supported the semiconservative replication model.</caption>
+</figure>
+<note id="fs-id1167660173194" class="microbiology check-your-understanding">
+<list id="fs-id1167660259477" list-type="bulleted" bullet-style="bullet">
+<item>What would have been the conclusion of Meselson and Stahl’s experiment if, after the first generation, they had found two bands of DNA?</item>
+</list>
+</note>
+<section id="fs-id1167660309327">
+<title>DNA Replication in Bacteria</title>
+<para id="fs-id1167662505281">DNA replication has been well studied in bacteria primarily because of the small size of the genome and the mutants that are available. <term class="no-emphasis"><emphasis effect="italics">E. coli</emphasis></term> has 4.6 million base pairs (Mbp) in a single circular chromosome and all of it is replicated in approximately 42 minutes, starting from a single origin of replication and proceeding around the circle bidirectionally (i.e., in both directions). This means that approximately 1000 nucleotides are added per second. The process is quite rapid and occurs with few errors.</para>
+<para id="fs-id1167662440262">DNA replication uses a large number of proteins and enzymes (<link target-id="fs-id1167662875651"/>). One of the key players is the enzyme <term>DNA polymerase</term>, also known as DNA pol. In bacteria, three main types of DNA polymerases are known: DNA pol I, DNA pol II, and DNA pol III. It is now known that DNA pol III is the enzyme required for DNA synthesis; DNA pol I and DNA pol II are primarily required for repair. DNA pol III adds deoxyribonucleotides each complementary to a nucleotide on the template strand, one by one to the 3’-OH group of the growing DNA chain. The addition of these nucleotides requires energy. This energy is present in the bonds of three phosphate groups attached to each nucleotide (a triphosphate nucleotide), similar to how energy is stored in the phosphate bonds of adenosine triphosphate (ATP) (<link target-id="OSC_Microbio_11_01_dGTP"/>). When the bond between the phosphates is broken and diphosphate is released, the energy released allows for the formation of a covalent phosphodiester bond by dehydration synthesis between the incoming nucleotide and the free 3’-OH group on the growing DNA strand.</para>
+<figure id="OSC_Microbio_11_01_dGTP">
+<media id="fs-id1167662805782" alt="Diagram of dGTP. In the center is deoxyribose which is a pentagon shaped sugar. The top point has an oxygen. Then, moving around the shape are carbons 1, 2, 3, and 4; carbon 5 is attached to carbon 4 but not in the ring. Attached to carbon 1 is a structure made of 2 carbon and nitrogen rings bound along their ends; this is guanine. Carbon 2 has only Hs attached to it. Carbon 3 has an H and an OH. Carbon 4 has an N and Carbon 5. Carbon 5 is attached to 3 phosphate groups in a row (labeled triphosphate). Each phosphate group is made of phosphorus attached to 4 oxygen atoms.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_01_dGTP.jpg"/>
+</media>
+<caption>This structure shows the guanosine triphosphate deoxyribonucleotide that is incorporated into a growing DNA strand by cleaving the two end phosphate groups from the molecule and transferring the energy to the sugar phosphate bond. The other three nucleotides form analogous structures.</caption>
+</figure>
+<section id="fs-id1167662404714">
+<title>Initiation</title>
+<para id="fs-id1167662758786">The <term>initiation of replication</term> occurs at specific nucleotide sequence called the <term>origin of replication</term>, where various proteins bind to begin the replication process. <term class="no-emphasis"><emphasis effect="italics">E. coli</emphasis></term> has a single origin of replication (as do most prokaryotes), called <emphasis effect="italics">oriC</emphasis>, on its one chromosome. The origin of replication is approximately 245 base pairs long and is rich in adenine-thymine (AT) sequences.</para>
+<para id="fs-id1167662479299">Some of the proteins that bind to the origin of replication are important in making single-stranded regions of DNA accessible for replication. Chromosomal DNA is typically wrapped around <term class="no-emphasis">histones</term> (in eukaryotes and archaea) or histone-like proteins (in bacteria), and is <term>supercoiled</term>, or extensively wrapped and twisted on itself. This packaging makes the information in the DNA molecule inaccessible. However, enzymes called topoisomerases change the shape and supercoiling of the chromosome. For bacterial DNA replication to begin, the supercoiled chromosome is relaxed by <term>topoisomerase II</term>, also called <term>DNA gyrase</term>. An enzyme called <term>helicase</term> then separates the DNA strands by breaking the hydrogen bonds between the nitrogenous base pairs. Recall that AT sequences have fewer hydrogen bonds and, hence, have weaker interactions than guanine-cytosine (GC) sequences. These enzymes require ATP hydrolysis. As the DNA opens up, Y-shaped structures called <term>replication forks</term> are formed. Two replication forks are formed at the origin of replication, allowing for bidirectional replication and formation of a structure that looks like a bubble when viewed with a transmission electron microscope; as a result, this structure is called a <term>replication bubble</term>. The DNA near each replication fork is coated with <term>single-stranded binding proteins</term> to prevent the single-stranded DNA from rewinding into a double helix.</para>
+<para id="fs-id1167662422335">Once single-stranded DNA is accessible at the origin of replication, DNA replication can begin. However, DNA pol III is able to add nucleotides only in the 5’ to 3’ direction (a new DNA strand can be only extended in this direction). This is because DNA polymerase requires a free 3’-OH group to which it can add nucleotides by forming a covalent phosphodiester bond between the 3’-OH end and the 5’ phosphate of the next nucleotide. This also means that it cannot add nucleotides if a free 3’-OH group is not available, which is the case for a single strand of DNA. The problem is solved with the help of an RNA sequence that provides the free 3’-OH end. Because this sequence allows the start of DNA synthesis, it is appropriately called the <term>primer</term>. The primer is five to 10 nucleotides long and complementary to the parental or template DNA. It is synthesized by RNA <term>primase</term>, which is an <term class="no-emphasis">RNA polymerase</term>. Unlike DNA polymerases, RNA polymerases do not need a free 3’-OH group to synthesize an RNA molecule. Now that the primer provides the free 3’-OH group, DNA polymerase III can now extend this RNA primer, adding DNA nucleotides one by one that are complementary to the template strand (<link target-id="OSC_Microbio_11_02_DNARep"/>).</para>
+</section>
+<section id="fs-id1167662401754">
+<title>Elongation</title>
+<para id="fs-id1167660396359">During <term>elongation in DNA replication</term>, the addition of nucleotides occurs at its maximal rate of about 1000 nucleotides per second. DNA polymerase III can only extend in the 5’ to 3’ direction, which poses a problem at the replication fork. The DNA double helix is antiparallel; that is, one strand is oriented in the 5’ to 3’ direction and the other is oriented in the 3’ to 5’ direction (see <link document="m58836">Structure and Function of DNA</link>). During replication, one strand, which is complementary to the 3’ to 5’ parental DNA strand, is synthesized continuously toward the replication fork because polymerase can add nucleotides in this direction. This continuously synthesized strand is known as the <term>leading strand</term>. The other strand, complementary to the 5’ to 3’ parental DNA, grows away from the replication fork, so the polymerase must move back toward the replication fork to begin adding bases to a new primer, again in the direction away from the replication fork. It does so until it bumps into the previously synthesized strand and then it moves back again (<link target-id="OSC_Microbio_11_02_RepFork"/>). These steps produce small DNA sequence fragments known as <term>Okazaki fragments</term>, each separated by RNA primer. Okazaki fragments are named after the Japanese research team and married couple Reiji and Tsuneko <term class="no-emphasis">Okazaki</term>, who first discovered them in 1966. The strand with the Okazaki fragments is known as the <term>lagging strand</term>, and its synthesis is said to be discontinuous.</para>
+<para id="fs-id1167662464660">The leading strand can be extended from one primer alone, whereas the lagging strand needs a new primer for each of the short Okazaki fragments. The overall direction of the lagging strand will be 3’ to 5’, and that of the leading strand 5’ to 3’. A protein called the <term class="no-emphasis">sliding clamp</term> holds the DNA polymerase in place as it continues to add nucleotides. The sliding clamp is a ring-shaped protein that binds to the DNA and holds the polymerase in place. Beyond its role in initiation, <term class="no-emphasis">topoisomerase</term> also prevents the overwinding of the DNA double helix ahead of the replication fork as the DNA is opening up; it does so by causing temporary nicks in the DNA helix and then resealing it. As synthesis proceeds, the RNA primers are replaced by DNA. The primers are removed by the <term>exonuclease</term> activity of DNA polymerase I, and the gaps are filled in. The nicks that remain between the newly synthesized DNA (that replaced the RNA primer) and the previously synthesized DNA are sealed by the enzyme <term>DNA ligase</term> that catalyzes the formation of covalent phosphodiester linkage between the 3’-OH end of one DNA fragment and the 5’ phosphate end of the other fragment, stabilizing the sugar-phosphate backbone of the DNA molecule.</para>
+<figure id="OSC_Microbio_11_02_RepFork">
+<media id="fs-id1167662370548" alt="Diagram of DNA replication. A small inset at the top shows a double strand of DNA separated in the center forming a bubble; the DNA is double stranded on either side of the bubble. The origin of replication is in the midway point of the bubble. On the top strand a solid arrow points to the left from the origin; this is the leading strand. On the right of the origin of replication are short arrows pointing to the left; this is the lagging strand. On the bottom strand a solid arrow pointing to the right from the origin is labeled leading strand and short arrows pointing to the right on the other side of the origin are labeled lagging strands. A larger image shows just the left half of the bubble. The double stranded DNA is no the far left and is labeled 5’ for the top strand and 3’ for the bottom strand. An enzyme to the very far left I is labeled topoisomerase/gyrase. At the point where the double stranded regions splits is a triangle shape labeled helicase. Next to that are smaller shapes labeled single-stranded binding proteins. The top strand shows continuous synthesis of the leading strand; this is shown as a solid arrow under the top strand. The arrow has a 5’ at the right end and a 3’ at the left end. The template strand at the top has a 3’ at the right and a 5’ at the left. At the end of the arrow (near where the DNA is newly being separated by the helicase) is DNA polymerase 3 and a sliding clamp that span both strands. The bottom strand of DNA has more components. Just after the single stranded binding proteins is RNA primase which attaches RNA primer (shown as a green arrow). Further down the lagging strand template is an existing RNA primer with DNA polymerase III and a sliding clamp spanning primer and the template strand. The polymerase is building a new strand of DNA from the left side (5’) to the right side (3’). Further to the right is a long piece made of RNA primer, then new DNA, then RNA primer, then new DNA all connected. Each of the DNA/RNA combinations are okazaki fragments made in the discontinuous synthesis of the lagging strand. DNA polymerase I is attached to the RNA primer in the center and is replacing it with DNA nucleotides. DNA ligase then binds the individual strands of new DNA together. This is shown in a close-up as two double helices that have all the correct letters in place, but one is missing a connection between two of the nucleotides (this is called a single-stranded gap). DNA ligase forms this last bond and the gap is sealed.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_02_RepFork.jpg"/>
+</media>
+<caption>At the origin of replication, topoisomerase II relaxes the supercoiled chromosome. Two replication forks are formed by the opening of the double-stranded DNA at the origin, and helicase separates the DNA strands, which are coated by single-stranded binding proteins to keep the strands separated. DNA replication occurs in both directions. An RNA primer complementary to the parental strand is synthesized by RNA primase and is elongated by DNA polymerase III through the addition of nucleotides to the 3’-OH end. On the leading strand, DNA is synthesized continuously, whereas on the lagging strand, DNA is synthesized in short stretches called Okazaki fragments. RNA primers within the lagging strand are removed by the exonuclease activity of DNA polymerase I, and the Okazaki fragments are joined by DNA ligase.</caption>
+</figure>
+</section>
+<section id="fs-id1167662468645">
+<title>Termination</title>
+<para id="fs-id1167660269577">Once the complete chromosome has been replicated, <term>termination of DNA replication</term> must occur. Although much is known about initiation of replication, less is known about the termination process. Following replication, the resulting complete circular genomes of prokaryotes are concatenated, meaning that the circular DNA chromosomes are interlocked and must be separated from each other. This is accomplished through the activity of bacterial topoisomerase IV, which introduces double-stranded breaks into DNA molecules, allowing them to separate from each other; the enzyme then reseals the circular chromosomes. The resolution of concatemers is an issue unique to prokaryotic DNA replication because of their circular chromosomes. Because both bacterial <term class="no-emphasis">DNA gyrase</term> and <term class="no-emphasis">topoisomerase IV</term> are distinct from their eukaryotic counterparts, these enzymes serve as targets for a class of antimicrobial drugs called <term class="no-emphasis">quinolones</term>.</para>
+<table id="fs-id1167662875651" summary="Table titled: The Molecular Machinery Involved in Bacterial DNA Replication. Columns: Enzyme or Factor, Function. DNA pol I: Exonuclease activity removes RNA primer and replaces it with newly synthesized DNA. DNA pol III: Main enzyme that adds nucleotides in the 5’ to 3’ direction. Helicase: Opens the DNA helix by breaking hydrogen bonds between the nitrogenous bases. Ligase: Seals the gaps between the Okazaki fragments on the lagging strand to create one continuous DNA strand. Primase: Synthesizes RNA primers needed to start replication. Single-stranded binding proteins: Bind to single-stranded DNA to prevent hydrogen bonding between DNA strands, reforming double-stranded DNA. Sliding clamp: Helps hold DNA pol III in place when nucleotides are being added. Topoisomerase II (DNA gyrase): Relaxes supercoiled chromosome to make DNA more accessible for the initiation of replication; helps relieve the stress on DNA when unwinding, by causing breaks and then resealing the DNA. Topoisomerase IV: Introduces single-stranded break into concatenated chromosomes to release them from each other, and then reseals the DNA." class="span-all">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c2">The Molecular Machinery Involved in Bacterial DNA Replication</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Enzyme or Factor</entry>
+<entry valign="top" align="left">Function</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">DNA pol I</entry>
+<entry valign="top" align="left">Exonuclease activity removes RNA primer and replaces it with newly synthesized DNA</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">DNA pol III</entry>
+<entry valign="top" align="left">Main enzyme that adds nucleotides in the 5’ to 3’ direction</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Helicase</entry>
+<entry valign="top" align="left">Opens the DNA helix by breaking hydrogen bonds between the nitrogenous bases</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Ligase</entry>
+<entry valign="top" align="left">Seals the gaps between the Okazaki fragments on the lagging strand to create one continuous DNA strand</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Primase</entry>
+<entry valign="top" align="left">Synthesizes RNA primers needed to start replication</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Single-stranded binding proteins</entry>
+<entry valign="top" align="left">Bind to single-stranded DNA to prevent hydrogen bonding between DNA strands, reforming double-stranded DNA</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Sliding clamp</entry>
+<entry valign="top" align="left">Helps hold DNA pol III in place when nucleotides are being added</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Topoisomerase II (DNA gyrase)</entry>
+<entry valign="top" align="left">Relaxes supercoiled chromosome to make DNA more accessible for the initiation of replication; helps relieve the stress on DNA when unwinding, by causing breaks and then resealing the DNA</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Topoisomerase IV</entry>
+<entry valign="top" align="left">Introduces single-stranded break into concatenated chromosomes to release them from each other, and then reseals the DNA</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1167660180653" class="microbiology check-your-understanding">
+<list id="fs-id1167662421701" list-type="bulleted" bullet-style="bullet">
+<item>Which enzyme breaks the hydrogen bonds holding the two strands of DNA together so that replication can occur?</item>
+<item>Is it the lagging strand or the leading strand that is synthesized in the direction toward the opening of the replication fork?</item>
+<item>Which enzyme is responsible for removing the RNA primers in newly replicated bacterial DNA?</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1167662480528">
+<title>DNA Replication in Eukaryotes</title>
+<para id="fs-id1167662441506">Eukaryotic genomes are much more complex and larger than prokaryotic genomes and are typically composed of multiple linear chromosomes (<link target-id="fs-id1167662748280"/>). The <term class="no-emphasis">human genome</term>, for example, has 3 billion base pairs per haploid set of chromosomes, and 6 billion base pairs are inserted during replication. There are multiple origins of replication on each eukaryotic chromosome (<link target-id="OSC_Microbio_11_02_EukRep"/>); the human genome has 30,000 to 50,000 origins of replication. The rate of replication is approximately 100 nucleotides per second—10 times slower than prokaryotic replication.</para>
+<figure id="OSC_Microbio_11_02_EukRep">
+<media id="fs-id1167662759384" alt="A diagram showing two strands of parental DNA. Then an arrow showing multiple replication bubbles with an origin of replication in each. Arrows point to the left and right from each origin of replication. New strands of DNA are shown being formed. One of the bubbles has the left half of the bubble in a box labeled replication fork. The next image shows the replication bubbles getting longer. The final image shows two new DNA strands, each with one old strand and one new strand.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_02_EukRep.jpg"/>
+</media>
+<caption>Eukaryotic chromosomes are typically linear, and each contains multiple origins of replication.</caption>
+</figure>
+<para id="fs-id1167662863443">The essential steps of replication in eukaryotes are the same as in prokaryotes. Before replication can start, the DNA has to be made available as a template. Eukaryotic DNA is highly supercoiled and packaged, which is facilitated by many proteins, including <term class="no-emphasis">histone</term>s (see <link document="m58838">Structure and Function of Cellular Genomes</link>). At the <term class="no-emphasis">origin of replication</term>, a prereplication complex composed of several proteins, including <term class="no-emphasis">helicase</term>, forms and recruits other enzymes involved in the initiation of replication, including topoisomerase to relax supercoiling, single-stranded binding protein, <term class="no-emphasis">RNA primase</term>, and <term class="no-emphasis">DNA polymerase</term>. Following initiation of replication, in a process similar to that found in prokaryotes, elongation is facilitated by eukaryotic DNA polymerases. The leading strand is continuously synthesized by the eukaryotic polymerase enzyme pol δ, while the lagging strand is synthesized by pol ε. A sliding clamp protein holds the DNA polymerase in place so that it does not fall off the DNA. The enzyme ribonuclease H (<term class="no-emphasis">RNase H</term>), instead of a DNA polymerase as in bacteria, removes the RNA primer, which is then replaced with DNA nucleotides. The gaps that remain are sealed by <term class="no-emphasis">DNA ligase</term>.</para>
+<para id="fs-id1167662775791">Because eukaryotic chromosomes are linear, one might expect that their replication would be more straightforward. As in prokaryotes, the eukaryotic DNA polymerase can add nucleotides only in the 5’ to 3’ direction. In the leading strand, synthesis continues until it reaches either the end of the chromosome or another replication fork progressing in the opposite direction. On the lagging strand, DNA is synthesized in short stretches, each of which is initiated by a separate primer. When the replication fork reaches the end of the linear chromosome, there is no place to make a primer for the DNA fragment to be copied at the end of the chromosome. These ends thus remain unpaired and, over time, they may get progressively shorter as cells continue to divide.</para>
+<para id="fs-id1167662374447">The ends of the linear chromosomes are known as <term>telomere</term>s and consist of noncoding repetitive sequences. The telomeres protect coding sequences from being lost as cells continue to divide. In humans, a six base-pair sequence, TTAGGG, is repeated 100 to 1000 times to form the telomere. The discovery of the enzyme <term>telomerase</term> (<link target-id="OSC_Microbio_11_02_Telomerase"/>) clarified our understanding of how chromosome ends are maintained. Telomerase contains a catalytic part and a built-in RNA template. It attaches to the end of the chromosome, and complementary bases to the RNA template are added on the 3’ end of the DNA strand. Once the 3’ end of the lagging strand template is sufficiently elongated, DNA polymerase can add the nucleotides complementary to the ends of the chromosomes. In this way, the ends of the chromosomes are replicated. In humans, telomerase is typically active in germ cells and adult stem cells; it is not active in adult somatic cells and may be associated with the aging of these cells. Eukaryotic microbes including fungi and protozoans also produce telomerase to maintain chromosomal integrity. For her discovery of telomerase and its action, Elizabeth <term class="no-emphasis">Blackburn</term> (1948–) received the Nobel Prize for Medicine or Physiology in 2009.</para>
+<figure id="OSC_Microbio_11_02_Telomerase">
+<media id="fs-id1167662555543" alt="Diagram of telomerase. The top image shows a long strand of DNA with 5’ on the left and 3’ on the right. The complementary strand is much shorter and shows 3’ on the left and 5’ on the right. A circle labeled telomerase contains a complementary strand that matches the 3’ end of the upper strand and also extends past the 3’ end of the top strand. Caption: Telomerase has an associated RNA that complements the 3’ overhang at the end of the chromosome. Next, the top strand of DNA replicates using the overhang of the strand within the telomerase. Caption: The RNA template is used to synthesize the complementary strand. Next, the telomerase moves to the new 3’ end of the top strand. Caption: Telomerase shifts and the process repeats. Finally, The top DNA strand has multiple extensions. RNA primer binds near the 3’ end and builds a new strand of DNA towards the left until it meets up with the existing strand. Caption: Primase and DNA polymerase synthesize the complementary strand.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_02_Telomerase.jpg"/>
+</media>
+<caption>In eukaryotes, the ends of the linear chromosomes are maintained by the action of the telomerase enzyme.</caption>
+</figure>
+<table id="fs-id1167662748280" summary="Table titled: Comparison of Bacterial and Eukaryotic Replication. Bacterial genomes are a single circular chromosome while eukaryotes have multiple linear chromosomes. Bacteria have a single origin of replication per chromosome; eukaryotes have multiple. Bacteria replicate at a rate of 1000 nucleotides per second, eukaryotes at 100 nucleotides per second. Eukaryotes have telomerase while bacteria do not. RNA primer is removed with DNA pol I in bacteria and RNase H in eukaryotes. DNA is elongated with DNA pol III in bacteria and pol delta and epsilon." class="span-all">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c3">Comparison of Bacterial and Eukaryotic Replication</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Property</entry>
+<entry valign="top" align="center">Bacteria</entry>
+<entry valign="top" align="center">Eukaryotes</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">Genome structure</entry>
+<entry valign="top" align="left">Single circular chromosome</entry>
+<entry valign="top" align="left">Multiple linear chromosomes</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Number of origins per chromosome</entry>
+<entry valign="top" align="left">Single</entry>
+<entry valign="top" align="left">Multiple</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Rate of replication</entry>
+<entry valign="top" align="left">1000 nucleotides per second</entry>
+<entry valign="top" align="left">100 nucleotides per second</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Telomerase</entry>
+<entry valign="top" align="left">Not present</entry>
+<entry valign="top" align="left">Present</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">RNA primer removal</entry>
+<entry valign="top" align="left">DNA pol I</entry>
+<entry valign="top" align="left">RNase H</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Strand elongation</entry>
+<entry valign="top" align="left">DNA pol III</entry>
+<entry valign="top" align="left">pol δ, pol ε</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1167662400022" class="microbiology link-to-learning">
+
+<para id="fs-id1167660373004">This <link url="https://openstax.org/l/22DNAreplicani">animation</link> compares the process of prokaryotic and eukaryotic DNA replication.</para>
+</note>
+<note id="fs-id1167662593498" class="microbiology check-your-understanding">
+<list id="fs-id1167660506540" list-type="bulleted" bullet-style="bullet">
+<item>How does the origin of replication differ between eukaryotes and prokaryotes?</item>
+<item>What polymerase enzymes are responsible for DNA synthesis during eukaryotic replication?</item>
+<item>What is found at the ends of the chromosomes in eukaryotes and why?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167662517704">
+<title>DNA Replication of Extrachromosomal Elements: Plasmids and Viruses</title>
+<para id="fs-id1167660342301">To copy their nucleic acids, plasmids and viruses frequently use variations on the pattern of DNA replication described for prokaryote genomes. For more information on the wide range of viral replication strategies, see <link document="m58809">The Viral Life Cycle</link>.</para>
+<section id="fs-id1167660226232">
+<title>Rolling Circle Replication</title>
+<para id="fs-id1167660178092">Whereas many bacterial <term class="no-emphasis">plasmids</term> (see <link document="m58792">Unique Characteristics of Prokaryotic Cells</link>) replicate by a process similar to that used to copy the bacterial chromosome, other plasmids, several <term class="no-emphasis">bacteriophages</term>, and some <term class="no-emphasis">viruses</term> of eukaryotes use <term>rolling circle replication</term> (<link target-id="OSC_Microbio_11_02_RollCircle"/>). The circular nature of plasmids and the circularization of some viral genomes on infection make this possible. Rolling circle replication begins with the enzymatic nicking of one strand of the double-stranded circular molecule at the <term class="no-emphasis">double-stranded origin (dso) site</term>. In bacteria, DNA polymerase III binds to the 3’-OH group of the nicked strand and begins to unidirectionally replicate the DNA using the un-nicked strand as a template, displacing the nicked strand as it does so. Completion of DNA replication at the site of the original nick results in full displacement of the nicked strand, which may then recircularize into a single-stranded DNA molecule. RNA primase then synthesizes a primer to initiate DNA replication at the <term class="no-emphasis">single-stranded origin (sso) site</term> of the single-stranded DNA (ssDNA) molecule, resulting in a double-stranded DNA (dsDNA) molecule identical to the other circular DNA molecule.</para>
+<figure id="OSC_Microbio_11_02_RollCircle">
+<media id="fs-id1167662427975" alt="Diagram of DNA replication. A circle of double stranded DNA has a region labeled SSO near a region labeled DSO. A nick forms in DSO and DNA polymerase III begins copying and displacing the nicked strand. This forms a new ring made of an old and a new strand of DNA; the second old strand of DNA is outside of this ring but eventually rejoins the nicked strand. DNA ligase then separates the dsDNA (synthesis of first strand) and the lone ssDNA. The ssDNA then has the second strand synthesized and become a ds DNA as well.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_11_02_RollCircle.jpg"/>
+</media>
+<caption>The process of rolling circle replication results in the synthesis of a single new copy of the circular DNA molecule, as shown here.</caption>
+</figure>
+<note id="fs-id1167662758031" class="microbiology check-your-understanding">
+<list id="fs-id1167662400182" list-type="bulleted" bullet-style="bullet">
+<item>Is there a lagging strand in rolling circle replication? Why or why not?</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1167662519863" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167662427015" list-type="bulleted" bullet-style="bullet">
+<item>The DNA replication process is <emphasis effect="bold">semiconservative</emphasis>, which results in two DNA molecules, each having one parental strand of DNA and one newly synthesized strand.</item>
+<item>In bacteria, the <emphasis effect="bold">initiation of replication</emphasis> occurs at the <emphasis effect="bold">origin of replication</emphasis>, where <emphasis effect="bold">supercoiled</emphasis> DNA is unwound by <emphasis effect="bold">DNA gyrase</emphasis>, made single-stranded by <emphasis effect="bold">helicase</emphasis>, and bound by <emphasis effect="bold">single-stranded binding protein</emphasis> to maintain its single-stranded state. <emphasis effect="bold">Primase</emphasis> synthesizes a short RNA <emphasis effect="bold">primer</emphasis>, providing a free 3’-OH group to which <emphasis effect="bold">DNA polymerase III</emphasis> can add DNA nucleotides.</item>
+<item>During <emphasis effect="bold">elongation</emphasis>, the <emphasis effect="bold">leading strand</emphasis> of DNA is synthesized continuously from a single primer. The <emphasis effect="bold">lagging strand</emphasis> is synthesized discontinuously in short <emphasis effect="bold">Okazaki fragments</emphasis>, each requiring its own primer. The RNA primers are removed and replaced with DNA nucleotides by bacterial <emphasis effect="bold">DNA polymerase I</emphasis>, and <emphasis effect="bold">DNA ligase</emphasis> seals the gaps between these fragments.</item>
+<item><emphasis effect="bold">Termination</emphasis> of replication in bacteria involves the resolution of circular DNA concatemers by topoisomerase IV to release the two copies of the circular chromosome.</item>
+<item>Eukaryotes typically have multiple linear chromosomes, each with multiple origins of replication. Overall, replication in eukaryotes is similar to that in prokaryotes.</item>
+<item>The linear nature of eukaryotic chromosomes necessitates <emphasis effect="bold">telomeres</emphasis> to protect genes near the end of the chromosomes. <emphasis effect="bold">Telomerase</emphasis> extends telomeres, preventing their degradation, in some cell types.</item>
+<item><emphasis effect="bold">Rolling circle replication</emphasis> is a type of rapid unidirectional DNA synthesis of a circular DNA molecule used for the replication of some plasmids.</item>
+</list>
+</section>
+<section id="fs-id1167662875432" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167660304292">
+<problem id="fs-id1167660304294">
+<para id="fs-id1167660123705">Which of the following is the enzyme that replaces the RNA nucleotides in a primer with DNA nucleotides?</para>
+<list id="fs-id1167660389115" list-type="enumerated" number-style="upper-alpha">
+<item>DNA polymerase III</item>
+<item>DNA polymerase I</item>
+<item>primase</item>
+<item>helicase</item>
+</list>
+</problem>
+<solution id="fs-id1167662566987">
+<para id="fs-id1167662553014">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662519418">
+<problem id="fs-id1167660216554">
+<para id="fs-id1167660292706">Which of the following is not involved in the initiation of replication?</para>
+<list id="fs-id1167660216517" list-type="enumerated" number-style="upper-alpha">
+<item>ligase</item>
+<item>DNA gyrase</item>
+<item>single-stranded binding protein</item>
+<item>primase</item>
+</list>
+</problem>
+<solution id="fs-id1167662593476">
+<para id="fs-id1167662877905">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660177736">
+<problem id="fs-id1167660403526">
+<para id="fs-id1167662904865">Which of the following enzymes involved in DNA replication is unique to eukaryotes?</para>
+<list id="fs-id1167660271508" list-type="enumerated" number-style="upper-alpha">
+<item>helicase</item>
+<item>DNA polymerase</item>
+<item>ligase</item>
+<item>telomerase</item>
+</list>
+</problem>
+<solution id="fs-id1167662915132">
+<para id="fs-id1167660123700">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167662553709">
+<problem id="fs-id1167662509999">
+<para id="fs-id1167662593122">Which of the following would be synthesized using 5′-CAGTTCGGA-3′ as a template?</para>
+<list id="fs-id1167660276543" list-type="enumerated" number-style="upper-alpha">
+<item>3′-AGGCTTGAC-4′</item>
+<item>3′-TCCGAACTG-5′</item>
+<item>3′-GTCAAGCCT-5′</item>
+<item>3′-CAGTTCGGA-5′</item>
+</list>
+</problem>
+<solution id="fs-id1167660255417">
+<para id="fs-id1167660169078">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167660207155" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167660170220">
+<problem id="fs-id1167660170222">
+<para id="fs-id1167660346866">The enzyme responsible for relaxing supercoiled DNA to allow for the initiation of replication is called ________.</para>
+</problem>
+<solution id="fs-id1167662551562">
+<para id="fs-id1167660283480">DNA gyrase or topoisomerase II</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167660255832">
+<problem id="fs-id1167660255835">
+<para id="fs-id1167660206602">Unidirectional replication of a circular DNA molecule like a plasmid that involves nicking one DNA strand and displacing it while synthesizing a new strand is called ________.</para>
+</problem>
+<solution id="fs-id1167660206604">
+<para id="fs-id1167662680479">rolling circle replication</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167662491434" class="true-false">
+<title>True/False</title>
+<exercise id="fs-id1167662399377">
+<problem id="fs-id1167662399379">
+<para id="fs-id1167662480634">More primers are used in lagging strand synthesis than in leading strand synthesis.</para>
+</problem>
+<solution id="fs-id1167660171296">
+<para id="fs-id1167660171298">True</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167660312031" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167662414805">
+<problem id="fs-id1167662476848">
+<para id="fs-id1167662476850">Why is primase required for DNA replication?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167662552414">
+<problem id="fs-id1167662552416">
+<para id="fs-id1167662407459">What is the role of single-stranded binding protein in DNA replication?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167660147674">
+<problem id="fs-id1167662570598">
+<para id="fs-id1167662570600">Below is a DNA sequence. Envision that this is a section of a DNA molecule that has separated in preparation for replication, so you are only seeing one DNA strand. Construct the complementary DNA sequence (indicating 5’ and 3’ ends).</para>
+<para id="fs-id1167660319757">DNA sequence: 3’-T A C T G A C T G A C G A T C-5’</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167662406184" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167662614430">
+<problem id="fs-id1167662401163">
+<para id="fs-id1167662401165">Review <link target-id="OSC_Microbio_11_02_DNARep"/> and <link target-id="OSC_Microbio_11_02_MesStahl"/>. Why was it important that Meselson and Stahl continue their experiment to at least two rounds of replication after isotopic labeling of the starting DNA with <sup>15</sup>N, instead of stopping the experiment after only one round of replication?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167662470264">
+<problem id="fs-id1167662470266">
+<para id="fs-id1167662443355">If deoxyribonucleotides that lack the 3’-OH groups are added during the replication process, what do you expect will occur?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+
+</document>

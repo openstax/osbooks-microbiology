@@ -1,0 +1,21 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58847</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>79ed26cb-1a1f-4f75-bb40-4caf0f9c3e73</md:uuid>
+</metadata>
+
+<content>
+<figure id="OSC_Microbio_12_00_thermocycl" class="splash">
+<media id="fs-id1167742413876" alt="A photograph of a thermocycler; a desktop machine with a heating element and temperature display. A micrograph of oval cells; most are clear but a few are orange.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_12_00_thermocycl.jpg"/>
+</media>
+<caption>A thermal cycler (left) is used during a polymerase chain reaction (PCR). PCR amplifies the number of copies of DNA and can assist in diagnosis of infections caused by microbes that are difficult to culture, such as <emphasis effect="italics">Chlamydia trachomatis</emphasis> (right). <emphasis effect="italics">C. trachomatis</emphasis> causes chlamydia, the most common sexually transmitted disease in the United States, and trachoma, the world’s leading cause of preventable blindness. (credit right: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1167742564905"><term class="no-emphasis">Watson and Crick</term>’s identification of the structure of DNA in 1953 was the seminal event in the field of genetic engineering. Since the 1970s, there has been a veritable explosion in scientists’ ability to manipulate DNA in ways that have revolutionized the fields of biology, medicine, diagnostics, forensics, and industrial manufacturing. Many of the molecular tools discovered in recent decades have been produced using prokaryotic microbes. In this chapter, we will explore some of those tools, especially as they relate to applications in medicine and health care.</para>
+<para id="fs-id1167742609065">As an example, the <term class="no-emphasis">thermal cycler</term> in <link target-id="OSC_Microbio_12_00_thermocycl"/> is used to perform a diagnostic technique called the <term class="no-emphasis">polymerase chain reaction (PCR)</term>, which relies on DNA polymerase enzymes from thermophilic bacteria. Other molecular tools, such as restriction enzymes and plasmids obtained from microorganisms, allow scientists to insert genes from humans or other organisms into microorganisms. The microorganisms are then grown on an industrial scale to synthesize products such as <term class="no-emphasis">insulin</term>, vaccines, and biodegradable polymers. These are just a few of the numerous applications of microbial genetics that we will explore in this chapter.</para>
+ </content>
+</document>

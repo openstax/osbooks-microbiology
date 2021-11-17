@@ -1,0 +1,369 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Using Physical Methods to Control Microorganisms</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58854</md:content-id>
+  <md:title>Using Physical Methods to Control Microorganisms</md:title>
+  <md:abstract/>
+  <md:uuid>3ed49170-cca5-4e52-83f2-5879a2b34e2b</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167584731780" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167584908947">
+<item>Understand and compare various physical methods of controlling microbial growth, including heating, refrigeration, freezing, high-pressure treatment, desiccation, lyophilization, irradiation, and filtration</item>
+</list>
+</section>
+<para id="fs-id1167585050571">For thousands of years, humans have used various physical methods of microbial control for <term class="no-emphasis">food preservation</term>. Common control methods include the application of high temperatures, radiation, filtration, and desiccation (drying), among others. Many of these methods nonspecifically kill cells by disrupting membranes, changing membrane permeability, or damaging proteins and nucleic acids by denaturation, degradation, or chemical modification. Various physical methods used for microbial control are described in this section.</para>
+<section id="fs-id1167661650916">
+<title>Heat</title>
+<para id="fs-id1167584891559">Heating is one of the most common—and oldest—forms of microbial control. It is used in simple techniques like cooking and <term class="no-emphasis">canning</term>. Heat can kill microbes by altering their membranes and denaturing proteins. The <term>thermal death point (TDP)</term> of a microorganism is the lowest temperature at which all microbes are killed in a 10-minute exposure. Different microorganisms will respond differently to high temperatures, with some (e.g., endospore-formers such as <emphasis effect="italics">C. botulinum</emphasis>) being more heat tolerant. A similar parameter, the <term>thermal death time (TDT)</term>, is the length of time needed to kill all microorganisms in a sample at a given temperature. These parameters are often used to describe sterilization procedures that use high heat, such as <term class="no-emphasis">autoclaving</term>. Boiling is one of the oldest methods of moist-heat control of microbes, and it is typically quite effective at killing vegetative cells and some viruses. However, <term class="no-emphasis">boiling</term> is less effective at killing endospores; some endospores are able to survive up to 20 hours of boiling. Additionally, boiling may be less effective at higher altitudes, where the boiling point of water is lower and the boiling time needed to kill microbes is therefore longer. For these reasons, boiling is not considered a useful sterilization technique in the laboratory or clinical setting.</para>
+<para id="fs-id1167583612439">Many different heating protocols can be used for sterilization in the laboratory or clinic, and these protocols can be broken down into two main categories: <term>dry-heat sterilization</term> and <term>moist-heat sterilization</term>. Aseptic technique in the laboratory typically involves some dry-heat sterilization protocols using direct application of high heat, such as sterilizing inoculating loops (<link target-id="OSC_Microbio_13_02_LoopFlame"/>). Incineration at very high temperatures destroys all microorganisms. Dry heat can also be applied for relatively long periods of time (at least 2 hours) at temperatures up to 170 °C by using a dry-heat sterilizer, such as an oven. However, moist-heat sterilization is typically the more effective protocol because it penetrates cells better than dry heat does.</para>
+<figure id="OSC_Microbio_13_02_LoopFlame">
+<media id="fs-id1167584895099" alt="a) A picture of a hand holding a loop over an open flame. A machine with a wire metal cylinder that fits a loop in the center.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_02_LoopFlame.jpg"/>
+</media>
+<caption>(a) Sterilizing a loop, often referred to as “flaming a loop,” is a common component of aseptic technique in the microbiology laboratory and is used to incinerate any microorganisms on the loop. (b) Alternatively, a bactericinerator may be used to reduce aerosolization of microbes and remove the presence of an open flame in the laboratory. These are examples of dry-heat sterilization by the direct application of high heat capable of incineration. (credit a: modification of work by Anh-Hue Tu; credit b: modification of work by Brian Forster)</caption>
+</figure>
+<section id="fs-id1167583609170">
+<title>Autoclaves</title>
+<para id="fs-id1167583639237">Autoclaves rely on moist-heat sterilization. They are used to raise temperatures above the boiling point of water to sterilize items such as surgical equipment from vegetative cells, viruses, and especially endospores, which are known to survive boiling temperatures, without damaging the items. Charles <term class="no-emphasis">Chamberland</term> (1851–1908) designed the modern <term class="no-emphasis">autoclave</term> in 1879 while working in the laboratory of Louis <term class="no-emphasis">Pasteur</term>. The autoclave is still considered the most effective method of sterilization (<link target-id="OSC_Microbio_13_02_Autoclave"/>). Outside laboratory and clinical settings, large industrial autoclaves called <term>retort</term><emphasis effect="bold">s</emphasis> allow for moist-heat sterilization on a large scale.</para>
+<para id="fs-id1167585113139">In general, the air in the chamber of an autoclave is removed and replaced with increasing amounts of steam trapped within the enclosed chamber, resulting in increased interior pressure and temperatures above the boiling point of water. The two main types of autoclaves differ in the way that air is removed from the chamber. In <term class="no-emphasis">gravity displacement autoclave</term>s, steam is introduced into the chamber from the top or sides. Air, which is heavier than steam, sinks to the bottom of the chamber, where it is forced out through a vent. Complete displacement of air is difficult, especially in larger loads, so longer cycles may be required for such loads. In <term class="no-emphasis">prevacuum sterilizer</term>s, air is removed completely using a high-speed vacuum before introducing steam into the chamber. Because air is more completely eliminated, the steam can more easily penetrate wrapped items. Many autoclaves are capable of both gravity and prevacuum cycles, using the former for the decontamination of waste and sterilization of media and unwrapped glassware, and the latter for sterilization of packaged instruments.</para>
+<figure id="OSC_Microbio_13_02_Autoclave">
+<media id="fs-id1167583869747" alt="a) A drawing of an autoclave. There is a large metal cylinder with a pressure gauge. An operative valve allows steam from the jacket to the chamber; there is also a safety valve. The main chamber connects to an exhaust valve, a waste line, an ejector valve, a steam supply line and a pressure regulator. B) a photo of an autoclave; a large metal box as tall as the operator standing in front of it.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_02_Autoclave.jpg"/>
+</media>
+<caption>A technician sterilizes a sample using an autoclave. (Credit: Martha Cooper / Picryl; Public Domain.</caption>
+</figure>
+<para id="fs-id1167583946474">Standard operating temperatures for autoclaves are 121 °C or, in some cases, 132 °C, typically at a pressure of 15 to 20 pounds per square inch (psi). The length of exposure depends on the volume and nature of material being sterilized, but it is typically 20 minutes or more, with larger volumes requiring longer exposure times to ensure sufficient heat transfer to the materials being sterilized. The steam must directly contact the liquids or dry materials being sterilized, so containers are left loosely closed and instruments are loosely wrapped in paper or foil. The key to autoclaving is that the temperature must be high enough to kill endospores to achieve complete sterilization.</para>
+<para id="fs-id1167585006238">Because sterilization is so important to safe medical and laboratory protocols, quality control is essential. Autoclaves may be equipped with recorders to document the pressures and temperatures achieved during each run. Additionally, internal indicators of various types should be autoclaved along with the materials to be sterilized to ensure that the proper sterilization temperature has been reached (<link target-id="OSC_Microbio_13_02_ACTests"/>). One common type of indicator is the use of heat-sensitive <term class="no-emphasis">autoclave tape</term>, which has white stripes that turn black when the appropriate temperature is achieved during a successful autoclave run. This type of indicator is relatively inexpensive and can be used during every run. However, autoclave tape provides no indication of length of exposure, so it cannot be used as an indicator of sterility. Another type of indicator, a biological indicator spore test, uses either a strip of paper or a liquid suspension of the endospores of <term class="no-emphasis"><emphasis effect="italics">Geobacillus stearothermophilus</emphasis></term> to determine whether the endospores are killed by the process. The endospores of the obligate thermophilic bacterium <emphasis effect="italics">G.</emphasis> <emphasis effect="italics">stearothermophilus</emphasis> are the gold standard used for this purpose because of their extreme heat resistance. Biological spore indicators can also be used to test the effectiveness of other sterilization protocols, including ethylene oxide, dry heat, formaldehyde, gamma radiation, and hydrogen peroxide plasma sterilization using either <emphasis effect="italics">G</emphasis>. <emphasis effect="italics">stearothermophilus</emphasis>, <emphasis effect="italics">Bacillus atrophaeus, B. subtilis,</emphasis> or <emphasis effect="italics">B. pumilus</emphasis> spores. In the case of validating autoclave function, the endospores are incubated after autoclaving to ensure no viable endospores remain. Bacterial growth subsequent to endospore germination can be monitored by <term class="no-emphasis">biological indicator spore tests</term> that detect acid metabolites or fluorescence produced by enzymes derived from viable <emphasis effect="italics">G.</emphasis> <emphasis effect="italics">stearothermophilus</emphasis>. A third type of autoclave indicator is the <term class="no-emphasis">Diack tube</term>, a glass ampule containing a temperature-sensitive pellet that melts at the proper sterilization temperature. Spore strips or Diack tubes are used periodically to ensure the autoclave is functioning properly.</para>
+<figure id="OSC_Microbio_13_02_ACTests">
+<media id="fs-id1167584997362" alt="A photo of test tubes. The one on the left has white tape, the one on the right has the same white tape but it now has a black line.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_02_ACTests.jpg"/>
+</media>
+<caption>The white strips on autoclave tape (left tube) turn dark during a successful autoclave run (right tube). (credit: modification of work by Brian Forster)</caption>
+</figure>
+</section>
+<section id="fs-id1167583794288">
+<title>Pasteurization</title>
+<para id="fs-id1167583603405">Although complete sterilization is ideal for many medical applications, it is not always practical for other applications and may also alter the quality of the product. Boiling and autoclaving are not ideal ways to control microbial growth in many foods because these methods may ruin the consistency and other organoleptic (sensory) qualities of the food. Pasteurization is a form of microbial control for food that uses heat but does not render the food sterile. Traditional <term>pasteurization</term> kills pathogens and reduces the number of spoilage-causing microbes while maintaining food quality. The process of pasteurization was first developed by Louis <term class="no-emphasis">Pasteur</term> in the 1860s as a method for preventing the spoilage of beer and wine. Today, pasteurization is most commonly used to kill heat-sensitive pathogens in milk and other food products (e.g., apple juice and honey) (<link target-id="OSC_Microbio_13_02_Pasteurize"/>). However, because pasteurized food products are not sterile, they will eventually spoil.</para>
+<para id="fs-id1167585160973">The methods used for milk pasteurization balance the temperature and the length of time of treatment. One method, <term>high-temperature short-time (HTST) pasteurization</term>, exposes milk to a temperature of 72 °C for 15 seconds, which lowers bacterial numbers while preserving the quality of the milk. An alternative is <term>ultra-high-temperature (UHT) pasteurization</term>, in which the milk is exposed to a temperature of 138 °C for 2 or more seconds. UHT pasteurized milk can be stored for a long time in sealed containers without being refrigerated; however, the very high temperatures alter the proteins in the milk, causing slight changes in the taste and smell. Still, this method of pasteurization is advantageous in regions where access to refrigeration is limited.</para>
+<figure id="OSC_Microbio_13_02_Pasteurize">
+<media id="fs-id1167584924056" alt="Pasteurization shows an image of a large machine. To the left is HTST pasteurization where milk is heated at 72 degrees C for 15 seconds, then boiled and refrigerated. To the right is UHT pasteurization where milk is heated at 138 degrees C for 2 or more seconds, then sealed in airtight containers for up to 90 days without refrigeration. To the bottom is the following test: milkborne organisms killed by pasteurization: Campylobacter jejuni, Coxiella burnetii, Listeria monocytogenes, Escherichia coli O157:H7, Mycobacterium tuberculosis, M. paratuberculosis, Salmonella spp., Yersinia enterocolitica.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_02_Pasteurize.jpg"/>
+</media>
+<caption>Two different methods of pasteurization, HTST and UHT, are commonly used to kill pathogens associated with milk spoilage. (credit left: modification of work by Mark Hillary; credit right: modification of work by Kerry Ceszyk)</caption>
+</figure>
+<note id="fs-id1167585158762" class="microbiology check-your-understanding">
+<list id="fs-id1167584702765" list-type="bulleted" bullet-style="bullet">
+<item>In an autoclave, how are temperatures above boiling achieved?</item>
+<item>How would the onset of spoilage compare between HTST-pasteurized and UHT-pasteurized milk?</item>
+<item>Why is boiling not used as a sterilization method in a clinical setting?</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1167583835471">
+<title>Refrigeration and Freezing</title>
+<para id="fs-id1167583591405">Just as high temperatures are effective for controlling microbial growth, exposing microbes to low temperatures can also be an easy and effective method of microbial control, with the exception of <term class="no-emphasis">psychrophiles</term>, which prefer cold temperatures (see <link document="m58831">Temperature and Microbial Growth</link>). Refrigerators used in home kitchens or in the laboratory maintain temperatures between 0 °C and 7 °C. This temperature range inhibits microbial metabolism, slowing the growth of microorganisms significantly and helping preserve refrigerated products such as foods or medical supplies. Certain types of laboratory cultures can be preserved by <term class="no-emphasis">refrigeration</term> for later use.</para>
+<para id="fs-id1167584752022">Freezing below −2 °C may stop microbial growth and even kill susceptible organisms. According to the US Department of Agriculture (USDA), the only safe ways that frozen foods can be thawed are in the refrigerator, immersed in cold water changed every 30 minutes, or in the microwave, keeping the food at temperatures not conducive for bacterial growth.<footnote id="fs-id1167583965383">US Department of Agriculture. “Freezing and Food Safety.” 2013. http://www.fsis.usda.gov/wps/portal/fsis/topics/food-safety-education/get-answers/food-safety-fact-sheets/safe-food-handling/freezing-and-food-safety/CT_Index. Accessed June 8, 2016.</footnote> In addition, halted bacterial growth can restart in thawed foods, so thawed foods should be treated like fresh perishables.</para>
+<para id="fs-id1167585020993">Bacterial cultures and medical specimens requiring long-term storage or transport are often frozen at ultra-low temperatures of −70 °C or lower. These ultra-low temperatures can be achieved by storing specimens on <term class="no-emphasis">dry ice</term> in an <term class="no-emphasis">ultra-low freezer</term> or in special <term class="no-emphasis">liquid nitrogen</term> tanks, which maintain temperatures lower than −196 °C (<link target-id="OSC_Microbio_13_02_Ultralow"/>).</para>
+<figure id="OSC_Microbio_13_02_Ultralow">
+<media id="fs-id1167584926166" alt="Photo of a person standing in front of a large freezer. Photo of a person standing in front of a large freezer.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_02_Ultralow.png"/>
+</media>
+<caption>Cultures and other medical specimens can be stored for long periods at ultra-low temperatures. (a) An ultra-low freezer maintains temperatures at or below −70 °C. (b) Two people stand in a room with a large nitrogen storage unit emitting a large amount of fog. (credit a: modification of work by “Expert Infantry”/Flickr; credit b: Credit: US Navy; Public Domain.)</caption>
+</figure>
+<note id="fs-id1167583536327" class="microbiology check-your-understanding">
+<list id="fs-id1167584959304" list-type="bulleted" bullet-style="bullet">
+<item>Does placing food in a refrigerator kill bacteria on the food?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167583958088">
+<title>Pressure</title>
+<para id="fs-id1167584971440">Exposure to high pressure kills many microbes. In the food industry, <term class="no-emphasis">high-pressure processing</term> (also called <term class="no-emphasis">pascalization</term>) is used to kill bacteria, yeast, molds, parasites, and viruses in foods while maintaining food quality and extending shelf life. The application of high pressure between 100 and 800 MPa (sea level atmospheric pressure is about 0.1 MPa) is sufficient to kill vegetative cells by protein denaturation, but endospores may survive these pressures.<footnote id="fs-id1167583932968">C. Ferstl. “High Pressure Processing: Insights on Technology and Regulatory Requirements.” Food for Thought/White Paper. Series Volume 10. Livermore, CA: The National Food Lab; July 2013.</footnote><footnote id="fs-id1167584667456">US Food and Drug Administration. “Kinetics of Microbial Inactivation for Alternative Food Processing Technologies: High Pressure Processing.” 2000. http://www.fda.gov/Food/FoodScienceResearch/SafePracticesforFoodProcesses/ucm101456.htm. Accessed July 19, 2106.</footnote></para>
+<para id="fs-id1167585130058">In clinical settings, <term class="no-emphasis">hyperbaric oxygen therapy</term> is sometimes used to treat infections. In this form of therapy, a patient breathes pure oxygen at a pressure higher than normal atmospheric pressure, typically between 1 and 3 atmospheres (atm). This is achieved by placing the patient in a hyperbaric chamber or by supplying the pressurized oxygen through a breathing tube. Hyperbaric oxygen therapy helps increase oxygen saturation in tissues that become hypoxic due to infection and inflammation. This increased oxygen concentration enhances the body’s immune response by increasing the activities of neutrophils and macrophages, white blood cells that fight infections. Increased oxygen levels also contribute to the formation of toxic free radicals that inhibit the growth of oxygen-sensitive or anaerobic bacteria like as <term class="no-emphasis"><emphasis effect="italics">Clostridium perfringens</emphasis></term>, a common cause of <term class="no-emphasis">gas gangrene</term>. In <emphasis effect="italics">C.</emphasis> <emphasis effect="italics">perfringens</emphasis> infections, hyperbaric oxygen therapy can also reduce secretion of a bacterial toxin that causes tissue destruction. Hyperbaric oxygen therapy also seems to enhance the effectiveness of antibiotic treatments. Unfortunately, some rare risks include oxygen toxicity and effects on delicate tissues, such as the eyes, middle ear, and lungs, which may be damaged by the increased air pressure.</para>
+<para id="fs-id1167583577897">High pressure processing is not commonly used for disinfection or sterilization of fomites. Although the application of pressure and steam in an autoclave is effective for killing endospores, it is the high temperature achieved, and not the pressure directly, that results in endospore death.</para>
+<note id="fs-id1167583817114" class="microbiology case-in-point">
+<title>A Streak of Bad Potluck</title>
+<para id="fs-id1167584656430">One Monday in spring 2015, an Ohio woman began to experience blurred, double vision; difficulty swallowing; and drooping eyelids. She was rushed to the emergency department of her local hospital. During the examination, she began to experience abdominal cramping, nausea, paralysis, dry mouth, weakness of facial muscles, and difficulty speaking and breathing. Based on these symptoms, the hospital’s incident command center was activated, and Ohio public health officials were notified of a possible case of botulism. Meanwhile, other patients with similar symptoms began showing up at other local hospitals. Because of the suspicion of botulism, antitoxin was shipped overnight from the CDC to these medical facilities, to be administered to the affected patients. The first patient died of respiratory failure as a result of paralysis, and about half of the remaining victims required additional hospitalization following antitoxin administration, with at least two requiring ventilators for breathing.</para>
+<para id="fs-id1167585058970">Public health officials investigated each of the cases and determined that all of the patients had attended the same church potluck the day before. Moreover, they traced the source of the outbreak to a potato salad made with home-canned potatoes. More than likely, the potatoes were canned using boiling water, a method that allows endospores of <emphasis effect="italics">Clostridium botulinum</emphasis> to survive. <emphasis effect="italics">C. botulinum</emphasis> produces botulinum toxin, a neurotoxin that is often deadly once ingested. According to the CDC, the Ohio case was the largest botulism outbreak in the United States in nearly 40 years.<footnote id="fs-id1167583814147">CL McCarty et al. “Large Outbreak of Botulism Associated with a Church Potluck Meal-Ohio, 2015.” <emphasis effect="italics">Morbidity and Mortality Weekly Report</emphasis> 64, no. 29 (2015):802–803.
+</footnote></para>
+<para id="fs-id1167585066701">Killing <emphasis effect="italics">C. botulinum</emphasis> endospores requires a minimum temperature of 116 °C (240 °F), well above the boiling point of water. This temperature can only be reached in a pressure canner, which is recommended for home canning of low-acid foods such as meat, fish, poultry, and vegetables (<link target-id="OSC_Microbio_13_02_HomeCan"/>). Additionally, the CDC recommends boiling home-canned foods for about 10 minutes before consumption. Since the botulinum toxin is heat labile (meaning that it is denatured by heat), 10 minutes of boiling will render nonfunctional any botulinum toxin that the food may contain.</para>
+<figure id="OSC_Microbio_13_02_HomeCan">
+<media id="fs-id1167583717615" alt="a) A drawing of a microscope image. Small rod shaped cells with a small clear circle at one end. Also visible are rods with no clear circles and tiny circles outside of the rods. B) home canning jars in a pot.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_02_HomeCan.jpg"/>
+</media>
+<caption>(a) <emphasis effect="italics">Clostridium botulinum</emphasis> is the causative agent of botulism. (b) A pressure canner is recommended for home canning because endospores of <emphasis effect="italics">C. botulinum</emphasis> can survive temperatures above the boiling point of water. (credit a: modification of work by Centers for Disease Control and Prevention; credit b: modification of work by National Center for Home Food Preservation)</caption>
+</figure>
+</note>
+<note id="fs-id1167583905147" class="microbiology link-to-learning">
+
+<para id="fs-id1167584977613">To <link url="https://openstax.org/l/22cdccanathome">learn more</link> about proper home-canning techniques, visit the CDC’s website.</para>
+</note>
+</section>
+<section id="fs-id1167583639348">
+<title>Desiccation</title>
+<para id="fs-id1167584867567">Drying, also known as <term>desiccation</term> or dehydration, is a method that has been used for millennia to preserve foods such as raisins, prunes, and jerky. It works because all cells, including microbes, require water for their metabolism and survival. Although drying controls microbial growth, it might not kill all microbes or their endospores, which may start to regrow when conditions are more favorable and water content is restored.</para>
+<para id="fs-id1167583695705">In some cases, foods are dried in the sun, relying on evaporation to achieve desiccation. Freeze-drying, or <term>lyophilization</term>, is another method of dessication in which an item is rapidly frozen (“snap-frozen”) and placed under vacuum so that water is lost by sublimation. Lyophilization combines both exposure to cold temperatures and desiccation, making it quite effective for controlling microbial growth. In addition, lyophilization causes less damage to an item than conventional desiccation and better preserves the item’s original qualities. Lyophilized items may be stored at room temperature if packaged appropriately to prevent moisture acquisition. Lyophilization is used for preservation in the food industry and is also used in the laboratory for the long-term storage and transportation of microbial cultures.</para>
+<para id="fs-id1167585172658">The water content of foods and materials, called the <term>water activity</term>, can be lowered without physical drying by the addition of solutes such as salts or sugars. At very high concentrations of salts or sugars, the amount of available water in microbial cells is reduced dramatically because water will be drawn from an area of low solute concentration (inside the cell) to an area of high solute concentration (outside the cell) (<link target-id="OSC_Microbio_13_02_Dessicated"/>). Many microorganisms do not survive these conditions of high osmotic pressure. Honey, for example, is 80% sucrose, an environment in which very few microorganisms are capable of growing, thereby eliminating the need for refrigeration. Salted meats and fish, like ham and cod, respectively, were critically important foods before the age of <term class="no-emphasis">refrigeration</term>. Fruits were preserved by adding sugar, making jams and jellies. However, certain microbes, such as molds and yeasts, tend to be more tolerant of desiccation and high osmotic pressures, and, thus, may still contaminate these types of foods.</para>
+<figure id="OSC_Microbio_13_02_Dessicated">
+<media id="fs-id1167584887012" alt="a) A drawing showing water leaving the cell and the cell shriveling. B) photos of raisins, beef jerky, salted fish, and jam.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_02_Dessicated.jpg"/>
+</media>
+<caption>(a) The addition of a solute creates a hypertonic environment, drawing water out of cells. (b) Some foods can be dried directly, like raisins and jerky. Other foods are dried with the addition of salt, as in the case of salted fish, or sugar, as in the case of jam. (credit a: modification of work by “Bruce Blaus”/Wikimedia Commons; credit raisins: modification of work by Christian Schnettelker; credit jerky: modification of work by Larry Jacobsen; credit salted fish: modification of work by “The Photographer”/Wikimedia Commons; credit jam: modification of work by Kim Becker)</caption>
+</figure>
+<note id="fs-id1167585084094" class="microbiology check-your-understanding">
+<list id="fs-id1167585036722" list-type="bulleted" bullet-style="bullet">
+<item>How does the addition of salt or sugar to food affect its water activity?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167583639865">
+<title>Radiation</title>
+<para id="fs-id1167583694816">Radiation in various forms, from high-energy radiation to sunlight, can be used to kill microbes or inhibit their growth. <emphasis effect="bold">Ionizing radiation</emphasis> includes X-rays, gamma rays, and high-energy electron beams. Ionizing <term class="no-emphasis">radiation</term> is strong enough to pass into the cell, where it alters molecular structures and damages cell components. For example, <term class="no-emphasis">ionizing radiation</term> introduces double-strand breaks in DNA molecules. This may directly cause DNA mutations to occur, or mutations may be introduced when the cell attempts to repair the DNA damage. As these mutations accumulate, they eventually lead to cell death.</para>
+<para id="fs-id1167583965275">Both <term class="no-emphasis">X-rays</term> and <term class="no-emphasis">gamma rays</term> easily penetrate paper and plastic and can therefore be used to sterilize many packaged materials. In the laboratory, ionizing radiation is commonly used to sterilize materials that cannot be autoclaved, such as plastic Petri dishes and disposable plastic inoculating loops. For clinical use, ionizing radiation is used to sterilize gloves, intravenous tubing, and other latex and plastic items used for patient care. Ionizing radiation is also used for the sterilization of other types of delicate, heat-sensitive materials used clinically, including tissues for transplantation, pharmaceutical drugs, and medical equipment.</para>
+<para id="fs-id1167584926225">In Europe, <term class="no-emphasis">gamma irradiation</term> for <term class="no-emphasis">food preservation</term> is widely used, although it has been slow to catch on in the United States (see the <link target-id="fs-id1167585073785">Micro Connections</link> box on this topic). Packaged dried spices are also often gamma-irradiated. Because of their ability to penetrate paper, plastic, thin sheets of wood and metal, and tissue, great care must be taken when using X-rays and gamma irradiation. These types of ionizing irradiation cannot penetrate thick layers of iron or lead, so these metals are commonly used to protect humans who may be potentially exposed.</para>
+<para id="fs-id1167583933892">Another type of radiation, <term>nonionizing radiation</term>, is commonly used for disinfection and uses less energy than ionizing radiation. It does not penetrate cells or packaging. Ultraviolet (UV) light is one example; it causes <term class="no-emphasis">thymine dimer</term>s to form between adjacent thymines within a single strand of DNA (<link target-id="OSC_Microbio_13_02_UV"/>). When DNA polymerase encounters the thymine dimer, it does not always incorporate the appropriate complementary nucleotides (two adenines), and this leads to formation of mutations that can ultimately kill microorganisms.</para><para id="fs-id1167585007334">UV light can be used effectively by both consumers and laboratory personnel to control microbial growth. UV lamps are now commonly incorporated into <term class="no-emphasis">water purification</term> systems for use in homes. In addition, small portable UV lights are commonly used by campers to purify water from natural environments before drinking. Germicidal lamps are also used in surgical suites, <term class="no-emphasis">biological safety cabinet</term>s, and transfer hoods, typically emitting UV light at a wavelength of 260 nm. Because <term class="no-emphasis">UV light</term> does not penetrate surfaces and will not pass through plastics or glass, cells must be exposed directly to the light source.</para>
+<para id="fs-id1167583645684">Sunlight has a very broad spectrum that includes UV and visible light. In some cases, sunlight can be effective against certain bacteria because of both the formation of thymine dimers by UV light and by the production of reactive oxygen products induced in low amounts by exposure to visible light.</para>
+<figure id="OSC_Microbio_13_02_UV"><media id="fs-id1167585097971" alt="a) A double stranded segment of DNA showing the proper hydrogen bonds between A/T and C/G on either side of the double strand. However 2 T’s on the same strand are bound to each other instead of the A’s across from them. This bond between the 2 T’s is labeled thymine dimer. B) a photo of a lab hood with blue light.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_02_UV.jpg"/>
+</media>
+
+<caption>(a) UV radiation causes the formation of thymine dimers in DNA, leading to lethal mutations in the exposed microbes. (b) Germicidal lamps that emit UV light are commonly used in the laboratory to disinfect equipment.</caption></figure><note id="fs-id1167584867285" class="microbiology check-your-understanding">
+<list id="fs-id1167585155759" list-type="bulleted" bullet-style="bullet">
+<item>What are two advantages of ionizing radiation as a sterilization method?</item>
+<item>How does the effectiveness of ionizing radiation compare with that of nonionizing radiation?</item>
+</list>
+</note>
+<note id="fs-id1167585073785" class="microbiology micro-connection">
+<title>Irradiated Food: Would You Eat That?</title>
+<para id="fs-id1167583580036">Of all the ways to prevent food spoilage and foodborne illness, gamma irradiation may be the most unappetizing. Although gamma irradiation is a proven method of eliminating potentially harmful microbes from food, the public has yet to buy in. Most of their concerns, however, stem from misinformation and a poor understanding of the basic principles of radiation.</para>
+<para id="fs-id1167584932881">The most common method of irradiation is to expose food to cobalt-60 or cesium-137 by passing it through a radiation chamber on a conveyor belt. The food does not directly contact the radioactive material and does not become radioactive itself. Thus, there is no risk for exposure to radioactive material through eating gamma-irradiated foods. Additionally, irradiated foods are not significantly altered in terms of nutritional quality, aside from the loss of certain vitamins, which is also exacerbated by extended storage. <sup/>Alterations in taste or smell may occur in irradiated foods with high fat content, such as fatty meats and dairy products, but this effect can be minimized by using lower doses of radiation at colder temperatures.</para>
+<para id="fs-id1167584987030">In the United States, the CDC, Environmental Protection Agency (EPA), and the Food and Drug Administration (FDA) have deemed irradiation safe and effective for various types of meats, poultry, shellfish, fresh fruits and vegetables, eggs with shells, and spices and seasonings. Gamma irradiation of foods has also been approved for use in many other countries, including France, the Netherlands, Portugal, Israel, Russia, China, Thailand, Belgium, Australia, and South Africa. To help ameliorate consumer concern and assist with education efforts, irradiated foods are now clearly labeled and marked with the international irradiation symbol, called the “radura” (<link target-id="OSC_Microbio_13_02_Gammafood"/>). Consumer acceptance seems to be rising, as indicated by several recent studies.<footnote id="fs-id1167584755882">AM Johnson et al. “Consumer Acceptance of Electron-Beam Irradiated Ready-to-Eat Poultry Meats.” <emphasis effect="italics">Food Processing Preservation</emphasis>, 28 no. 4 (2004):302–319.</footnote></para>
+<figure id="OSC_Microbio_13_02_Gammafood">
+<media id="fs-id1167584879880" alt="A) Peaches on a conveyor belt. B) The symbol for gamma-irradiated. A stylized flower (circle above 2 leaf shapes) inside a circle with 4 clear lines going through the circle near the top.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_02_Gammafood.jpg"/>
+</media>
+<caption>(a) Foods are exposed to gamma radiation by passage on a conveyor belt through a radiation chamber. (b) Gamma-irradiated foods must be clearly labeled and display the irradiation symbol, known as the “radura.” (credit a, b: modification of work by U.S. Department of Agriculture)</caption>
+</figure>
+</note>
+</section>
+<section id="fs-id1167584759289">
+<title>Sonication</title>
+<para id="fs-id1167584892469">The use of high-frequency ultrasound waves to disrupt cell structures is called <term>sonication</term>. Application of ultrasound waves causes rapid changes in pressure within the intracellular liquid; this leads to <term class="no-emphasis">cavitation</term>, the formation of bubbles inside the cell, which can disrupt cell structures and eventually cause the cell to lyse or collapse. Sonication is useful in the laboratory for efficiently lysing cells to release their contents for further research; outside the laboratory, sonication is used for cleaning surgical instruments, lenses, and a variety of other objects such as coins, tools, and musical instruments.</para>
+</section>
+<section id="fs-id1167584646220">
+<title>Filtration</title>
+<para id="fs-id1167583903072">Filtration is a method of physically separating microbes from samples. Air is commonly filtered through <term>high-efficiency particulate air (HEPA) filter</term>s (<link target-id="OSC_Microbio_13_02_HEPA"/>). HEPA filters have effective pore sizes of 0.3 µm, small enough to capture bacterial cells, endospores, and many viruses, as air passes through these filters, nearly sterilizing the air on the other side of the filter. HEPA filters have a variety of applications and are used widely in clinical settings, in cars and airplanes, and even in the home. For example, they may be found in vacuum cleaners, heating and air-conditioning systems, and air purifiers.</para>
+<figure id="OSC_Microbio_13_02_HEPA">
+<media id="fs-id1167585141736" alt="a) A large square with a white center. B) a diagram of the filter showing that the white center is made of a continuous sheet of filter medium separated by aluminum separators. A diagram showing the filter sheet of randomly arranged fibers. Interception (&lt;100 nm) wi shen the particle hits a fiber. Impact (&gt;1um) is when the particle becomes wedged between fibers. Diffusion (&lt;0.01) is when the particle moves between the fibers.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_02_HEPA.jpg"/>
+</media>
+<caption>(a) HEPA filters like this one remove microbes, endospores, and viruses as air flows through them. (b) A schematic of a HEPA filter. (credit a: modification of work by CSIRO; credit b: modification of work by “LadyofHats”/Mariana Ruiz Villareal)</caption>
+</figure>
+<section id="fs-id1167584774056">
+<title>Biological Safety Cabinets</title>
+<para id="fs-id1167583829026">Biological safety cabinets are a good example of the use of HEPA filters. HEPA filters in <term class="no-emphasis">biological safety cabinet</term>s (BSCs) are used to remove particulates in the air either entering the cabinet (air intake), leaving the cabinet (air exhaust), or treating both the intake and exhaust. Use of an air-intake HEPA filter prevents environmental contaminants from entering the BSC, creating a clean area for handling biological materials. Use of an air-exhaust HEPA filter prevents laboratory pathogens from contaminating the laboratory, thus maintaining a safe work area for laboratory personnel.</para>
+<para id="fs-id1167583572609">There are three classes of BSCs: I, II, and III. Each class is designed to provide a different level of protection for laboratory personnel and the environment; BSC II and III are also designed to protect the materials or devices in the cabinet. <link target-id="fs-id1167581501606"/> summarizes the level of safety provided by each class of BSC for each BSL.</para>
+<table id="fs-id1167581501606" summary="A table titled biological risks and BSC’s; 5 columsn. Biological risk assessed, bsc class, protection of personnel, protection of environment, protection of product. BSL-1, 2 and 3; BSC class I – requires protection of personnel and environment but not product. BSL-1, 2, and 3 require protection of all 3. SBL-4, III, II wen used in suite room with suit requires protection of all 3 personnel, environment and product." class="span-all">
+<tgroup cols="5">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c5">Biological Risks and BSCs</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Biological Risk Assessed</entry>
+<entry valign="top" align="left">BSC Class</entry>
+<entry valign="top" align="left">Protection of Personnel</entry>
+<entry valign="top" align="left">Protection of Environment</entry>
+<entry valign="top" align="left">Protection of Product</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left">BSL-1, BSL-2, BSL-3</entry>
+<entry valign="top" align="left">I</entry>
+<entry valign="top" align="left">Yes</entry>
+<entry valign="top" align="left">Yes</entry>
+<entry valign="top" align="left">No</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">BSL-1, BSL-2, BSL-3</entry>
+<entry valign="top" align="left">II</entry>
+<entry valign="top" align="left">Yes</entry>
+<entry valign="top" align="left">Yes</entry>
+<entry valign="top" align="left">Yes</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">BSL-4</entry>
+<entry valign="top" align="left">III; II when used in suit room with suit</entry>
+<entry valign="top" align="left">Yes</entry>
+<entry valign="top" align="left">Yes</entry>
+<entry valign="top" align="left">Yes</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id1167585150903">Class I BSCs protect laboratory workers and the environment from a low to moderate risk for exposure to biological agents used in the laboratory. Air is drawn into the cabinet and then filtered before exiting through the building’s exhaust system. Class II BSCs use directional air flow and partial barrier systems to contain infectious agents. Class III BSCs are designed for working with highly infectious agents like those used in <term class="no-emphasis">BSL-4</term> laboratories. They are gas tight, and materials entering or exiting the cabinet must be passed through a double-door system, allowing the intervening space to be decontaminated between uses. All air is passed through one or two HEPA filters and an air incineration system before being exhausted directly to the outdoors (not through the building’s exhaust system). Personnel can manipulate materials inside the Class III cabinet by using long rubber gloves sealed to the cabinet.</para>
+<note id="fs-id1167584977086" class="microbiology link-to-learning">
+
+<para id="fs-id1167583611362">This <link url="https://openstax.org/l/22BSCsdesvideo">video</link> shows how BSCs are designed and explains how they protect personnel, the environment, and the product.</para>
+</note>
+</section>
+<section id="fs-id1167583688625">
+<title>Filtration in Hospitals</title>
+<para id="fs-id1167584697034">HEPA filters are also commonly used in hospitals and surgical suites to prevent contamination and the spread of airborne microbes through ventilation systems. HEPA filtration systems may be designed for entire buildings or for individual rooms. For example, burn units, operating rooms, or isolation units may require special HEPA-filtration systems to remove opportunistic pathogens from the environment because patients in these rooms are particularly vulnerable to infection.</para>
+</section>
+<section id="fs-id1167583711699">
+<title>Membrane Filters</title>
+<para id="fs-id1167583954753">Filtration can also be used to remove microbes from liquid samples using <term>membrane filtration</term>. Membrane filters for liquids function similarly to HEPA filters for air. Typically, membrane filters that are used to remove bacteria have an effective pore size of 0.2 µm, smaller than the average size of a bacterium (1 µm), but filters with smaller pore sizes are available for more specific needs. Membrane filtration is useful for removing bacteria from various types of heat-sensitive solutions used in the laboratory, such as antibiotic solutions and vitamin solutions. Large volumes of culture media may also be filter sterilized rather than autoclaved to protect heat-sensitive components. Often when filtering small volumes, <term class="no-emphasis">syringe filter</term>s are used, but <term class="no-emphasis">vacuum filter</term>s are typically used for filtering larger volumes (<link target-id="OSC_Microbio_13_02_MembFilter"/>).</para>
+<figure id="OSC_Microbio_13_02_MembFilter">
+<media id="fs-id1167585155940" alt="a) Photo of 2 chambers separated by a filter; a tube runs from below the filter to a device. B) A photo of a syringe with a filter on the end.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_02_MembFilter.jpg"/>
+</media>
+<caption>Membrane filters come in a variety of sizes, depending on the volume of solution being filtered. (a) Larger volumes are filtered in units like these. The solution is drawn through the filter by connecting the unit to a vacuum. (b) Smaller volumes are often filtered using syringe filters, which are units that fit on the end of a syringe. In this case, the solution is pushed through by depressing the syringe’s plunger. (credit a, b: modification of work by Brian Forster)</caption>
+</figure>
+<note id="fs-id1167584822184" class="microbiology check-your-understanding">
+<list id="fs-id1167583630839" list-type="bulleted" bullet-style="bullet">
+<item>Would membrane filtration with a 0.2-µm filter likely remove viruses from a solution? Explain.</item>
+<item>Name at least two common uses of HEPA filtration in clinical or laboratory settings.</item>
+</list>
+</note>
+<para id="fs-id1167663628980"><link target-id="OSC_Microbio_13_02_PMCTable_A"/> and <link target-id="OSC_Microbio_13_02_PMCTable_B"/> summarize the physical methods of control discussed in this section.</para>
+<figure id="OSC_Microbio_13_02_PMCTable_A">
+<media id="fs-id1167583697184" alt="A table titled physical methods of control; 4 columns – method, conditions, mode of action, and examples of use. Groupings are: heat, cold, pressure, desiccation, radiation, sonication, and filtration. Heat. Boiling, 100 °C at sea level, Denatures proteins and alters membranes; usese Cooking, personal use, preparing certain laboratory media. Dry-heat oven, 170 °C for 2 hours, Denatures proteins and alters membranes, dehydration, desiccation; uses Sterilization of heat-stable medical and laboratory equipment and glassware. Incineration, Exposure to flame,Destroy by burning, Flaming loop, microincinerator. Autoclave, Typical settings: 121 °C for 15–40 minutes at 15 psi, Denatures proteins and alters membranes, Sterilization of microbiological media, heat-stable medical and laboratory equipment, and other heat-stable items. Pasteurization, 72 °C for 15 seconds (HTST) or 138 °C for ≥ 2 seconds (UHT), Denatures proteins and alters membranes, Prevents spoilage of milk, apple juice, honey, and other ingestible liquids. Cold. Refrigeration, 0 °C to 7 °C, Inhibits metabolism (slows or arrests cell division), Preservation of food or laboratory materials (solutions, cultures). Freezing, Below −2 °C, Stops metabolism, may kill microbes, Long-term storage of food, laboratory cultures, or medical specimens. Pressure. High-pressure processing, Exposure to pressures of 100–800 MPa, Denatures proteins and can cause cell lysis Preservation of food, Hyberbaric oxygen therapy. Inhalation of pure oxygen at a pressure of 1–3 atm, Inhibits metabolism and growth of anaerobic microbes, Treatment of certain infections (e.g., gas gangrene). Dessication. Simple desiccation, Drying, Inhibits metabolism, Dried fruits, jerky. Reduce water activity, Addition of salt or water Inhibits metabolism and can cause lysis, Salted meats and fish, honey, jams and jellies. Lyophilization, Rapid freezing under vacuum, Inhibits metabolism Preservation of food, laboratory cultures, or reagents. Radiation. Ionizing radiation, Exposure to X-rays or gamma rays, Alters molecular structures, introduces double-strand breaks into DNA, Sterilization of spices and heat-sensitive laboratory and medical items; used for food sterilization in Europe but not widely accepted in US. Nonionizing radiation, Exposure to ultraviolet light, Introduces thymine dimers, leading to mutations, Surface sterilization of laboratory materials, water purification. Sonication, Exposure to ultrasonic waves, Cavitation (formation of empty space) disrupts cells, lysing them, Laboratory research to lyse cells; cleaning jewelry, lenses, and equipment. Filtration. HEPA filtration, Use of HEPA filter with 0.3-µm pore size Physically removes microbes from air, Laboratory biological safety cabinets, operating rooms, isolation units, heating and air conditioning systems, vacuum cleaners. Membrane filtration Use of membrane filter with 0.2-µm or smaller pore size, Physically removes microbes from liquid solutions, Removal of bacteria from heat-sensitive solutions like vitamins, antibiotics, and media with heat-sensitive components. ">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_02_PMCTable_A.jpg"/>
+</media>
+</figure>
+<figure id="OSC_Microbio_13_02_PMCTable_B">
+<media id="fs-id1167583522319" alt="See alt text for previous figure. This figure is a continuation of a 2 part figure, the contents of which are described in full in the alt text for the previous figure.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_13_02_PMCTable_B.jpg"/>
+</media>
+</figure>
+</section>
+</section>
+<section id="fs-id1167582462458" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167583680008" list-type="bulleted" bullet-style="bullet">
+<item>Heat is a widely used and highly effective method for controlling microbial growth.</item>
+<item><emphasis effect="bold">Dry-heat sterilization</emphasis> protocols are used commonly in aseptic techniques in the laboratory. However, <emphasis effect="bold">moist-heat sterilization</emphasis> is typically the more effective protocol because it penetrates cells better than dry heat does.</item>
+<item><emphasis effect="bold">Pasteurization</emphasis> is used to kill pathogens and reduce the number of microbes that cause food spoilage. <emphasis effect="bold">High-temperature, short-time pasteurization</emphasis> is commonly used to pasteurize milk that will be refrigerated; <emphasis effect="bold">ultra-high temperature pasteurization</emphasis> can be used to pasteurize milk for long-term storage without refrigeration.</item>
+<item>Refrigeration slows microbial growth; freezing stops growth, killing some organisms. Laboratory and medical specimens may be frozen on dry ice or at ultra-low temperatures for storage and transport.</item>
+<item>High-pressure processing can be used to kill microbes in food. Hyperbaric oxygen therapy to increase oxygen saturation has also been used to treat certain infections.</item>
+<item><emphasis effect="bold">Desiccation</emphasis> has long been used to preserve foods and is accelerated through the addition of salt or sugar, which decrease water activity in foods.</item>
+<item><emphasis effect="bold">Lyophilization</emphasis> combines cold exposure and desiccation for the long-term storage of foods and laboratory materials, but microbes remain and can be rehydrated.</item>
+<item><emphasis effect="bold">Ionizing radiation</emphasis>, including gamma irradiation, is an effective way to sterilize heat-sensitive and packaged materials. <emphasis effect="bold">Nonionizing radiation</emphasis>, like ultraviolet light, is unable to penetrate surfaces but is useful for surface sterilization.</item>
+<item><emphasis effect="bold">HEPA</emphasis> filtration is commonly used in hospital ventilation systems and biological safety cabinets in laboratories to prevent transmission of airborne microbes. <emphasis effect="bold">Membrane filtration</emphasis> is commonly used to remove bacteria from heat-sensitive solutions.</item>
+</list>
+</section>
+<section id="fs-id1167583968870" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167584856417">
+<problem id="fs-id1167585036956">
+<para id="fs-id1167583569413">Which of the following methods brings about cell lysis due to cavitation induced by rapid localized pressure changes?</para>
+<list id="fs-id1167585166905" list-type="enumerated" number-style="upper-alpha">
+<item>microwaving</item>
+<item>gamma irradiation</item>
+<item>ultraviolet radiation</item>
+<item>sonication</item>
+</list>
+</problem>
+<solution id="fs-id1167584926677">
+<para id="fs-id1167585158730">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167584730248">
+<problem id="fs-id1167583730810">
+<para id="fs-id1167584872939">Which of the following terms is used to describe the time required to kill all of the microbes within a sample at a given temperature?</para>
+<list id="fs-id1167584764175" list-type="enumerated" number-style="upper-alpha">
+<item>D-value</item>
+<item>thermal death point</item>
+<item>thermal death time</item>
+<item>decimal reduction time</item>
+</list>
+</problem>
+<solution id="fs-id1167585159346">
+<para id="fs-id1167583578945">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167581340939">
+<problem id="fs-id1167584873700">
+<para id="fs-id1167585020789">Which of the following microbial control methods does not actually kill microbes or inhibit their growth but instead removes them physically from samples?</para>
+<list id="fs-id1167584907393" list-type="enumerated" number-style="upper-alpha">
+<item>filtration</item>
+<item>desiccation</item>
+<item>lyophilization</item>
+<item>nonionizing radiation</item>
+</list>
+</problem>
+<solution id="fs-id1167584933770">
+<para id="fs-id1167584969072">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167585039817" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167584989966">
+<problem id="fs-id1167583600289">
+<para id="fs-id1167583688390">In an autoclave, the application of pressure to ________ is increased to allow the steam to achieve temperatures above the boiling point of water.</para>
+</problem>
+<solution id="fs-id1167584760755">
+<para id="fs-id1167585136031">steam</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167583625852" class="true-false">
+<title>True/False</title>
+<exercise id="fs-id1167584933938">
+<problem id="fs-id1167583603965">
+<para id="fs-id1167583610838">Ionizing radiation can penetrate surfaces, but nonionizing radiation cannot.</para>
+</problem>
+<solution id="fs-id1167585159250">
+<para id="fs-id1167583518351">True</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167585068178">
+<problem id="fs-id1167584906578">
+<para id="fs-id1167585060001">Moist-heat sterilization protocols require the use of higher temperatures for longer periods of time than do dry-heat sterilization protocols do.</para>
+</problem>
+<solution id="fs-id1167585155419">
+<para id="fs-id1167585057883">False</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167583834286" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167584924115">
+<problem id="fs-id1167581301785">
+<para id="fs-id1167584923130">What is the advantage of HTST pasteurization compared with sterilization? What is an advantage of UHT treatment?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167583835713">
+<problem id="fs-id1167583692804">
+<para id="fs-id1167584846476">How does the addition of salt or sugar help preserve food?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167583686786">
+<problem id="fs-id1167584932106">
+<para id="fs-id1167583819345">Which is more effective at killing microbes: autoclaving or freezing? Explain.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167585166516" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167583945640">
+<problem id="fs-id1167585180168">
+<para id="fs-id1167584694328">In 2001, endospores of <emphasis effect="italics">Bacillus anthracis</emphasis>, the causative agent of anthrax, were sent to government officials and news agencies via the mail. In response, the US Postal Service began to irradiate mail with UV light. Was this an effective strategy? Why or why not?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

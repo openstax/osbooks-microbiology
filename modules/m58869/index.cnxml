@@ -1,0 +1,133 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Virulence Factors of Eukaryotic Pathogens</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58869</md:content-id>
+  <md:title>Virulence Factors of Eukaryotic Pathogens</md:title>
+  <md:abstract/>
+  <md:uuid>8a838d39-4a2f-424c-9a5d-fb3ada8a9ded</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167584988069" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167584928382">
+<item>Describe virulence factors unique to fungi and parasites</item>
+<item>Compare virulence factors of fungi and bacteria</item>
+<item>Explain the difference between protozoan parasites and helminths</item>
+<item>Describe how helminths evade the host immune system</item>
+</list>
+</section>
+<para id="fs-id1167583730738">Although fungi and parasites are important pathogens causing infectious diseases, their pathogenic mechanisms and virulence factors are not as well characterized as those of bacteria. Despite the relative lack of detailed mechanisms, the stages of pathogenesis and general mechanisms of virulence involved in disease production by these pathogens are similar to those of bacteria.</para>
+<section id="fs-id1167583832130">
+<title>Fungal Virulence</title>
+<para id="fs-id1167584986872">Pathogenic fungi can produce virulence factors that are similar to the bacterial virulence factors that have been discussed earlier in this chapter. In this section, we will look at the virulence factors associated with species of <emphasis effect="italics">Candida</emphasis>, <emphasis effect="italics">Cryptococcus, Claviceps,</emphasis> and <emphasis effect="italics">Aspergillus</emphasis>.</para>
+<para id="fs-id1167584696103"><term class="no-emphasis"><emphasis effect="italics">Candida albicans</emphasis></term> is an opportunistic fungal pathogen and causative agent of oral thrush, vaginal yeast infections, and cutaneous candidiasis. <emphasis effect="italics">Candida</emphasis> produces adhesins (surface glycoproteins) that bind to the phospholipids of epithelial and endothelial cells. To assist in spread and tissue invasion, <emphasis effect="italics">Candida</emphasis> produces proteases and phospholipases (i.e., exoenzymes). One of these proteases degrades keratin, a structural protein found on epithelial cells, enhancing the ability of the fungus to invade host tissue. In animal studies, it has been shown that the addition of a protease inhibitor led to attenuation of <emphasis effect="italics">Candida</emphasis> infection.<footnote id="fs-id1167585106858">K. Fallon et al. “Role of Aspartic Proteases in Disseminated <emphasis effect="italics">Candida albicans</emphasis> Infection in Mice.” <emphasis effect="italics">Infection and Immunity</emphasis> 65 no. 2 (1997):551–556.</footnote> Similarly, the phospholipases can affect the integrity of host cell membranes to facilitate invasion.</para>
+<para id="fs-id1167583568975">The main virulence factor for <term class="no-emphasis"><emphasis effect="italics">Cryptococcus</emphasis></term>, a fungus that causes pneumonia and meningitis, is capsule production. The polysaccharide glucuronoxylomannan is the principal constituent of the <emphasis effect="italics">Cryptococcus</emphasis> capsule. Similar to encapsulated bacterial cells, encapsulated <emphasis effect="italics">Cryptococcus</emphasis> cells are more resistant to phagocytosis than nonencapsulated <emphasis effect="italics">Cryptococcus</emphasis>, which are effectively phagocytosed and, therefore, less virulent.</para>
+<para id="fs-id1167585106906">Like some bacteria, many fungi produce exotoxins. Fungal toxins are called <term>mycotoxin</term><emphasis effect="bold">s</emphasis>. <emphasis effect="italics">Claviceps purpurea</emphasis>, a fungus that grows on rye and related grains, produces a mycotoxin called ergot toxin, an alkaloid responsible for the disease known as <term class="no-emphasis">ergotism</term>. There are two forms of ergotism: gangrenous and convulsive. In <term class="no-emphasis">gangrenous ergotism</term>, the ergot toxin causes vasoconstriction, resulting in improper blood flow to the extremities, eventually leading to gangrene. A famous outbreak of gangrenous ergotism occurred in Eastern Europe during the 5th century AD due to the consumption of rye contaminated with <emphasis effect="italics">C. purpurea</emphasis>. In <term class="no-emphasis">convulsive ergotism</term>, the toxin targets the central nervous system, causing mania and hallucinations.</para>
+<para id="fs-id1167585000206">The mycotoxin <term class="no-emphasis">aflatoxin</term> is a virulence factor produced by the fungus <term class="no-emphasis"><emphasis effect="italics">Aspergillus</emphasis></term>, an <term class="no-emphasis">opportunistic pathogen</term> that can enter the body via contaminated food or by inhalation. Inhalation of the fungus can lead to the chronic pulmonary disease <term class="no-emphasis">aspergillosis</term>, characterized by fever, bloody sputum, and/or asthma. Aflatoxin acts in the host as both a <term class="no-emphasis">mutagen</term> (a substance that causes mutations in DNA) and a <term>carcinogen</term> (a substance involved in causing cancer), and has been associated with the development of <term class="no-emphasis">liver cancer</term>. Aflatoxin has also been shown to cross the blood-placental barrier.<footnote id="fs-id1167583578402">C.P. Wild et al. “In-utero exposure to aflatoxin in west Africa.” <emphasis effect="italics">Lancet</emphasis> 337 no. 8757 (1991):1602.</footnote> A second mycotoxin produced by <emphasis effect="italics">Aspergillus</emphasis> is <term class="no-emphasis">gliotoxin</term>. This toxin promotes virulence by inducing host cells to self-destruct and by evading the host’s immune response by inhibiting the function of phagocytic cells as well as the pro-inflammatory response. Like <emphasis effect="italics">Candida</emphasis>, <emphasis effect="italics">Aspergillus</emphasis> also produces several proteases. One is <term class="no-emphasis">elastase</term>, which breaks down the protein elastin found in the connective tissue of the lung, leading to the development of lung disease. Another is <term class="no-emphasis">catalase</term>, an enzyme that protects the fungus from hydrogen peroxide produced by the immune system to destroy pathogens.</para>
+<note id="fs-id1167585021061" class="microbiology check-your-understanding">
+<list id="fs-id1167583710859" list-type="bulleted" bullet-style="bullet">
+<item>List virulence factors common to bacteria and fungi.</item>
+<item>What functions do mycotoxins perform to help fungi survive in the host?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167583611817">
+<title>Protozoan Virulence</title>
+<para id="fs-id1167583627955">Protozoan pathogens are unicellular eukaryotic parasites that have virulence factors and pathogenic mechanisms analogous to prokaryotic and viral pathogens, including adhesins, toxins, antigenic variation, and the ability to survive inside phagocytic vesicles.</para>
+<para id="fs-id1167583961914">Protozoans often have unique features for attaching to host cells. The protozoan <term class="no-emphasis"><emphasis effect="italics">Giardia lamblia</emphasis></term>, which causes the intestinal disease giardiasis, uses a large adhesive disc composed of microtubules to attach to the intestinal mucosa. During adhesion, the flagella of <emphasis effect="italics">G. lamblia</emphasis> move in a manner that draws fluid out from under the disc, resulting in an area of lower pressure that facilitates adhesion to epithelial cells. <emphasis effect="italics">Giardia</emphasis> does not invade the intestinal cells but rather causes inflammation (possibly through the release of cytopathic substances that cause damage to the cells) and shortens the intestinal villi, inhibiting absorption of nutrients.</para>
+<para id="fs-id1167584969546">Some protozoans are capable of <term class="no-emphasis">antigenic variation</term>. The obligate intracellular pathogen <term class="no-emphasis"><emphasis effect="italics">Plasmodium falciparum</emphasis></term> (one of the causative agents of <term class="no-emphasis">malaria</term>) resides inside red blood cells, where it produces an adhesin membrane protein known as PfEMP1. This protein is expressed on the surface of the infected erythrocytes, causing blood cells to stick to each other and to the walls of blood vessels. This process impedes blood flow, sometimes leading to organ failure, anemia, jaundice (yellowing of skin and sclera of the eyes due to buildup of bilirubin from lysed red blood cells), and, subsequently, death. Although PfEMP1 can be recognized by the host’s immune system, antigenic variations in the structure of the protein over time prevent it from being easily recognized and eliminated. This allows malaria to persist as a chronic infection in many individuals.</para>
+<para id="fs-id1167583607087">The virulence factors of <term class="no-emphasis"><emphasis effect="italics">Trypanosoma brucei</emphasis></term>, the causative agent of <term class="no-emphasis">African sleeping sickness</term>, include the abilities to form <term class="no-emphasis">capsules</term> and undergo <term class="no-emphasis">antigenic variation</term>. <emphasis effect="italics">T. brucei</emphasis> evades phagocytosis by producing a dense glycoprotein coat that resembles a bacterial capsule. Over time, host antibodies are produced that recognize this coat, but <emphasis effect="italics">T. brucei</emphasis> is able to alter the structure of the glycoprotein to evade recognition.</para>
+<note id="fs-id1167584753534" class="microbiology check-your-understanding">
+<list id="fs-id1167584895741" list-type="bulleted" bullet-style="bullet">
+<item>Explain how antigenic variation by protozoan pathogens helps them survive in the host.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167584724151">
+<title>Helminth Virulence</title>
+<para id="fs-id1167583585166">Helminths, or parasitic worms, are multicellular eukaryotic parasites that depend heavily on virulence factors that allow them to gain entry to host tissues. For example, the aquatic larval form of <term class="no-emphasis"><emphasis effect="italics">Schistosoma mansoni</emphasis></term>, which causes <term class="no-emphasis">schistosomiasis</term>, penetrates intact skin with the aid of proteases that degrade skin proteins, including elastin.</para>
+<para id="fs-id1167584624092">To survive within the host long enough to perpetuate their often-complex life cycles, helminths need to evade the immune system. Some helminths are so large that the immune system is ineffective against them. Others, such as adult <term class="no-emphasis">roundworms</term> (which cause <term class="no-emphasis">trichinosis</term>, <term class="no-emphasis">ascariasis</term>, and other diseases), are protected by a tough outer cuticle.</para>
+<para id="fs-id1167585125183">Over the course of their life cycles, the surface characteristics of the parasites vary, which may help prevent an effective immune response. Some helminths express polysaccharides called <term class="no-emphasis">glycans</term> on their external surface; because these glycans resemble molecules produced by host cells, the immune system fails to recognize and attack the helminth as a foreign body. This “<term class="no-emphasis">glycan gimmickry</term>,” as it has been called, serves as a protective cloak that allows the helminth to escape detection by the immune system.<footnote id="fs-id1167583644931">I. van Die, R.D. Cummings. “Glycan Gimmickry by Parasitic Helminths: A Strategy for Modulating the Host Immune Response?” <emphasis effect="italics">Glycobiology</emphasis> 20 no. 1 (2010):2–12.</footnote></para>
+<para id="fs-id1167584885034">In addition to evading host defenses, helminths can actively suppress the immune system. <emphasis effect="italics">S. mansoni</emphasis>, for example, degrades host antibodies with <term class="no-emphasis">proteases</term>. Helminths produce many other substances that suppress elements of both innate nonspecific and adaptive specific host defenses. They also release large amounts of material into the host that may locally overwhelm the immune system or cause it to respond inappropriately.</para>
+<note id="fs-id1167583627673" class="microbiology check-your-understanding">
+<list id="fs-id1167583640623" list-type="bulleted" bullet-style="bullet">
+<item>Describe how helminths avoid being destroyed by the host immune system.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167585136722" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167585015466" list-type="bulleted" bullet-style="bullet">
+<item>Fungal and parasitic pathogens use pathogenic mechanisms and virulence factors that are similar to those of bacterial pathogens</item>
+<item>Fungi initiate infections through the interaction of adhesins with receptors on host cells. Some fungi produce toxins and exoenzymes involved in disease production and capsules that provide protection of phagocytosis.</item>
+<item>Protozoa adhere to target cells through complex mechanisms and can cause cellular damage through release of cytopathic substances. Some protozoa avoid the immune system through antigenic variation and production of capsules.</item>
+<item>Helminthic worms are able to avoid the immune system by coating their exteriors with glycan molecules that make them look like host cells or by suppressing the immune system.</item>
+</list>
+</section>
+<section id="fs-id1167584893851" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167584953385">
+<problem id="fs-id1167584857208">
+<para id="fs-id1167583551341">Which of the following is a major virulence factor for the fungal pathogen <emphasis effect="italics">Cryptococcus?</emphasis></para>
+<list id="fs-id1167585148384" list-type="enumerated" number-style="upper-alpha">
+<item>hemolysin</item>
+<item>capsule</item>
+<item>collagenase</item>
+<item>fimbriae</item>
+</list>
+</problem>
+<solution id="fs-id1167585016715">
+<para id="fs-id1167583567643">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167583620629">
+<problem id="fs-id1167584655662">
+<para id="fs-id1167583648213">Which of the following pathogens undergoes antigenic variation to avoid immune defenses?</para>
+<list id="fs-id1167583757985" list-type="enumerated" number-style="upper-alpha">
+<item><emphasis effect="italics">Candida</emphasis></item>
+<item><emphasis effect="italics">Cryptococcus</emphasis></item>
+<item><emphasis effect="italics">Plasmodium</emphasis></item>
+<item><emphasis effect="italics">Giardia</emphasis></item>
+</list>
+</problem>
+<solution id="fs-id1167584727589">
+<para id="fs-id1167585118202">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167585065198" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167583625948">
+<problem id="fs-id1167583532067">
+<para id="fs-id1167584857108"><emphasis effect="italics">Candida</emphasis> can invade tissue by producing the exoenzymes __________ and __________.</para>
+</problem>
+<solution id="fs-id1167584897267">
+<para id="fs-id1167583640665">protease and phospholipase</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167583904918">
+<problem id="fs-id1167583612211">
+<para id="fs-id1167584702765">The larval form of <emphasis effect="italics">Schistosoma mansoni</emphasis> uses a __________ to help it gain entry through intact skin.</para>
+</problem>
+<solution id="fs-id1167584697741">
+<para id="fs-id1167584886225">protease</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167583609920" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167583508510">
+<problem id="fs-id1167584822721">
+<para id="fs-id1167584997327">Describe the virulence factors associated with the fungal pathogen <emphasis effect="italics">Aspergillus.</emphasis></para>
+</problem>
+</exercise>
+<exercise id="fs-id1167585133075">
+<problem id="fs-id1167584981774">
+<para id="fs-id1167585013237">Explain how helminths evade the immune system.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

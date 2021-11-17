@@ -1,0 +1,244 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>What Our Ancestors Knew</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58781</md:content-id>
+  <md:title>What Our Ancestors Knew</md:title>
+  <md:abstract/>
+  <md:uuid>e94a060c-89e3-4331-8859-cf21fbcd373f</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1171360203262" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1171360573696">
+<item>Describe how our ancestors improved food with the use of invisible microbes</item>
+<item>Describe how the causes of sickness and disease were explained in ancient times, prior to the invention of the microscope</item>
+<item>Describe key historical events associated with the birth of microbiology</item>
+</list>
+</section>
+<note id="fs-id1171360313936" class="microbiology clinical-focus">
+<title>Part 1</title>
+<para id="fs-id1171360608266">Cora, a 41-year-old lawyer and mother of two, has recently been experiencing severe headaches, a high fever, and a stiff neck. Her husband, who has accompanied Cora to see a doctor, reports that Cora also seems confused at times and unusually drowsy. Based on these symptoms, the doctor suspects that Cora may have meningitis, a potentially life-threatening infection of the tissue that surrounds the brain and spinal cord.</para>
+<para id="fs-id1171360138018">Meningitis has several potential causes. It can be brought on by bacteria, fungi, viruses, or even a reaction to medication or exposure to heavy metals. Although people with viral meningitis usually heal on their own, bacterial and fungal meningitis are quite serious and require treatment.</para>
+<para id="fs-id1171360212679">Cora’s doctor orders a lumbar puncture (spinal tap) to take three samples of cerebrospinal fluid (CSF) from around the spinal cord (<link target-id="OSC_Microbio_01_01_lumbar"/>). The samples will be sent to laboratories in three different departments for testing: clinical chemistry, microbiology, and hematology. The samples will first be visually examined to determine whether the CSF is abnormally colored or cloudy; then the CSF will be examined under a microscope to see if it contains a normal number of red and white blood cells and to check for any abnormal cell types. In the microbiology lab, the specimen will be centrifuged to concentrate any cells in a sediment; this sediment will be smeared on a slide and stained with a Gram stain. Gram staining is a procedure used to differentiate between two different types of bacteria (gram-positive and gram-negative).</para>
+<para id="fs-id1171360140749">About 80% of patients with bacterial meningitis will show bacteria in their CSF with a Gram stain.<footnote id="fs-id1171360316892">Rebecca Buxton. “Examination of Gram Stains of Spinal Fluid—Bacterial Meningitis.” <emphasis effect="italics">American Society for Microbiology</emphasis>. 2007. http://www.microbelibrary.org/library/gram-stain/3065-examination-of-gram-stains-of-spinal-fluid-bacterial-meningitis</footnote> Cora’s Gram stain did not show any bacteria, but her doctor decides to prescribe her antibiotics just in case. Part of the CSF sample will be cultured—put in special dishes to see if bacteria or fungi will grow. It takes some time for most microorganisms to reproduce in sufficient quantities to be detected and analyzed.</para>
+<list id="fs-id1171360056051" list-type="bulleted" bullet-style="bullet">
+<item>What types of microorganisms would be killed by antibiotic treatment?</item>
+</list>
+<figure id="OSC_Microbio_01_01_lumbar">
+<media id="fs-id1171360229958" alt="Figure a is a drawing of a person lying on their side with their back showing. An overlay drawing shows the location of the spine with an arrow pointing to between two vertebrae in the lower back. Figure b is a photograph of a covered test tube containing a clear liquid">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_01_lumbar.jpg"/>
+</media>
+<caption>(a) A lumbar puncture is used to take a sample of a patient’s cerebrospinal fluid (CSF) for testing. A needle is inserted between two vertebrae of the lower back, called the lumbar region. (b) CSF should be clear, as in this sample. Abnormally cloudy CSF may indicate an infection but must be tested further to confirm the presence of microorganisms. (credit a: modification of work by Centers for Disease Control and Prevention; credit b: modification of work by James Heilman)</caption>
+</figure>
+<para id="fs-id1171360529329"><emphasis effect="italics">Jump to the <link target-id="fs-id1171360143675" document="m58782">next</link> Clinical Focus box.</emphasis></para>
+</note>
+<para id="fs-id1171360197623">Most people today, even those who know very little about microbiology, are familiar with the concept of microbes, or “germs,” and their role in human health. Schoolchildren learn about bacteria, viruses, and other microorganisms, and many even view specimens under a microscope. But a few hundred years ago, before the invention of the microscope, the existence of many types of microbes was impossible to prove. By definition, <term>microorganism</term><emphasis effect="bold">s</emphasis>, or <term>microbe</term><emphasis effect="bold">s</emphasis>, are very small organisms; many types of microbes are too small to see without a microscope, although some parasites and fungi are visible to the naked eye.</para>
+<para id="fs-id1171360112990">Humans have been living with—and using—microorganisms for much longer than they have been able to see them. Historical evidence suggests that humans have had some notion of microbial life since prehistoric times and have used that knowledge to develop foods as well as prevent and treat disease. In this section, we will explore some of the historical applications of microbiology as well as the early beginnings of microbiology as a science.</para>
+<section id="fs-id1171360245918">
+<title>Fermented Foods and Beverages</title>
+<para id="fs-id1171360483785">People across the world have enjoyed fermented foods and beverages like beer, wine, bread, yogurt, cheese, and pickled vegetables for all of recorded history. Discoveries from several archeological sites suggest that even prehistoric people took advantage of <term class="no-emphasis">fermentation</term> to preserve and enhance the taste of food. Archaeologists studying pottery jars from a Neolithic village in China found that people were making a fermented beverage from rice, honey, and fruit as early as 7000 BC.<footnote id="fs-id1171360218992">P.E. McGovern et al. “Fermented Beverages of Pre- and Proto-Historic China.” <emphasis effect="italics">Proceedings of the National Academy of Sciences of the United States of America</emphasis> 1 no. 51 (2004):17593–17598. doi:10.1073/pnas.0407921102.</footnote></para>
+<para id="fs-id1171360180307">Production of these foods and beverages requires microbial fermentation, a process that uses bacteria, mold, or yeast to convert sugars (carbohydrates) to alcohol, gases, and organic acids (<link target-id="OSC_Microbio_01_01_ferment"/>). While it is likely that people first learned about fermentation by accident—perhaps by drinking old milk that had curdled or old grape juice that had fermented—they later learned to harness the power of fermentation to make products like bread, cheese, and wine.</para>
+<figure id="OSC_Microbio_01_01_ferment">
+<media id="fs-id1171359127422" alt="The figure on the left shows oval cells with smaller oval cells budding from the larger cells. An arrow points to a mason jar containing a creamy textured thick liquid. Another arrow points to a loaf of bread.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_01_ferment.jpg"/>
+</media>
+<caption>A microscopic view of <emphasis effect="italics">Saccharomyces cerevisiae</emphasis>, the yeast responsible for making bread rise (left). Yeast is a microorganism. Its cells metabolize the carbohydrates in flour (middle) and produce carbon dioxide, which causes the bread to rise (right). (credit middle: modification of work by Janus Sandsgaard; credit right: modification of work by “MDreibelbis”/Flickr)</caption>
+</figure>
+</section>
+<section id="fs-id1171360202567">
+<title>The Iceman Treateth</title>
+<para id="fs-id1171360292428">Prehistoric humans had a very limited understanding of the causes of disease, and various cultures developed different beliefs and explanations. While many believed that illness was punishment for angering the gods or was simply the result of fate, archaeological evidence suggests that prehistoric people attempted to treat illnesses and infections. One example of this is <term class="no-emphasis">Ötzi the Iceman</term>, a 5300-year-old mummy found frozen in the ice of the Ötzal Alps on the Austrian-Italian border in 1991. Because Ötzi was so well preserved by the ice, researchers discovered that he was infected with the eggs of the parasite <emphasis effect="italics">Trichuris trichiura</emphasis>, which may have caused him to have abdominal pain and anemia. Researchers also found evidence of <emphasis effect="italics">Borrelia burgdorferi</emphasis>, a bacterium that causes Lyme disease.<footnote id="fs-id1171358996816">A. Keller et al. “New Insights into the Tyrolean Iceman's Origin and Phenotype as Inferred by Whole-Genome Sequencing.” <emphasis effect="italics">Nature Communications</emphasis>, 3 (2012): 698. doi:10.1038/ncomms1701.</footnote> Some researchers think Ötzi may have been trying to treat his infections with the woody fruit of the <emphasis effect="italics">Fomitopsis betulinus</emphasis> fungus, which was discovered tied to his belongings.<footnote id="fs-id1171360087038">L. Capasso. “5300 Years Ago, the Ice Man Used Natural Laxatives and Antibiotics.” <emphasis effect="italics">The Lancet</emphasis>, 352 (1998) 9143: 1864. doi: 10.1016/s0140-6736(05)79939-6.</footnote> This fungus has both laxative and antibiotic properties. Ötzi was also covered in tattoos that were made by cutting incisions into his skin, filling them with herbs, and then burning the herbs.<footnote id="fs-id1171360187181">L. Capasso, L. “5300 Years Ago, the Ice Man Used Natural Laxatives and Antibiotics.” <emphasis effect="italics">The Lancet</emphasis>, 352 no. 9143 (1998): 1864. doi: 10.1016/s0140-6736(05)79939-6.</footnote> There is speculation that this may have been another attempt to treat his health ailments.</para>
+</section>
+<section id="fs-id1171359011758">
+<title>Early Notions of Disease, Contagion, and Containment</title>
+<para id="fs-id1171360190302">Several ancient civilizations appear to have had some understanding that disease could be transmitted by things they could not see. This is especially evident in historical attempts to contain the spread of disease. For example, the Bible refers to the practice of quarantining people with leprosy and other diseases, suggesting that people understood that diseases could be communicable. Ironically, while leprosy is communicable, it is also a disease that progresses slowly. This means that people were likely quarantined after they had already spread the disease to others.</para>
+<para id="fs-id1171358971691">The ancient Greeks attributed disease to bad air, <emphasis effect="italics">mal’aria</emphasis>, which they called “miasmatic odors.” They developed hygiene practices that built on this idea. The Romans also believed in the <term class="no-emphasis">miasma hypothesis</term> and created a complex sanitation infrastructure to deal with sewage. In Rome, they built aqueducts, which brought fresh water into the city, and a giant sewer, the <emphasis effect="italics">Cloaca Maxima</emphasis>, which carried waste away and into the river Tiber (<link target-id="OSC_Microbio_01_01_cloaca"/>). Some researchers believe that this infrastructure helped protect the Romans from epidemics of waterborne illnesses.</para>
+<figure id="OSC_Microbio_01_01_cloaca">
+<media id="fs-id1171360590813" alt="Figure a is a map of a city containing a stadium, forum, and other structures. Running through the center of the city is a red line. Figure b is a photograph of a corner of a room. There is a trough between the walls and the floor. This trough is covered with stone benches that have large holes (as for a toilet) in the bench. The holes span the top and front of the bench. There are six holes visible in the bench that runs along one side of the image and two more in the bench along the other side. The image does not show the entire room so there are likely more available spots in this room.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_01_cloaca.jpg"/>
+</media>
+<caption>(a) The <emphasis effect="italics">Cloaca Maxima</emphasis>, or “Greatest Sewer” (shown in red), ran through ancient Rome. It was an engineering marvel that carried waste away from the city and into the river Tiber. (b) These ancient latrines emptied into the <emphasis effect="italics">Cloaca Maxima</emphasis>.</caption>
+</figure>
+<para id="fs-id1171360234644">Even before the invention of the microscope, some doctors, philosophers, and scientists made great strides in understanding the invisible forces—what we now know as microbes—that can cause infection, disease, and death.</para>
+<para id="fs-id1171360324786">The Greek physician <term class="no-emphasis">Hippocrates</term> (460–370 BC) is considered the “father of Western medicine” (<link target-id="OSC_Microbio_01_01_ancients"/>). Unlike many of his ancestors and contemporaries, he dismissed the idea that disease was caused by supernatural forces. Instead, he posited that diseases had natural causes from within patients or their environments. Hippocrates and his heirs are believed to have written the <emphasis effect="italics">Hippocratic Corpus</emphasis>, a collection of texts that make up some of the oldest surviving medical books.<footnote id="fs-id1171359070263">G. Pappas et al. “Insights Into Infectious Disease in the Era of Hippocrates.” <emphasis effect="italics">International Journal of Infectious Diseases</emphasis> 12 (2008) 4:347–350. doi: http://dx.doi.org/10.1016/j.ijid.2007.11.003.</footnote> Hippocrates is also often credited as the author of the Hippocratic Oath, taken by new physicians to pledge their dedication to diagnosing and treating patients without causing harm.</para>
+<para id="fs-id1171360545639">While Hippocrates is considered the father of Western medicine, the Greek philosopher and historian <term class="no-emphasis">Thucydides</term> (460–395 BC) is considered the father of scientific history because he advocated for evidence-based analysis of cause-and-effect reasoning (<link target-id="OSC_Microbio_01_01_ancients"/>). Among his most important contributions are his observations regarding the Athenian plague that killed one-third of the population of Athens between 430 and 410 BC. Having survived the epidemic himself, Thucydides made the important observation that survivors did not get re-infected with the disease, even when taking care of actively sick people.<footnote id="fs-id1171360119327">Thucydides. <emphasis effect="italics">The History of the Peloponnesian War. The Second Book</emphasis>. 431 BC. Translated by Richard Crawley. http://classics.mit.edu/Thucydides/pelopwar.2.second.html.</footnote> This observation shows an early understanding of the concept of immunity.</para>
+<para id="fs-id1171360346267">Marcus Terentius <term class="no-emphasis">Varro</term> (116–27 BC) was a prolific Roman writer who was one of the first people to propose the concept that things we cannot see (what we now call microorganisms) can cause disease (<link target-id="OSC_Microbio_01_01_ancients"/>). In <emphasis effect="italics">Res Rusticae</emphasis> (<emphasis effect="italics">On Farming</emphasis>), published in 36 BC, he said that “precautions must also be taken in neighborhood swamps<newline/>. . . because certain minute creatures [<emphasis effect="italics">animalia minuta</emphasis>] grow there which cannot be seen by the eye, which float in the air and enter the body through the mouth and nose and there cause serious diseases.”<footnote id="fs-id1171360058084">Plinio Prioreschi. <emphasis effect="italics">A History of Medicine: Roman Medicine</emphasis>. Lewiston, NY: Edwin Mellen Press, 1998: p. 215.</footnote></para>
+<figure id="OSC_Microbio_01_01_ancients">
+<media id="fs-id1171360389601" alt="Figure a is a drawing of a bust of Hippocrates. Figure b is a photo of a sculpture of Thucydides’s head. Figure c is a photo of a sculpture of Marcus Terentius Varro.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_01_ancients.jpg"/>
+</media>
+<caption>(a) Hippocrates, the “father of Western medicine,” believed that diseases had natural, not supernatural, causes. (b) The historian Thucydides observed that survivors of the Athenian plague were subsequently immune to the infection. (c) Marcus Terentius Varro proposed that disease could be caused by “certain minute creatures . . . which cannot be seen by the eye.” (credit c: modification of work by Alessandro Antonelli)</caption>
+</figure>
+<note id="fs-id1171359127426" class="microbiology check-your-understanding">
+<list id="fs-id1171359059174" list-type="bulleted" bullet-style="bullet">
+<item>Give two examples of foods that have historically been produced by humans with the aid of microbes.</item>
+<item>Explain how historical understandings of disease contributed to attempts to treat and contain disease.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1171360199260">
+<title>The Birth of Microbiology</title>
+<para id="fs-id1171360183425">While the ancients may have suspected the existence of invisible “minute creatures,” it wasn’t until the invention of the microscope that their existence was definitively confirmed. While it is unclear who exactly invented the microscope, a Dutch cloth merchant named Antonie van <term class="no-emphasis">Leeuwenhoek</term> (1632–1723) was the first to develop a lens powerful enough to view microbes. In 1675, using a simple but powerful microscope, Leeuwenhoek was able to observe single-celled organisms, which he described as “animalcules” or “wee little beasties,” swimming in a drop of rain water. From his drawings of these little organisms, we now know he was looking at bacteria and protists. (We will explore Leeuwenhoek’s contributions to microscopy further in <link document="m58784">How We See the Invisible World</link>.)</para>
+<para id="fs-id1171360229272">Nearly 200 years after van Leeuwenhoek got his first glimpse of microbes, the “<term class="no-emphasis">Golden Age of Microbiology</term>” spawned a host of new discoveries between 1857 and 1914. Two famous microbiologists, Louis <term class="no-emphasis">Pasteur</term> and Robert <term class="no-emphasis">Koch</term>, were especially active in advancing our understanding of the unseen world of microbes (<link target-id="OSC_Microbio_01_01_PastKoch"/>). Pasteur, a French chemist, showed that individual microbial strains had unique properties and demonstrated that fermentation is caused by microorganisms. He also invented pasteurization, a process used to kill microorganisms responsible for spoilage, and developed vaccines for the treatment of diseases, including rabies, in animals and humans. Koch, a German physician, was the first to demonstrate the connection between a single, isolated microbe and a known human disease. For example, he discovered the bacteria that cause anthrax (<emphasis effect="italics">Bacillus anthracis</emphasis>), cholera (<emphasis effect="italics">Vibrio cholera</emphasis>), and tuberculosis (<emphasis effect="italics">Mycobacterium tuberculosis</emphasis>).<footnote id="fs-id1171360586897">S.M. Blevins and M.S. Bronze. “Robert Koch and the ‘Golden Age’ of Bacteriology.” <emphasis effect="italics">International Journal of Infectious Diseases</emphasis>. 14 no. 9 (2010): e744-e751. doi:10.1016/j.ijid.2009.12.003.</footnote> We will discuss these famous microbiologists, and others, in later chapters.</para>
+<figure id="OSC_Microbio_01_01_PastKoch">
+<media id="fs-id1171359181940" alt="Figure a is a drawing of Louis Pasteur in his lab. Figure b is a photograph of Robert Koch.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_01_PastKoch.jpg"/>
+</media>
+<caption>(a) Louis Pasteur (1822–1895) is credited with numerous innovations that advanced the fields of microbiology and immunology. (b) Robert Koch (1843–1910) identified the specific microbes that cause anthrax, cholera, and tuberculosis.</caption>
+</figure>
+<para id="fs-id1171360119106">As microbiology has developed, it has allowed the broader discipline of biology to grow and flourish in previously unimagined ways. Much of what we know about human cells comes from our understanding of microbes, and many of the tools we use today to study cells and their genetics derive from work with microbes.</para>
+<note id="fs-id1171359082752" class="microbiology check-your-understanding">
+<list id="fs-id1166167098275" list-type="bulleted" bullet-style="bullet">
+<item>How did the discovery of microbes change human understanding of disease?</item>
+</list>
+</note>
+<note id="fs-id1171359059127" class="microbiology micro-connection">
+<title>Microbiology Toolbox</title>
+<para id="fs-id1171360222691">Because individual microbes are generally too small to be seen with the naked eye, the science of microbiology is dependent on technology that can artificially enhance the capacity of our natural senses of perception. Early microbiologists like Pasteur and Koch had fewer tools at their disposal than are found in modern laboratories, making their discoveries and innovations that much more impressive. Later chapters of this text will explore many applications of technology in depth, but for now, here is a brief overview of some of the fundamental tools of the microbiology lab.</para>
+<list id="fs-id1171360307763" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Microscopes</emphasis> produce magnified images of microorganisms, human cells and tissues, and many other types of specimens too small to be observed with the naked eye.</item>
+<item><emphasis effect="bold">Stains and dyes</emphasis> are used to add color to microbes so they can be better observed under a microscope. Some dyes can be used on living microbes, whereas others require that the specimens be fixed with chemicals or heat before staining. Some stains only work on certain types of microbes because of differences in their cellular chemical composition.</item>
+<item><emphasis effect="bold">Growth media</emphasis> are used to grow microorganisms in a lab setting. Some media are liquids; others are more solid or gel-like. A growth medium provides nutrients, including water, various salts, a source of carbon (like glucose), and a source of nitrogen and amino acids (like yeast extract) so microorganisms can grow and reproduce. Ingredients in a growth medium can be modified to grow unique types of microorganisms.</item>
+<item><emphasis effect="bold">A Petri dish</emphasis> is a flat-lidded dish that is typically 10–11 centimeters (cm) in diameter and 1–1.5 cm high. Petri dishes made out of either plastic or glass are used to hold growth media (<link target-id="OSC_Microbio_01_01_Petri"/>).</item>
+<item><emphasis effect="bold">Test tubes</emphasis> are cylindrical plastic or glass tubes with rounded bottoms and open tops. They can be used to grow microbes in broth, or semisolid or solid growth media.</item>
+<item>A <emphasis effect="bold">Bunsen burner</emphasis> is a metal apparatus that creates a flame that can be used to sterilize pieces of equipment. A rubber tube carries gas (fuel) to the burner. In many labs, Bunsen burners are being phased out in favor of infrared <emphasis effect="bold">microincinerators</emphasis>, which serve a similar purpose without the safety risks of an open flame.</item>
+<item>An <emphasis effect="bold">inoculation loop</emphasis> is a handheld tool that ends in a small wire loop (<link target-id="OSC_Microbio_01_01_Petri"/>). The loop can be used to streak microorganisms on agar in a Petri dish or to transfer them from one test tube to another. Before each use, the inoculation loop must be sterilized so cultures do not become contaminated.</item>
+</list>
+<figure id="OSC_Microbio_01_01_Petri">
+<media id="fs-id1171360238069" alt="Figure a is a photograph of a round disk streaked with lines. The thickest lines go back and forth along an area spanning one fifth of the plate. The next fifth of the plate also has thick lines. The next fifth of the plate has thinner lines that are made of tiny dots. The final fifth of the pate only has large dots. Figure b shows a hand holding a metal rod that is the diameter of a pretzel stick; projecting from tis is a thick wire that is formed into a loop at the end.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_01_01_Petri.jpg"/>
+</media>
+<caption>(a) This Petri dish filled with agar has been streaked with <emphasis effect="italics">Legionella</emphasis>, the bacterium responsible for causing Legionnaire’s disease. (b) An inoculation loop like this one can be used to streak bacteria on agar in a Petri dish. (credit a: modification of work by Centers for Disease Control and Prevention; credit b: modification of work by Jeffrey M. Vinocur)</caption>
+</figure>
+</note>
+</section>
+<section id="fs-id1171360250262" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1171358978250" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Microorganisms</emphasis> (or <emphasis effect="bold">microbes</emphasis>) are living organisms that are generally too small to be seen without a microscope.</item>
+<item>Throughout history, humans have used microbes to make fermented foods such as beer, bread, cheese, and wine.</item>
+<item>Long before the invention of the microscope, some people theorized that infection and disease were spread by living things that were too small to be seen. They also correctly intuited certain principles regarding the spread of disease and immunity.</item>
+<item>Antonie van Leeuwenhoek, using a microscope, was the first to actually describe observations of bacteria, in 1675.</item>
+<item>During the Golden Age of Microbiology (1857–1914), microbiologists, including Louis Pasteur and Robert Koch, discovered many new connections between the fields of microbiology and medicine.</item>
+</list>
+</section>
+<section id="fs-id1171360210324" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1171360295368">
+<problem id="fs-id1171360537569">
+<para id="fs-id1171359077257">Which of the following foods is NOT made by fermentation?</para>
+<list id="fs-id1171358940469" list-type="enumerated" number-style="upper-alpha">
+<item>beer</item>
+<item>bread</item>
+<item>cheese</item>
+<item>orange juice</item>
+</list>
+</problem>
+<solution id="fs-id1171359180388">
+<para id="fs-id1171360402045">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1171360229175">
+<problem id="fs-id1171360338504">
+<para id="fs-id1171359160446">Who is considered the “father of Western medicine”?</para>
+<list id="fs-id1171360229374" list-type="enumerated" number-style="upper-alpha">
+<item>Marcus Terentius Varro</item>
+<item>Thucydides</item>
+<item>Antonie van Leeuwenhoek</item>
+<item>Hippocrates</item>
+</list>
+</problem>
+<solution id="fs-id1172101707170">
+<para id="fs-id1172102029356">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1171359008696">
+<problem id="fs-id1171358995066">
+<para id="fs-id1171360230361">Who was the first to observe “animalcules” under the microscope?</para>
+<list id="fs-id1171360187994" list-type="enumerated" number-style="upper-alpha">
+<item>Antonie van Leeuwenhoek</item>
+<item>Ötzi the Iceman</item>
+<item>Marcus Terentius Varro</item>
+<item>Robert Koch</item>
+</list>
+</problem>
+<solution id="fs-id1171360194067">
+<para id="fs-id1171360203622">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1171359210036">
+<problem id="fs-id1171359042572">
+<para id="fs-id1171360225534">Who proposed that swamps might harbor tiny, disease-causing animals too small to see?</para>
+<list id="fs-id1171359058481" list-type="enumerated" number-style="upper-alpha">
+<item>Thucydides</item>
+<item>Marcus Terentius Varro</item>
+<item>Hippocrates</item>
+<item>Louis Pasteur</item>
+</list>
+</problem>
+<solution id="fs-id1172101888071">
+<para id="fs-id1172101692260">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1171360541824" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1171360211126">
+<problem id="fs-id1171360217890">
+<para id="fs-id1171358973154">Thucydides is known as the father of _______________.</para>
+</problem>
+<solution id="fs-id1171360598825">
+<para id="fs-id1171359180948">scientific history</para>
+</solution>
+</exercise>
+<exercise id="fs-id1171360385165">
+<problem id="fs-id1171360368782">
+<para id="fs-id1171358997456">Researchers think that Ötzi the Iceman may have been infected with _____ disease.</para>
+</problem>
+<solution id="fs-id1172102128619">
+<para id="fs-id1172099415767">Lyme</para>
+</solution>
+</exercise>
+<exercise id="fs-id1171360219802">
+<problem id="fs-id1171360096264">
+<para id="fs-id1171360085566">The process by which microbes turn grape juice into wine is called _______________.</para>
+</problem>
+<solution id="fs-id1171359011060">
+<para id="fs-id1171360191960">fermentation</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1171360204099" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1171360483684">
+<problem id="fs-id1171360291220">
+<para id="fs-id1171360255805">What did Thucydides learn by observing the Athenian plague?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1171359056517">
+<problem id="fs-id1171358978135">
+<para id="fs-id1171360598992">Why was the invention of the microscope important for microbiology?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1171359003691">
+<problem id="fs-id1171360270763">
+<para id="fs-id1171360213918">What are some ways people use microbes?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1171359175320" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1171360198320">
+<problem id="fs-id1171360205735">
+<para id="fs-id1171360219914">Explain how the discovery of fermented foods likely benefited our ancestors.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1171360270326">
+<problem id="fs-id1171360558398">
+<para id="fs-id1171358995422">What evidence would you use to support this statement: Ancient people thought that disease was transmitted by things they could not see.</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

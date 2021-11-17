@@ -1,0 +1,532 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Proteobacteria</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58796</md:content-id>
+  <md:title>Proteobacteria</md:title>
+  <md:abstract/>
+  <md:uuid>c226cb78-98bf-43ca-91ec-6bee632df7ec</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1172098316315" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1172100528185">
+<item>Describe the unique features of each class within the phylum Proteobacteria: Alphaproteobacteria, Betaproteobacteria, Gammaproteobacteria, Deltaproteobacteria, and Epsilonproteobacteria</item>
+<item>Give an example of a bacterium in each class of Proteobacteria</item>
+</list>
+</section>
+<para id="fs-id1172100551255">In 1987, the American microbiologist Carl <term class="no-emphasis">Woese</term> (1928–2012) suggested that a large and diverse group of bacteria that he called “purple bacteria and their relatives” should be defined as a separate phylum within the domain <term class="no-emphasis">Bacteria</term> based on the similarity of the nucleotide sequences in their genome.<footnote id="fs-id1172100840224">C.R. Woese. “Bacterial Evolution.” <emphasis effect="italics">Microbiological Review</emphasis> 51 no. 2 (1987):221–271.</footnote> This phylum of gram-negative bacteria subsequently received the name <term>Proteobacteria</term>. It includes many bacteria that are part of the normal human microbiota as well as many pathogens. The Proteobacteria are further divided into five classes: Alphaproteobacteria, Betaproteobacteria, Gammaproteobacteria, Deltaproteobacteria, and Epsilonproteobacteria (<link document="m58949">Appendix D</link>).</para>
+<section id="fs-id1172100912475">
+<title>Alphaproteobacteria</title>
+<para id="fs-id1172100585380">The first class of Proteobacteria is the <term>Alphaproteobacteria</term>, many of which are obligate or facultative intracellular bacteria. Some species are characterized as <term>oligotroph</term>s, organisms capable of living in low-nutrient environments such as deep oceanic sediments, glacial ice, or deep undersurface soil.</para>
+<para id="fs-id1172098257984">Among the Alphaproteobacteria are rickettsias, <term>obligate intracellular pathogen</term>s, that require part of their life cycle to occur inside other cells called host cells. When not growing inside a host cell, <term class="no-emphasis"><emphasis effect="italics">Rickettsia</emphasis></term> are metabolically inactive outside the host cell. They cannot synthesize their own adenosine triphosphate (ATP), and, therefore, rely on cells for their energy needs.</para><para id="fs-id1172101036746"><emphasis effect="italics">Rickettsia</emphasis> spp. include a number of serious human pathogens. For example, <term class="no-emphasis"><emphasis effect="italics">R. rickettsii</emphasis></term> causes <term class="no-emphasis">Rocky Mountain spotted fever</term>, a life-threatening form of meningoencephalitis (inflammation of the membranes that wrap the brain). <emphasis effect="italics">R. rickettsii</emphasis> infects ticks and can be transmitted to humans via a bite from an infected tick (<link target-id="OSC_Microbio_04_02_RRicketsii"/>).</para>
+<figure id="OSC_Microbio_04_02_RRicketsii">
+<media id="fs-id1172100923920" alt="A micrograph of blue cells labeled tick hemolymph cells. Inside of these cells are small red cells labeled R. rickettsia.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_02_RRicketsii.jpg"/>
+</media>
+<caption>Rickettsias require special staining methods to see them under a microscope. Here, <emphasis effect="italics">R. rickettsii</emphasis>, which causes Rocky Mountain spotted fever, is shown infecting the cells of a tick. (credit: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1172098449454">Another species of <emphasis effect="italics">Rickettsia</emphasis>, <emphasis effect="italics">R.</emphasis> <emphasis effect="italics">prowazekii</emphasis>, is spread by lice. It causes <term class="no-emphasis">epidemic typhus</term>, a severe infectious disease common during warfare and mass migrations of people. <emphasis effect="italics">R. prowazekii</emphasis> infects human endothelium cells, causing inflammation of the inner lining of blood vessels, high fever, abdominal pain, and sometimes delirium. A relative, <emphasis effect="italics">R. typhi</emphasis>, causes a less severe disease known as murine or endemic typhus, which is still observed in the southwestern United States during warm seasons.</para>
+
+<para id="fs-id1172100639144"><link target-id="fs-id1172100936505"/> summarizes the characteristics of important genera of Alphaproteobacteria.</para>
+<para id="fs-id1172098308031"><emphasis effect="italics">C. trachomatis</emphasis> is a human pathogen that causes <term class="no-emphasis">trachoma</term>, a disease of the eyes, often leading to blindness. <emphasis effect="italics">C. trachomatis</emphasis> also causes the sexually transmitted disease <term class="no-emphasis">lymphogranuloma venereum</term> (LGV). This disease is often mildly symptomatic, manifesting as regional lymph node swelling, or it may be asymptomatic, but it is extremely contagious and is common on college campuses.</para>
+<table id="fs-id1172100936505" summary="Table titled Class Alphaproteobacteria. Three columns: Genus, Microscopic Morphology and Unique Characteristics. Genus Agrobacterium: gram-negative bacillus; characteristics: plant pathogen with one species, A. tumefaciens, that causes tumors in plants. Genus Bartonella: gram-negative, pleomorphic, flagellated coccobacllus; characteristics: facultative intracellular bacteria, transmitted by lice and fleas, cause trench fever and cat scratch disease in humans. Genus Brucella: gram-negative, small, flagellated coccobacillus; charactersitics: facultative intracellular bacteria, transmitted by contaminated milk from infected cows, cause brucellosis in cattle and humans. Genus Caulobacter: gram-negative bacillus; characteristics: us ed in studies on cellular adaptation and differentiation because of its peculiar life cycle (during cell division, forms “swarm” cells and “stalked” cells). Genus chlamydia: Gram-negative, coccoid or ovoid bacterium; characteristics: Obligatory intracellular bacteria; some cause chlamydia, trachoma, and pneumonia. Genus Coxiella: Small, gram-negative bacillus; characteristics: Obligatory intracellular bacteria; cause Q fever; potential for use as biological weapon. Genus Ehrlichia: very small, gram-negative, coccoid or ovoid bacteria; characteristics: Obligatory intracellular bacteria; can be transported from cell to cell; transmitted by ticks; cause ehrlichiosis (destruction of white blood cells and inflammation) in humans and dogs. Genus Hyphomicrogium: Gram-negative bacilli; grows from a stalk; characteristics Similar to Caulobacter. Genus Methylocystis is Gram-negative, coccoid or short bacilli; characteristics: nitrogen-fixing aerobic bacteria. Genus Rhizobium: Gram-negative, rectangular bacilli with rounded ends forming clusters; characteristics: Nitrogen-fixing bacteria that live in soil and form symbiotic relationship with roots of legumes (e.g., clover, alfalfa, and beans). Genus Rickettsia: Gram-negative, highly pleomorphic bacteria (may be cocci, rods, or threads); characteristics: Obligate intracellular bacteria; transmitted by ticks; may cause Rocky Mountain spotted fever and typhus." class="span-all">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c3">Class Alphaproteobacteria</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Genus</entry>
+<entry valign="top" align="center">Microscopic Morphology</entry>
+<entry valign="top" align="center">Unique Characteristics</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Agrobacterium</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative bacillus</entry>
+<entry valign="top" align="left">Plant pathogen; one species, <emphasis effect="italics">A. tumefaciens</emphasis>, causes tumors in plants</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Bartonella</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative, pleomorphic, flagellated coccobacillus</entry>
+<entry valign="top" align="left">Facultative intracellular bacteria, transmitted by lice and fleas, cause trench fever and cat scratch disease in humans</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Brucella</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative, small, flagellated coccobacillus</entry>
+<entry valign="top" align="left">Facultative intracellular bacteria, transmitted by contaminated milk from infected cows, cause brucellosis in cattle and humans</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Caulobacter</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative bacillus</entry>
+<entry valign="top" align="left">Used in studies on cellular adaptation and differentiation because of its peculiar life cycle (during cell division, forms “swarm” cells and “stalked” cells)</entry>
+</row>
+
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Coxiella</emphasis></term></entry>
+<entry valign="top" align="left">Small, gram-negative bacillus</entry>
+<entry valign="top" align="left">Obligatory intracellular bacteria; cause Q fever; potential for use as biological weapon</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Ehrlichia</emphasis></term></entry>
+<entry valign="top" align="left">Very small, gram-negative, coccoid or ovoid bacteria</entry>
+<entry valign="top" align="left">Obligatory intracellular bacteria; can be transported from cell to cell; transmitted by ticks; cause ehrlichiosis (destruction of white blood cells and inflammation) in humans and dogs</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Hyphomicrobium</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative bacilli; grows from a stalk</entry>
+<entry valign="top" align="left">Similar to <emphasis effect="italics">Caulobacter</emphasis></entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Methylocystis</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative, coccoid or short bacilli</entry>
+<entry valign="top" align="left">Nitrogen-fixing aerobic bacteria</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Rhizobium</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative, rectangular bacilli with rounded ends forming clusters</entry>
+<entry valign="top" align="left">Nitrogen-fixing bacteria that live in soil and form symbiotic relationship with roots of legumes (e.g., clover, alfalfa, and beans)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Rickettsia</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative, highly pleomorphic bacteria (may be cocci, rods, or threads)</entry>
+<entry valign="top" align="left">Obligate intracellular bacteria; transmitted by ticks; may cause Rocky Mountain spotted fever and typhus</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><note id="fs-id1172098458544" class="microbiology check-your-understanding">
+<list id="fs-id1167661483338" list-type="bulleted" bullet-style="bullet">
+<item>What is a common characteristic among the human pathogenic Alphaproteobacteria?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172100921608">
+<title>Betaproteobacteria</title>
+<para id="fs-id1172098435134"><term>Betaproteobacteria</term> are a diverse group of bacteria. The different bacterial species within this group utilize a wide range of metabolic strategies and can survive in a range of environments. Some genera include species that are human pathogens, able to cause severe, sometimes life-threatening disease. The genus <term class="no-emphasis"><emphasis effect="italics">Neisseria</emphasis></term>, for example, includes the bacteria <emphasis effect="italics">N. gonorrhoeae,</emphasis> the causative agent of the STI <term class="no-emphasis">gonorrhea</term>, and <emphasis effect="italics">N. meningitides</emphasis>, the causative agent of <term class="no-emphasis">bacterial meningitis</term>.</para>
+<para id="fs-id1172100635980"><emphasis effect="italics">Neisseria</emphasis> are cocci that live on mucosal surfaces of the human body. They are fastidious, or difficult to culture, and they require high levels of moisture, nutrient supplements, and carbon dioxide. Also, <emphasis effect="italics">Neisseria</emphasis> are microaerophilic, meaning that they require low levels of oxygen. For optimal growth and for the purposes of identification, <emphasis effect="italics">Neisseria</emphasis> spp. are grown on chocolate agar (i.e., agar supplemented by partially hemolyzed red blood cells). Their characteristic pattern of growth in culture is diplococcal: pairs of cells resembling coffee beans (<link target-id="OSC_Microbio_04_02_Neisseria"/>).</para>
+<figure id="OSC_Microbio_04_02_Neisseria">
+<media id="fs-id1172100560227" alt="A photograph showing round domes on a brown background.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_02_Neisseria.jpg"/>
+</media>
+<caption><emphasis effect="italics">Neisseria meningitidis</emphasis> growing in colonies on a chocolate agar plate. (credit: Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1172100552315">The pathogen responsible for <term class="no-emphasis">pertussis</term> (<term class="no-emphasis">whooping cough</term>) is also a member of Betaproteobacteria. The bacterium <term class="no-emphasis"><emphasis effect="italics">Bordetella pertussis</emphasis></term>, from the order <term class="no-emphasis">Burkholderiales</term>, produces several toxins that paralyze the movement of cilia in the human respiratory tract and directly damage cells of the respiratory tract, causing a severe cough.</para>
+<para id="fs-id1172101037601"><link target-id="fs-id1172100884064"/> summarizes the characteristics of important genera of Betaproteobacteria.</para>
+<table id="fs-id1172100884064" summary="Table titled Class Betaproteobacteria. Three columns: Genus, Microscopic Morphology and Unique Characteristics. Genus Bordetella: A small, gram-negative coccobacillus; characteristics: Aerobic, very fastidious; B. pertussis causes pertussis (whooping cough). Genus Burkholderia:  is Gram-negative bacillus; characteritics: Aerobic, aquatic, cause diseases in horses and humans (especially patients with cystic fibrosis); agents of nosocomial infections. Genus Leptothrix: Gram-negative, sheathed, filamentous bacillus; characteristics: Aquatic; oxidize iron and manganese; can live in wastewater treatment plants and clog pipes. Genus Neisseria: Gram-negative, coffee bean-shaped coccus forming pairs; characteristics: Require moisture and high concentration of carbon dioxide; oxidase positive, grow on chocolate agar; pathogenic species cause gonorrhea and meningitis. Genus Thiobacillus: Gram-negative bacillus; charactersitics: Thermophilic, acidophilic, strictly aerobic bacteria; oxidize iron and sulfur." class="span-all">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c3">Class Betaproteobacteria</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Example Genus</entry>
+<entry valign="top" align="center">Microscopic Morphology</entry>
+<entry valign="top" align="center">Unique Characteristics</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Bordetella</emphasis></term></entry>
+<entry valign="top" align="left">A small, gram-negative coccobacillus</entry>
+<entry valign="top" align="left">Aerobic, very fastidious; <emphasis effect="italics">B. pertussis</emphasis> causes pertussis (whooping cough)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Burkholderia</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative bacillus</entry>
+<entry valign="top" align="left">Aerobic, aquatic, cause diseases in horses and humans (especially patients with cystic fibrosis); agents of nosocomial infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Leptothrix</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative, sheathed, filamentous bacillus</entry>
+<entry valign="top" align="left">Aquatic; oxidize iron and manganese; can live in wastewater treatment plants and clog pipes</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Neisseria</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative, coffee bean-shaped coccus forming pairs</entry>
+<entry valign="top" align="left">Require moisture and high concentration of carbon dioxide; oxidase positive, grow on chocolate agar; pathogenic species cause gonorrhea and meningitis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Thiobacillus</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative bacillus</entry>
+<entry valign="top" align="left">Thermophilic, acidophilic, strictly aerobic bacteria; oxidize iron and sulfur</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1172098509430" class="microbiology check-your-understanding">
+<list id="fs-id1167663529377" list-type="bulleted" bullet-style="bullet">
+<item>Why are <emphasis effect="italics">Neisseria</emphasis> classified as microaerophilic?</item>
+</list>
+</note>
+<note id="fs-id1172100550618" class="microbiology clinical-focus">
+<title>Part 2</title>
+<para id="fs-id1172100559012">When Marsha finally went to the doctor’s office, the physician listened to her breathing through a stethoscope. He heard some crepitation (a crackling sound) in her lungs, so he ordered a chest radiograph and asked the nurse to collect a sputum sample for microbiological evaluation and cytology. The radiologic evaluation found cavities, opacities, and a particular pattern of distribution of abnormal material (<link target-id="OSC_Microbio_04_02_Xray"/>).</para>
+<list id="fs-id1172100855966" list-type="bulleted" bullet-style="bullet">
+<item>What are some possible diseases that could be responsible for Marsha’s radiograph results?</item>
+</list>
+<figure id="OSC_Microbio_04_02_Xray">
+<media id="fs-id1172100546541" alt="An X-ray showing ribs and other structures as white and the lungs as black. Light white webbings in the lungs are highlighted with white triangles. A dark region in this white webbing is outlined with black arrows.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_02_Xray.jpg"/>
+</media>
+<caption>This anteroposterior radiograph shows the presence of bilateral pulmonary infiltrate (white triangles) and “caving formation” (black arrows) present in the right apical region. (credit: Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1172100886553"><emphasis effect="italics">Jump to the <link document="m58798" target-id="fs-id1172098647956">next</link> Clinical Focus box. Go back to the <link document="m58795" target-id="fs-id1172098401810">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+</section>
+<section id="fs-id1172100531140">
+<title>Gammaproteobacteria</title>
+<para id="fs-id1172100761069">The most diverse class of <term class="no-emphasis">gram-negative bacteria</term> is <term>Gammaproteobacteria</term>, and it includes a number of human pathogens. For example, a large and diverse family, <emphasis effect="italics">Pseudomonaceae</emphasis>, includes the genus <term class="no-emphasis"><emphasis effect="italics">Pseudomonas</emphasis></term>. Within this genus is the species <emphasis effect="italics">P. aeruginosa</emphasis>, a pathogen responsible for diverse infections in various regions of the body. <emphasis effect="italics">P. aeruginosa</emphasis> is a strictly aerobic, nonfermenting, highly motile bacterium. It often infects wounds and burns, can be the cause of chronic urinary tract infections, and can be an important cause of respiratory infections in patients with cystic fibrosis or patients on mechanical ventilators. Infections by <emphasis effect="italics">P. aeruginosa</emphasis> are often difficult to treat because the bacterium is resistant to many antibiotics and has a remarkable ability to form biofilms. Other representatives of <emphasis effect="italics">Pseudomonas</emphasis> include the fluorescent (glowing) bacterium <emphasis effect="italics">P. fluorescens</emphasis> and the soil bacteria <emphasis effect="italics">P. putida</emphasis>, which is known for its ability to degrade <term class="no-emphasis">xenobiotics</term> (substances not naturally produced or found in living organisms).</para>
+<para id="fs-id1172098383379">The <term class="no-emphasis"><emphasis effect="italics">Pasteurellaceae</emphasis></term> also includes several clinically relevant genera and species. This family includes several bacteria that are human and/or animal pathogens. For example, <emphasis effect="italics">Pasteurella haemolytica</emphasis> causes severe pneumonia in sheep and goats. <emphasis effect="italics">P. multocida</emphasis> is a species that can be transmitted from animals to humans through bites, causing infections of the skin and deeper tissues. The genus <term class="no-emphasis"><emphasis effect="italics">Haemophilus</emphasis></term> contains two human pathogens, <emphasis effect="italics">H. influenzae</emphasis> and <emphasis effect="italics">H. ducreyi</emphasis>. Despite its name, <emphasis effect="italics">H. influenzae</emphasis> does not cause influenza (which is a viral disease). <emphasis effect="italics">H. influenzae</emphasis> can cause both upper and lower respiratory tract infections, including sinusitis, bronchitis, ear infections, and pneumonia. Before the development of effective vaccination, strains of <emphasis effect="italics">H. influenzae</emphasis> were a leading cause of more invasive diseases, like <term class="no-emphasis">meningitis</term> in children. <emphasis effect="italics">H. ducreyi</emphasis> causes the STI known as <term class="no-emphasis">chancroid</term>.</para>
+<para id="fs-id1172100935780">The order <term class="no-emphasis">Vibrionales</term> includes the human pathogen <term class="no-emphasis"><emphasis effect="italics">Vibrio cholerae</emphasis></term>. This comma-shaped aquatic bacterium thrives in highly alkaline environments like shallow lagoons and sea ports. A toxin produced by <emphasis effect="italics">V. cholerae</emphasis> causes hypersecretion of electrolytes and water in the large intestine, leading to profuse watery diarrhea and dehydration. <emphasis effect="italics">V. parahaemolyticus</emphasis> is also a cause of gastrointestinal disease in humans, whereas <emphasis effect="italics">V. vulnificus</emphasis> causes serious and potentially life-threatening cellulitis (infection of the skin and deeper tissues) and blood-borne infections. Another representative of Vibrionales, <emphasis effect="italics">Aliivibrio fischeri</emphasis>, engages in a symbiotic relationship with squid. The squid provides nutrients for the bacteria to grow and the bacteria produce <term class="no-emphasis">bioluminescence</term> that protects the squid from predators (<link target-id="OSC_Microbio_04_02_vibrionale"/>).</para>
+<figure id="OSC_Microbio_04_02_vibrionale">
+<media id="fs-id1172100893201" alt="a) A photograph of shining green dots on a black backround. B) A photograph of a glowing squid.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_02_vibrionale.jpg"/>
+</media>
+<caption>(a) <emphasis effect="italics">Aliivibrio fischeri</emphasis> is a bioluminescent bacterium. (b) <emphasis effect="italics">A. fischeri</emphasis> colonizes and lives in a mutualistic relationship with the Hawaiian bobtail squid (<emphasis effect="italics">Euprymna scolopes</emphasis>). (credit a: modification of work by American Society for Microbiology; credit b: modification of work by Margaret McFall-Ngai)</caption>
+</figure>
+<para id="fs-id1172100727634">The genus <term class="no-emphasis"><emphasis effect="italics">Legionella</emphasis></term> also belongs to the Gammaproteobacteria. <emphasis effect="italics">L. pneumophila,</emphasis> the pathogen responsible for <term class="no-emphasis">Legionnaires disease</term>, is an aquatic bacterium that tends to inhabit pools of warm water, such as those found in the tanks of air conditioning units in large buildings (<link target-id="OSC_Microbio_04_02_Legionella"/>). Because the bacteria can spread in aerosols, outbreaks of Legionnaires disease often affect residents of a building in which the water has become contaminated with <emphasis effect="italics">Legionella.</emphasis> In fact, these bacteria derive their name from the first known outbreak of Legionnaires disease, which occurred in a hotel hosting an American Legion veterans’ association convention in Philadelphia in 1976.</para>
+<figure id="OSC_Microbio_04_02_Legionella">
+<media id="fs-id1172101006826" alt="A) A micrograph of rod shaped cells. B) A photograph of an air conditioner.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_02_Legionella.jpg"/>
+</media>
+<caption>(a) <emphasis effect="italics">Legionella pneumophila</emphasis>, the causative agent of Legionnaires disease, thrives in warm water. (b) Outbreaks of Legionnaires disease often originate in the air conditioning units of large buildings when water in or near the system becomes contaminated with <emphasis effect="italics">L. pneumophila.</emphasis> (credit a: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1172100722718"><term class="no-emphasis">Enterobacteriaceae</term> is a large family of <term>enteric</term> (intestinal) bacteria belonging to the <term class="no-emphasis">Gammaproteobacteria</term>. They are facultative anaerobes and are able to ferment carbohydrates. Within this family, microbiologists recognize two distinct categories. The first category is called the coliforms, after its prototypical bacterium species, <term class="no-emphasis"><emphasis effect="italics">Escherichia coli</emphasis></term>. <term class="no-emphasis">Coliforms</term> are able to ferment lactose completely (i.e., with the production of acid and gas). The second category, <term class="no-emphasis">noncoliforms</term>, either cannot ferment lactose or can only ferment it incompletely (producing either acid or gas, but not both). The noncoliforms include some notable human pathogens, such as <emphasis effect="italics">Salmonella</emphasis> spp<emphasis effect="italics">., Shigella</emphasis> spp<emphasis effect="italics">.,</emphasis> and <term class="no-emphasis"><emphasis effect="italics">Yersinia pestis</emphasis></term>.</para>
+<para id="fs-id1172100648219"><emphasis effect="italics">E. coli</emphasis> has been perhaps the most studied bacterium since it was first described in 1886 by Theodor Escherich (1857–1911). Many strains of E. coli are in mutualistic relationships with humans. However, some strains produce a potentially deadly toxin called Shiga toxin. Shiga toxin is one of the most potent bacterial toxins identified. Upon entering target cells, Shiga toxin interacts with ribosomes, stopping protein synthesis. Lack of protein synthesis leads to cellular death and hemorrhagic colitis, characterized by inflammation of intestinal tract and bloody diarrhea. In the most severe cases, patients can develop a deadly hemolytic uremic syndrome. Other E. coli strains may cause traveler’s diarrhea, a less severe but very widespread disease.</para><para id="fs-id1172100897342">The genus <term class="no-emphasis"><emphasis effect="italics">Salmonella</emphasis></term>, which belongs to the noncoliform group of <emphasis effect="italics">Enterobacteriaceae</emphasis>, is interesting in that there is still no consensus about how many species it includes. Scientists have reclassified many of the groups they once thought to be species as <term>serotypes</term> (also called <term class="no-emphasis">serovars</term>), which are strains or variations of the same species of bacteria. Their classification is based on patterns of reactivity by animal antisera against molecules on the surface of the bacterial cells. A number of serotypes of <emphasis effect="italics">Salmonella</emphasis> can cause <term class="no-emphasis">salmonellosis</term>, characterized by inflammation of the small and the large intestine, accompanied by fever, vomiting, and diarrhea. The species <emphasis effect="italics">S. enterobacterica</emphasis> (serovar <emphasis effect="italics">typhi</emphasis>) causes <term class="no-emphasis">typhoid fever</term>, with symptoms including fever, abdominal pain, and skin rashes (<link target-id="OSC_Microbio_04_02_Salmonella"/>).</para>
+<figure id="OSC_Microbio_04_02_Salmonella">
+<media id="fs-id1172098452134" alt="A micrograph of many rod shaped cells.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_02_Salmonella.jpg"/>
+</media>
+<caption><emphasis effect="italics">Salmonella typhi</emphasis> is the causative agent of typhoid fever. (credit: Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1172100668202"><link target-id="fs-id1172100940519"/> summarizes the characteristics of important genera of Gammaproteobacteria.</para>
+<table id="fs-id1172100940519" summary="Table titled Class Gammaproteobacteria. Three columns: Genus, Microscopic Morphology and Unique Characteristics. Beggiatoa: Gram-negative bacteria; disc-shaped or cylindrical; characteristics: Aquatic, live in water with high content of hydrogen disulfide; can cause problems for sewage treatment. Genus Enterobacter: Gram-negative bacillus; characteristics: Facultative anaerobe; cause urinary and respiratory tract infections in hospitalized patients; implicated in the pathogenesis of obesity. Genus Erwinia: Gram-negative bacillus. Characteristics: Plant pathogen causing leaf spots and discoloration; may digest cellulose; prefer relatively low temperatures (25–30 °C). Genus Escherichia: Gram-negative bacillus; characteristics: Facultative anaerobe; inhabit the gastrointestinal tract of warm-blooded animals; some strains are mutualists, producing vitamin K; others, like serotype E. coli O157:H7, are pathogens; E. coli has been a model organism for many studies in genetics and molecular biology. Genus Hemophilus: Gram-negative bacillus; characteristics: Pleomorphic, may appear as coccobacillus, aerobe, or facultative anaerobe; grow on blood agar; pathogenic species can cause respiratory infections, chancroid, and other diseases. Genus Klebsiella: Gram-negative bacillus; appears rounder and thicker than other members of the Enterobacteriaceae. Characteristics: Facultative anaerobe, encapsulated, nonmotile; pathogenic species may cause pneumonia, especially in people with alcoholism. Genus Legionella: Gram-negative bacillus. Characteristics: Fastidious, grow on charcoal-buffered yeast extract; L. pneumophila causes Legionnaires disease. Genus Methylomonas: Gram-negative bacillus. Characteristics: Use methane as source of carbon and energy. Genus Proteus: Gram-negative bacillus (pleomorphic). Characteristics: Common inhabitants of the human gastrointestinal tract; motile; produce urease; opportunistic pathogens; may cause urinary tract infections and sepsis. Genus Pseudomonas: Gram-negative bacillus. Characteristics: Aerobic; versatile; produce yellow and blue pigments, making them appear green in culture; opportunistic, antibiotic-resistant pathogens may cause wound infections, hospital-acquired infections, and secondary infections in patients with cystic fibrosis. Genus Serratia: Gram-negative bacillus. Characteristics: Motile; may produce red pigment; opportunistic pathogens responsible for a large number of hospital-acquired infections. Genus Shigella: Gram-negative bacillus. Characteristics: Nonmotile; dangerously pathogenic; produce Shiga toxin, which can destroy cells of the gastrointestinal tract; can cause dysentery. Genus Vibrio: Gram-negative, comma- or curved rod-shaped bacteria. Characteristics: Inhabit seawater; flagellated, motile; may produce toxin that causes hypersecretion of water and electrolytes in the gastrointestinal tract; some species may cause serious wound infections. Genus Yersinia: Gram-negative bacillus. Characteristics: Carried by rodents; human pathogens; Y. pestis causes bubonic plague and pneumonic plague; Y. enterocolitica can be a pathogen causing diarrhea in humans." class="span-all">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c3">Class Gammaproteobacteria</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Example Genus</entry>
+<entry valign="top" align="center">Microscopic Morphology</entry>
+<entry valign="top" align="center">Unique Characteristics</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Beggiatoa</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative bacteria; disc-shaped or cylindrical</entry>
+<entry valign="top" align="left">Aquatic, live in water with high content of hydrogen disulfide; can cause problems for sewage treatment</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Enterobacter</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative bacillus</entry>
+<entry valign="top" align="left">Facultative anaerobe; cause urinary and respiratory tract infections in hospitalized patients; implicated in the pathogenesis of obesity</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Erwinia</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative bacillus</entry>
+<entry valign="top" align="left">Plant pathogen causing leaf spots and discoloration; may digest cellulose; prefer relatively low temperatures (25–30 °C)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Escherichia</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative bacillus</entry>
+<entry valign="top" align="left">Facultative anaerobe; inhabit the gastrointestinal tract of warm-blooded animals; some strains are mutualists, producing vitamin K; others, like serotype <emphasis effect="italics">E. coli</emphasis> O157:H7, are pathogens; <emphasis effect="italics">E. coli</emphasis> has been a model organism for many studies in genetics and molecular biology</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Hemophilus</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative bacillus</entry>
+<entry valign="top" align="left">Pleomorphic, may appear as coccobacillus, aerobe, or facultative anaerobe; grow on blood agar; pathogenic species can cause respiratory infections, chancroid, and other diseases</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Klebsiella</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative bacillus; appears rounder and thicker than other members of <emphasis effect="italics">Enterobacteriaceae</emphasis></entry>
+<entry valign="top" align="left">Facultative anaerobe, encapsulated, nonmotile; pathogenic species may cause pneumonia, especially in people with alcoholism</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Legionella</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative bacillus</entry>
+<entry valign="top" align="left">Fastidious, grow on charcoal-buffered yeast extract; <emphasis effect="italics">L. pneumophila</emphasis> causes Legionnaires disease</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Methylomonas</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative bacillus</entry>
+<entry valign="top" align="left">Use methane as source of carbon and energy</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Proteus</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative bacillus (pleomorphic)</entry>
+<entry valign="top" align="left">Common inhabitants of the human gastrointestinal tract; motile; produce urease; opportunistic pathogens; may cause urinary tract infections and sepsis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Pseudomonas</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative bacillus</entry>
+<entry valign="top" align="left">Aerobic; versatile; produce yellow and blue pigments, making them appear green in culture; opportunistic, antibiotic-resistant pathogens may cause wound infections, hospital-acquired infections, and secondary infections in patients with cystic fibrosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Serratia</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative bacillus</entry>
+<entry valign="top" align="left">Motile; may produce red pigment; opportunistic pathogens responsible for a large number of hospital-acquired infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Shigella</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative bacillus</entry>
+<entry valign="top" align="left">Nonmotile; dangerously pathogenic; produce Shiga toxin, which can destroy cells of the gastrointestinal tract; can cause dysentery</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Vibrio</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative, comma- or curved rod-shaped bacteria</entry>
+<entry valign="top" align="left">Inhabit seawater; flagellated, motile; may produce toxin that causes hypersecretion of water and electrolytes in the gastrointestinal tract; some species may cause serious wound infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Yersinia</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative bacillus</entry>
+<entry valign="top" align="left">Carried by rodents; human pathogens; <emphasis effect="italics">Y. pestis</emphasis> causes bubonic plague and pneumonic plague; <emphasis effect="italics">Y. enterocolitica</emphasis> can be a pathogen causing diarrhea in humans</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1172098462106" class="microbiology check-your-understanding">
+<list id="fs-id1167663956402" list-type="bulleted" bullet-style="bullet">
+<item>List two families of Gammaproteobacteria.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172098382994">
+<title>Deltaproteobacteria</title>
+<para id="fs-id1172100639338">The <term>Deltaproteobacteria</term> is a small class of gram-negative <term class="no-emphasis">Proteobacteria</term> that includes <term class="no-emphasis">sulfate-reducing bacteria</term> (SRBs), so named because they use sulfate as the final electron acceptor in the electron transport chain. Few SRBs are pathogenic. However, the SRB <emphasis effect="italics">Desulfovibrio orale</emphasis> is associated with periodontal disease (disease of the gums).</para>
+<para id="fs-id1172098628834">Deltaproteobacteria also includes the genus <term class="no-emphasis"><emphasis effect="italics">Bdellovibrio</emphasis></term>, species of which are parasites of other gram-negative bacteria. <emphasis effect="italics">Bdellovibrio</emphasis> invades the cells of the host bacterium, positioning itself in the periplasm, the space between the plasma membrane and the cell wall, feeding on the host’s proteins and polysaccharides. The infection is lethal for the host cells.</para>
+<para id="fs-id1172098316357">Another type of Deltaproteobacteria, <term class="no-emphasis">myxobacteria</term>, lives in the soil, scavenging inorganic compounds. Motile and highly social, they interact with other bacteria within and outside their own group. They can form multicellular, macroscopic “<term class="no-emphasis">fruiting bodies</term>” (<link target-id="OSC_Microbio_04_02_Myxobac"/>), structures that are still being studied by biologists and bacterial ecologists.<footnote id="fs-id1172100996258">H. Reichenbach. “Myxobacteria, Producers of Novel Bioactive Substances.” <emphasis effect="italics">Journal of Industrial Microbiology &amp; Biotechnology</emphasis> 27 no. 3 (2001):149–156.</footnote> These bacteria can also form metabolically inactive <term class="no-emphasis">myxospores</term>.</para>
+<figure id="OSC_Microbio_04_02_Myxobac">
+<media id="fs-id1172100989916" alt="An image of a round structure labeled fruiting body. Smaller spheres on this structure are labeled sporangium containing myxospores.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_02_Myxobac.jpg"/>
+</media>
+<caption>Myxobacteria form fruiting bodies. (credit: modification of work by Michiel Vos)</caption>
+</figure>
+<para id="fs-id1172100619515"><link target-id="fs-id1172100990327"/> summarizes the characteristics of several important genera of Deltaproteobacteria.</para>
+<table id="fs-id1172100990327" summary="Table titled Class Deltaproteobacteria. Three columns: Genus, Microscopic Morphology and Unique Characteristics. Genus Bdellovibrio: Gram-negative, comma-shaped rod. Characteristics: Obligate aerobes; motile; parasitic (infecting other bacteria). Genus Desulfovibrio (formerly Desufuromonas): Gram-negative, comma-shaped rod. Characteristics: Reduce sulfur; can be used for removal of toxic and radioactive waste. Genus Myxobacterium: Gram-negative, coccoid bacteria forming colonies (swarms). Characteristics: Live in soil; can move by gliding; used as a model organism for studies of intercellular communication (signaling)" class="span-all">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c3">Class Deltaproteobacteria</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Genus</entry>
+<entry valign="top" align="center">Microscopic Morphology</entry>
+<entry valign="top" align="center">Unique characteristics</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Bdellovibrio</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative, comma-shaped rod</entry>
+<entry valign="top" align="left">Obligate aerobes; motile; parasitic (infecting other bacteria)</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Desulfovibrio</emphasis></term> (formerly <emphasis effect="italics">Desufuromonas</emphasis>)</entry>
+<entry valign="top" align="left">Gram-negative, comma-shaped rod</entry>
+<entry valign="top" align="left">Reduce sulfur; can be used for removal of toxic and radioactive waste</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Myxobacterium</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative, coccoid bacteria forming colonies (swarms)</entry>
+<entry valign="top" align="left">Live in soil; can move by gliding; used as a model organism for studies of intercellular communication (signaling)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1172098511126" class="microbiology check-your-understanding">
+<list id="fs-id1167661353376" list-type="bulleted" bullet-style="bullet">
+<item>What type of Deltaproteobacteria forms fruiting bodies?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172100536565">
+<title>Epsilonproteobacteria</title>
+<para id="fs-id1172100987018">The smallest class of <term class="no-emphasis">Proteobacteria</term> is <term>Epsilonproteobacteria</term>, which are gram-negative microaerophilic bacteria (meaning they only require small amounts of oxygen in their environment). Two clinically relevant genera of Epsilonproteobacteria are <term class="no-emphasis"><emphasis effect="italics">Campylobacter</emphasis></term> and <term class="no-emphasis"><emphasis effect="italics">Helicobacter</emphasis></term>, both of which include human pathogens. <emphasis effect="italics">Campylobacter</emphasis> can cause food poisoning that manifests as severe enteritis (inflammation in the small intestine). This condition, caused by the species <emphasis effect="italics">C. jejuni</emphasis>, is rather common in developed countries, usually because of eating contaminated poultry products. Chickens often harbor <emphasis effect="italics">C. jejuni</emphasis> in their gastrointestinal tract and feces, and their meat can become contaminated during processing.</para>
+<para id="fs-id1172100577038">Within the genus <emphasis effect="italics">Helicobacter,</emphasis> the helical, flagellated bacterium <emphasis effect="italics">H. pylori</emphasis> has been identified as a beneficial member of the stomach microbiota, but it is also the most common cause of chronic gastritis and ulcers of the stomach and duodenum (<link target-id="OSC_Microbio_04_02_Hpylori"/>). Studies have also shown that <emphasis effect="italics">H. pylori</emphasis> is linked to stomach cancer.<footnote id="fs-id1172100972419">S. Suerbaum, P. Michetti. “<emphasis effect="italics">Helicobacter pylori</emphasis> infection.” <emphasis effect="italics">New England Journal of Medicine</emphasis> 347 no. 15 (2002):1175–1186.</footnote> <emphasis effect="italics">H. pylori</emphasis> is somewhat unusual in its ability to survive in the highly acidic environment of the stomach. It produces urease and other enzymes that modify its environment to make it less acidic.</para>
+<figure id="OSC_Microbio_04_02_Hpylori">
+<media id="fs-id1172100600489" alt="A micrograph of a rod shaped cell with many long projections.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_02_Hpylori.jpg"/>
+</media>
+<caption><term class="no-emphasis"><emphasis effect="italics">Helicobacter pylori</emphasis></term> can cause chronic gastritis, which can lead to ulcers and stomach cancer.</caption>
+</figure>
+<para id="fs-id1172098267996"><link target-id="fs-id1172098273378"/> summarizes the characteristics of the most clinically relevant genera of Epsilonproteobacteria.</para>
+<table id="fs-id1172098273378" summary="Table titled Class Epsilonproteobacteria. Three columns: Genus, Microscopic Morphology and Unique Characteristics. Genus Campylobacter: Gram-negative, spiral-shaped rod. Characteristics: Aerobic (microaerophilic); often infects chickens; may infect humans via undercooked meat, causing severe enteritis. Genus Helicobacter: Gram-negative, spiral-shaped rod. Characteristics: Aerobic (microaerophilic) bacterium; can damage the inner lining of the stomach, causing chronic gastritis, peptic ulcers, and stomach cancer" class="span-all">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c3">Class Epsilonproteobacteria</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Example Genus</entry>
+<entry valign="top" align="center">Microscopic Morphology</entry>
+<entry valign="top" align="center">Unique Characteristics</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Campylobacter</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative, spiral-shaped rod</entry>
+<entry valign="top" align="left">Aerobic (microaerophilic); often infects chickens; may infect humans via undercooked meat, causing severe enteritis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Helicobacter</emphasis></term></entry>
+<entry valign="top" align="left">Gram-negative, spiral-shaped rod</entry>
+<entry valign="top" align="left">Aerobic (microaerophilic) bacterium; can damage the inner lining of the stomach, causing chronic gastritis, peptic ulcers, and stomach cancer</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1172100951144" class="microbiology check-your-understanding">
+<list id="fs-id1167661568325" list-type="bulleted" bullet-style="bullet">
+<item>Name two Epsilonproteobacteria that cause gastrointestinal disorders.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172098310018" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1172100972707" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Proteobacteria</emphasis> is a phylum of gram-negative bacteria discovered by Carl Woese in the 1980s based on nucleotide sequence homology.</item>
+<item>Proteobacteria are further classified into the classes alpha-, beta-, gamma-, delta- and epsilonproteobacteria, each class having separate orders, families, genera, and species.</item>
+<item><emphasis effect="bold">Alphaproteobacteria</emphasis> include several obligate and facultative intracellular pathogens, including the rickettsias. Some Alphaproteobacteria can convert atmospheric nitrogen to nitrites, making nitrogen usable for other forms of life.</item>
+<item><emphasis effect="bold">Betaproteobacteria</emphasis> are a diverse group of bacteria that include human pathogens of the genus <emphasis effect="italics">Neisseria</emphasis> and the species <emphasis effect="italics">Bordetella pertussis</emphasis>.</item>
+<item><emphasis effect="bold">Gammaproteobacteria</emphasis> are the largest and the most diverse group of Proteobacteria. Many are human pathogens that are aerobes or facultative anaerobes. Some Gammaproteobacteria are <emphasis effect="bold">enteric</emphasis> bacteria that may be coliform or noncoliform. <emphasis effect="italics">Escherichia coli</emphasis>, a member of Gammaproteobacteria, is perhaps the most studied bacterium.</item>
+<item><emphasis effect="bold">Deltaproteobacteria</emphasis> make up a small group able to reduce sulfate or elemental sulfur. Some are scavengers and form myxospores, with multicellular fruiting bodies.</item>
+<item><emphasis effect="bold">Epsilonproteobacteria</emphasis> make up the smallest group of Proteobacteria. The genera <emphasis effect="italics">Campylobacter</emphasis> and <emphasis effect="italics">Helicobacter</emphasis> are human pathogens.</item>
+</list>
+</section>
+<section id="fs-id1172098686722" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1172098559637">
+<problem id="fs-id1172098408226">
+<para id="fs-id1172098408228">Which of the following describes Proteobacteria in domain Bacteria?</para>
+<list id="fs-id1172100565183" list-type="enumerated" number-style="upper-alpha">
+<item>phylum</item>
+<item>class</item>
+<item>species</item>
+<item>genus</item>
+</list>
+</problem>
+<solution id="fs-id1172100548676">
+<para id="fs-id1172100548678">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098544345">
+<problem id="fs-id1172098544348">
+<para id="fs-id1172100921686">Which of the following Alphaproteobacteria is the cause of Rocky Mountain spotted fever and typhus?</para>
+<list id="fs-id1172100921689" list-type="enumerated" number-style="upper-alpha">
+<item>Bartonella</item>
+<item>Coxiella</item>
+<item>Rickettsia</item>
+<item>Ehrlichia</item>
+<item>Brucella</item>
+</list>
+</problem>
+<solution id="fs-id1172100585678">
+<para id="fs-id1172100970502">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098564103">
+<problem id="fs-id1172098564105">
+<para id="fs-id1172100640817">Class Betaproteobacteria includes all but which of the following genera?</para>
+<list id="fs-id1172100593178" list-type="enumerated" number-style="upper-alpha">
+<item><emphasis effect="italics">Neisseria</emphasis>.</item>
+<item><emphasis effect="italics">Bordetella</emphasis>.</item>
+<item><emphasis effect="italics">Leptothrix</emphasis>.</item>
+<item><emphasis effect="italics">Campylobacter</emphasis>.</item>
+</list>
+</problem>
+<solution id="fs-id1172100944216">
+<para id="fs-id1172100944218">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100577825">
+<problem id="fs-id1172098513613">
+<para id="fs-id1172098513615"><emphasis effect="italics">Haemophilus influenzae</emphasis> is a common cause of which of the following?</para>
+<list id="fs-id1172100627708" list-type="enumerated" number-style="upper-alpha">
+<item>influenza</item>
+<item>dysentery</item>
+<item>upper respiratory tract infections</item>
+<item>hemophilia</item>
+</list>
+</problem>
+<solution id="fs-id1172100658562">
+<para id="fs-id1172100827801">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172098273098" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1172098451867">
+<problem id="fs-id1172098451869">
+<para id="fs-id1172100966857">Rickettsias are ________ intracellular bacteria.</para>
+</problem>
+<solution id="fs-id1172101006579">
+<para id="fs-id1172101006581">obligate</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172100536071">
+<problem id="fs-id1172100536073">
+<para id="fs-id1172098379084">The species ________, which belongs to Epsilonproteobacteria, causes peptic ulcers of the stomach and duodenum.</para>
+</problem>
+<solution id="fs-id1172098560243">
+<para id="fs-id1172098560246"><emphasis effect="italics">Helicobacter pylori</emphasis></para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098389959">
+<problem id="fs-id1172100564297">
+<para id="fs-id1172100564299">The genus <emphasis effect="italics">Salmonella</emphasis> belongs to the class ________ and includes pathogens that cause salmonellosis and typhoid fever.</para>
+</problem>
+<solution id="fs-id1172098451776">
+<para id="fs-id1172098451778">Gammaproteobacteria</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172098322118" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1172098499433">
+<problem id="fs-id1172098499436">
+<para id="fs-id1172098271644">What is the metabolic difference between coliforms and noncoliforms? Which category contains several species of intestinal pathogens?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1172100537950">
+<problem id="fs-id1172100537952">
+<para id="fs-id1172098317960">Why are <emphasis effect="italics">Mycoplasma</emphasis> and <emphasis effect="italics">Chlamydia</emphasis> classified as obligate intracellular pathogens?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1172098458890" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1172098315717">
+<problem id="fs-id1172100895310">
+<para id="fs-id1172100895312">The cell shown is found in the human stomach and is now known to cause peptic ulcers. What is the name of this bacterium?</para>
+<figure id="OSC_Microbio_04_02_ArtConn1_img">
+<media id="fs-id1172098316182" alt="A micrograph of a rod shaped cell with many long projections.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_02_ArtConn1_img.jpg"/>
+</media>
+<caption>(credit: American Society for Microbiology)</caption>
+</figure>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

@@ -1,0 +1,326 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Detecting Antigen-Antibody Complexes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58901</md:content-id>
+  <md:title>Detecting Antigen-Antibody Complexes</md:title>
+  <md:abstract/>
+  <md:uuid>7a6dba3e-b9d9-4194-96c2-d1dcbf82fff6</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167663640879" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167663552523">
+<item>Describe various types of assays used to find antigen-antibody complexes</item>
+<item>Describe the circumstances under which antigen-antibody complexes precipitate out of solution</item>
+<item>Explain how antibodies in patient serum can be used to diagnose disease</item>
+</list>
+</section>
+<para id="fs-id1167663544799">Laboratory tests to detect antibodies and antigens outside of the body (e.g., in a test tube) are called <emphasis effect="italics">in vitro</emphasis> assays. When both antibodies and their corresponding antigens are present in a solution, we can often observe a precipitation reaction in which large complexes (lattices) form and settle out of solution. In the next several sections, we will discuss several common <emphasis effect="italics">in vitro</emphasis> assays.</para>
+<section id="fs-id1167661365283">
+<title>Precipitin Reactions</title>
+<para id="fs-id1167661748784">A visible antigen-antibody complex is called a <term>precipitin</term>, and <emphasis effect="italics">in vitro</emphasis> assays that produce a precipitin are called <term class="no-emphasis">precipitin reactions</term>. A precipitin reaction typically involves adding soluble antigens to a test tube containing a solution of antibodies. Each antibody has two arms, each of which can bind to an epitope. When an antibody binds to two antigens, the two antigens become bound together by the antibody. A lattice can form as antibodies bind more and more antigens together, resulting in a precipitin (<link target-id="OSC_Microbio_20_02_Preciptin"/>). Most precipitin tests use a <term class="no-emphasis">polyclonal antiserum</term> rather than <term class="no-emphasis">monoclonal antibodies</term> because polyclonal antibodies can bind to multiple epitopes, making lattice formation more likely. Although mAbs may bind some antigens, the binding will occur less often, making it much less likely that a visible precipitin will form.</para>
+<figure id="OSC_Microbio_20_02_Preciptin">
+<media id="fs-id1167661354091" alt="This figure shows 2 sets of 4 antigens. Each antigen has multiple unique epitopes on the surface. For one set of antigens, polyclonal antibodies are binding to different sets of epitopes on each antigen, linking the antigens together like a lattice. For the second set of antigens, monoclonal antibodies bind to just one of the specific unique epitopes. Because of the specificity, only 2 antigens are linked to each other, rather than forming a more complex lattice with all 4 antigens.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_20_02_Preciptin.jpg"/>
+</media>
+<caption>Polyclonal antiserum binds to multiple epitopes on an antigen, leading to lattice formation that results in a visible precipitin. Monoclonal antibodies can only bind to a single epitope; therefore, less binding occurs and lattice formation generally does not occur.</caption>
+</figure>
+<para id="fs-id1167661351003">The amount of precipitation also depends on several other factors. For example, precipitation is enhanced when the antibodies have a high affinity for the antigen. While most antibodies bind antigen with high affinity, even high-affinity binding uses relatively weak noncovalent bonds, so that individual interactions will often break and new interactions will occur.</para>
+<para id="fs-id1167663636822">In addition, for precipitin formation to be visible, there must be an optimal ratio of antibody to antigen. The optimal ratio is not likely to be a 1:1 antigen-to-antibody ratio; it can vary dramatically, depending on the number of epitopes on the antigen and the class of antibody. Some antigens may have only one or two <term class="no-emphasis">epitopes</term> recognized by the antiserum, whereas other antigens may have many different epitopes and/or multiple instances of the same epitope on a single antigen molecule.</para>
+<para id="fs-id1167663965448"><link target-id="OSC_Microbio_20_02_Preciptinform"/> illustrates how the ratio of antigen and antibody affects the amount of precipitation. To achieve the optimal ratio, antigen is slowly added to a solution containing antibodies, and the amount of precipitin is determined qualitatively. Initially, there is not enough antigen to produce visible lattice formation; this is called the zone of antibody excess. As more antigen is added, the reaction enters the <term>equivalence zone</term> (or zone of equivalence), where both the optimal antigen-antibody interaction and maximal precipitation occur. If even more antigen were added, the amount of antigen would become excessive and actually cause the amount of precipitation to decline.</para>
+<figure id="OSC_Microbio_20_02_Preciptinform">
+<media id="fs-id1167661271495" alt="(A) Diagram of polyclonal antiserum. Antigens with multiple epitopes (shapes on their surface) are bound to different antibodies (each antibody binds to a different epitope). B) Diagram of monoclonal antibodies. Antigens with multiple epitopes have only one type of antibody bound to a single epitope on each. A graph; the X-axis is labeled antigen added and Y-axis is labeled precipitin formed. In the zone of antibody excess there is more antibody than antigen. In this case, there is no precipitate. In the equivalence zone there are approximately equal amounts of antigen and antibody. In this case a precipitate does form. In the zone of antigen excess, there is more antigen than antibody and no precipitate forms.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_20_02_Precipform.jpg"/>
+</media>
+<caption>As antigen is slowly added to a solution containing a constant amount antibody, the amount of precipitin increases as the antibody-to-antigen ratio approaches the equivalence zone and decreases once the proportion of antigen exceeds the optimal ratio.</caption>
+</figure>
+<note id="fs-id1167663622665" class="microbiology check-your-understanding">
+<list id="fs-id1167663711886" list-type="bulleted" bullet-style="bullet">
+<item>What is a precipitin?</item>
+<item>Why do polyclonal antisera produce a better precipitin reaction?</item>
+</list>
+</note>
+<section id="fs-id1167663989523">
+<title>Precipitin Ring Test</title>
+<para id="fs-id1167663881207">A variety of techniques allow us to use precipitin formation to quantify either antigen concentration or the amount of antibody present in an antiserum. One such technique is the <term>precipitin ring test</term> (<link target-id="OSC_Microbio_20_02_PRing"/>), which is used to determine the relative amount of antigen-specific antibody in a sample of serum. To perform this test, a set of test tubes is prepared by adding an antigen solution to the bottom of each tube. Each tube receives the same volume of solution, and the concentration of antigens is constant (e.g., 1 mg/mL). Next, glycerol is added to the antigen solution in each test tube, followed by a <term class="no-emphasis">serial dilution</term> of the antiserum. The glycerol prevents mixing of the antiserum with the antigen solution, allowing antigen-antibody binding to take place only at the interface of the two solutions. The result is a visible ring of precipitin in the tubes that have an antigen-antibody ratio within the equivalence zone. This highest dilution with a visible ring is used to determine the <term>titer</term> of the antibodies. The titer is the reciprocal of the highest dilution showing a positive result, expressed as a whole number. In <link target-id="OSC_Microbio_20_02_PRing"/>, the titer is 16.</para>
+<para id="fs-id1167663929131">While a measurement of titer does not tell us in absolute terms how much antibody is present, it does give a measure of biological activity, which is often more important than absolute amount. In this example, it would not be useful to know what mass of <term class="no-emphasis">IgG</term> were present in the antiserum, because there are many different specificities of antibody present; but it is important for us to know how much of the antibody activity in a patient’s serum is directed against the antigen of interest (e.g., a particular pathogen or allergen).</para>
+<figure id="OSC_Microbio_20_02_PRing">
+<media id="fs-id1167661294389" alt="A diagram with multiple test tube dilutions labeled: 1, ½, ¼, 1/8, 1/16, 1/32. The bottom of each test tube contains a standard antigen solution. The top contains serial dilutions of antiserum. Tubes 1, ½, and 1/32 have no band at the interface between these two zones. Tubes ¼, and 1/6 have a thin band. Tube 1/8 has a thick band labeled zone of equivalence – visible precipitation.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_20_02_PRing.jpg"/>
+</media>
+<caption>A precipitin ring test is performed using a standard antigen solution in the bottom of the tube and a serial dilution of antiserum in the top of the tube. Glycerol prevents the two solutions from mixing so that precipitation only occurs at the interface. A visible ring of precipitation is seen in the 1/4, 1/8, and 1/16 dilutions, indicating that these concentrations are within the equivalence zone. Since 1/16 is the highest dilution in which a precipitin is observed, the titer is the reciprocal, or 16.</caption>
+</figure>
+</section>
+<section id="fs-id1167663932337">
+<title>Ouchterlony Assay</title>
+<para id="fs-id1167663625689">While the precipitin ring test provides insights into antibody-antigen interactions, it also has some drawbacks. It requires the use of large amounts of serum, and great care must be taken to avoid mixing the solutions and disrupting the ring. Performing a similar test in an agar gel matrix can minimize these problems. This type of assay is variously called <term>double immunodiffusion</term> or the <term>Ouchterlony assay</term> for Orjan <term class="no-emphasis">Ouchterlony</term>,<footnote id="fs-id1167663741455">Ouchterlony, Örjan, “In Vitro Method for Testing the Toxin-Producing Capacity of Diphtheria Bacteria,” <emphasis effect="italics">Acta Pathologica Microbiologica Scandinavica</emphasis> 26, no. 4 (1949): 516-24.</footnote> who first described the technique in 1948.</para>
+<para id="fs-id1167663640746">When agar is highly purified, it produces a clear, colorless gel. Holes are punched in the gel to form wells, and antigen and antisera are added to neighboring wells. Proteins are able to diffuse through the gel, and precipitin arcs form between the wells at the zone of equivalence. Because the <term class="no-emphasis">precipitin</term> lattice is too large to diffuse through the gel, the arcs are firmly locked in place and easy to see (<link target-id="OSC_Microbio_20_02_Ouchter"/>).</para>
+<para id="fs-id1167663970767">Although there are now more sensitive and quantitative methods of detecting antibody-antigen interactions, the Ouchterlony test provides a rapid and qualitative way of determining whether an antiserum has antibodies against a particular antigen. The Ouchterlony test is particularly useful when looking for <term class="no-emphasis">cross-reactivity</term>. We can check an antiserum against a group of closely related antigens and see which combinations form precipitin arcs.</para>
+<figure id="OSC_Microbio_20_02_Ouchter">
+<media id="fs-id1167663743296" alt="A gel with a central circle labeled A and 5 outer circles numbered 1-5. Between A and 1 is a white band labeled precipitin band. This zone is magnified and a diagram shows that circle A contains antigens in a well. Circle 1 contains antibodies in a well. The antigens and antibodies diffuses outward and meet in the region of the precipitin band. Here they bind together.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_20_02_Ouchter.jpg"/>
+</media>
+<caption>The Ouchterlony test places antigen (well A) and antisera (wells 1 through 5) in a gel. The antibodies and antigen diffuse through the gel, causing a precipitin arc to form at the zone of equivalence. In this example, only the antiserum in well 1 contains antibodies to the antigen. The resulting precipitin arc is stable because the lattice is too large to diffuse through the gel. (credit left: modification of work by Higgins PJ, Tong C, Borenfreund E, Okin RS, Bendich A)</caption>
+</figure>
+</section>
+<section id="fs-id1167663991538">
+<title>Radial Immunodiffusion Assay</title>
+<para id="fs-id1167661433590">The <term>radial immunodiffusion</term> (RID) assay is similar to the Ouchterlony assay but is used to precisely quantify antigen concentration rather than to compare different antigens. In this assay, the antiserum is added to tempered agar (liquid agar at slightly above 45 °C), which is poured into a small petri dish or onto a glass slide and allowed to cool. Wells are cut in the cooled agar, and antigen is then added to the wells and allowed to diffuse. As the antigen and antibody interact, they form a zone of precipitation. The square of the diameter of the zone of precipitation is directly proportional to the concentration of antigen. By measuring the zones of precipitation produced by samples of known concentration (see the outer ring of samples in <link target-id="OSC_Microbio_20_02_RID"/>), we can prepare a standard curve for determining the concentration of an unknown solution. The RID assay is a also useful test for determining the concentration of many serum proteins such as the C3 and C4 complement proteins, among others.</para>
+<figure id="OSC_Microbio_20_02_RID">
+<media id="fs-id1167663984553" alt="At the top is a photograph of 4 clear dots in a row. Dot 1 has a small ring around it, dot 2 has a larger ring, dot 3 has a larger ring, and dot 4 has an even larger ring. These have arrows leading to a graph that shows that the size of the ring (zone of precipitation diameter)  relates to the concentration of antigen. The lower antigen concentration results in a smaller ring.  Another dot (#5) off to the side contains an unknown antigen concentration. The size of the ring is measured and used to find the concentration of antigen. This is done by finding the ring size on the line from the graph and connecting that to the X-axis to find the concentration of antigen.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_20_02_RID.jpg"/>
+</media>
+<caption>In this radial immunodiffusion (RID) assay, an antiserum is mixed with the agar before it is cooled, and solutions containing antigen are added to each well in increasing concentrations (wells 1–4). An antigen solution of an unknown concentration is added to well 5. The zones of precipitation are measured and plotted against a standard curve to determine the antigen concentration of the unknown sample. (credit circles: modification of work by Kangwa M, Yelemane V, Polat AN, Gorrepati KD, Grasselli M, Fernández-Lahore M)</caption>
+</figure>
+<note id="fs-id1167663571131" class="microbiology check-your-understanding">
+<list id="fs-id1167663990489" list-type="bulleted" bullet-style="bullet">
+<item>Why does a precipitin ring form in a precipitin ring test, and what are some reasons why a ring might not form?</item>
+<item>Compare and contrast the techniques used in an Ouchterlony assay and a radial immunodiffusion assay.</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167661298259">
+<title>Flocculation Assays</title>
+<para id="fs-id1167663990837">A flocculation assay is similar to a precipitin reaction except that it involves insoluble antigens such as lipids. A <term>flocculant</term> is similar to a precipitin in that there is a visible lattice of antigen and antibody, but because lipids are insoluble in aqueous solution, they cannot precipitate. Instead of precipitation, flocculation (foaming) is observed in the test tube fluid.</para>
+<note id="fs-id1167663641226" class="microbiology micro-connection">
+<title>Using Flocculation to Test for Syphilis</title>
+<para id="fs-id1167661296200">Syphilis is a sexually transmitted infection that can cause severe, chronic disease in adults. In addition, it is readily passed from infected mothers to their newborns during pregnancy and childbirth, often resulting in stillbirth or serious long-term health problems for the infant. Unfortunately, syphilis can also be difficult to diagnose in expectant mothers, because it is often asymptomatic, especially in women. In addition, the causative agent, the bacterium <term class="no-emphasis"><emphasis effect="italics">Treponema pallidum</emphasis></term>, is both difficult to grow on conventional lab media and too small to see using routine microcopy. For these reasons, presumptive diagnoses of syphilis are generally confirmed indirectly in the laboratory using tests that detect antibodies to treponemal antigens.</para>
+<para id="fs-id1167661364583">In 1906, German scientist August von <term class="no-emphasis">Wassermann</term> (1866–1925) introduced the first test for syphilis that relied on detecting anti-treponemal antibodies in the patient’s blood. The antibodies detected in the Wassermann test were antiphospholipid antibodies that are nonspecific to <emphasis effect="italics">T. pallidum</emphasis>. Their presence can assist in the diagnosis of syphilis, but because they are nonspecific, they can also lead to false-positive results in patients with other diseases and autoimmune conditions. The original <term class="no-emphasis">Wasserman test</term> has been modified over the years to minimize <term class="no-emphasis">false-positives</term> and is now known as the Venereal Disease Research Lab test, better known by its acronym, the <term class="no-emphasis">VDRL test</term>.</para>
+
+<para id="fs-id1167663534431">To perform the VDRL test, patient serum or cerebral spinal fluid is placed on a slide with a mixture of <term class="no-emphasis">cardiolipin</term> (an antigenic phospholipid found in the mitochondrial membrane of various pathogens), lecithin, and cholesterol. The lecithin and cholesterol stabilize the reaction and diminish false positives. Anti-treponemal antibodies from an infected patient’s serum will bind cardiolipin and form a flocculant. Although the VDRL test is more specific than the original Wassermann assay, false positives may still occur in patients with autoimmune diseases that cause extensive cell damage (e.g., <term class="no-emphasis">systemic lupus erythematosus</term>).</para>
+</note>
+</section>
+</section>
+<section id="fs-id1167663507628">
+<title>Neutralization Assay</title>
+<para id="fs-id1167663957187">To cause infection, viruses must bind to receptors on host cells. Antiviral antibodies can neutralize viral infections by coating the virions, blocking the binding (<link target-id="OSC_Microbio_18_04_neutral" document="m58884"/>). This activity neutralizes virions and can result in the formation of large antibody-virus complexes (which are readily removed by phagocytosis) or by antibody binding to the virus and blocking its binding to host cell receptors. This neutralization activity is the basis of <term class="no-emphasis">neutralization assays</term>, sensitive assays used for diagnoses of viral infections.</para>
+<para id="fs-id1167661484126">When viruses infect cells, they often cause damage (<term class="no-emphasis">cytopathic effects</term>) that may include lysis of the host cells. Cytopathic effects can be visualized by growing host cells in a petri dish, covering the cells with a thin layer of agar, and then adding virus (see <link document="m58810">Isolation, Culture, and Identification of Viruses</link>). The virus will diffuse very slowly through the agar. A virus will enter a host cell, proliferate (causing cell damage), be released from the dead host cell, and then move to neighboring cells. As more and more cells die, <term class="no-emphasis">plaques</term> of dead cells will form (<link target-id="OSC_Microbio_20_02_Plaques"/>).</para>
+<para id="fs-id1167663603483">During the course of a viral infection, the patient will mount an antibody response to the virus, and we can quantify those antibodies using a <term class="no-emphasis">plaque reduction assay</term>. To perform the assay, a <term class="no-emphasis">serial dilution</term> is carried out on a serum sample. Each dilution is then mixed with a standardized amount of the suspect virus. Any virus-specific antibodies in the serum will neutralize some of the virus. The suspensions are then added to host cells in culture to allow any nonneutralized virus to infect the cells and form plaques after several days. The <term class="no-emphasis">titer</term> is defined as the reciprocal of the highest dilution showing a 50% reduction in plaques. Titer is always expressed as a whole number. For example, if a 1/64 dilution was the highest dilution to show 50% plaque reduction, then the titer is 64.</para>
+<para id="fs-id1167661364937">The presence of antibodies in the patient’s serum does not tell us whether the patient is currently infected or was infected in the past. Current infections can be identified by waiting two weeks and testing another serum sample. A four-fold increase in neutralizing titer in this second sample indicates a new infection.</para>
+<figure id="OSC_Microbio_20_02_Plaques">
+<media id="fs-id1167661442823" alt="A photograph of wells showing a smooth purple background with white spots.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_20_02_Plaques.jpg"/>
+</media>
+<caption>In a neutralization assay, antibodies in patient serum neutralize viruses added to the wells, preventing the formation of plaques. In the assay pictured, the wells with numerous plaques (white patches) contain a low concentration of antibodies. The wells with relatively few plaques have a high concentration of antibodies. (credit: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<note id="fs-id1167663663892" class="microbiology check-your-understanding">
+<list id="fs-id1167663967518" list-type="bulleted" bullet-style="bullet">
+<item>In a neutralization assay, if a patient’s serum has high numbers of antiviral antibodies, would you expect to see more or fewer plaques?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167663989026">
+<title>Immunoelectrophoresis</title>
+<para id="fs-id1167663612444">When a patient has elevated protein levels in the blood or is losing protein in the urine, a clinician will often order a <term class="no-emphasis">polyacrylamide gel electrophoresis</term> (<term class="no-emphasis">PAGE</term>) assay (see <link document="m58849">Visualizing and Characterizing DNA, RNA, and Protein</link>). This assay compares the relative abundance of the various types of serum proteins. Abnormal protein electrophoresis patterns can be further studied using <term>immunoelectrophoresis (IEP)</term>. The IEP begins by running a PAGE. Antisera against selected serum proteins are added to troughs running parallel to the electrophoresis track, forming <term class="no-emphasis">precipitin arcs</term> similar to those seen in an <term class="no-emphasis">Ouchterlony assay</term> (<link target-id="OSC_Microbio_20_02_IEP"/>). This allows the identification of abnormal immunoglobulin proteins in the sample.</para>
+<para id="fs-id1167661317168">IEP is particularly useful in the diagnosis of <term class="no-emphasis">multiple myeloma</term>, a cancer of antibody-secreting cells. Patients with multiple myeloma cannot produce healthy antibodies; instead they produce abnormal antibodies that are monoclonal proteins (M proteins). Thus, patients with multiple myeloma will present with elevated serum protein levels that show a distinct band in the gamma globulin region of a protein electrophoresis gel and a sharp spike (in M protein) on the densitometer scan rather than the normal broad smear (<link target-id="OSC_Microbio_20_02_Spike"/>). When antibodies against the various types of antibody heavy and light chains are used to form precipitin arcs, the <term class="no-emphasis">M protein</term> will cause distinctly skewed arcs against one class of heavy chain and one class of light chain as seen in <link target-id="OSC_Microbio_20_02_IEP"/>.</para>
+<figure id="OSC_Microbio_20_02_IEP">
+<media id="fs-id1167663901242" alt="a) A graph showing a large peak at alb and smaller peaks at alpha1, alpha2, beta, and gamma.  B) A photograph showing various white lines on a blue background. The top line is labeled anti-human whole serum, the next is anti-IgG, the next is anti-IgA, the next is anti-K and the next is anti-lambda. Each of these is near a band from both the normal and patient urine samples. Black arrows point to the patient’s sample next to anti-IgG and anti-k. A white arrow points to the band from the patient near anti-K.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_20_02_IEP.jpg"/>
+</media>
+<caption>(a) This graph shows normal measurements of serum proteins. (b) This photograph shows an immunoelectrophoresis of urine. After electrophoresis, antisera were added to the troughs and the precipitin arcs formed, illustrating the distribution of specific proteins. The skewed arcs (arrows) help to diagnose multiple myeloma. (credit a, b: modification of work by Izawa S, Akimoto T, Ikeuchi H, Kusano E, Nagata D)</caption>
+</figure>
+<note id="fs-id1167663932329" class="microbiology micro-connection">
+<title>Protein Electrophoresis and the Characterization of Immunoglobulin Structure</title>
+<para id="fs-id1167661437337">The advent of electrophoresis ultimately led to researching and understanding the structure of antibodies. When Swedish biochemist Arne Tiselius (1902–1971) published the first protein electrophoresis results in 1937,<footnote id="fs-id1167661257803">Tiselius, Arne, “Electrophoresis of Serum Globulin: Electrophoretic Analysis of Normal and Immune Sera,” <emphasis effect="italics">Biochemical Journal</emphasis> 31, no. 9 (1937): 1464.</footnote> he could identify the protein albumin (the smallest and most abundant serum protein) by the sharp band it produced in the gel. The other serum proteins could not be resolved in a simple protein electrophoresis, so he named the three broad bands, with many proteins in each band, alpha, beta, and gamma globulins. Two years later, American immunologist Elvin Kabat (1914–2000) traveled to Sweden to work with Tiselius using this new technique and showed that antibodies migrated as gamma globulins.<footnote id="fs-id1167661368224">Tiselius, Arne and Elvin A. Kabat. “An Electrophoretic Study of Immune Sera and Purified Antibody Preparations,” <emphasis effect="italics">The Journal of Experimental Medicine</emphasis> 69, no. 1 (1939): 119-31.</footnote> With this new understanding in hand, researchers soon learned that multiple myeloma, because it is a cancer of antibody-secreting cells, could be tentatively diagnosed by the presence of a large M spike in the gamma-globulin region by protein electrophoresis. Prior to this discovery, studies on immunoglobulin structure had been minimal, because of the difficulty of obtaining pure samples to study. Sera from multiple myeloma patients proved to be an excellent source of highly enriched monoclonal immunoglobulin, providing the raw material for studies over the next 20-plus years that resulted in the elucidation of the structure of immunoglobulin.</para>
+<figure id="OSC_Microbio_20_02_Spike">
+<media id="fs-id1167663622961" alt="Electrophoresis showing 4 healthy patterns and 3 examples of those with myeloma. All 7 lanes contain multiple blue bands with a thick band labeled albumin. The myeloma samples have a dark band labeled gamma-globulin, while the healthy samples do not have a band here. A graph showing the total gamma-globulin amount (g/dl) in each of these samples. The healthy samples have approximately 0.1 while the myeloma samples range from 0.8 to 1.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_20_02_Spike.jpg"/>
+</media>
+<caption>Electrophoresis patterns of myeloma (right) and normal sera (left). The proteins have been stained; when the density of each band is quantified by densitometry, the data produce the bar graph on the right. Both gels show the expected dense band of albumin at the bottom and an abnormal spike in the gamma-globulin region. (credit: modification of work by Soodgupta D, Hurchla MA, Jiang M, Zheleznyak A, Weilbaecher KN, Anderson CJ, Tomasson MH, Shokeen M)</caption>
+</figure>
+</note>
+<note id="fs-id1167663736062" class="microbiology check-your-understanding">
+<list id="fs-id1167661325447" list-type="bulleted" bullet-style="bullet">
+<item>In general, what does an immunoelectrophoresis assay accomplish?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167663737530">
+<title>Immunoblot Assay: The Western Blot</title>
+<para id="fs-id1167661290484">After performing protein gel electrophoresis, specific proteins can be identified in the gel using antibodies. This technique is known as the <term>western blot</term>. Following separation of proteins by PAGE, the protein antigens in the gel are transferred to and immobilized on a nitrocellulose membrane. This membrane can then be exposed to a <term class="no-emphasis">primary antibody</term> produced to specifically bind to the protein of interest. A second antibody equipped with a molecular beacon will then bind to the first. These secondary antibodies are coupled to another molecule such as an enzyme or a <term>fluorophore</term> (a molecule that fluoresces when excited by light). When using antibodies coupled to enzymes, a <term>chromogenic substrate</term> for the enzyme is added. This substrate is usually colorless but will develop color in the presence of the antibody. The fluorescence or substrate coloring identifies the location of the specific protein in the membrane to which the antibodies are bound (<link target-id="OSC_Microbio_20_02_Western"/>).</para>
+<para id="fs-id1167663621074">Typically, <term class="no-emphasis">polyclonal antibodies</term> are used for western blot assays. They are more sensitive than mAbs because of their ability to bind to various epitopes of the primary antigen, and the signal from polyclonal antibodies is typically stronger than that from mAbs. Monoclonal antibodies can also be used; however, they are much more expensive to produce and are less sensitive, since they are only able to recognize one specific epitope.</para>
+<para id="fs-id1167663658086">Several variations of the western blot are useful in research. In a <term class="no-emphasis">southwestern blot</term>, proteins are separated by SDS-PAGE, blotted onto a nitrocellulose membrane, allowed to renature, and then probed with a fluorescently or radioactively labeled DNA probe; the purpose of the southwestern is to identify specific DNA-protein interactions. <term class="no-emphasis">Far-western blots</term> are carried out to determine protein-protein interactions between immobilized proteins (separated by SDS-PAGE, blotted onto a nitrocellulose membrane, and allowed to renature) and non-antibody protein probes. The bound non-antibody proteins that interact with the immobilized proteins in a far-western blot may be detected by radiolabeling, fluorescence, or the use of an antibody with an enzymatic molecular beacon.</para>
+<figure id="OSC_Microbio_20_02_Western">
+<media id="fs-id1167663967846" alt="(a) A diagram showing the process of a western blot. Step 1 – a gel is on top of a nitrocellulose membrane and filter paper is on either side. This is all sandwiched between positive and negative plates. If the proteins are hydrophobic use PVDF membrane instead of nitrocellulose. This causes the proteins to bind to the membrane. At this point there are many protein bands.  Then antibodies specific to the protein on interest are added. They bind to one of the protein bands on the membrane. Next labeled antibodies bidn to the first set of antibodies. This results in a single visible band. (b) A photo of the results shows dark bands on a white membrane.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_20_02_Western.jpg"/>
+</media>
+<caption>(a) This diagram summarizes the process of western blotting. Antibodies are used to identify specific bands on the protein gel. (b) A western blot test for antibodies against HIV. The top strip is the negative control; the next strip is the positive control. The bottom two strips are patient serum samples containing antibodies. (credit a: modification of work by “Bensaccount”/Wikimedia Commons)</caption>
+</figure>
+<note id="fs-id1167663991980" class="microbiology check-your-understanding">
+<list id="fs-id1167663641966" list-type="bulleted" bullet-style="bullet">
+<item>What is the function of the enzyme in the immunoblot assay?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167663643508">
+<title>Complement-Mediated Immunoassay</title>
+<para id="fs-id1167661364285">One of the key functions of antibodies is the activation (fixation) of complement. When antibody binds to bacteria, for example, certain <term class="no-emphasis">complement proteins</term> recognize the bound antibody and activate the <term class="no-emphasis">complement cascade</term>. In response, other complement proteins bind to the bacteria where some serve as <term class="no-emphasis">opsonins </term>to increase the efficiency of phagocytosis and others create holes in gram-negative bacterial cell membranes, causing lysis. This lytic activity can be used to detect the presence of antibodies against specific antigens in the serum.</para>
+<para id="fs-id1167661519770">Red blood cells are good indicator cells to use when evaluating complement-mediated cytolysis. Hemolysis of red blood cells releases hemoglobin, which is a brightly colored pigment, and hemolysis of even a small number of red cells will cause the solution to become noticeably pink (<link target-id="OSC_Microbio_20_02_Complement"/>). This characteristic plays a role in the <term>complement fixation test</term>, which allows the detection of antibodies against specific pathogens. The complement fixation test can be used to check for antibodies against pathogens that are difficult to culture in the lab such as fungi, viruses, or the bacteria <emphasis effect="italics">Chlamydia</emphasis>.</para>
+<para id="fs-id1167663614039">To perform the complement fixation test, antigen from a pathogen is added to patient serum. If antibodies to the antigen are present, the antibody will bind the antigen and fix all the available complement. When red blood cells and antibodies against red blood cells are subsequently added to the mix, there will be no complement left to lyse the red cells. Thus, if the solution remains clear, the test is positive. If there are no antipathogen antibodies in the patient’s serum, the added antibodies will activate the complement to lyse the red cells, yielding a negative test (<link target-id="OSC_Microbio_20_02_Complement"/>).</para>
+<figure id="OSC_Microbio_20_02_Complement">
+<media id="fs-id1167663928412" alt="Diagram of the complement fixation test. 1. Patient A’s serum contains antibodies to the suspected antigen. Patient B’s serum does not. Both patients have complement, but different amounts. 2. Heating the serum destroys all of the complement in the patient’s serum. Antibodies remain in Patient A’s serum. 3. An equal amount of complement is then added to the serum for both patients. Antigens are also added. In patient A’s serum, antibodies bind to antigens and complement fixation occurs. Patient B’s serum lacks antibodies, so complement fixation does not occur. 4. Sheep RBCs and antibodies to sheep RBCs are added to both samples. 5. In patient A, complement is already fixed and cannot lyse RBCs. The antibodies bind to RBCs and settle to the bottom. In patient B, antibodies bind to RBCs and complement lyses the RBCs. Serum turns pink.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_20_02_Complement.jpg"/>
+</media>
+<caption>The complement fixation test is used to determine whether a patient’s serum contains antibodies to a specific antigen. If it does, complement fixation will occur, and there will be no complement available to lyse the antibody-bound sheep red blood cells that are added to the solution in the next step. If the sample does not contain antibodies to the antigen, hemolysis of the sheep blood cells will be observed.</caption>
+</figure>
+<note id="fs-id1167663716504" class="microbiology link-to-learning">
+
+<para id="fs-id1167663902383">View this <link url="https://openstax.org/l/22complfixatst">video</link> to see an outline of the steps of the complement fixation test.</para>
+</note>
+<note id="fs-id1167661292867" class="microbiology check-your-understanding">
+<list id="fs-id1167661518215" list-type="bulleted" bullet-style="bullet">
+<item>In a complement fixation test, if the serum turns pink, does the patient have antibodies to the antigen or not? Explain.</item>
+</list>
+</note>
+<para id="fs-id1167663957434"><link target-id="fs-id1167661342578"/> summarizes the various types of antibody-antigen assays discussed in this section.</para>
+<table id="fs-id1167661342578" summary="Table titled: Mechanisms of Select Antibody-Antigen Assays. Columns: Type of Assay, Mechanism, Examples. Row 1 – Precipitation; Antibody binds to soluble antigen, forming a visible precipitin; Precipitin ring test to visualize lattice formation in solution; Immunoelectrophoresis to examine distribution of antigens following electrophoresis; Ouchterlony assay to compare diverse antigens; Radial immunodiffusion assay to quantify antigens. Row 2 – Flocculation; Antibody binds to insoluble molecules in suspension, forming visible aggregates; VDRL test for syphilis. Row 3 – Neutralization; Antibody binds to virus, blocking viral entry into target cells and preventing formation of plaques; Plaque reduction assay for detecting presence of neutralizing antibodies in patient sera. Row 4 - Complement activation; Antibody binds to antigen, inducing complement activation and leaving no complement to lyse red blood cells; Complement fixation test for patient antibodies against hard-to-culture bacteria such as Chlamydia." class="span-all">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c3">Mechanisms of Select Antibody-Antigen Assays</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Type of Assay</entry>
+<entry valign="top" align="left">Mechanism</entry>
+<entry valign="top" align="left">Examples</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left" morerows="3">Precipitation</entry>
+<entry valign="top" align="left" morerows="3">Antibody binds to soluble antigen, forming a visible precipitin</entry>
+<entry valign="top" align="left">Precipitin ring test to visualize lattice formation in solution</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Immunoelectrophoresis to examine distribution of antigens following electrophoresis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Ouchterlony assay to compare diverse antigens</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Radial immunodiffusion assay to quantify antigens</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Flocculation</entry>
+<entry valign="top" align="left">Antibody binds to insoluble molecules in suspension, forming visible aggregates</entry>
+<entry valign="top" align="left">VDRL test for syphilis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Neutralization</entry>
+<entry valign="top" align="left">Antibody binds to virus, blocking viral entry into target cells and preventing formation of plaques</entry>
+<entry valign="top" align="left">Plaque reduction assay for detecting presence of neutralizing antibodies in patient sera</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left">Complement activation</entry>
+<entry valign="top" align="left">Antibody binds to antigen, inducing complement activation and leaving no complement to lyse red blood cells</entry>
+<entry valign="top" align="left">Complement fixation test for patient antibodies against hard-to-culture bacteria such as <emphasis effect="italics">Chlamydia</emphasis></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+<section id="fs-id1167661290608" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167663657348" list-type="bulleted" bullet-style="bullet">
+<item>When present in the correct ratio, antibody and antigen will form a <emphasis effect="bold">precipitin</emphasis>, or lattice that precipitates out of solution.</item>
+<item>A <emphasis effect="bold">precipitin ring test</emphasis> can be used to visualize lattice formation in solution. The <emphasis effect="bold">Ouchterlony assay</emphasis> demonstrates lattice formation in a gel. The <emphasis effect="bold">radial immunodiffusion</emphasis> assay is used to quantify antigen by measuring the size of a precipitation zone in a gel infused with antibodies.</item>
+<item>Insoluble antigens in suspension will form <emphasis effect="bold">flocculants</emphasis> when bound by antibodies. This is the basis of the VDRL test for syphilis in which anti-treponemal antibodies bind to cardiolipin in suspension.</item>
+<item>Viral infections can be detected by quantifying virus-neutralizing antibodies in a patient’s serum.</item>
+<item>Different antibody classes in plasma or serum are identified by using <emphasis effect="bold">immunoelectrophoresis</emphasis>.</item>
+<item>The presence of specific antigens (e.g., bacterial or viral proteins) in serum can be demonstrated by <emphasis effect="bold">western blot</emphasis> assays, in which the proteins are transferred to a nitrocellulose membrane and identified using labeled antibodies.</item>
+<item>In the complement fixation test, complement is used to detect antibodies against various pathogens.</item>
+</list>
+</section>
+<section id="fs-id1167661352929" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167661533529">
+<problem id="fs-id1167661733352">
+<para id="fs-id1167661733354">The formation of ________ is a positive result in the VDRL test.</para>
+<list id="fs-id1167661553645" list-type="enumerated" number-style="lower-alpha">
+<item>flocculant</item>
+<item>precipitin</item>
+<item>coagulation</item>
+<item>a bright pink color</item>
+</list>
+</problem>
+<solution id="fs-id1167663715941">
+<para id="fs-id1167663981102">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663731676">
+<problem id="fs-id1167661295733">
+<para id="fs-id1167661295735">The titer of a virus neutralization test is the highest dilution of patient serum</para>
+<list id="fs-id1167663986503" list-type="enumerated" number-style="lower-alpha">
+<item>in which there is no detectable viral DNA.</item>
+<item>in which there is no detectable viral protein.</item>
+<item>that completely blocks plaque formation.</item>
+<item>that reduces plaque formation by at least 50%.</item>
+</list>
+</problem>
+<solution id="fs-id1167661308590">
+<para id="fs-id1167661308592">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663980082">
+<problem id="fs-id1167663717249">
+<para id="fs-id1167663717251">In the Ouchterlony assay, we see a sharp precipitin arc form between antigen and antiserum. Why does this arc remain visible for a long time?</para>
+<list id="fs-id1167663960371" list-type="enumerated" number-style="lower-alpha">
+<item>The antibody molecules are too large to diffuse through the agar.</item>
+<item>The precipitin lattice is too large to diffuse through the agar.</item>
+<item>Methanol, added once the arc forms, denatures the protein and blocks diffusion.</item>
+<item>The antigen molecules are chemically coupled to the gel matrix.</item>
+</list>
+</problem>
+<solution id="fs-id1167663991045">
+<para id="fs-id1167663991047">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167663963235" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167661325655">
+<problem id="fs-id1167663968940">
+<para id="fs-id1167663968942">When slowly adding antigen to an antiserum, the amount of precipitin would gradually increase until reaching the ________; addition of more antigen after this point would actually decrease the amount of precipitin.</para>
+</problem>
+<solution id="fs-id1167661293034">
+<para id="fs-id1167661293036">equivalence zone or zone of equivalence</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167663743469">
+<problem id="fs-id1167663743471">
+<para id="fs-id1167663633161">The radial immunodiffusion test quantifies antigen by mixing ________ into a gel and then allowing antigen to diffuse out from a well cut in the gel.</para>
+</problem>
+<solution id="fs-id1167663716592">
+<para id="fs-id1167663716594">antiserum</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167663735883" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1167661533088">
+<problem id="fs-id1167661533090">
+<para id="fs-id1167664000277">Explain why hemolysis in the complement fixation test is a negative test for infection.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167663652655">
+<problem id="fs-id1167663970020">
+<para id="fs-id1167663970022">What is meant by the term “neutralizing antibodies,” and how can we quantify this effect using the viral neutralization assay?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167663639787" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167661272412">
+<problem id="fs-id1167661429122">
+<para id="fs-id1167661429124">Both IgM and IgG antibodies can be used in precipitation reactions. However, one of these immunoglobulin classes will form precipitates at much lower concentrations than the other. Which class is this, and why is it so much more efficient in this regard?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+
+</document>

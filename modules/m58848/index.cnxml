@@ -1,0 +1,329 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Microbes and the Tools of Genetic Engineering</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58848</md:content-id>
+  <md:title>Microbes and the Tools of Genetic Engineering</md:title>
+  <md:abstract/>
+  <md:uuid>4bbd2fd4-0e3f-4a2a-b6ac-9137ff31fbed</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1167740211078" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1167740250840">
+<item>Identify tools of molecular genetics that are derived from microorganisms</item>
+<item>Describe the methods used to create recombinant DNA molecules</item>
+<item>Describe methods used to introduce DNA into prokaryotic cells</item>
+<item>List the types of genomic libraries and describe their uses</item>
+<item>Describe the methods used to introduce DNA into eukaryotic cells</item>
+</list>
+</section>
+<note id="fs-id1167741276069" class="microbiology clinical-focus">
+<title>Part 1</title>
+<para id="fs-id1167741334061">Kayla, a 24-year-old electrical engineer and running enthusiast, just moved from Arizona to New Hampshire to take a new job. On her weekends off, she loves to explore her new surroundings, going for long runs in the pine forests. In July she spent a week hiking through the mountains. In early August, Kayla developed a low fever, headache, and mild muscle aches, and she felt a bit fatigued. Not thinking much of it, she took some ibuprofen to combat her symptoms and vowed to get more rest.</para>
+<list id="fs-id1167740270123" list-type="bulleted" bullet-style="bullet">
+<item>What types of medical conditions might be responsible for Kayla’s symptoms?</item>
+</list>
+<para id="fs-id1167740232868"><emphasis effect="italics">Jump to the <link document="m58849" target-id="fs-id1167742703238">next</link> Clinical Focus box.</emphasis></para>
+</note>
+<para id="fs-id1167741595574">The science of using living systems to benefit humankind is called <term>biotechnology</term>. Technically speaking, the domestication of plants and animals through farming and <term class="no-emphasis">breeding</term> practices is a type of biotechnology. However, in a contemporary sense, we associate biotechnology with the direct alteration of an organism’s genetics to achieve desirable traits through the process of <term>genetic engineering</term>. Genetic engineering involves the use of <term>recombinant DNA technology</term>, the process by which a DNA sequence is manipulated <emphasis effect="italics">in vitro,</emphasis> thus creating <term>recombinant DNA</term> <term>molecule</term><emphasis effect="bold">s</emphasis> that have new combinations of genetic material. The recombinant DNA is then introduced into a host organism. If the DNA that is introduced comes from a different species, the host organism is now considered to be <term>transgenic</term>.</para>
+<para id="fs-id1167741362337">One example of a transgenic microorganism is the bacterial strain that produces human <term class="no-emphasis">insulin</term> (<link target-id="OSC_Microbio_12_01_RecombTech"/>). The insulin gene from humans was inserted into a plasmid. This recombinant DNA plasmid was then inserted into bacteria. As a result, these transgenic microbes are able to produce and secrete human insulin. Many prokaryotes are able to acquire foreign DNA and incorporate functional genes into their own genome through “mating” with other cells (<term class="no-emphasis">conjugation</term>), viral infection (<term class="no-emphasis">transduction</term>), and taking up DNA from the environment (<term class="no-emphasis">transformation</term>). Recall that these mechanisms are examples of <term class="no-emphasis">horizontal gene transfer</term>—the transfer of genetic material between cells of the same generation.</para>
+<figure id="OSC_Microbio_12_01_RecombTech">
+<media id="fs-id1167740255665" alt="A diagram explaining recombinant DNA technology. The insulin gene is removed from the DNA in the nucleus of a human cell. This gene is then inserted into a plasmid (a round piece of DNA). The result is a recombinant plasmid which gets inserted into a bacterial cell. The resulting transgenic bacterium is a bacterial cell with a plasmid containing the insulin gene. The recombinant bacteria divide and produce the protein coded for by the inserted gene. In this example the bacteria are producing and secreting insulin. The result is insulin in solution.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_12_01_RecombTech.jpg"/>
+</media>
+<caption>Recombinant DNA technology is the artificial recombination of DNA from two organisms. In this example, the human insulin gene is inserted into a bacterial plasmid. This recombinant plasmid can then be used to transform bacteria, which gain the ability to produce the insulin protein.</caption>
+</figure>
+<section id="fs-id1167741681892">
+<title>Molecular Cloning</title>
+<para id="fs-id1167741574199">Herbert <term class="no-emphasis">Boyer</term> and Stanley <term class="no-emphasis">Cohen</term> first demonstrated the complete <term>molecular cloning</term> process in 1973 when they successfully cloned genes from the African clawed frog (<term class="no-emphasis"><emphasis effect="italics">Xenopus laevis</emphasis></term>) into a bacterial plasmid that was then introduced into the bacterial host <term class="no-emphasis"><emphasis effect="italics">Escherichia coli</emphasis></term>. Molecular cloning is a set of methods used to construct recombinant DNA and incorporate it into a host organism; it makes use of a number of molecular tools that are derived from microorganisms.</para>
+<section id="fs-id1167741678584">
+<title>Restriction Enzymes and Ligases</title>
+<para id="fs-id1167740417469">In recombinant DNA technology, DNA molecules are manipulated using naturally occurring enzymes derived mainly from bacteria and viruses. The creation of recombinant DNA molecules is possible due to the use of naturally occurring <term>restriction endonucleases</term> (<term>restriction enzymes</term>), bacterial enzymes produced as a protection mechanism to cut and destroy foreign cytoplasmic DNA that is most commonly a result of bacteriophage infection. Stewart <term class="no-emphasis">Linn</term> and Werner <term class="no-emphasis">Arber</term> discovered restriction enzymes in their 1960s studies of how <emphasis effect="italics">E. coli</emphasis> limits bacteriophage replication on infection. Today, we use restriction enzymes extensively for cutting DNA fragments that can then be spliced into another DNA molecule to form recombinant molecules. Each restriction enzyme cuts DNA at a characteristic <term>recognition site</term>, a specific, usually palindromic, DNA sequence typically between four to six base pairs in length. A palindrome is a sequence of letters that reads the same forward as backward. (The word “level” is an example of a palindrome.) Palindromic DNA sequences contain the same base sequences in the 5ʹ to 3ʹ direction on one strand as in the 5ʹ to 3ʹ direction on the complementary strand. A restriction enzyme recognizes the DNA palindrome and cuts each backbone at identical positions in the palindrome. Some restriction enzymes cut to produce molecules that have complementary overhangs (<term>sticky ends</term>) while others cut without generating such overhangs, instead producing <term>blunt ends</term> (<link target-id="OSC_Microbio_12_01_Recuts"/>).</para>
+<para id="fs-id1167740276081">Molecules with complementary sticky ends can easily <term>anneal</term>, or form hydrogen bonds between complementary bases, at their sticky ends. The annealing step allows <term>hybridization</term> of the single-stranded overhangs. Hybridization refers to the joining together of two complementary single strands of DNA. Blunt ends can also attach together, but less efficiently than sticky ends due to the lack of complementary overhangs facilitating the process. In either case, <term>ligation</term> by <term class="no-emphasis">DNA ligase</term> can then rejoin the two sugar-phosphate backbones of the DNA through covalent bonding, making the molecule a continuous double strand. In 1972, Paul <term class="no-emphasis">Berg</term>, a Stanford biochemist, was the first to produce a recombinant DNA molecule using this technique, combining the SV40 monkey virus with <emphasis effect="italics">E. coli</emphasis> bacteriophage lambda to create a hybrid.</para>
+<figure id="OSC_Microbio_12_01_Recuts">
+<media id="fs-id1167740243344" alt="Diagrams of how restriction enzymes cut DNA. Both diagrams show a double stranded pieces of DNA that is cut. A) in sticky end cutting the DNA is cut so that there are short single stranded pieces of DNA at the cut site. In this example, the enzyme cuts the sequence GGATCC; it cuts between the two G’s. After cutting, both strands have a double stranded G/C bond, but then also have single stranded GATC. In blunt end cutting there are no single stranded ends. In this example the enzyme cuts GGCC between the G and the C.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_12_01_Recuts.jpg"/>
+</media>
+<caption>(a) In this six-nucleotide restriction enzyme site, recognized by the enzyme <emphasis effect="italics">Bam</emphasis>HI, notice that the sequence reads the same in the 5ʹ to 3ʹ direction on both strands. This is known as a palindrome. The cutting of the DNA by the restriction enzyme at the sites (indicated by the black arrows) produces DNA fragments with sticky ends. Another piece of DNA cut with the same restriction enzyme could attach to one of these sticky ends, forming a recombinant DNA molecule. (b) This four-nucleotide recognition site also exhibits a palindromic sequence. The cutting of the DNA by the restriction enzyme <emphasis effect="italics">Hae</emphasis>III at the indicated sites produces DNA fragments with blunt ends. Any other piece of blunt DNA could attach to one of the blunt ends produced, forming a recombinant DNA molecule.</caption>
+</figure>
+</section>
+<section id="fs-id1167741739040">
+<title>Plasmids</title>
+<para id="fs-id1167740398968">After restriction digestion, genes of interest are commonly inserted into <term class="no-emphasis">plasmids</term>, small pieces of typically circular, double-stranded DNA that replicate independently of the bacterial chromosome (see <link document="m58792">Unique Characteristics of Prokaryotic Cells</link>). In recombinant DNA technology, plasmids are often used as <term>vectors</term>, DNA molecules that carry DNA fragments from one organism to another. Plasmids used as vectors can be genetically engineered by researchers and scientific supply companies to have specialized properties, as illustrated by the commonly used plasmid vector <term class="no-emphasis">pUC19</term> (<link target-id="OSC_Microbio_12_01_pUC19"/>). Some <term class="no-emphasis">plasmid vectors</term> contain genes that confer <term class="no-emphasis">antibiotic resistance</term>; these resistance genes allow researchers to easily find plasmid-containing colonies by plating them on media containing the corresponding antibiotic. The antibiotic kills all host cells that do not harbor the desired plasmid vector, but those that contain the vector are able to survive and grow.</para>
+<para id="fs-id1167741562416">Plasmid vectors used for cloning typically have a <term>polylinker site</term>, or <term>multiple cloning site (MCS)</term>. A polylinker site is a short sequence containing multiple unique restriction enzyme recognition sites that are used for inserting DNA into the plasmid after restriction digestion of both the DNA and the plasmid. Having these multiple restriction enzyme recognition sites within the polylinker site makes the plasmid vector versatile, so it can be used for many different cloning experiments involving different restriction enzymes.</para>
+<para id="fs-id1167741683567">This polylinker site is often found within a <term>reporter gene</term>, another gene sequence artificially engineered into the plasmid that encodes a protein that allows for visualization of DNA insertion. The reporter gene allows a researcher to distinguish host cells that contain recombinant plasmids with cloned DNA fragments from host cells that only contain the non-recombinant plasmid vector. The most common reporter gene used in plasmid vectors is the bacterial <term class="no-emphasis"><emphasis effect="italics">lacZ</emphasis></term> gene encoding beta-galactosidase, an enzyme that naturally degrades lactose but can also degrade a colorless synthetic analog <term class="no-emphasis">X-gal</term>, thereby producing blue colonies on X-gal–containing media. The <emphasis effect="italics">lacZ</emphasis> reporter gene is disabled when the recombinant DNA is spliced into the plasmid. Because the LacZ protein is not produced when the gene is disabled, X-gal is not degraded and white colonies are produced, which can then be isolated. This <term>blue-white screening</term> method is described later and shown in <link target-id="OSC_Microbio_12_01_MolCloning"/>. In addition to these features, some plasmids come pre-digested and with an enzyme linked to the linearized plasmid to aid in ligation after the insertion of foreign DNA fragments.</para>
+<figure id="OSC_Microbio_12_01_pUC19">
+<media id="fs-id1167741680874" alt="The pC19 plasmid is 2686 bp long and is circular. There are a number of arrows of various lengths moving clockwise or counterclockwise around the circle. The circle has the number 1 at the very top and at about position 225 (moving clockwise from 1) is a plylinker site (MC) that contains the following restriction enzyme sites: HidIII, PSTI, SaII, XbaI, BamHI, SmaI, EcoRI. At the beginning of the polylinker site is lacZ-alpha. At position 2500 and moving counterclockwise is the amp gene.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_12_01_pUC19.jpg"/>
+</media>
+<caption>The artificially constructed plasmid vector pUC19 is commonly used for cloning foreign DNA. Arrows indicate the directions in which the genes are transcribed. Note the polylinker site, containing multiple unique restriction enzyme recognition sites, found within the <emphasis effect="italics">lacZ</emphasis> reporter gene. Also note the ampicillin (<emphasis effect="italics">amp</emphasis>) resistance gene encoded on the plasmid.</caption>
+</figure>
+</section>
+<section id="fs-id1167740185604">
+<title>Molecular Cloning using Transformation</title>
+<para id="fs-id1167741708493">The most commonly used mechanism for introducing engineered plasmids into a bacterial cell is <term class="no-emphasis">transformation</term>, a process in which bacteria take up free DNA from their surroundings. In nature, free DNA typically comes from other lysed bacterial cells; in the laboratory, free DNA in the form of recombinant plasmids is introduced to the cell’s surroundings.</para>
+<para id="fs-id1167741328351">Some bacteria, such as <term class="no-emphasis"><emphasis effect="italics">Bacillus</emphasis></term> spp., are naturally competent, meaning they are able to take up foreign DNA. However, not all bacteria are naturally competent. In most cases, bacteria must be made artificially competent in the laboratory by increasing the permeability of the cell membrane. This can be achieved through chemical treatments that neutralize charges on the cell membrane or by exposing the bacteria to an electric field that creates microscopic pores in the cell membrane. These methods yield chemically competent or electrocompetent bacteria, respectively.</para>
+<para id="fs-id1167741355327">Following the transformation protocol, bacterial cells are plated onto an antibiotic-containing medium to inhibit the growth of the many host cells that were not transformed by the plasmid conferring antibiotic resistance. A technique called <term>blue-white screening</term> is then used for <emphasis effect="italics">lacZ</emphasis>-encoding plasmid vectors such as pUC19. Blue colonies have a functional beta-galactosidase enzyme because the <emphasis effect="italics">lacZ</emphasis> gene is uninterrupted, with no foreign DNA inserted into the polylinker site. These colonies typically result from the digested, linearized plasmid religating to itself. However, white colonies lack a functional beta-galactosidase enzyme, indicating the insertion of foreign DNA within the polylinker site of the plasmid vector, thus disrupting the <emphasis effect="italics">lacZ</emphasis> gene. Thus, white colonies resulting from this blue-white screening contain plasmids with an insert and can be further screened to characterize the foreign DNA. To be sure the correct DNA was incorporated into the plasmid, the DNA insert can then be sequenced.</para>
+<note id="fs-id1167741549782" class="microbiology link-to-learning">
+
+<para id="fs-id1167740417435">View an <link url="https://openstax.org/l/22moleclonani">animation of molecular cloning</link> from the DNA Learning Center.</para>
+</note>
+<note id="fs-id1167741297784" class="microbiology check-your-understanding">
+<list id="fs-id1167741675769" list-type="bulleted" bullet-style="bullet">
+<item>In blue-white screening, what does a blue colony mean and why is it blue?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167741716053">
+<title>Molecular Cloning Using Conjugation or Transduction</title>
+<para id="fs-id1167741328360">The bacterial process of <term class="no-emphasis">conjugation</term> (see <link document="m58845">How Asexual Prokaryotes Achieve Genetic Diversity</link>) can also be manipulated for molecular cloning. <term class="no-emphasis">F plasmids</term>, or fertility plasmids, are transferred between bacterial cells through the process of conjugation. Recombinant DNA can be transferred by conjugation when bacterial cells containing a recombinant F plasmid are mixed with compatible bacterial cells lacking the plasmid. F plasmids encode a surface structure called an <term class="no-emphasis">F pilus</term> that facilitates contact between a cell containing an F plasmid and one without an F plasmid. On contact, a cytoplasmic bridge forms between the two cells and the F-plasmid-containing cell replicates its plasmid, transferring a copy of the recombinant F plasmid to the recipient cell. Once it has received the recombinant F plasmid, the recipient cell can produce its own F pilus and facilitate transfer of the recombinant F plasmid to an additional cell. The use of conjugation to transfer recombinant F plasmids to recipient cells is another effective way to introduce recombinant DNA molecules into host cells.</para>
+<para id="fs-id1167741357052">Alternatively, <term class="no-emphasis">bacteriophages</term> can be used to introduce recombinant DNA into host bacterial cells through a manipulation of the <term class="no-emphasis">transduction</term> process (see <link document="m58845">How Asexual Prokaryotes Achieve Genetic Diversity</link>). In the laboratory, DNA fragments of interest can be engineered into <term>phagemids</term>, which are plasmids that have phage sequences that allow them to be packaged into bacteriophages. Bacterial cells can then be infected with these bacteriophages so that the recombinant phagemids can be introduced into the bacterial cells. Depending on the type of phage, the recombinant DNA may be integrated into the host bacterial genome (lysogeny), or it may exist as a plasmid in the host’s cytoplasm.</para>
+<figure id="OSC_Microbio_12_01_MolCloning">
+<media id="fs-id1167740416854" alt="A diagram explaining molecular cloning. Both foreign DNa and a plasmid are cut with the same restriction enzyme. The restriction site occurs only once in the plasmid in the middle of a gene for and enzyme (lacZ). The plasmid also contains an ampicillin resistang gene. The restriction enzyme leaves complementary sticky ends on the foreign DNA fragment and the plasmid. This allows the foreign DNA to be inserted into the plasmid when the sticky ends anneal. Adding DNA ligase reattaches the DNA backbones. These are recombinant plasmids. The plasmids are combined with a culture of living bacteria. Many of the bacteria do not take any plasmids into their cells. Many take plasmids that do not have the foreign DNA in them and a few take up the recombinant plasmid. The bacteria that take up the recombinant plasmid cannot make the enzyme from the gene that the fragment was inserted into (lacZ). They also carry a gene for resistance to the antibiotic ampicillin, which was on the original plasmid. To find the bacteria with the recombinant plasmid, the bacteria are grown on a plate with the antibiotic ampicillin and a substance that changes color when exposed to the enzyme produced by the lacZ gene. The ampicillin will kill any bacteria that did not take up a plasmid. The color of the substance will nto change when the gene for lacZ contains the foreign DNA insert. These are the bacteria with the recombinant plasmid that we want to grow.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_12_01_MolCloning.jpg"/>
+</media>
+<caption>The steps involved in molecular cloning using bacterial transformation are outlined in this graphic flowchart.</caption>
+</figure>
+<note id="fs-id1167741324419" class="microbiology check-your-understanding">
+<list id="fs-id1167740176335" list-type="bulleted" bullet-style="bullet">
+<item>What is the original function of a restriction enzyme?</item>
+<item>What two processes are exploited to get recombinant DNA into a bacterial host cell?</item>
+<item>Distinguish the uses of an antibiotic resistance gene and a reporter gene in a plasmid vector.</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1167741460516">
+<title>Creating a Genomic Library</title>
+<para id="fs-id1167741221349">Molecular cloning may also be used to generate a <term>genomic library</term>. The library is a complete (or nearly complete) copy of an organism’s genome contained as recombinant DNA plasmids engineered into unique clones of bacteria. Having such a library allows a researcher to create large quantities of each fragment by growing the bacterial host for that fragment. These fragments can be used to determine the sequence of the DNA and the function of any genes present.</para>
+<para id="fs-id1167741312618">One method for generating a genomic library is to ligate individual restriction enzyme-digested genomic fragments into plasmid vectors cut with the same restriction enzyme (<link target-id="OSC_Microbio_12_01_CloneLibry"/>). After transformation into a bacterial host, each transformed bacterial cell takes up a single recombinant plasmid and grows into a colony of cells. All of the cells in this colony are identical <term>clones</term> and carry the same recombinant plasmid. The resulting library is a collection of colonies, each of which contains a fragment of the original organism’s genome, that are each separate and distinct and can each be used for further study. This makes it possible for researchers to screen these different clones to discover the one containing a gene of interest from the original organism’s genome.</para>
+<figure id="OSC_Microbio_12_01_CloneLibry">
+<media id="fs-id1167740105473" alt="A diagram showing the generation of a genomic library. The diagram begins with DNA being extracted from the organism (in this case a worm) and cut into fragments. The DNA fragments are then each inserted into a different plasmid. This produces many fragments each with a different insert from the genome. Bacteria are then transformed with these vectors. Each bacterium replicates producing colonies of clones each containing a single DNA fragment from the original organism.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_12_01_CloneLibry.jpg"/>
+</media>
+<caption>The generation of a genomic library facilitates the discovery of the genomic DNA fragment that contains a gene of interest. (credit “micrograph”: modification of work by National Institutes of Health)</caption>
+</figure>
+<para id="fs-id1167740392824">To construct a genomic library using larger fragments of genomic DNA, an <emphasis effect="italics">E. coli</emphasis> bacteriophage, such as <term class="no-emphasis">lambda</term>, can be used as a host (<link target-id="OSC_Microbio_12_01_PhageLibry"/>). Genomic DNA can be sheared or enzymatically digested and ligated into a pre-digested bacteriophage lambda DNA vector. Then, these recombinant phage DNA molecules can be packaged into phage particles and used to infect <emphasis effect="italics">E. coli</emphasis> host cells on a plate. During infection within each cell, each recombinant phage will make many copies of itself and lyse the <emphasis effect="italics">E. coli</emphasis> lawn, forming a plaque. Thus, each plaque from a phage library represents a unique recombinant phage containing a distinct genomic DNA fragment. Plaques can then be screened further to look for genes of interest. One advantage to producing a library using phages instead of plasmids is that a phage particle holds a much larger insert of foreign DNA compared with a plasmid vector, thus requiring a much smaller number of cultures to fully represent the entire genome of the original organism.</para>
+<figure id="OSC_Microbio_12_01_PhageLibry">
+<media id="fs-id1167740114960" alt="A diagram showing the production of a phage library. The cellular genome and phage genome are digested with the same restriction enzyme. The cellular DNA fragments are built into recombinant phage particles (each particle contains a different fragment of cellular DNA). E. coli is then infected with the recombinant phages. Each plaque in the bacterial lawn contains phages with a unique fragment from the original genome.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_12_01_PhageLibry.jpg"/>
+</media>
+<caption>Recombinant phage DNA molecules are made by ligating digested phage particles with fragmented genomic DNA molecules. These recombinant phage DNA molecules are packaged into phage particles and allowed to infect a bacterial lawn. Each plaque represents a unique recombinant DNA molecule that can be further screened for genes of interest.</caption>
+</figure>
+<para id="fs-id1167740406915">To focus on the expressed genes in an organism or even a tissue, researchers construct libraries using the organism’s messenger RNA (mRNA) rather than its genomic DNA. Whereas all cells in a single organism will have the same genomic DNA, different tissues express different genes, producing different complements of <term class="no-emphasis">mRNA</term>. For example, all human cells’ genomic DNA contains the gene for insulin, but only cells in the pancreas express mRNA directing the production of insulin. Because mRNA cannot be cloned directly, in the laboratory mRNA must be used as a template by the retroviral enzyme <term class="no-emphasis">reverse transcriptase</term> to make <term>complementary DNA (cDNA)</term>. A cell’s full complement of mRNA can be reverse-transcribed into cDNA molecules, which can be used as a template for DNA polymerase to make double-stranded DNA copies; these fragments can subsequently be ligated into either plasmid vectors or bacteriophage to produce a cDNA library. The benefit of a cDNA library is that it contains DNA from only the expressed genes in the cell. This means that the introns, control sequences such as promoters, and DNA not destined to be translated into proteins are not represented in the library. The focus on translated sequences means that the library cannot be used to study the sequence and structure of the genome in its entirety. The construction of a cDNA genomic library is shown in <link target-id="OSC_Microbio_12_01_cDNALibry"/>.</para>
+<figure id="OSC_Microbio_12_01_cDNALibry">
+<media id="fs-id1167740252819" alt="A diagram showing the generation of a cDNA library. The diagram begins with RNA being extracted from the organism (in this case a worm). Reverse transcription is then used to convert the RNA into cDNA The cDNA fragments are then each inserted into a different plasmid. This produces many fragments each with a different insert from the genome. Bacteria are then transformed with these vectors. Each bacterium replicates producing colonies of clones each containing a single cDNA fragment from the original organism.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_12_01_cDNALibry.jpg"/>
+</media>
+<caption>Complementary DNA (cDNA) is made from mRNA by the retroviral enzyme reverse transcriptase, converted into double-stranded copies, and inserted into either plasmid vectors or bacteriophage, producing a cDNA library. (credit “micrograph”: modification of work by National Institutes of Health)</caption>
+</figure>
+<note id="fs-id1167741609748" class="microbiology check-your-understanding">
+<list id="fs-id1167741549390" list-type="bulleted" bullet-style="bullet">
+<item>What are the hosts for the genomic libraries described?</item>
+<item>What is cDNA?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1167740202704">
+<title>Introducing Recombinant Molecules into Eukaryotic Hosts</title>
+<para id="fs-id1167741665366">The use of bacterial hosts for genetic engineering laid the foundation for recombinant DNA technology; however, researchers have also had great interest in genetically engineering eukaryotic cells, particularly those of plants and animals. The introduction of recombinant DNA molecules into eukaryotic hosts is called <term>transfection</term>. Genetically engineered plants, called <term class="no-emphasis">transgenic plants</term>, are of significant interest for agricultural and pharmaceutical purposes. The first transgenic plant sold commercially was the <term class="no-emphasis">Flavr Savr</term> delayed-ripening tomato, which came to market in 1994. Genetically engineered livestock have also been successfully produced, resulting, for example, in pigs with increased nutritional value<footnote id="fs-id1167741210689">Liangxue Lai, Jing X. Kang, Rongfeng Li, Jingdong Wang, William T. Witt, Hwan Yul Yong, Yanhong Hao et al. “Generation of Cloned Transgenic Pigs Rich in Omega-3 Fatty Acids.” <emphasis effect="italics">Nature Biotechnology 24</emphasis> no. 4 (2006): 435–436.</footnote> and goats that secrete pharmaceutical products in their milk.<footnote id="fs-id1167741537624">Raylene Ramos Moura, Luciana Magalhães Melo, and Vicente José de Figueirêdo Freitas. “Production of Recombinant Proteins in Milk of Transgenic and Non-Transgenic Goats.” <emphasis effect="italics">Brazilian Archives of Biology and Technology 54</emphasis> no. 5 (2011): 927–938.</footnote></para>
+<section id="fs-id1167740274217">
+<title>Electroporation</title>
+<para id="fs-id1167741587800">Compared to bacterial cells, eukaryotic cells tend to be less amenable as hosts for recombinant DNA molecules. Because eukaryotes are typically neither competent to take up foreign DNA nor able to maintain plasmids, transfection of eukaryotic hosts is far more challenging and requires more intrusive techniques for success. One method used for transfecting cells in cell culture is called <term>electroporation</term>. A brief electric pulse induces the formation of transient pores in the phospholipid bilayers of cells through which the gene can be introduced. At the same time, the electric pulse generates a short-lived positive charge on one side of the cell’s interior and a negative charge on the opposite side; the charge difference draws negatively charged DNA molecules into the cell (<link target-id="OSC_Microbio_12_01_electropor"/>).</para>
+<figure id="OSC_Microbio_12_01_electropor">
+<media id="fs-id1167741439275" alt="A diagram showing electroporation. The first panel reads: introduce the gene into the cell. A cell with a distinct plasma membrane is shown and recombinant DNA is on the outside. The next panel reads: apply the electric pulse; pores form in the cell membrane and the gene enters. The image shows holes in the plasma membrane. Positive charges are inside the holes and negative charges are on the outside. Recombinant DNA pieces move into the cell. The final panel reads: after the electric pulse, the pores reseal and the gene remains in the cell. The diagram shows a continuous plasma membrane again and recombinant DNA both inside and outside the cell. The recombinant DNA inside the cell is labeled “introduced gene”">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_12_01_electropor.jpg"/>
+</media>
+<caption>Electroporation is one laboratory technique used to introduce DNA into eukaryotic cells.</caption>
+</figure>
+</section>
+<section id="fs-id1167741593802">
+<title>Microinjection</title>
+<para id="fs-id1167741371110">An alternative method of transfection is called <term>microinjection</term>. Because eukaryotic cells are typically larger than those of prokaryotes, DNA fragments can sometimes be directly injected into the cytoplasm using a glass micropipette, as shown in <link target-id="OSC_Microbio_12_01_microinjec"/>.</para>
+<figure id="OSC_Microbio_12_01_microinjec">
+<media id="fs-id1167741526193" alt="A micrograph of a microinjection needle poking through the plasma membrane of a cell and into the nucleus.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_12_01_microinjec.jpg"/>
+</media>
+<caption>Microinjection is another technique for introducing DNA into eukaryotic cells. A microinjection needle containing recombinant DNA is able to penetrate both the cell membrane and nuclear envelope.</caption>
+</figure>
+</section>
+<section id="fs-id1167740121090">
+<title>Gene Guns</title>
+<para id="fs-id1167740202807">Transfecting plant cells can be even more difficult than animal cells because of their thick cell walls. One approach involves treating plant cells with enzymes to remove their cell walls, producing protoplasts. Then, a <term>gene gun</term> is used to shoot gold or tungsten particles coated with recombinant DNA molecules into the plant protoplasts at high speeds. Recipient protoplast cells can then recover and be used to generate new transgenic plants (<link target-id="OSC_Microbio_12_01_GeneGun"/>).</para>
+<figure id="OSC_Microbio_12_01_GeneGun">
+<media id="fs-id1167741439226" alt="a) a diagram of a gene gun. The gun barrel points towards a plant protoplast. A pulse of helium pushes microprojections (gold or tungsten particles coated with recombinant DNA molecules) through the barrel and into the plant cell. b) a photograph of a gene gun; it is the size and shape of a hair-dryer but with a much narrower opening.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_12_01_GeneGun.jpg"/>
+</media>
+<caption>Heavy-metal particles coated with recombinant DNA are shot into plant protoplasts using a gene gun. The resulting transformed cells are allowed to recover and can be used to generate recombinant plants. (a) A schematic of a gene gun. (b) A photograph of a gene gun. (credit a, b: modification of work by JA O'Brien, SC Lummis)</caption>
+</figure>
+</section>
+<section id="fs-id1167740130065">
+<title>Shuttle Vectors</title>
+<para id="fs-id1167741671421">Another method of transfecting plants involves <term>shuttle vectors</term>, plasmids that can move between bacterial and eukaryotic cells. The <term>tumor-inducing (T<sub>i</sub>) plasmids</term> originating from the bacterium <term class="no-emphasis"><emphasis effect="italics">Agrobacterium tumefaciens</emphasis></term> are commonly used as shuttle vectors for incorporating genes into plants (<link target-id="OSC_Microbio_12_01_Ti"/>). In nature, the T<sub>i</sub> plasmids of <emphasis effect="italics">A. tumefaciens</emphasis> cause plants to develop tumors when they are transferred from bacterial cells to plant cells. Researchers have been able to manipulate these naturally occurring plasmids to remove their tumor-causing genes and insert desirable DNA fragments. The resulting recombinant T<sub>i</sub> plasmids can be transferred into the plant genome through the natural transfer of T<sub>i</sub> plasmids from the bacterium to the plant host. Once inside the plant host cell, the gene of interest recombines into the plant cell’s genome.</para>
+<figure id="OSC_Microbio_12_01_Ti">
+<media id="fs-id1167740396454" alt="A diagram of transformation of a plant cell using the Ti plasmid. A micrograph of rod shaped cells labeled Agrobacterium tumefaciens. Plasmids are isolated from these cells. The plasmid (Ti plasmid) has a region labeled T-DNA region. A gene of interest from the cellular DNA is inseted into the T-DNA region. The transformed recombinant DNA is the returned back to A. tumefaciens. The bacterium then infects the plant cell. This inserts the gene of interest and resuts in a recombinant plant.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_12_01_Ti.jpg"/>
+</media>
+<caption>The T<sub>i</sub> plasmid of <emphasis effect="italics">Agrobacterium tumefaciens</emphasis> is a useful shuttle vector for the uptake of genes of interest into plant cells. The gene of interest is cloned into the T<sub>i</sub> plasmid, which is then introduced into plant cells. The gene of interest then recombines into the plant cell’s genome, allowing for the production of transgenic plants.</caption>
+</figure>
+</section>
+<section id="fs-id1167740398070">
+<title>Viral Vectors</title>
+<para id="fs-id1167740396566">Viral vectors can also be used to transfect eukaryotic cells. In fact, this method is often used in <term class="no-emphasis">gene therapy</term> (see <link document="m58851">Gene Therapy</link>) to introduce healthy genes into human patients suffering from diseases that result from genetic mutations. Viral genes can be deleted and replaced with the gene to be delivered to the patient;<footnote id="fs-id1167741300979">William S.M. Wold and Karoly Toth. “Adenovirus Vectors for Gene Therapy, Vaccination and Cancer Gene Therapy.” <emphasis effect="italics">Current Gene Therapy 13</emphasis> no. 6 (2013): 421.</footnote> the virus then infects the host cell and delivers the foreign DNA into the genome of the targeted cell. Adenoviruses are often used for this purpose because they can be grown to high titer and can infect both nondividing and dividing host cells. However, use of <term class="no-emphasis">viral vectors</term> for gene therapy can pose some risks for patients, as discussed in <link document="m58851">Gene Therapy</link>.</para>
+<note id="fs-id1167740393446" class="microbiology check-your-understanding">
+<list id="fs-id1167740272454" list-type="bulleted" bullet-style="bullet">
+<item>What are the methods used to introduce recombinant DNA vectors into animal cells?</item>
+<item>Compare and contrast shuttle vectors and viral vectors.</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1167741550264" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1167740392556" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Biotechology</emphasis> is the science of utilizing living systems to benefit humankind. In recent years, the ability to directly alter an organism’s genome through <emphasis effect="bold">genetic</emphasis> <emphasis effect="bold">engineering</emphasis> has been made possible due to advances in <emphasis effect="bold">recombinant DNA technology,</emphasis> which allows researchers to create <emphasis effect="bold">recombinant DNA molecules</emphasis> with new combinations of genetic material.</item>
+<item><emphasis effect="bold">Molecular cloning</emphasis> involves methods used to construct recombinant DNA and facilitate their replication in host organisms. These methods include the use of <emphasis effect="bold">restriction enzymes</emphasis> (to cut both foreign DNA and <emphasis effect="bold">plasmid vectors)</emphasis>, <emphasis effect="bold">ligation</emphasis> (to paste fragments of DNA together), and the introduction of recombinant DNA into a host organism (often bacteria).</item>
+<item><emphasis effect="bold">Blue-white screening</emphasis> allows selection of bacterial transformants that contain recombinant plasmids using the phenotype of a <emphasis effect="bold">reporter gene</emphasis> that is disabled by insertion of the DNA fragment.</item>
+<item><emphasis effect="bold">Genomic libraries</emphasis> can be made by cloning genomic fragments from one organism into plasmid vectors or into bacteriophage.</item>
+<item><emphasis effect="bold">cDNA libraries</emphasis> can be generated to represent the mRNA molecules expressed in a cell at a given point.</item>
+<item><emphasis effect="bold">Transfection</emphasis> of eukaryotic hosts can be achieved through various methods using <emphasis effect="bold">electroporation</emphasis>, <emphasis effect="bold">gene guns</emphasis>, <emphasis effect="bold">microinjection</emphasis>, <emphasis effect="bold">shuttle vectors</emphasis>, and <emphasis effect="bold">viral vectors</emphasis>.</item>
+</list>
+</section>
+<section id="fs-id1167741546725" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1167741301615">
+<problem id="fs-id1167741569543">
+<para id="fs-id1167741569545">Which of the following is required for repairing the phosphodiester backbone of DNA during molecular cloning?</para>
+<list id="fs-id1167740292019" list-type="enumerated" number-style="lower-alpha">
+<item>cDNA</item>
+<item>reverse transcriptase</item>
+<item>restriction enzymes</item>
+<item>DNA ligase</item>
+</list>
+</problem>
+<solution id="fs-id1167741222558">
+<para id="fs-id1167741222560">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167740398524">
+<problem id="fs-id1167740398526">
+<para id="fs-id1167740398528">All of the following are processes used to introduce DNA molecules into bacterial cells <emphasis effect="italics">except</emphasis>:</para>
+<list id="fs-id1167740102356" list-type="enumerated" number-style="lower-alpha">
+<item>transformation</item>
+<item>transduction</item>
+<item>transcription</item>
+<item>conjugation</item>
+</list>
+</problem>
+<solution id="fs-id1167741677391">
+<para id="fs-id1167741677393">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167740392810">
+<problem id="fs-id1167740392812">
+<para id="fs-id1167740392815">The enzyme that uses RNA as a template to produce a DNA copy is called:</para>
+<list id="fs-id1167740201523" list-type="enumerated" number-style="lower-alpha">
+<item>a restriction enzyme</item>
+<item>DNA ligase</item>
+<item>reverse transcriptase</item>
+<item>DNA polymerase</item>
+</list>
+</problem>
+<solution id="fs-id1167740262618">
+<para id="fs-id1167740262620">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167741539100">
+<problem id="fs-id1167741539102">
+<para id="fs-id1167740240207">In blue-white screening, what do blue colonies represent?</para>
+<list id="fs-id1167740240210" list-type="enumerated" number-style="lower-alpha">
+<item>cells that have not taken up the plasmid vector</item>
+<item>cells with recombinant plasmids containing a new insert</item>
+<item>cells containing empty plasmid vectors</item>
+<item>cells with a non-functional <emphasis effect="italics">lacZ</emphasis> gene</item>
+</list>
+</problem>
+<solution id="fs-id1167740126925">
+<para id="fs-id1167740126927">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167740227356">
+<problem id="fs-id1167740227358">
+<para id="fs-id1167741448898">The T<sub>i</sub> plasmid is used for introducing genes into:</para>
+<list id="fs-id1167740256387" list-type="enumerated" number-style="lower-alpha">
+<item>animal cells</item>
+<item>plant cells</item>
+<item>bacteriophages</item>
+<item><emphasis effect="italics">E. coli</emphasis> cells</item>
+</list>
+</problem>
+<solution id="fs-id1167741331313">
+<para id="fs-id1167741539911">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167740395370" class="true-false">
+<title>True/False</title>
+<exercise id="fs-id1167741589785">
+<problem id="fs-id1167741589787">
+<para id="fs-id1167741589789">Recombination is a process not usually observed in nature.</para>
+</problem>
+<solution id="fs-id1167740168323">
+<para id="fs-id1167740168325">false</para>
+</solution>
+</exercise>
+<exercise id="fs-id1167740396602">
+<problem id="fs-id1167740396604">
+<para id="fs-id1167740276291">It is generally easier to introduce recombinant DNA into prokaryotic cells than into eukaryotic cells.</para>
+</problem>
+<solution id="fs-id1167740276295">
+<para id="fs-id1167741340446">true</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167741564148" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1167740241643">
+<problem id="fs-id1167740241646">
+<para id="fs-id1167740241648">The process of introducing DNA molecules into eukaryotic cells is called ________.</para>
+</problem>
+<solution id="fs-id1167740393423">
+<para id="fs-id1167740393425">transfection</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1167741435542" class="short-answer">
+<title>Short answer</title>
+<exercise id="fs-id1167740250548">
+<problem id="fs-id1167740234340">
+<para id="fs-id1167740234342">Name three elements incorporated into a plasmid vector for efficient cloning.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167740225993">
+<problem id="fs-id1167741478319">
+<para id="fs-id1167741478321">When would a scientist want to generate a cDNA library instead of a genomic library?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167741267642">
+<problem id="fs-id1167740398627">
+<para id="fs-id1167740398629">What is one advantage of generating a genomic library using phages instead of plasmids?</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1167740204053" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1167740105533">
+<problem id="fs-id1167740105535">
+<para id="fs-id1167740395480">Is biotechnology always associated with genetic engineering? Explain your answer.</para>
+</problem>
+</exercise>
+<exercise id="fs-id1167740418178">
+<problem id="fs-id1167740274549">
+<para id="fs-id1167740274551">Which is more efficient: blunt-end cloning or sticky-end cloning? Why?</para>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>

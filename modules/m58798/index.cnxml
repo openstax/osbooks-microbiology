@@ -1,0 +1,358 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Gram-Positive Bacteria</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m58798</md:content-id>
+  <md:title>Gram-Positive Bacteria</md:title>
+  <md:abstract/>
+  <md:uuid>504c45a4-c89f-44fb-a74f-5dc26a6fa593</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1172100883315" class="learning-objectives">
+<title>Learning Objectives</title><para id="fs-id11713605736962">By the end of this section, you will be able to:</para>
+<list id="fs-id1172100664534">
+<item>Describe the unique features of each category of high G+C and low G+C gram-positive bacteria</item>
+<item>Identify similarities and differences between high G+C and low G+C bacterial groups</item>
+<item>Give an example of a bacterium of high G+C and low G+C group commonly associated with each category</item>
+</list>
+</section>
+<para id="fs-id1172100854166">Prokaryotes are identified as gram-positive if they have a multiple layer matrix of peptidoglycan forming the cell wall. Crystal violet, the primary stain of the Gram stain procedure, is readily retained and stabilized within this matrix, causing gram-positive <term class="no-emphasis">prokaryotes</term> to appear purple under a brightfield microscope after Gram staining. For many years, the retention of Gram stain was one of the main criteria used to classify prokaryotes, even though some prokaryotes did not readily stain with either the primary or secondary stains used in the Gram stain procedure.</para>
+<para id="fs-id1172100853611">Advances in nucleic acid biochemistry have revealed additional characteristics that can be used to classify gram-positive prokaryotes, namely the guanine to cytosine ratios (G+C) in DNA and the composition of 16S rRNA subunits. Microbiologists currently recognize two distinct groups of gram-positive, or weakly staining gram-positive, prokaryotes. The class <term class="no-emphasis">Actinobacteria</term> comprises the <term>high G+C gram-positive bacteria</term>, which have more than 50% guanine and cytosine nucleotides in their DNA. The class <term class="no-emphasis">Bacilli</term> comprises <term>low G+C gram-positive bacteria</term>, which have less than 50% of guanine and cytosine nucleotides in their DNA.</para>
+<section id="fs-id1172098565689">
+<title>Actinobacteria: High G+C Gram-Positive Bacteria</title>
+<para id="fs-id1172100491480">The name Actinobacteria comes from the Greek words for <emphasis effect="italics">rays</emphasis> and <emphasis effect="italics">small rod</emphasis>, but Actinobacteria are very diverse. Their microscopic appearance can range from thin filamentous branching rods to coccobacilli. Some Actinobacteria are very large and complex, whereas others are among the smallest independently living organisms. Most Actinobacteria live in the soil, but some are aquatic. The vast majority are aerobic. One distinctive feature of this group is the presence of several different peptidoglycans in the cell wall.</para>
+<para id="fs-id1172100960744">The genus <term class="no-emphasis"><emphasis effect="italics">Actinomyces</emphasis></term> is a much studied representative of Actinobacteria. <emphasis effect="italics">Actinomyces</emphasis> spp. play an important role in soil ecology, and some species are human pathogens. A number of <emphasis effect="italics">Actinomyces</emphasis> spp. inhabit the human mouth and are opportunistic pathogens, causing infectious diseases like <term class="no-emphasis">periodontitis</term> (inflammation of the gums) and oral abscesses. The species <emphasis effect="italics">A. israelii</emphasis> is an anaerobe notorious for causing <term class="no-emphasis">endocarditis</term> (inflammation of the inner lining of the heart) (<link target-id="OSC_Microbio_04_04_Actinobac"/>).</para>
+<figure id="OSC_Microbio_04_04_Actinobac">
+<media id="fs-id1172100936700" alt="a) A micrograph of branched cells. B) A micrograph of cells arranged in a V-shape – these are labeled palisades. C) A micrograph of corn-flake shaped cells with a nucleus. Smaller cells outside of these are identified with an arrow.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_04_Actinobac.jpg"/>
+</media>
+<caption>(a) <emphasis effect="italics">Actinomyces israelii</emphasis> (false-color scanning electron micrograph [SEM]) has a branched structure. (b) <emphasis effect="italics">Corynebacterium diphtheria</emphasis> causes the deadly disease diphtheria. Note the distinctive palisades. (c) The gram-variable bacterium <emphasis effect="italics">Gardnerella vaginalis</emphasis> causes bacterial vaginosis in women. This micrograph shows a Pap smear from a woman with vaginosis. (credit a: modification of work by “GrahamColm”/Wikimedia Commons; credit b: modification of work by Centers for Disease Control and Prevention; credit c: modification of work by Mwakigonja AR, Torres LM, Mwakyoma HA, Kaaya EE)</caption>
+</figure>
+<para id="fs-id1172098376019">The genus <term class="no-emphasis"><emphasis effect="italics">Mycobacterium</emphasis></term> is represented by bacilli covered with a mycolic acid coat. This waxy coat protects the bacteria from some antibiotics, prevents them from drying out, and blocks penetration by Gram stain reagents (see <link document="m58788">Staining Microscopic Specimens</link>). Because of this, a special acid-fast staining procedure is used to visualize these bacteria. The genus <emphasis effect="italics">Mycobacterium</emphasis> is an important cause of a diverse group of infectious diseases. <emphasis effect="italics">M. tuberculosis</emphasis> is the causative agent of <term class="no-emphasis">tuberculosis</term>, a disease that primarily impacts the lungs but can infect other parts of the body as well. It has been estimated that one-third of the world’s population has been infected with <emphasis effect="italics">M. tuberculosis</emphasis> and millions of new infections occur each year. Treatment of <emphasis effect="italics">M. tuberculosis</emphasis> is challenging and requires patients to take a combination of drugs for an extended time. Complicating treatment even further is the development and spread of multidrug-resistant strains of this pathogen.</para>
+<para id="fs-id1172100531153">Another pathogenic species, <emphasis effect="italics">M. leprae</emphasis>, is the cause of <term class="no-emphasis">Hansen’s disease</term> (<term class="no-emphasis">leprosy</term>), a chronic disease that impacts peripheral nerves and the integrity of the skin and mucosal surface of the respiratory tract. Loss of pain sensation and the presence of skin lesions increase susceptibility to secondary injuries and infections with other pathogens.</para>
+<para id="fs-id1172098686722">Bacteria in the genus <term class="no-emphasis"><emphasis effect="italics">Corynebacterium</emphasis></term> contain diaminopimelic acid in their cell walls, and microscopically often form <term class="no-emphasis"><emphasis effect="italics">palisades</emphasis></term>, or pairs of rod-shaped cells resembling the letter V. Cells may contain metachromatic <term class="no-emphasis">granules</term>, intracellular storage of inorganic phosphates that are useful for identification of <emphasis effect="italics">Corynebacterium</emphasis>. The vast majority of <emphasis effect="italics">Corynebacterium</emphasis> spp. are nonpathogenic; however, <emphasis effect="italics">C. diphtheria</emphasis> is the causative agent of <term class="no-emphasis">diphtheria</term>, a disease that can be fatal, especially in children (<link target-id="OSC_Microbio_04_04_Actinobac"/>). <emphasis effect="italics">C. diphtheria</emphasis> produces a toxin that forms a pseudomembrane in the patient’s throat, causing swelling, difficulty breathing, and other symptoms that can become serious if untreated.</para>
+<para id="fs-id1172100922705">The genus <term class="no-emphasis"><emphasis effect="italics">Bifidobacterium</emphasis></term> consists of filamentous anaerobes, many of which are commonly found in the gastrointestinal tract, vagina, and mouth. In fact, <emphasis effect="italics">Bifidobacterium</emphasis> spp. constitute a substantial part of the human gut microbiota and are frequently used as probiotics and in yogurt production.</para>
+<para id="fs-id1172098316218">The genus <term class="no-emphasis"><emphasis effect="italics">Gardnerella</emphasis></term>, contains only one species, <emphasis effect="italics">G. vaginalis</emphasis>. This species is defined as “gram-variable” because its small coccobacilli do not show consistent results when Gram stained (<link target-id="OSC_Microbio_04_04_Actinobac"/>). Based on its genome, it is placed into the high G+C gram-positive group. <emphasis effect="italics">G. vaginalis</emphasis> can cause bacterial vaginosis in women; symptoms are typically mild or even undetectable, but can lead to complications during pregnancy.</para>
+<para id="fs-id1172100546742"><link target-id="fs-id1172100595032"/> summarizes the characteristics of some important genera of Actinobacteria. Additional information on Actinobacteria appears in <link target-id="fs-id1167662553295" document="m58949">Appendix D</link>.</para>
+<table id="fs-id1172100595032" summary="Table titled Class Actinobacteria: High G+C Gram-Positive. Three columns: Genus, Microscopic Morphology and Unique Characteristics. Genus Actinomyces: Gram-positive bacillus; in colonies, shows fungus-like threads (hyphae). Characteristics: Facultative anaerobes; in soil, decompose organic matter; in the human mouth, may cause gum disease. Genus Arthrobacter: Gram-positive bacillus (at the exponential stage of growth) or coccus (in stationary phase). Characteristics: Obligate aerobes; divide by “snapping,” forming V-like pairs of daughter cells; degrade phenol, can be used in bioremediation. Genus: Bifidobacterium: Gram-positive, filamentous actinobacterium. Characteristics: Anaerobes commonly found in human gut microbiota. Genus Corynebacterium: Gram-positive bacillus. Characteristics: Aerobes or facultative anaerobes; form palisades; grow slowly; require enriched media in culture; C. diphtheriae causes diphtheria. Genus Frankia: Gram-positive, fungus-like (filamentous) bacillus. Characteristics: Nitrogen-fixing bacteria; live in symbiosis with legumes. Genus Gardnerella: Gram-variable coccobacillus. Characteristics: Colonize the human vagina, may alter the microbial ecology, thus leading to vaginosis. Genus Micrococcus: Gram-positive coccus, form microscopic clusters. Characteristics: Ubiquitous in the environment and on the human skin; oxidase-positive (as opposed to morphologically similar S. aureus); some are opportunistic pathogens. Genus: Mycobacterium: Gram-positive, acid-fast bacillus. Characteristics: Slow growing, aerobic, resistant to drying and phagocytosis; covered with a waxy coat made of mycolic acid; M. tuberculosis causes tuberculosis; M. leprae causes leprosy. Genus Nocardia: Weakly gram-positive bacillus; forms acid-fast branches Characteristics: May colonize the human gingiva; may cause severe pneumonia and inflammation of the skin. Genus Propionibacterium: Gram-positive bacillus. Characteristics: Aerotolerant anaerobe; slow-growing; P. acnes reproduces in the human sebaceous glands and may cause or contribute to acne. Genus Rhodococcus: Gram-positive bacillus. Characteristics: Strict aerobe; used in industry for biodegradation of pollutants; R. fascians is a plant pathogen, and R. equi causes pneumonia in foals. Genus: Streptomyces. Characteristics: Gram-positive, fungus-like (filamentous) bacillus Very diverse genus (&gt;500 species); aerobic, spore-forming bacteria; scavengers, decomposers found in soil (give the soil its “earthy” odor); used in pharmaceutical industry as antibiotic producers (more than two-thirds of clinically useful antibiotics)." class="span-all">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c3">Actinobacteria: High G+C Gram-Positive</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Example Genus</entry>
+<entry valign="top" align="center">Microscopic Morphology</entry>
+<entry valign="top" align="center">Unique Characteristics</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Actinomyces</emphasis></term></entry>
+<entry valign="top" align="left">Gram-positive bacillus; in colonies, shows fungus-like threads (hyphae)</entry>
+<entry valign="top" align="left">Facultative anaerobes; in soil, decompose organic matter; in the human mouth, may cause gum disease</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Arthrobacter</emphasis></term></entry>
+<entry valign="top" align="left">Gram-positive bacillus (at the exponential stage of growth) or coccus (in stationary phase)</entry>
+<entry valign="top" align="left">Obligate aerobes; divide by “snapping,” forming V-like pairs of daughter cells; degrade phenol, can be used in bioremediation</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Bifidobacterium</emphasis></term></entry>
+<entry valign="top" align="left">Gram-positive, filamentous actinobacterium</entry>
+<entry valign="top" align="left">Anaerobes commonly found in human gut microbiota</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Corynebacterium</emphasis></term></entry>
+<entry valign="top" align="left">Gram-positive bacillus</entry>
+<entry valign="top" align="left">Aerobes or facultative anaerobes; form palisades; grow slowly; require enriched media in culture; <emphasis effect="italics">C. diphtheriae</emphasis> causes diphtheria</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Frankia</emphasis></term></entry>
+<entry valign="top" align="left">Gram-positive, fungus-like (filamentous) bacillus</entry>
+<entry valign="top" align="left">Nitrogen-fixing bacteria; live in symbiosis with legumes</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Gardnerella</emphasis></term></entry>
+<entry valign="top" align="left">Gram-variable coccobacillus</entry>
+<entry valign="top" align="left">Colonize the human vagina, may alter the microbial ecology, thus leading to vaginosis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Micrococcus</emphasis></term></entry>
+<entry valign="top" align="left">Gram-positive coccus, form microscopic clusters</entry>
+<entry valign="top" align="left">Ubiquitous in the environment and on the human skin; oxidase-positive (as opposed to morphologically similar <emphasis effect="italics">S. aureus</emphasis>); some are opportunistic pathogens</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Mycobacterium</emphasis></term></entry>
+<entry valign="top" align="left">Gram-positive, acid-fast bacillus</entry>
+<entry valign="top" align="left">Slow growing, aerobic, resistant to drying and phagocytosis; covered with a waxy coat made of mycolic acid; <emphasis effect="italics">M. tuberculosis</emphasis> causes tuberculosis; <emphasis effect="italics">M. leprae</emphasis> causes leprosy</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Nocardia</emphasis></term></entry>
+<entry valign="top" align="left">Weakly gram-positive bacillus; forms acid-fast branches</entry>
+<entry valign="top" align="left">May colonize the human gingiva; may cause severe pneumonia and inflammation of the skin</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Propionibacterium</emphasis></term></entry>
+<entry valign="top" align="left">Gram-positive bacillus</entry>
+<entry valign="top" align="left">Aerotolerant anaerobe; slow-growing; <emphasis effect="italics">P. acnes</emphasis> reproduces in the human sebaceous glands and may cause or contribute to acne</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Rhodococcus</emphasis></term></entry>
+<entry valign="top" align="left">Gram-positive bacillus</entry>
+<entry valign="top" align="left">Strict aerobe; used in industry for biodegradation of pollutants; <emphasis effect="italics">R. fascians</emphasis> is a plant pathogen, and <emphasis effect="italics">R. equi</emphasis> causes pneumonia in foals</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Streptomyces</emphasis></term></entry>
+<entry valign="top" align="left">Gram-positive, fungus-like (filamentous) bacillus</entry>
+<entry valign="top" align="left">Very diverse genus (&gt;500 species); aerobic, spore-forming bacteria; scavengers, decomposers found in soil (give the soil its “earthy” odor); used in pharmaceutical industry as antibiotic producers (more than two-thirds of clinically useful antibiotics)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1172098396006" class="microbiology check-your-understanding">
+<list id="fs-id1167662642869" list-type="bulleted" bullet-style="bullet">
+<item>What is one distinctive feature of Actinobacteria?</item>
+</list>
+</note>
+</section>
+<section id="fs-id1172100512317">
+<title>Low G+C Gram-positive Bacteria</title>
+<para id="fs-id1172100900466">The <term class="no-emphasis">low G+C gram-positive bacteria</term> have less than 50% guanine and cytosine in their DNA, and this group of bacteria includes a number of genera of bacteria that are pathogenic.</para>
+<note id="fs-id1172098647956" class="microbiology clinical-focus">
+<title>Part 3</title>
+<para id="fs-id1172100854459">Based on her symptoms, Marsha’s doctor suspected that she had a case of tuberculosis. Although less common in the United States, tuberculosis is still extremely common in many parts of the world, including Nigeria. Marsha’s work there in a medical lab likely exposed her to <emphasis effect="italics">Mycobacterium tuberculosis</emphasis>, the bacterium that causes tuberculosis.</para>
+<para id="fs-id1172101040417">Marsha’s doctor ordered her to stay at home, wear a respiratory mask, and confine herself to one room as much as possible. He also said that Marsha had to take one semester off school. He prescribed isoniazid and rifampin, antibiotics used in a drug cocktail to treat tuberculosis, which Marsha was to take three times a day for at least three months.</para>
+<list id="fs-id1172100675993" list-type="bulleted" bullet-style="bullet">
+<item>Why did the doctor order Marsha to stay home for three months?</item>
+</list>
+<para id="fs-id1172100560226"><emphasis effect="italics">Jump to the <link target-id="fs-id1172098431176">next</link> Clinical Focus box. Go back to the <link document="m58796" target-id="fs-id1172100550618">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+<section id="fs-id1172098389550">
+<title>Clostridia</title>
+<para id="fs-id1172101009843">One large and diverse class of <term class="no-emphasis">low G+C gram-positive bacteria</term> is Clostridia. The best studied genus of this class is <term class="no-emphasis"><emphasis effect="italics">Clostridium</emphasis></term>. These rod-shaped bacteria are generally obligate anaerobes that produce endospores and can be found in anaerobic habitats like soil and aquatic sediments rich in organic nutrients. The endospores may survive for many years.</para>
+<para id="fs-id1172100534751"><emphasis effect="italics">Clostridium</emphasis> spp. produce more kinds of protein toxins than any other bacterial genus, and several species are human pathogens. <emphasis effect="italics">C. perfringens</emphasis> is the third most common cause of food poisoning in the United States and is the causative agent of an even more serious disease called <term class="no-emphasis">gas gangrene</term>. Gas gangrene occurs when <emphasis effect="italics">C. perfringens</emphasis> endospores enter a wound and germinate, becoming viable bacterial cells and producing a toxin that can cause the necrosis (death) of tissue. <emphasis effect="italics">C. tetani</emphasis>, which causes <term class="no-emphasis">tetanus</term>, produces a neurotoxin that is able to enter neurons, travel to regions of the central nervous system where it blocks the inhibition of nerve impulses involved in muscle contractions, and cause a life-threatening spastic paralysis. <emphasis effect="italics">C. botulinum</emphasis> produces <term class="no-emphasis">botulinum neurotoxin</term>, the most lethal biological toxin known. Botulinum toxin is responsible for rare but frequently fatal cases of <term class="no-emphasis">botulism</term>. The toxin blocks the release of acetylcholine in neuromuscular junctions, causing flaccid paralysis. In very small concentrations, botulinum toxin has been used to treat muscle pathologies in humans and in a cosmetic procedure to eliminate wrinkles. <emphasis effect="italics">C. difficile</emphasis> is a common source of hospital-acquired infections (<link target-id="OSC_Microbio_04_04_Clostridia"/>) that can result in serious and even fatal cases of colitis (inflammation of the large intestine). Infections often occur in patients who are immunosuppressed or undergoing antibiotic therapy that alters the normal microbiota of the gastrointestinal tract. <link target-id="fs-id1167658337987" document="m58949">Appendix D</link> lists the genera, species, and related diseases for Clostridia.</para>
+<figure id="OSC_Microbio_04_04_Clostridia">
+<media id="fs-id1172100594391" alt="A micrograph of many rod shaped cells.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_04_Clostridia.jpg"/>
+</media>
+<caption><term class="no-emphasis"><emphasis effect="italics">Clostridium difficile</emphasis></term>, a gram-positive, rod-shaped bacterium, causes severe colitis and diarrhea, often after the normal gut microbiota is eradicated by antibiotics. (credit: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+</section>
+<section id="fs-id1172100500548">
+<title>Lactobacillales</title>
+<para id="fs-id1172100565053">The order <term class="no-emphasis">Lactobacillales</term> comprises low G+C gram-positive bacteria that include both <term class="no-emphasis">bacilli</term> and <term class="no-emphasis">cocci</term> in the genera <term class="no-emphasis"><emphasis effect="italics">Lactobacillus</emphasis></term>, <term class="no-emphasis"><emphasis effect="italics">Leuconostoc</emphasis></term>, <term class="no-emphasis"><emphasis effect="italics">Enterococcus</emphasis></term>, and <term class="no-emphasis"><emphasis effect="italics">Streptococcus</emphasis></term>. Bacteria of the latter three genera typically are spherical or ovoid and often form chains.</para>
+<para id="fs-id1172100925753"><emphasis effect="italics">Streptococcus</emphasis>, the name of which comes from the Greek word for <emphasis effect="italics">twisted chain</emphasis>, is responsible for many types of infectious diseases in humans. Species from this genus, often referred to as <term class="no-emphasis">streptococci</term>, are usually classified by serotypes called Lancefield groups, and by their ability to lyse red blood cells when grown on blood agar.</para>
+<para id="fs-id1172098450436"><emphasis effect="italics">S. pyogenes</emphasis> belongs to the <term class="no-emphasis">Lancefield group</term> A, β-hemolytic <emphasis effect="italics">Streptococcus</emphasis>. This species is considered a pyogenic pathogen because of the associated pus production observed with infections it causes (<link target-id="OSC_Microbio_04_04_Strep"/>). <emphasis effect="italics">S. pyogenes</emphasis> is the most common cause of bacterial pharyngitis (<term class="no-emphasis">strep throat</term>); it is also an important cause of various skin infections that can be relatively mild (e.g., <term class="no-emphasis">impetigo</term>) or life threatening (e.g., <term class="no-emphasis">necrotizing fasciitis</term>, also known as flesh eating disease), life threatening.</para>
+<figure id="OSC_Microbio_04_04_Strep">
+<media id="fs-id1172098458543" alt="a) A micrograph of spherical cells in a chain. B) A photograph of colonies on agar. The agar is red, and there is a clearing around each colony.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_04_Strep.jpg"/>
+</media>
+<caption>(a) A gram-stained specimen of <emphasis effect="italics">Streptococcus pyogenes</emphasis> shows the chains of cocci characteristic of this organism’s morphology. (b) <emphasis effect="italics">S. pyogenes</emphasis> on blood agar shows characteristic lysis of red blood cells, indicated by the halo of clearing around colonies. (credit a, b: modification of work by American Society for Microbiology)</caption>
+</figure>
+<para id="fs-id1172100762143">The nonpyogenic (i.e., not associated with pus production) streptococci are a group of streptococcal species that are not a taxon but are grouped together because they inhabit the human mouth. The <term class="no-emphasis">nonpyogenic streptococci</term> do not belong to any of the Lancefield groups. Most are commensals, but a few, such as <emphasis effect="italics">S. mutans</emphasis>, are implicated in the development of dental caries.</para>
+<para id="fs-id1172098527586"><emphasis effect="italics">S. pneumoniae</emphasis> (commonly referred to as pneumococcus), is a <term class="no-emphasis"><emphasis effect="italics">Streptococcus</emphasis></term> species that also does not belong to any <term class="no-emphasis">Lancefield group</term>. <emphasis effect="italics">S. pneumoniae</emphasis> cells appear microscopically as diplococci, pairs of cells, rather than the long chains typical of most streptococci. Scientists have known since the 19th century that <emphasis effect="italics">S. pneumoniae</emphasis> causes <term class="no-emphasis">pneumonia</term> and other respiratory infections. However, this bacterium can also cause a wide range of other diseases, including meningitis, septicemia, osteomyelitis, and endocarditis, especially in newborns, the elderly, and patients with immunodeficiency.</para>
+</section>
+<section id="fs-id1172100932307">
+<title>Bacilli</title>
+<para id="fs-id1172098466097">The name of the class <term class="no-emphasis">Bacilli</term> suggests that it is made up of bacteria that are bacillus in shape, but it is a morphologically diverse class that includes bacillus-shaped and cocccus-shaped genera. Among the many genera in this class are two that are very important clinically: <term class="no-emphasis"><emphasis effect="italics">Bacillus</emphasis></term> and <term class="no-emphasis"><emphasis effect="italics">Staphylococcus</emphasis></term>.</para>
+<para id="fs-id1172100648150">Bacteria in the genus <emphasis effect="italics">Bacillus</emphasis> are bacillus in shape and can produce <term class="no-emphasis">endospores</term>. They include aerobes or facultative anaerobes. A number of <emphasis effect="italics">Bacillus</emphasis> spp. are used in various industries, including the production of antibiotics (e.g., barnase), enzymes (e.g., alpha-amylase, BamH1 restriction endonuclease), and detergents (e.g., subtilisin).</para>
+<para id="fs-id1172100535950">Two notable pathogens belong to the genus <emphasis effect="italics">Bacillus. B. anthracis</emphasis> is the pathogen that causes <term class="no-emphasis">anthrax</term>, a severe disease that affects wild and domesticated animals and can spread from infected animals to humans. Anthrax manifests in humans as charcoal-black ulcers on the skin, severe enterocolitis, pneumonia, and brain damage due to swelling. If untreated, anthrax is lethal. <emphasis effect="italics">B. cereus</emphasis>, a closely related species, is a pathogen that may cause food poisoning. It is a rod-shaped species that forms chains. Colonies appear milky white with irregular shapes when cultured on blood agar (<link target-id="OSC_Microbio_04_04_Bacillus"/>). One other important species is <emphasis effect="italics">B. thuringiensis</emphasis>. This bacterium produces a number of substances used as insecticides because they are toxic for insects.</para>
+<figure id="OSC_Microbio_04_04_Bacillus">
+<media id="fs-id1172100791622" alt="a) A micrograph of rod shaped cells in a chain. B) A photograph of colonies on agar. The agar is red and the colonies are white and fluffy looking.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_04_Bacillus.jpg"/>
+</media>
+<caption>(a) In this gram-stained specimen, the violet rod-shaped cells forming chains are the gram-positive bacteria <term class="no-emphasis"><emphasis effect="italics">Bacillus cereus</emphasis></term>. The small, pink cells are the gram-negative bacteria <term class="no-emphasis"><emphasis effect="italics">Escherichia coli</emphasis></term>. (b) In this culture, white colonies of <emphasis effect="italics">B. cereus</emphasis> have been grown on sheep blood agar. (credit a: modification of work by “Bibliomaniac 15”/Wikimedia Commons; credit b: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1172098387885">The genus <emphasis effect="italics">Staphylococcus</emphasis> also belongs to the class Bacilli, even though its shape is coccus rather than a bacillus. The name <emphasis effect="italics">Staphylococcus</emphasis> comes from a Greek word for <emphasis effect="italics">bunches of grapes</emphasis>, which describes their microscopic appearance in culture (<link target-id="OSC_Microbio_04_04_SAureus"/>). <emphasis effect="italics">Staphylococcus</emphasis> spp. are facultative anaerobic, halophilic, and nonmotile. The two best-studied species of this genus are <emphasis effect="italics">S. epidermidis</emphasis> and <emphasis effect="italics">S. aureus</emphasis>.</para>
+<figure id="OSC_Microbio_04_04_SAureus">
+<media id="fs-id1172098499542" alt="A micrograph of clusters of spherical cells.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_04_SAureus.jpg"/>
+</media>
+<caption>This SEM of <term class="no-emphasis"><emphasis effect="italics">Staphylococcus aureus</emphasis></term> illustrates the typical “grape-like” clustering of cells. (credit: modification of work by Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1172100951401"><emphasis effect="italics">S. epidermidis</emphasis>, whose main habitat is the human skin, is thought to be nonpathogenic for humans with healthy immune systems, but in patients with immunodeficiency, it may cause infections in skin wounds and prostheses (e.g., artificial joints, heart valves)<emphasis effect="italics">. S. epidermidis</emphasis> is also an important cause of infections associated with intravenous catheters. This makes it a dangerous pathogen in hospital settings, where many patients may be immunocompromised.<emphasis effect="italics"/></para>
+<para id="fs-id1172100576011">Strains of <emphasis effect="italics">S. aureus</emphasis> cause a wide variety of infections in humans, including skin infections that produce boils, carbuncles, cellulitis, or impetigo. Certain strains of <emphasis effect="italics">S. aureus</emphasis> produce a substance called <term class="no-emphasis">enterotoxin</term>, which can cause severe enteritis, often called staph food poisoning. Some strains of <emphasis effect="italics">S. aureus</emphasis> produce the toxin responsible for <term class="no-emphasis">toxic shock syndrome</term>, which can result in cardiovascular collapse and death.</para>
+<para id="fs-id1172100765697">Many strains of <emphasis effect="italics">S. aureus</emphasis> have developed resistance to antibiotics. Some antibiotic-resistant strains are designated as <term class="no-emphasis">methicillin-resistant <emphasis effect="italics">S. aureus</emphasis></term> (<term class="no-emphasis">MRSA</term>) and <term class="no-emphasis">vancomycin-resistant <emphasis effect="italics">S. aureus</emphasis> (VRSA)</term>. These strains are some of the most difficult to treat because they exhibit resistance to nearly all available antibiotics, not just methicillin and vancomycin. Because they are difficult to treat with antibiotics, infections can be lethal. MRSA and VRSA are also contagious, posing a serious threat in hospitals, nursing homes, dialysis facilities, and other places where there are large populations of elderly, bedridden, and/or immunocompromised patients. <link target-id="fs-id1167658337987" document="m58949">Appendix D</link> lists the genera, species, and related diseases for bacilli.</para>
+</section>
+<section id="fs-id1172101029922">
+<title>Mycoplasmas</title>
+<para id="fs-id1172100972727">Although <term class="no-emphasis"><emphasis effect="italics">Mycoplasma</emphasis></term> spp. do not possess a cell wall and, therefore, are not stained by Gram-stain reagents, this genus is still included with the low G+C gram-positive bacteria. The genus <emphasis effect="italics">Mycoplasma</emphasis> includes more than 100 species, which share several unique characteristics. They are very small cells, some with a diameter of about 0.2 μm, which is smaller than some large viruses. They have no cell walls and, therefore, are <term>pleomorphic</term>, meaning that they may take on a variety of shapes and can even resemble very small animal cells. Because they lack a characteristic shape, they can be difficult to identify. One species, <emphasis effect="italics">M. pneumoniae</emphasis>, causes the mild form of <term class="no-emphasis">pneumonia</term> known as “<term class="no-emphasis">walking pneumonia</term>” or “<term class="no-emphasis">atypical pneumonia</term>.” This form of pneumonia is typically less severe than forms caused by other bacteria or viruses.</para>
+<para id="fs-id1172100546989"><link target-id="fs-id1172100547469"/> summarizes the characteristics of notable genera low G+C Gram-positive bacteria.</para>
+<table id="fs-id1172100547469" summary="Table titled Class Actinobacteria: Low G+C Gram-Positive. Three columns: Genus, Microscopic Morphology and Unique Characteristics. Genus Bacillus: Large, gram-positive bacillus. Characteristics: Aerobes or facultative anaerobes; form endospores; B. anthracis causes anthrax in cattle and humans, B. cereus may cause food poisoning. Genus Clostridium: Gram-positive bacillus. Characteristics: Strict anaerobes; form endospores; all known species are pathogenic, causing tetanus, gas gangrene, botulism, and colitis. Genus Enterococcus:  Gram-positive coccus; forms microscopic pairs in culture (resembling Streptococcus pneumoniae). Characteristics: Anaerobic aerotolerant bacteria, abundant in the human gut, may cause urinary tract and other infections in the nosocomial environment. Genus Lactobacillus: Gram-positive bacillus. Characteristics: Facultative anaerobes; ferment sugars into lactic acid; part of the vaginal microbiota; used as probiotics. Genus Leuconostoc: Gram-positive coccus; may form microscopic chains in culture. Characteristics: Fermenter, used in food industry to produce sauerkraut and kefir . Genus Mycoplasma: The smallest bacteria; appear pleomorphic under electron microscope. Characteristics: Have no cell wall; classified as low G+C Gram-positive bacteria because of their genome; M. pneumoniae causes “walking” pneumonia. Genus Staphylococcus: Gram-positive coccus; forms microscopic clusters in culture that resemble bunches of grapes. Characteristic: Tolerate high salt concentration; facultative anaerobes; produce catalase; S. aureus can also produce coagulase and toxins responsible for local (skin) and generalized infections. Genus Streptococcus:  Gram-positive coccus; forms chains or pairs in culture. Characteristics: Diverse genus; classified into groups based on sharing certain antigens; some species cause hemolysis and may produce toxins responsible for human local (throat) and generalized disease. Genus Ureaplasma: Similar to Mycoplasma. Characteristics: Part of the human vaginal and lower urinary tract microbiota; may cause inflammation, sometimes leading to internal scarring and infertility" class="span-all">
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry align="center" namest="c1" nameend="c3">Bacilli: Low G+C Gram-Positive Bacteria</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="center">Example Genus</entry>
+<entry valign="top" align="center">Microscopic Morphology</entry>
+<entry valign="top" align="center">Unique Characteristics</entry>
+</row>
+</thead>
+<tbody>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Bacillus</emphasis></term></entry>
+<entry valign="top" align="left">Large, gram-positive bacillus</entry>
+<entry valign="top" align="left">Aerobes or facultative anaerobes; form endospores; <emphasis effect="italics">B. anthracis</emphasis> causes anthrax in cattle and humans, <emphasis effect="italics">B. cereus</emphasis> may cause food poisoning</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Clostridium</emphasis></term></entry>
+<entry valign="top" align="left">Gram-positive bacillus</entry>
+<entry valign="top" align="left">Strict anaerobes; form endospores; all known species are pathogenic, causing tetanus, gas gangrene, botulism, and colitis</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Enterococcus</emphasis></term></entry>
+<entry valign="top" align="left">Gram-positive coccus; forms microscopic pairs in culture (resembling <emphasis effect="italics">Streptococcus pneumoniae</emphasis>)</entry>
+<entry valign="top" align="left">Anaerobic aerotolerant bacteria, abundant in the human gut, may cause urinary tract and other infections in the nosocomial environment</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Lactobacillus</emphasis></term></entry>
+<entry valign="top" align="left">Gram-positive bacillus</entry>
+<entry valign="top" align="left">Facultative anaerobes; ferment sugars into lactic acid; part of the vaginal microbiota; used as probiotics</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Leuconostoc</emphasis></term></entry>
+<entry valign="top" align="left">Gram-positive coccus; may form microscopic chains in culture</entry>
+<entry valign="top" align="left">Fermenter, used in food industry to produce sauerkraut and kefir</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Mycoplasma</emphasis></term></entry>
+<entry valign="top" align="left">The smallest bacteria; appear pleomorphic under electron microscope</entry>
+<entry valign="top" align="left">Have no cell wall; classified as low G+C Gram-positive bacteria because of their genome; <emphasis effect="italics">M. pneumoniae</emphasis> causes “walking” pneumonia</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Staphylococcus</emphasis></term></entry>
+<entry valign="top" align="left">Gram-positive coccus; forms microscopic clusters in culture that resemble bunches of grapes</entry>
+<entry valign="top" align="left">Tolerate high salt concentration; facultative anaerobes; produce catalase; <emphasis effect="italics">S. aureus</emphasis> can also produce coagulase and toxins responsible for local (skin) and generalized infections</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Streptococcus</emphasis></term></entry>
+<entry valign="top" align="left">Gram-positive coccus; forms chains or pairs in culture</entry>
+<entry valign="top" align="left">Diverse genus; classified into groups based on sharing certain antigens; some species cause hemolysis and may produce toxins responsible for human local (throat) and generalized disease</entry>
+</row>
+<row valign="top">
+<entry valign="top" align="left"><term class="no-emphasis"><emphasis effect="italics">Ureaplasma</emphasis></term></entry>
+<entry valign="top" align="left">Similar to <emphasis effect="italics">Mycoplasma</emphasis></entry>
+<entry valign="top" align="left">Part of the human vaginal and lower urinary tract microbiota; may cause inflammation, sometimes leading to internal scarring and infertility</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1172100615236" class="microbiology check-your-understanding">
+<list id="fs-id1167662627248" list-type="bulleted" bullet-style="bullet">
+<item>Name some ways in which streptococci are classified.</item>
+<item>Name one pathogenic low G+C gram-positive bacterium and a disease it causes.</item>
+</list>
+</note>
+<note id="fs-id1172098431176" class="microbiology clinical-focus">
+<title>Resolution</title>
+<para id="fs-id1172100961656">Marsha’s sputum sample was sent to the microbiology lab to confirm the identity of the microorganism causing her infection. The lab also performed antimicrobial susceptibility testing (AST) on the sample to confirm that the physician has prescribed the correct antimicrobial drugs.</para>
+<para id="fs-id1172100940173">Direct microscopic examination of the sputum revealed acid-fast bacteria (AFB) present in Marsha’s sputum. When placed in culture, there were no signs of growth for the first 8 days, suggesting that microorganism was either dead or growing very slowly. Slow growth is a distinctive characteristic of <emphasis effect="italics">M.</emphasis> <emphasis effect="italics">tuberculosis</emphasis>.</para>
+<para id="fs-id1172098381218">After four weeks, the lab microbiologist observed distinctive colorless granulated colonies (<link target-id="OSC_Microbio_04_06_TB"/>). The colonies contained AFB showing the same microscopic characteristics as those revealed during the direct microscopic examination of Marsha’s sputum. To confirm the identification of the AFB, samples of the colonies were analyzed using nucleic acid hybridization, or direct nucleic acid amplification (NAA) testing. When a bacterium is acid-fast, it is classified in the family <emphasis effect="italics">Mycobacteriaceae</emphasis>. DNA sequencing of variable genomic regions of the DNA extracted from these bacteria revealed that it was high G+C. This fact served to finalize Marsha’s diagnosis as infection with <emphasis effect="italics">M. tuberculosis</emphasis>. After nine months of treatment with the drugs prescribed by her doctor, Marsha made a full recovery.</para>
+<figure id="OSC_Microbio_04_06_TB">
+<media id="fs-id1172100753215" alt="A photograph of colonies on agar. The agar is blue and the colonies look like a pile of beads.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_06_TB.jpg"/>
+</media>
+<caption><emphasis effect="italics">M. tuberculosis</emphasis> grows on Löwenstein-Jensen (LJ) agar in distinct colonies. (credit: Centers for Disease Control and Prevention)</caption>
+</figure>
+<para id="fs-id1172100835695"><emphasis effect="italics">Go back to the <link target-id="fs-id1172098647956">previous</link> Clinical Focus box.</emphasis></para>
+</note>
+<note id="fs-id1172100991000" class="microbiology eye-on-ethics">
+<title>Biopiracy and Bioprospecting</title>
+<para id="fs-id1172101034781">In 1969, an employee of a Swiss pharmaceutical company was vacationing in Norway and decided to collect some soil samples. He took them back to his lab, and the Swiss company subsequently used the fungus <emphasis effect="italics">Tolypocladium</emphasis> <emphasis effect="italics">inflatum</emphasis> in those samples to develop cyclosporine A, a drug widely used in patients who undergo tissue or organ transplantation. The Swiss company earns more than $1 billion a year for production of cyclosporine A, yet Norway receives nothing in return—no payment to the government or benefit for the Norwegian people. Despite the fact the cyclosporine A saves numerous lives, many consider the means by which the soil samples were obtained to be an act of “biopiracy,” essentially a form of theft. Do the ends justify the means in a case like this?</para>
+<para id="fs-id1172098382918">Nature is full of as-yet-undiscovered bacteria and other microorganisms that could one day be used to develop new life-saving drugs or treatments.<footnote id="fs-id1172098523553">J. Andre. <emphasis effect="italics">Bioethics as Practice</emphasis>. Chapel Hill, NC: University of North Carolina Press, 2002.</footnote> Pharmaceutical and biotechnology companies stand to reap huge profits from such discoveries, but ethical questions remain. To whom do biological resources belong? Should companies who invest (and risk) millions of dollars in research and development be required to share revenue or royalties for the right to access biological resources?</para>
+<para id="fs-id1172098267470">Compensation is not the only issue when it comes to bioprospecting. Some communities and cultures are philosophically opposed to bioprospecting, fearing unforeseen consequences of collecting genetic or biological material. Native Hawaiians, for example, are very protective of their unique biological resources.</para>
+<para id="fs-id1172100536102">For many years, it was unclear what rights government agencies, private corporations, and citizens had when it came to collecting samples of microorganisms from public land. Then, in 1993, the Convention on Biological Diversity granted each nation the rights to any genetic and biological material found on their own land. Scientists can no longer collect samples without a prior arrangement with the land owner for compensation. This convention now ensures that companies act ethically in obtaining the samples they use to create their products.</para>
+</note>
+</section>
+</section>
+<section id="fs-id1172100651856" class="summary">
+<title>Key Concepts and Summary</title>
+<list id="fs-id1172098257697" list-type="bulleted" bullet-style="bullet">
+<item>Gram-positive bacteria are a very large and diverse group of microorganisms. Understanding their taxonomy and knowing their unique features is important for diagnostics and treatment of infectious diseases.</item>
+<item>Gram-positive bacteria are classified into <emphasis effect="bold">high G+C gram-positive</emphasis> and <emphasis effect="bold">low G+C gram-positive</emphasis> bacteria, based on the prevalence of guanine and cytosine nucleotides in their genome</item>
+<item>Actinobacteria is the taxonomic name of the class of high G+C gram-positive bacteria. This class includes the genera <emphasis effect="italics">Actinomyces, Arthrobacter, Corynebacterium, Frankia, Gardnerella, Micrococcus, Mycobacterium, Nocardia</emphasis>, <emphasis effect="italics">Propionibacterium, Rhodococcus,</emphasis> and <emphasis effect="italics">Streptomyces</emphasis>. Some representatives of these genera are used in industry; others are human or animal pathogens.</item>
+<item>Examples of high G+C gram-positive bacteria that are human pathogens include <emphasis effect="italics">Mycobacterium</emphasis> <emphasis effect="italics">tuberculosis</emphasis>, which causes tuberculosis; <emphasis effect="italics">M. leprae</emphasis>, which causes leprosy (Hansen’s disease); and <emphasis effect="italics">Corynebacterium</emphasis> <emphasis effect="italics">diphtheriae</emphasis>, which causes diphtheria.</item>
+<item><emphasis effect="italics">Clostridia</emphasis> spp. are low G+C gram-positive bacteria that are generally obligate anaerobes and can form endospores. Pathogens in this genus include <emphasis effect="italics">C.</emphasis> <emphasis effect="italics">perfringens</emphasis> (gas gangrene), <emphasis effect="italics">C. tetani</emphasis> (tetanus), and <emphasis effect="italics">C. botulinum</emphasis> (botulism).</item>
+<item>Lactobacillales include the genera <emphasis effect="italics">Enterococcus</emphasis>, <emphasis effect="italics">Lactobacillus</emphasis>, <emphasis effect="italics">Leuconostoc</emphasis>, and <emphasis effect="italics">Streptococcus. Streptococcus</emphasis> is responsible for many human diseases, including pharyngitis (strep throat), scarlet fever, rheumatic fever, glomerulonephritis, pneumonia, and other respiratory infections.</item>
+<item>Bacilli is a taxonomic class of low G+C gram-positive bacteria that include rod-shaped and coccus-shaped species, including the genera <emphasis effect="italics">Bacillus</emphasis> and <emphasis effect="italics">Staphylococcus</emphasis>. <emphasis effect="italics">B. anthracis</emphasis> causes anthrax, <emphasis effect="italics">B. cereus</emphasis> may cause opportunistic infections of the gastrointestinal tract, and <emphasis effect="italics">S.</emphasis> <emphasis effect="italics">aureus</emphasis> strains can cause a wide range of infections and diseases, many of which are highly resistant to antibiotics.</item>
+<item><emphasis effect="italics">Mycoplasma</emphasis> spp. are very small, <emphasis effect="bold">pleomorphic</emphasis> low G+C gram-positive bacteria that lack cell walls. <emphasis effect="italics">M. pneumoniae</emphasis> causes atypical pneumonia.</item>
+</list>
+</section>
+<section id="fs-id1172098516706" class="multiple-choice">
+<title>Multiple Choice</title>
+<exercise id="fs-id1172100813972">
+<problem id="fs-id1172100813975">
+<para id="fs-id1172100910369">Which of the following bacterial species is classified as high G+C gram-positive?</para>
+<list id="fs-id1172100910373" list-type="enumerated" number-style="upper-alpha">
+<item><emphasis effect="italics">Corynebacterium diphtheriae</emphasis></item>
+<item><emphasis effect="italics">Staphylococcus aureus</emphasis></item>
+<item><emphasis effect="italics">Bacillus anthracis</emphasis></item>
+<item><emphasis effect="italics">Streptococcus pneumonia</emphasis></item>
+</list>
+</problem>
+<solution id="fs-id1172100617625">
+<para id="fs-id1172100664262">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172100946828" class="fill-in-the-blank">
+<title>Fill in the Blank</title>
+<exercise id="fs-id1172098269558">
+<problem id="fs-id1172098393645">
+<para id="fs-id1172098393647"><emphasis effect="italics">Streptococcus</emphasis> is the ________ of bacteria that is responsible for many human diseases.</para>
+</problem>
+<solution id="fs-id1172098457019">
+<para id="fs-id1172100830707">genus</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098319203">
+<problem id="fs-id1172098319205">
+<para id="fs-id1172098421914">One species of <emphasis effect="italics">Streptococcus</emphasis>, <emphasis effect="italics">S</emphasis>. <emphasis effect="italics">pyogenes</emphasis>, is a classified as a ________ pathogen due to the characteristic production of pus in infections it causes.</para>
+</problem>
+<solution id="fs-id1172098320543">
+<para id="fs-id1172098320545">pyogenic</para>
+</solution>
+</exercise>
+<exercise id="fs-id1172098465068">
+<problem id="fs-id1172098465070">
+<para id="fs-id1172100527853"><emphasis effect="italics">Propionibacterium</emphasis> belongs to ________ G+C gram-positive bacteria. One of its species is used in the food industry and another causes acne.</para>
+</problem>
+<solution id="fs-id1172101033770">
+<para id="fs-id1172101033772">high</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1172098628827" class="short-answer">
+<title>Short Answer</title>
+<exercise id="fs-id1172101006700">
+<problem id="fs-id1172101006702">
+<para id="fs-id1172100547152">Name and describe two types of <emphasis effect="italics">S. aureus</emphasis> that show multiple antibiotic resistance.</para>
+</problem>
+</exercise>
+</section>
+<section id="fs-id1172100969743" class="critical-thinking">
+<title>Critical Thinking</title>
+<exercise id="fs-id1172100656345">
+<problem id="fs-id1172100656348">
+<para id="fs-id1172098465087">The microscopic growth pattern shown is characteristic of which genus of bacteria?</para>
+<figure id="OSC_Microbio_04_04_ArtConn2_img">
+<media id="fs-id1172100969357" alt="A micrograph  showing clusters of spherical cells.">
+<image mime-type="image/jpeg" src="../../media/OSC_Microbio_04_04_ArtConn2_img.jpg"/>
+</media>
+<caption>(credit: modification of work by Janice Haney Carr/Centers for Disease Control and Prevention)</caption>
+</figure>
+</problem>
+</exercise>
+</section>
+ </content>
+</document>
