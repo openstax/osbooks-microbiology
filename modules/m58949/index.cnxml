@@ -25,7 +25,7 @@
 <row valign="top">
 <entry valign="top" align="left">Class</entry>
 <entry valign="top" align="left">Genus</entry>
-<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Specific Epithet</entry>
 <entry valign="top" align="left">Related Diseases</entry>
 </row>
 </thead>
@@ -81,7 +81,7 @@
 <row valign="top">
 <entry valign="top" align="left">Class</entry>
 <entry valign="top" align="left">Genus</entry>
-<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Specific Epithet</entry>
 <entry valign="top" align="left">Related Diseases</entry>
 </row>
 </thead>
@@ -113,7 +113,7 @@
 <row valign="top">
 <entry valign="top" align="left">Class</entry>
 <entry valign="top" align="left">Genus</entry>
-<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Specific Epithet</entry>
 <entry valign="top" align="left">Related Diseases</entry>
 </row>
 </thead>
@@ -145,7 +145,7 @@
 <row valign="top">
 <entry valign="top" align="left">Class</entry>
 <entry valign="top" align="left">Genus</entry>
-<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Specific Epithet</entry>
 <entry valign="top" align="left">Related Diseases</entry>
 </row>
 </thead>
@@ -248,7 +248,7 @@
 <row valign="top">
 <entry valign="top" align="left">Class</entry>
 <entry valign="top" align="left">Genus</entry>
-<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Specific Epithet</entry>
 <entry valign="top" align="left">Related Diseases</entry>
 </row>
 </thead>
@@ -280,7 +280,7 @@
 <row valign="top">
 <entry valign="top" align="left">Class</entry>
 <entry valign="top" align="left">Genus</entry>
-<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Specific Epithet</entry>
 <entry valign="top" align="left">Related Diseases</entry>
 </row>
 </thead>
@@ -540,7 +540,7 @@
 <row valign="top">
 <entry valign="top" align="left">Class</entry>
 <entry valign="top" align="left">Genus</entry>
-<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Specific Epithet</entry>
 <entry valign="top" align="left">Related Diseases</entry>
 </row>
 </thead>
@@ -587,7 +587,7 @@
 <row valign="top">
 <entry valign="top" align="left">Class</entry>
 <entry valign="top" align="left">Genus</entry>
-<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Specific Epithet</entry>
 <entry valign="top" align="left">Related Diseases</entry>
 </row>
 </thead>
@@ -647,7 +647,7 @@
 <row valign="top">
 <entry valign="top" align="left">Division</entry>
 <entry valign="top" align="left">Genus</entry>
-<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Specific Epithet</entry>
 <entry valign="top" align="left">Related Diseases</entry>
 </row>
 </thead>
@@ -750,7 +750,7 @@
 <row valign="top">
 <entry valign="top" align="left">Phylum</entry>
 <entry valign="top" align="left">Genus</entry>
-<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Specific Epithet</entry>
 <entry valign="top" align="left">Related Diseases</entry>
 </row>
 </thead>
@@ -782,7 +782,7 @@
 <row valign="top">
 <entry valign="top" align="left">Phylum</entry>
 <entry valign="top" align="left">Genus</entry>
-<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Specific Epithet</entry>
 <entry valign="top" align="left">Related Diseases</entry>
 </row>
 </thead>
@@ -854,7 +854,7 @@
 <row valign="top">
 <entry valign="top" align="left">Phylum</entry>
 <entry valign="top" align="left">Genus</entry>
-<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Specific Epithet</entry>
 <entry valign="top" align="left">Related Diseases</entry>
 </row>
 </thead>
@@ -922,7 +922,7 @@
 <row valign="top">
 <entry valign="top" align="left">Class</entry>
 <entry valign="top" align="left">Genus</entry>
-<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Specific Epithet</entry>
 <entry valign="top" align="left">Related Diseases</entry>
 </row>
 </thead>
@@ -990,7 +990,7 @@
 <row valign="top">
 <entry valign="top" align="left">Class</entry>
 <entry valign="top" align="left">Genus</entry>
-<entry valign="top" align="left">Species</entry>
+<entry valign="top" align="left">Specific Epithet</entry>
 <entry valign="top" align="left">Related Diseases</entry>
 </row>
 </thead>
