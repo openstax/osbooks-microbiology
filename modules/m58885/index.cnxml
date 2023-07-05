@@ -89,8 +89,8 @@
 <problem id="fs-id1167660180484">
 <para id="fs-id1167662486276">MHC I molecules present</para>
 <list id="fs-id1167662800300" list-type="enumerated" number-style="lower-alpha">
-<item>processed foreign antigens from proteasomes.</item>
-<item>processed self-antigens from phagolysosome.</item>
+<item>processed self-antigens from proteasomes.</item>
+<item>processed foreign antigens from phagolysosome.</item>
 <item>antibodies.</item>
 <item>T cell antigens.</item>
 </list>
