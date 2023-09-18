@@ -66,6 +66,18 @@
 <item>What does a positive in-use test indicate?</item>
 </list>
 </note>
+<section id="sect-00001">
+  <title>New Methods to Overcome Specific Challenges</title>
+<para id="para-00001">    
+    Some pathogens have characteristics that make disinfectant efficacy difficult to prove. Human pappiloma virus (HPV), for example, cannot be cultured, so the previously described methods do not work. And since HPV's protein-only capsid enables it to survive on surfaces for an extended period of time, medical professionals rely on disinfectants to ensure the virus doesn't spread through facilities or equipment. 
+</para>
+<para id="para-00002">
+    New Mexico State University's Michelle Ozbun, one of the foremost experts on HPV, developed a method to quantify (count) live virus on surfaces outside the body. The typical method for counting viruses like HPV is to grind up infected cells and measure the amount of viral DNA, but this method is imprecise and does not demonstrate the scope of the infection. To test the disinfectant's live virus was required. Instead of grinding up infected cells, Ozbun applied a stain that only attaches to viral RNA.
+</para>
+<para id="para-00003">
+    Using advanced microscopy, the quantities of infected cells can be determined with great accuracy. For the HVP disinfectant testing, Ozbun and her team applied various disinfectants to three HPV from three sources, and determined that the chemicals reduced the amount of virus by 10,000 times. This technique can be used for disinfectant testing for other protein-capsid viruses (like norovirus and poliovirus) and to produce accurate viral counting for other research or clinical applications. 
+</para>
+</section>
 <note id="fs-id1167583850472" class="microbiology clinical-focus">
 <title>Resolution</title>
 <para id="fs-id1167584881797">Despite antibiotic treatment, Roberta’s symptoms worsened. She developed <term class="no-emphasis" id="term-00015">pyelonephritis</term>, a severe kidney infection, and was rehospitalized in the intensive care unit (ICU). Her condition continued to deteriorate, and she developed symptoms of <term class="no-emphasis" id="term-00016">septic shock</term>. At this point, her physician ordered a culture from her urine to determine the exact cause of her infection, as well as a drug sensitivity test to determine what antibiotics would be effective against the causative bacterium. The results of this test indicated resistance to a wide range of antibiotics, including the carbapenems, a class of antibiotics that are used as the last resort for many types of bacterial infections. This was an alarming outcome, suggesting that Roberta’s infection was caused by a so-called <term class="no-emphasis" id="term-00017">superbug</term>: a bacterial strain that has developed resistance to the majority of commonly used antibiotics. In this case, the causative agent belonged to the <term class="no-emphasis" id="term-00018">carbapenem-resistant Enterobacteriaceae (CRE)</term>, a drug-resistant family of bacteria normally found in the digestive system (<link target-id="OSC_Microbio_13_04_CRE"/>). When CRE is introduced to other body systems, as might occur through improperly cleaned surgical instruments, catheters, or endoscopes, aggressive infections can occur.</para>
