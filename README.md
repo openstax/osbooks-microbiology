@@ -7,7 +7,7 @@ _Microbiology_ is a textbook published by [OpenStax](https://openstax.org/), a n
 The book can be viewed [online](https://openstax.org/details/books/microbiology), where you can also see a list of contributors.
 
 ## License
-_Microbiology_ is available under the [Creative Commons Attribution License](./LICENSE) license.
+_Microbiology_ is available under the [Creative Commons Attribution-NonCommercial-ShareAlike License](./LICENSE) license.
 
 ## Support
 If you would like to support the creation of free textbooks for students, your [donations are welcome](https://riceconnect.rice.edu/donation/support-openstax-banner).
